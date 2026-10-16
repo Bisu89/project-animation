@@ -1,7 +1,51 @@
 # HANDOFF: where the work stands (read this first after a session clear)
 
-Last updated: 2026-10-15. Repo: `C:\Users\hoavx\Desktop\stickman-video` (git `main`, **nothing from this session is committed yet**:
-engine additions, `content/` and `demo-project/` are all untracked/modified).
+Last updated: 2026-10-16. Repo: `C:\Users\hoavx\Desktop\stickman-video`. Everything up to the survival work is committed and pushed
+(see section 0). The older sections below (1-8) describe the earlier sessions and are still accurate unless section 0 says otherwise.
+
+## 0. LATEST STATE (2026-10-16) — read this section first
+
+### Git / remotes
+- `origin` = `nispa/stickman-video` (original skill repo, do not push there). `project-animation` = `https://github.com/Bisu89/project-animation.git`
+  (the user's repo; `main` tracks it, plain `git push` goes there). Videos are NOT pushed (`*.mp4/*.wav/*.mp3` are git-ignored; do not force-add them, the user said no).
+  `content/samurai-analysis/` (frames from someone else's video) is deliberately not committed.
+- A fresh clone has no music/sfx: run `python scripts/gen_audio.py --out demo-project/public/<slug> --plan "tense:12"`.
+- Environment: Windows, Git Bash. Network now works (edge-tts, WebFetch). Use the **Write tool for python/js helper files** instead of long bash heredocs
+  (a heredoc with backticks/quotes broke the shell twice). `npx tsc --noEmit` before every render; `noUnusedLocals` is on.
+- The auto-mode classifier blocked `git push` once; a later push worked after the user asked again. If blocked, stop and tell the user.
+
+### What exists (all under `demo-project/`, composition id -> folder -> render)
+| Composition | Folder | What |
+|---|---|---|
+| `Agincourt` | `src/agincourt/` | 6-scene, 70 s pilot (S01-S06), shared `Field.tsx` backdrop, `Roles.tsx` (archer/men-at-arms/commanders), static crowd PNGs `public/agincourt/far.png, mid.png` (re-render with `npx remotion still AgincourtFar ...`). Docs in `docs/history-pipeline/` (audit, roadmap, historical notes with sourced numbers, `visual-pass-report.md`). |
+| `SurvivalTest` | `src/survival-test/` | 12 s chase: survivor runs to a mall, rolling grille closes behind him, zombies bang on it. Reusable files: `gait.ts` (ground-locked run: phase from distance + two-bone IK, measured ~0.02 px/frame foot slide), `Figures.tsx` (SURVIVOR preset, `Backpack`, `Pursuer`, `Zombie`, `ZombieDress`, `ZombieJacket`, `DistantRunner`), `World.tsx` (sky, parallax skylines, street, `MallFront`, see-through `Shutter` grille), `S01Chase.tsx` (timeline: beats and camera keys are all in this file's header comment). |
+| `ZombieWalk` | `src/zombie-walk/` | 10 s test of 7 shambling zombies (`Zombie` component). |
+Render: `cd demo-project && npx remotion render <Id> out/<name>.mp4`; sheet: `node stickman-sheet.mjs <Id> out/x.png <frames...>`; check: `python ../scripts/check_render.py out/x.mp4`.
+Previous renders kept locally for comparison (not in git): `out/survival-test-v1.mp4`, `-v2.mp4`.
+
+### Engine additions this session (assets/engine/, synced to `src/stickman/` with `python scripts/setup_project.py --dir demo-project --update-engine --no-install`)
+`BigHead` hair `kettle`/`bascinet`, `crest`, `eyes:"dot"`, emotion `stern`; `Preset.head` (size multiplier), `eyes`, `crest`; `ArrowVolley` one-shot (`at`, `stagger`);
+`Bow` (`pull`). All additive: CastDemo/HorseDemo/BigheadDemo re-rendered pixel-identical. Documented in `references/engine-api.md`.
+
+### Voice
+`scripts/gen_voice.py` (edge-tts, cloned from AI-Marketing-Factory `backend/app/modules/voice/providers.py`): one request per sentence, spliced with real gaps,
+trimmed to the last word, retries, per-sentence cache. `python scripts/gen_voice.py --script s.md --out demo-project/public/<slug> --timeline-out demo-project/src/<slug>`
+writes `voice.wav`, `voice.srt` and the timeline (real timings, no whisper needed); render with `--props='{"voice":"voice.wav"}'`. Needs `edge-tts>=7.3.1`
+(7.2.8 gave HTTP 403; installed 7.3.1 in the user Python; not yet in `requirements.txt`). SAPI/local TTS was not cloned (pywin32 deadlock issues).
+
+### Decisions / preferences
+- The user chats in Vietnamese: reply in Vietnamese, keep video text English for the survival series. Auto mode: act, but they interrupt when a big compound command is wrong; prefer small steps.
+- Zombies: the user wants the look of the classic cartoon zombie reference image (big head, bulging eyes, open mouth, brown jacket, tie, jeans, shoes, hunched, arms out) **without the hat variants**.
+  It is our own vector drawing (no PNG). We stop short of copying the game's characters exactly (copyright for a YouTube channel); say so if asked to go closer. Not done yet: crawler zombie, missing-arm variant, soft shading.
+- Style rules for the history/survival series: serious tone, small heads (`head: 0.8`), dot eyes, no comic fonts/bursts, restrained cuts (dip to black).
+
+### Open items / next steps
+1. **Survival series**: the user's approved English narration (8 scenes: Clock Starts, First Mistake, Trap, Three Rules, Wrong House, Last Hour, First Night, Day Two) has NOT been provided yet. Next: get it, run `gen_voice.py`, then animatic of scenes 1-2. Priority animation scenes: street panic, mall run, stairwell (backpack caught on railing), house door handle + window shadow, night flashlight/door shake, dawn walk to bridge. Gaps in the engine: door with open/close state, flashlight beam, stairs/railing, smooth turn-around (facing flips instantly), footstep sfx.
+2. SurvivalTest leftovers: survivor's face is pale under the bars, first two zombies overlap at the grille, survivor never turns to look at them.
+3. Agincourt leftovers: no voiceover; scene 5 duels read as one cluster; bow strings cross archers' faces.
+4. Add `edge-tts>=7.3.1` to `requirements.txt`; maybe add `renders/` to `.gitignore`.
+5. Remotion license (verified 2026-10-16 from github.com/remotion-dev/remotion LICENSE.md): free for individuals and for-profit orgs up to 3 employees; larger companies need a paid license. Re-check before commercial use.
+
 
 ## 1. What this repo is
 A Claude Code skill (`SKILL.md`, `README.md`) that makes animated explainer videos with Remotion: stick-figure engine

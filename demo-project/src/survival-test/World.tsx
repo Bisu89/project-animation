@@ -18,7 +18,7 @@ export const Sky: React.FC = () => (
         <stop offset="1" stopColor="#c4b49d" />
       </linearGradient>
     </defs>
-    <rect x={0} y={0} width={1920} height={1080} fill="url(#sv-sky)" />
+    <rect x={-1200} y={-700} width={4400} height={2400} fill="url(#sv-sky)" />
   </>
 );
 
@@ -78,7 +78,19 @@ export const MallFront: React.FC = () => (
     ))}
     <rect x={DOOR_X0 - 20} y={DOOR_TOP - 20} width={DOOR_X1 - DOOR_X0 + 40} height={FLOOR - DOOR_TOP + 20} fill="#4f5762" />
     <rect x={DOOR_X0} y={DOOR_TOP} width={DOOR_X1 - DOOR_X0} height={FLOOR - DOOR_TOP} fill="url(#sv-inside)" />
-    <ellipse cx={DOOR_CX} cy={FLOOR - 6} rx={120} ry={14} fill="#c7a86a" opacity={0.28} />
+    <polygon points={`${DOOR_X0},${FLOOR - 40} ${DOOR_X1},${FLOOR - 40} ${DOOR_X1},${FLOOR} ${DOOR_X0},${FLOOR}`} fill="#3a3830" />
+    {[DOOR_X0 + 22, DOOR_X0 + 196].map((x) => (
+      <g key={x}>
+        <rect x={x} y={DOOR_TOP + 130} width={42} height={FLOOR - 40 - DOOR_TOP - 130} fill="#232a32" />
+        {[0, 1, 2].map((k) => (
+          <rect key={k} x={x} y={DOOR_TOP + 160 + k * 70} width={42} height={5} fill="#3d4651" />
+        ))}
+      </g>
+    ))}
+    {/* ceiling lamp over the right half of the entrance: the survivor ends up in this light */}
+    <polygon points={`${DOOR_X1 - 105},${DOOR_TOP + 14} ${DOOR_X1 - 25},${DOOR_TOP + 14} ${DOOR_X1 + 6},${FLOOR - 40} ${DOOR_X1 - 150},${FLOOR - 40}`} fill="#e6d9a8" opacity={0.2} />
+    <ellipse cx={DOOR_X1 - 66} cy={FLOOR - 44} rx={78} ry={11} fill="#d8c48a" opacity={0.3} />
+    <rect x={DOOR_X1 - 105} y={DOOR_TOP + 6} width={80} height={8} rx={4} fill="#f0e4b0" opacity={0.85} />
     <rect x={DOOR_X0 - 40} y={438} width={DOOR_X1 - DOOR_X0 + 80} height={46} fill="#2f353d" />
     <text x={DOOR_CX} y={473} textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={34} letterSpacing={8} fill="#d9d4c4">
       CENTRAL MALL
@@ -87,16 +99,22 @@ export const MallFront: React.FC = () => (
 );
 
 // roller shutter coming down in the doorway: `p` 0 = open, 1 = shut
+// rolling security grille coming down in the doorway (`p` 0 = open, 1 = shut). Bars and rails only, so the
+// interior and the survivor stay visible behind it; zombies on the street side grab the bars.
 export const Shutter: React.FC<{ p: number }> = ({ p }) => {
   const bottom = DOOR_TOP + (FLOOR - DOOR_TOP) * p;
+  const bars = Math.round((DOOR_X1 - DOOR_X0) / 20);
   return (
     <g>
       <rect x={DOOR_X0 - 14} y={DOOR_TOP - 22} width={DOOR_X1 - DOOR_X0 + 28} height={24} fill="#3d444d" />
       {p > 0.002 && (
         <>
-          <rect x={DOOR_X0} y={DOOR_TOP} width={DOOR_X1 - DOOR_X0} height={bottom - DOOR_TOP} fill="#9097a0" />
-          {Array.from({ length: Math.floor((bottom - DOOR_TOP) / 14) }).map((_, i) => (
-            <line key={i} x1={DOOR_X0} y1={DOOR_TOP + 14 * (i + 1)} x2={DOOR_X1} y2={DOOR_TOP + 14 * (i + 1)} stroke="#6f767f" strokeWidth={2} />
+          <rect x={DOOR_X0} y={DOOR_TOP} width={DOOR_X1 - DOOR_X0} height={bottom - DOOR_TOP} fill="#7f8791" opacity={0.18} />
+          {Array.from({ length: bars + 1 }).map((_, i) => (
+            <line key={i} x1={DOOR_X0 + i * 20} y1={DOOR_TOP} x2={DOOR_X0 + i * 20} y2={bottom} stroke="#8d95a0" strokeWidth={4} />
+          ))}
+          {Array.from({ length: Math.floor((bottom - DOOR_TOP) / 64) }).map((_, i) => (
+            <line key={`r${i}`} x1={DOOR_X0} y1={DOOR_TOP + 64 * (i + 1)} x2={DOOR_X1} y2={DOOR_TOP + 64 * (i + 1)} stroke="#6f767f" strokeWidth={5} />
           ))}
           <rect x={DOOR_X0} y={bottom - 10} width={DOOR_X1 - DOOR_X0} height={10} fill="#474e57" stroke={COL.ink} strokeWidth={2} />
         </>

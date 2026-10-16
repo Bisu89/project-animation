@@ -22,7 +22,7 @@ const leg = (fx: number, fy: number) => {
   return { a1: deg(a0 + A), a2: -deg(A + B) };
 };
 
-export type GaitOpts = { stride: number; lift?: number; lean?: number; arm?: number };
+export type GaitOpts = { stride: number; lift?: number; lean?: number; arm?: number; crouch?: number };
 export type Gait = { pose: Partial<Pose>; hipH: number };
 
 // d = distance travelled (world px), s = character scale, stride = world px per full cycle (left + right step)
@@ -40,14 +40,14 @@ export const groundedRun = (d: number, s: number, o: GaitOpts): Gait => {
   const L = foot(uL);
   const R = foot(uR);
   const st = uL < 0.5 ? L : R;
-  const hipH = Math.sqrt(Math.max(LMAX * LMAX - st.x * st.x, 40 * 40));
+  const hipH = Math.sqrt(Math.max(LMAX * LMAX - st.x * st.x, 40 * 40)) * (1 - (o.crouch ?? 0));
   const l = leg(L.x, hipH - L.up);
   const r = leg(R.x, hipH - R.up);
   const fL = L.x / (Su / 4);
   const arm = o.arm ?? 45;
   return {
     hipH,
-    pose: { ll1: l.a1, ll2: l.a2, rl1: r.a1, rl2: r.a2, la1: -arm * fL, la2: -70, ra1: arm * fL, ra2: -70, lean: o.lean ?? 12 },
+    pose: { ll1: l.a1, ll2: l.a2, rl1: r.a1, rl2: r.a2, la1: -arm * fL, la2: 75, ra1: arm * fL, ra2: 75, lean: (o.lean ?? 12) + (o.crouch ?? 0) * 70 },
   };
 };
 
