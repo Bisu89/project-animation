@@ -32,3 +32,7 @@ desktop.ini
 # Local secrets
 .env
 .env.*
+
+# placeholder/AI pictures for the survival episodes (large, generated locally)
+demo-project/public/zs-ep*/images/
+demo-project/public/zs-ep*/.voice_cache/

@@ -1,88 +1,57 @@
 import React from "react";
 import { AbsoluteFill, Audio, Sequence, interpolate, staticFile } from "remotion";
-import { COL } from "../stickman/fx";
-import { Captions, ChapterCard } from "../stickman/common";
-import { CARD, SfxCue } from "./sfx";
+import { Captions } from "../stickman/common";
 import { TIMELINE } from "./timeline";
-import { S01ClockStarts, S01_SFX } from "./S01ClockStarts";
+import { cueStart } from "./cues";
+import { SCENE_SPECS } from "./scenes";
+import { KenBurns } from "./KenBurns";
 
-// Folder in public/ with music.mp3, sfx/*.wav and (optionally) the voiceover.
+// Image-driven episode: one picture per narration block (public/<ASSETS>/images/sceneNN.png, listed in
+// content/<slug>/scenes.csv), a smooth zoom/pan per picture, light ambient fx, the narrator and burned-in
+// subtitles. Scenes start on narration cues, so a re-recorded voice re-times everything.
 const ASSETS = "zs-ep01";
-
-export type SceneProps = { from: number; dur: number };
-type Scene = { c: React.FC<SceneProps>; from: number; sfx?: SfxCue[] };
-
-const chapter = (n: string, title: string, sub: string, from: number): Scene => ({
-  c: ({ dur }) => <ChapterCard n={n} title={title} sub={sub} dur={dur} />,
-  from,
-  sfx: CARD,
-});
-
-// Each scene lasts until the next one starts.
-// WITH a voiceover: start scenes on timeline frames (a cue's startFrame) so the picture
-// stays in sync with the voice. WITHOUT a voiceover: pick the starts freely (pacing is
-// set by the animation and the on-screen text) and set DURATION below.
-export const SCENES: Scene[] = [
-  { c: S01ClockStarts, from: 0, sfx: S01_SFX },
-  // chapter("CHAPTER 1", "Title", "subtitle", TIMELINE.chapters[0].startFrame),
-];
-
-// With a voiceover this must stay = the narration length. Without one, use the end of the last scene.
-export const DURATION = TIMELINE.durationInFrames;
+const OVERLAP = 12; // frames of cross-dissolve between pictures
 
 export type VideoProps = {
   music: number; // music volume (0-1)
-  sfx: number; // sound-effects volume (0-1)
-  voice: string; // voiceover file name inside public/<ASSETS>/ ("" = none)
+  sfx: number; // kept for the shared props shape
+  voice: string; // narration file inside public/<ASSETS>/ ("" = none)
   captions: boolean; // burn the narration in as subtitles
 };
+
+export const DURATION = TIMELINE.durationInFrames;
+
+const starts = SCENE_SPECS.map((s, i) => (i === 0 ? 0 : cueStart(s.firstCue) - Math.floor(OVERLAP / 2)));
 
 // music ducking: lower the music while the narrator speaks
 const duck = (f: number) => {
   let g = 1;
   for (const c of TIMELINE.cues) {
     if (f < c.startFrame - 10) break;
-    g = Math.min(
-      g,
-      interpolate(f, [c.startFrame - 8, c.startFrame, c.endFrame, c.endFrame + 10], [1, 0.4, 0.4, 1], {
-        extrapolateLeft: "clamp",
-        extrapolateRight: "clamp",
-      }),
-    );
+    g = Math.min(g, interpolate(f, [c.startFrame - 8, c.startFrame, c.endFrame, c.endFrame + 10], [1, 0.3, 0.3, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }));
   }
   return g;
 };
 
-export const Video: React.FC<VideoProps> = ({ music, sfx, voice, captions }) => {
+export const Video: React.FC<VideoProps> = ({ music, voice, captions }) => {
   return (
-    <AbsoluteFill style={{ background: COL.paper }}>
+    <AbsoluteFill style={{ background: "#07090c" }}>
       <Audio
         src={staticFile(`${ASSETS}/music.mp3`)}
-        volume={(f) =>
-          music *
-          (voice ? duck(f) : 1) *
-          interpolate(f, [0, 10, DURATION - 45, DURATION], [0, 1, 1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })
-        }
+        volume={(f) => music * (voice ? duck(f) : 1) * interpolate(f, [0, 20, DURATION - 60, DURATION], [0, 1, 1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })}
       />
       {voice && <Audio src={staticFile(`${ASSETS}/${voice}`)} />}
-      {SCENES.map(({ c: C, from, sfx: cues }, i) => {
-        const dur = (SCENES[i + 1]?.from ?? DURATION) - from;
+      {SCENE_SPECS.map((s, i) => {
+        const from = starts[i];
+        const end = i + 1 < SCENE_SPECS.length ? starts[i + 1] + OVERLAP : DURATION;
+        const dur = end - from;
         return (
-          <Sequence key={i} from={from} durationInFrames={dur}>
-            <C from={from} dur={dur} />
-            {cues?.map(([f, name, v = 1], k) => (
-              <Sequence key={k} from={f} layout="none">
-                {/* eslint-disable-next-line @remotion/volume-callback -- constant per-effect volume */}
-                <Audio src={staticFile(`${ASSETS}/sfx/${name}.wav`)} volume={v * sfx} />
-              </Sequence>
-            ))}
+          <Sequence key={s.i} from={from} durationInFrames={dur}>
+            <KenBurns src={`${ASSETS}/images/${s.image}`} dur={dur} motion={s.motion} fx={s.fx} fade={i === 0 ? 1 : OVERLAP} seed={s.image} />
           </Sequence>
         );
       })}
-      {captions && <Captions cues={TIMELINE.cues} />}
+      {captions && <Captions cues={TIMELINE.cues} bottom={70} size={44} />}
     </AbsoluteFill>
   );
 };
-
-// keep the helper referenced until the first chapter is added
-export const _chapter = chapter;

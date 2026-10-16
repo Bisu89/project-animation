@@ -117,7 +117,7 @@ export const RemotionRoot: React.FC = () => {
         fps={30}
         width={1920}
         height={1080}
-        defaultProps={{ music: 0.35, sfx: 0.8, voice: "", captions: false }}
+        defaultProps={{ music: 0.25, sfx: 0.8, voice: "voice.wav", captions: true }}
       />
       {/* stickman-video:compositions */}
     </>

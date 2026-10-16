@@ -1,0 +1,47 @@
+# one line per image scene, in order:  fx | description     (fx: none rain wind flicker dust)
+flicker | Extreme close-up of a smartphone in a dark bedroom at dawn, the screen glowing red with a big warning symbol, a hand reaching for it, faint grey window light behind.
+none | Wide view from inside a dark apartment through a big window: a grey dawn city street below, a few tiny figures running, one car stopped crooked, the survivor's silhouette in the foreground looking out.
+none | Close portrait of the survivor in the half-dark, reading the phone, lit by its cold glow, worried stern face, small brown backpack strap visible on the shoulder.
+dust | From the window: street panic, many tiny stick figures running in the same direction, abandoned cars, a man carrying shoes, hazy dawn light, a few distant slow zombies at the far end of the block.
+none | The survivor turning from the window toward the camera, resolved but afraid, the city glowing grey behind him through the glass.
+flicker | Top-down view of a table: backpack open, two water bottles, two snack bars, a flashlight and a phone laid out ready, a hand putting the last item in.
+none | The survivor at the apartment door with the backpack on, hand on the handle, looking back at a dim empty room, a faint beam of hallway light across the floor.
+dust | Dawn street full of people running toward a big shopping mall in the distance, the survivor among them as a small figure, cars abandoned, morning haze.
+none | Wide front view of a large shopping mall with bright lit glass doors and a security guard, a stream of tiny people heading in, the sky dull grey.
+dust | The mall entrance as a narrow funnel: a dense crowd squeezed through two doors, arms raised, faces small and tense, glass reflections, noise lines kept out, calm grading.
+flicker | Inside the mall: chaotic atrium, a man shouting from a balcony, people scattering, the survivor grabbing water and cans at a half-open kiosk shutter.
+none | The survivor standing in the middle of the mall crowd, small, not looking at the exit signs, a map board nobody reads, shoppers blurred around him.
+dust | Wide shot of the mall front seen from outside: shouting people, a smashed glass door, heads turning toward the sound, a hint of slow grey figures entering from the far side.
+flicker | Upper level of the mall: a surge of people running toward a narrow stairwell, red emergency light, one fallen bag on the floor.
+none | A crowded narrow stairwell seen from above, shoulders and bags jammed together, a metal handrail down the middle, panic in the posture of the crowd.
+flicker | Close shot: the survivor's backpack strap snagged on the metal railing, his arm twisted, the crowd pushing past, a grey shape rising on the stairs below.
+none | The survivor slipping out of one strap and pulling the bag free, his palm scraped red against the rail, motion of a torn-off moment, tense.
+none | A landing with a grey door marked STAFF ONLY, the survivor's hand pushing it open, a cold corridor beyond.
+dust | A dim service corridor and a ramp leading to a loading dock door, daylight spilling in at the far end, the survivor hurrying quietly.
+none | A quiet loading dock: the survivor sitting between two green dumpsters holding his bleeding hand, the mall roar far away, pale morning light.
+none | The survivor behind the dumpster typing on his phone with one thumb, a bandaged palm, cold screen light on his face.
+none | Phone screen close-up in his hand: a short note with three lines of text blurred into simple bars, the dumpster edge and street behind.
+none | Behind the dumpster looking out at a long empty street, a few slow grey figures drifting toward a far-off ringing alarm, tiny and patient.
+wind | Wide shot of the street from the survivor's cover: zombies drifting toward a distant alarm like water to a low place, the survivor's hand on the dumpster in the foreground.
+none | Quiet suburban street in late afternoon, empty cars, closed curtains, a long row of houses, golden-grey light.
+none | A house with its front door open a hand's width, the wooden frame around the lock splintered outwards, dark inside.
+flicker | Close shot of the door handle slowly turning down and back up on its own, the survivor frozen two metres away.
+none | Upstairs window of the house with a dark shadow crossing the glass, seen from the street, the survivor tiny in the foreground.
+none | The survivor backing away step by step, hands tight on his backpack straps, the house behind a hedge, the road empty.
+none | The survivor behind a hedge looking back at the house, breathing out, evening light, a long breath he is not allowed to let out loud.
+none | Golden-orange dusk over rooftops, the survivor standing on a rise thinking, three marked options far apart.
+none | A concrete parking garage open on all sides, many entrances and dark ramps, a few dim lights, echo implied, cars abandoned.
+none | A six-storey apartment block with a single stairwell door, a metal railing glimpse, grey wall, the survivor looking up at it with dislike.
+dust | A small utility building behind a row of shops: one steel door at the front, a narrow service hatch at the rear, no windows, oil stains, dusk.
+none | The survivor pressed against the steel door listening with his ear to the metal, counting on his fingers, quiet lane around.
+none | The survivor easing the steel door shut from inside, hand on the latch, a thin line of dusk light disappearing.
+rain | The city at night with the power gone, utterly dark apart from faint starlight, the utility building a small black shape in a lane.
+none | Inside the pitch-black utility room, the survivor sitting with his back against a wall opposite the door, a pale hatch in the wall behind his shoulder, a weak outline of the flashlight in his hand.
+flicker | A narrow flashlight beam cutting through the dark room for a moment, showing the steel door and dust, the survivor's wide eyes.
+flicker | The steel door shaking as hands push from outside, grey fingers visible at the edge of the frame, the survivor flat against the far wall.
+none | The survivor crouched at the back hatch holding the lever with one hand and his other hand pressed over his mouth, door pounding in the background.
+none | The same crouched survivor later, the pounding thinned out, a faint grey light at the hatch's edge, utter stillness.
+none | Dawn in a small yard seen through the hatch opened a finger's width: grey light, empty ground, a lone crow.
+flicker | Close shot of the phone in his hand showing a flat automated message in a plain box, text blurred into bars, a small bridge icon, morning light on his tired face.
+none | The survivor looking at the phone with tired eyes and a hopeful half-expression, the message glow on his cheek.
+dust | The survivor stepping out of the utility building into the cold dawn street, backpack on, a long empty road toward a faint river line in the distance.
