@@ -187,3 +187,115 @@ export const Flag: React.FC<{ colors: string[]; label?: string; vertical?: boole
     )}
   </g>
 );
+
+// held weapons: centred on the grip, pointing up (rotate with <At r>)
+export const Sword: React.FC = () => (
+  <g>
+    <rect x={-4} y={-100} width={8} height={96} fill="#d9d9d9" stroke={COL.ink} strokeWidth={4} strokeLinejoin="round" />
+    <polygon points="-4,-100 4,-100 0,-116" fill="#d9d9d9" stroke={COL.ink} strokeWidth={4} strokeLinejoin="round" />
+    <rect x={-16} y={-6} width={32} height={9} rx={3} fill={COL.gold} stroke={COL.ink} strokeWidth={4} />
+    <rect x={-4} y={3} width={8} height={20} rx={3} fill="#5a3a1e" stroke={COL.ink} strokeWidth={4} />
+  </g>
+);
+
+// rope/web line between two points, with a little sag so it reads as a line under tension
+// rather than a ruler; opacity lets you fade it in while it "shoots"
+export const WebLine: React.FC<{ x1: number; y1: number; x2: number; y2: number; sag?: number; opacity?: number; color?: string; width?: number }> = ({
+  x1,
+  y1,
+  x2,
+  y2,
+  sag = 18,
+  opacity = 1,
+  color = "#f4f4f0",
+  width = 3.5,
+}) => {
+  const mx = (x1 + x2) / 2;
+  const my = (y1 + y2) / 2 + sag;
+  return <path d={`M${x1},${y1} Q${mx},${my} ${x2},${y2}`} stroke={color} strokeWidth={width} fill="none" strokeLinecap="round" opacity={opacity} />;
+};
+
+// deterministic city-building silhouettes for a static backdrop (two calls at different
+// seed/tint/count/height give a cheap far/near parallax read without any actual scrolling):
+//   <Skyline seed={1} tint="#aab4c8" count={10} minH={200} maxH={520} /> // far
+//   <Skyline seed={2} tint="#2a2f3a" count={7} minH={320} maxH={820} windows /> // near
+export const Skyline: React.FC<{ seed?: number; tint?: string; count?: number; minH?: number; maxH?: number; width?: number; windows?: boolean }> = ({
+  seed = 0,
+  tint = "#2a2f3a",
+  count = 10,
+  minH = 260,
+  maxH = 700,
+  width = 1920,
+  windows = false,
+}) => {
+  const rnd = (i: number) => {
+    const x = Math.sin(i * 127.1 + seed * 311.7) * 43758.5453;
+    return x - Math.floor(x);
+  };
+  const cell = width / count;
+  return (
+    <g>
+      {Array.from({ length: count }).map((_, i) => {
+        const h = minH + rnd(i) * (maxH - minH);
+        const bw = cell * (0.55 + rnd(i + 50) * 0.35);
+        const x = i * cell + (cell - bw) / 2;
+        const y = 1080 - h;
+        const cols = Math.max(1, Math.floor(bw / 34));
+        const rows = Math.max(1, Math.floor(h / 40));
+        return (
+          <g key={i}>
+            <rect x={x} y={y} width={bw} height={h + 20} fill={tint} />
+            {windows &&
+              Array.from({ length: cols * rows }).map((__, k) => {
+                const c = k % cols;
+                const r = Math.floor(k / cols);
+                if (rnd(i * 97 + k) > 0.4) return null;
+                return (
+                  <rect
+                    key={k}
+                    x={x + 14 + c * (bw / cols)}
+                    y={y + 18 + r * 40}
+                    width={9}
+                    height={13}
+                    fill="#f2c96d"
+                    opacity={0.55 + rnd(i * 13 + k) * 0.35}
+                  />
+                );
+              })}
+          </g>
+        );
+      })}
+    </g>
+  );
+};
+
+export const Lance: React.FC<{ length?: number; pennant?: string }> = ({ length = 260, pennant = COL.red }) => (
+  <g>
+    <rect x={-4} y={-length} width={8} height={length + 60} rx={3} fill="#8a6a3a" stroke={COL.ink} strokeWidth={4} />
+    <polygon points={`-6,${-length} 6,${-length} 0,${-length - 30}`} fill="#d9d9d9" stroke={COL.ink} strokeWidth={4} strokeLinejoin="round" />
+    <polygon points={`4,${-length + 8} 44,${-length + 22} 4,${-length + 38}`} fill={pennant} stroke={COL.ink} strokeWidth={3} strokeLinejoin="round" />
+  </g>
+);
+
+// held longbow: centred on the grip, stave running up/down (rotate with <At r>). `drawn` pulls the
+// string back a fixed distance with a nocked arrow; `pull` = [x, y] (local coords, i.e. relative to
+// the grip, before <At s>/r) puts the string hand exactly where the draw arm's hand is, so the string
+// and arrow follow the pose. Pair with ArrowVolley (weather.tsx) for the actual flight.
+export const Bow: React.FC<{ drawn?: boolean; pull?: [number, number]; color?: string }> = ({ drawn = false, pull, color = "#8a6a3a" }) => {
+  const p: [number, number] | null = pull ?? (drawn ? [-36, 0] : null);
+  const [px, py] = p ?? [-6, 0];
+  const n = p ? Math.hypot(px, py) || 1 : 1;
+  const tip = p ? [-px / n * (n + 56), -py / n * (n + 56)] : [0, 0];
+  return (
+    <g>
+      <path d="M0,-130 Q34,0 0,130" fill="none" stroke={color} strokeWidth={9} strokeLinecap="round" />
+      <path d={`M0,-124 L${px},${py} L0,124`} fill="none" stroke={COL.ink} strokeWidth={3} />
+      {p && (
+        <g>
+          <line x1={px} y1={py} x2={tip[0]} y2={tip[1]} stroke="#d9d9d9" strokeWidth={4} strokeLinecap="round" />
+          <circle cx={tip[0]} cy={tip[1]} r={4} fill="#d9d9d9" stroke={COL.ink} strokeWidth={2} />
+        </g>
+      )}
+    </g>
+  );
+};

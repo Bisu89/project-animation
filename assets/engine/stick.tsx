@@ -124,6 +124,14 @@ export const solve = (p: Pose, s = 1, facing = 1): Joints => {
   };
 };
 
+// head's "up" direction as an angle, in degrees: orients accessories, and any custom head
+// (e.g. bighead.tsx's BigHead) rendered via Figure's `headless` + Actor's children render prop.
+export const headAngle = (j: Joints): number => {
+  const ux = (j.headC[0] - j.neck[0]) / (j.headR + 3);
+  const uy = (j.headC[1] - j.neck[1]) / (j.headR + 3);
+  return (Math.atan2(uy, ux) * 180) / Math.PI + 90;
+};
+
 export type Accessory = "tie" | "scarf" | "tophat" | "crown" | "cap" | "glasses" | "none";
 
 const pts = (...a: [number, number][]) => a.map((v) => v.join(",")).join(" ");
@@ -139,9 +147,10 @@ export const Figure: React.FC<{
   label?: string;
   labelColor?: string;
   draw?: number; // 0..1: the figure is progressively "drawn" (pencil stroke)
+  headless?: boolean; // skip the built-in circle head/face/accessory, e.g. to attach a BigHead instead
   children?: (j: Joints) => React.ReactNode;
   behind?: (j: Joints) => React.ReactNode;
-}> = ({ pose, color, scale = 1, facing = 1, accessory = "none", opacity = 1, face = "none", label, labelColor, draw = 1, children, behind }) => {
+}> = ({ pose, color, scale = 1, facing = 1, accessory = "none", opacity = 1, face = "none", label, labelColor, draw = 1, headless = false, children, behind }) => {
   const j = solve(pose, scale, facing);
   const w = 12 * scale;
   const st = {
@@ -161,10 +170,7 @@ export const Figure: React.FC<{
     dTorso = seg(0.3, 0.45),
     dArms = seg(0.45, 0.72),
     dLegs = seg(0.72, 1);
-  // head "up" direction, used to orient accessories
-  const ux = (hx - j.neck[0]) / (R + 3);
-  const uy = (hy - j.neck[1]) / (R + 3);
-  const ang = (Math.atan2(uy, ux) * 180) / Math.PI + 90;
+  const ang = headAngle(j); // head "up" direction, used to orient accessories
   return (
     <g opacity={opacity}>
       {behind?.(j)}
@@ -184,6 +190,8 @@ export const Figure: React.FC<{
           strokeLinejoin="round"
         />
       )}
+      {!headless && (
+        <>
       {draw >= 1 ? (
         <circle cx={hx} cy={hy} r={R} fill={color} />
       ) : (
@@ -247,6 +255,8 @@ export const Figure: React.FC<{
           </>
         )}
       </g>
+        </>
+      )}
       {label && (
         <text
           x={hx}
@@ -366,9 +376,10 @@ export const Actor: React.FC<{
   trails?: boolean;
   opacity?: number;
   draw?: number;
+  headless?: boolean; // skip the built-in head, e.g. to attach a BigHead (bighead.tsx) instead
   children?: (j: Joints) => React.ReactNode;
   behind?: (j: Joints) => React.ReactNode;
-}> = ({ f, keys, color, base, scale = 1, facing = 1, accessory, face = "eyes", label, mod, trails = true, opacity = 1, draw, children, behind }) => {
+}> = ({ f, keys, color, base, scale = 1, facing = 1, accessory, face = "eyes", label, mod, trails = true, opacity = 1, draw, headless, children, behind }) => {
   const b = { ...STAND, ...base };
   const get = (t: number) => {
     const p = poseAt(t, keys, b);
@@ -383,7 +394,7 @@ export const Actor: React.FC<{
       const dist = Math.hypot(g.x - now.x, g.y - now.y) + Math.abs(g.rot - now.rot) * 1.5;
       if (dist > 26) {
         ghosts.push(
-          <Figure key={d} pose={g} color={color} scale={scale} facing={fc(f - d)} opacity={(0.32 - d * 0.08) * opacity} />,
+          <Figure key={d} pose={g} color={color} scale={scale} facing={fc(f - d)} opacity={(0.32 - d * 0.08) * opacity} headless={headless} />,
         );
       }
     });
@@ -401,6 +412,7 @@ export const Actor: React.FC<{
         label={label}
         opacity={opacity}
         draw={draw}
+        headless={headless}
         behind={behind}
       >
         {children}

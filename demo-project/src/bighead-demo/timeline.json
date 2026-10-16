@@ -1,0 +1,35 @@
+{
+ "fps": 30,
+ "durationInFrames": 291,
+ "seconds": 9.7,
+ "cues": [
+  {
+   "i": 0,
+   "start": 1.0,
+   "end": 3.0,
+   "startFrame": 30,
+   "endFrame": 90,
+   "words": 6,
+   "text": "Something is moving over that hill."
+  },
+  {
+   "i": 1,
+   "start": 3.85,
+   "end": 5.517,
+   "startFrame": 116,
+   "endFrame": 166,
+   "words": 5,
+   "text": "Relax. It is only snow."
+  },
+  {
+   "i": 2,
+   "start": 6.367,
+   "end": 7.7,
+   "startFrame": 191,
+   "endFrame": 231,
+   "words": 4,
+   "text": "Good. I hate surprises."
+  }
+ ],
+ "chapters": []
+}

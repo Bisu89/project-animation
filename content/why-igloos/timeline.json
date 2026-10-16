@@ -1,0 +1,305 @@
+{
+ "fps": 30,
+ "durationInFrames": 4165,
+ "seconds": 138.83,
+ "cues": [
+  {
+   "i": 0,
+   "start": 1.0,
+   "end": 6.137,
+   "startFrame": 30,
+   "endFrame": 184,
+   "words": 15,
+   "text": "On the frozen sea ice, a hunter kneels and cuts square blocks from hard snow."
+  },
+  {
+   "i": 1,
+   "start": 6.387,
+   "end": 11.866,
+   "startFrame": 192,
+   "endFrame": 356,
+   "words": 16,
+   "text": "The wind that numbs his fingers is the same material he is about to live inside."
+  },
+  {
+   "i": 2,
+   "start": 12.716,
+   "end": 15.799,
+   "startFrame": 381,
+   "endFrame": 474,
+   "words": 9,
+   "text": "Shelter from the cold, built out of the cold."
+  },
+  {
+   "i": 3,
+   "start": 16.049,
+   "end": 22.898,
+   "startFrame": 481,
+   "endFrame": 687,
+   "words": 20,
+   "text": "This is how some Inuit hunters in the Canadian Arctic and northern Greenland turned snow into a winter hunting shelter,"
+  },
+  {
+   "i": 4,
+   "start": 23.148,
+   "end": 27.258,
+   "startFrame": 694,
+   "endFrame": 818,
+   "words": 12,
+   "text": "not a year-round home, and not a technique every Arctic people used."
+  },
+  {
+   "i": 5,
+   "start": 28.108,
+   "end": 31.19,
+   "startFrame": 843,
+   "endFrame": 936,
+   "words": 9,
+   "text": "Snow looks like the enemy of warmth, cold, wet,"
+  },
+  {
+   "i": 6,
+   "start": 31.44,
+   "end": 34.522,
+   "startFrame": 943,
+   "endFrame": 1036,
+   "words": 9,
+   "text": "everywhere you don't want to be stuck in winter."
+  },
+  {
+   "i": 7,
+   "start": 35.372,
+   "end": 37.427,
+   "startFrame": 1061,
+   "endFrame": 1123,
+   "words": 6,
+   "text": "But snow isn't the real problem."
+  },
+  {
+   "i": 8,
+   "start": 37.677,
+   "end": 38.877,
+   "startFrame": 1130,
+   "endFrame": 1166,
+   "words": 3,
+   "text": "Heat loss is."
+  },
+  {
+   "i": 9,
+   "start": 39.127,
+   "end": 42.894,
+   "startFrame": 1174,
+   "endFrame": 1287,
+   "words": 11,
+   "text": "Warmth doesn't vanish on its own; it leaks toward anything colder."
+  },
+  {
+   "i": 10,
+   "start": 43.144,
+   "end": 46.226,
+   "startFrame": 1294,
+   "endFrame": 1387,
+   "words": 9,
+   "text": "The real question isn't how to beat the cold."
+  },
+  {
+   "i": 11,
+   "start": 46.476,
+   "end": 48.873,
+   "startFrame": 1394,
+   "endFrame": 1466,
+   "words": 7,
+   "text": "It's what stops the heat from leaving."
+  },
+  {
+   "i": 12,
+   "start": 49.723,
+   "end": 51.436,
+   "startFrame": 1492,
+   "endFrame": 1543,
+   "words": 5,
+   "text": "Snow is mostly trapped air."
+  },
+  {
+   "i": 13,
+   "start": 51.686,
+   "end": 56.823,
+   "startFrame": 1551,
+   "endFrame": 1705,
+   "words": 15,
+   "text": "Pack a handful and most of what you're holding is empty space between ice crystals,"
+  },
+  {
+   "i": 14,
+   "start": 57.073,
+   "end": 59.812,
+   "startFrame": 1712,
+   "endFrame": 1794,
+   "words": 8,
+   "text": "space that doesn't let heat move through easily."
+  },
+  {
+   "i": 15,
+   "start": 60.662,
+   "end": 63.402,
+   "startFrame": 1820,
+   "endFrame": 1902,
+   "words": 8,
+   "text": "It's the same idea behind a down jacket,"
+  },
+  {
+   "i": 16,
+   "start": 63.652,
+   "end": 68.104,
+   "startFrame": 1910,
+   "endFrame": 2043,
+   "words": 13,
+   "text": "or a window with two panes and a gap of air between them."
+  },
+  {
+   "i": 17,
+   "start": 68.954,
+   "end": 72.379,
+   "startFrame": 2069,
+   "endFrame": 2171,
+   "words": 10,
+   "text": "Fresh snow conducts heat about as slowly as still air."
+  },
+  {
+   "i": 18,
+   "start": 72.629,
+   "end": 75.368,
+   "startFrame": 2179,
+   "endFrame": 2261,
+   "words": 8,
+   "text": "Solid ice conducts heat around seventy times faster."
+  },
+  {
+   "i": 19,
+   "start": 75.618,
+   "end": 80.755,
+   "startFrame": 2269,
+   "endFrame": 2423,
+   "words": 15,
+   "text": "That difference is the whole trick: a wall built from packed snow holds warmth in,"
+  },
+  {
+   "i": 20,
+   "start": 81.005,
+   "end": 85.8,
+   "startFrame": 2430,
+   "endFrame": 2574,
+   "words": 14,
+   "text": "while the same wall built from solid ice would let it pour straight through."
+  },
+  {
+   "i": 21,
+   "start": 86.65,
+   "end": 91.102,
+   "startFrame": 2600,
+   "endFrame": 2733,
+   "words": 13,
+   "text": "Builders cut blocks straight from hard snowpack and stack them in a spiral,"
+  },
+  {
+   "i": 22,
+   "start": 91.352,
+   "end": 95.804,
+   "startFrame": 2741,
+   "endFrame": 2874,
+   "words": 13,
+   "text": "each ring leaning slightly inward until the dome seals shut at the top."
+  },
+  {
+   "i": 23,
+   "start": 96.054,
+   "end": 101.534,
+   "startFrame": 2882,
+   "endFrame": 3046,
+   "words": 16,
+   "text": "Inside, the air warms from body heat alone, melting a thin inner layer of the walls."
+  },
+  {
+   "i": 24,
+   "start": 101.784,
+   "end": 104.866,
+   "startFrame": 3054,
+   "endFrame": 3146,
+   "words": 9,
+   "text": "That meltwater refreezes into a thin shell of ice,"
+  },
+  {
+   "i": 25,
+   "start": 105.116,
+   "end": 108.54,
+   "startFrame": 3153,
+   "endFrame": 3256,
+   "words": 10,
+   "text": "locking the blocks together and making the whole dome stronger."
+  },
+  {
+   "i": 26,
+   "start": 109.39,
+   "end": 113.5,
+   "startFrame": 3282,
+   "endFrame": 3405,
+   "words": 12,
+   "text": "Exactly how warm it gets inside depends on the snow, the wind,"
+  },
+  {
+   "i": 27,
+   "start": 113.75,
+   "end": 116.832,
+   "startFrame": 3412,
+   "endFrame": 3505,
+   "words": 9,
+   "text": "and the weather outside, there's no single fixed number."
+  },
+  {
+   "i": 28,
+   "start": 117.682,
+   "end": 121.449,
+   "startFrame": 3530,
+   "endFrame": 3643,
+   "words": 11,
+   "text": "Back on the sea ice, that hunter isn't just cutting blocks,"
+  },
+  {
+   "i": 29,
+   "start": 121.699,
+   "end": 126.494,
+   "startFrame": 3651,
+   "endFrame": 3795,
+   "words": 14,
+   "text": "he's building a wall of trapped air to keep his own warmth from escaping."
+  },
+  {
+   "i": 30,
+   "start": 126.744,
+   "end": 131.881,
+   "startFrame": 3802,
+   "endFrame": 3956,
+   "words": 15,
+   "text": "Your coat does the same job tonight, and so does the glass in your window."
+  },
+  {
+   "i": 31,
+   "start": 132.131,
+   "end": 134.186,
+   "startFrame": 3964,
+   "endFrame": 4026,
+   "words": 6,
+   "text": "Warmth doesn't need walls of stone."
+  },
+  {
+   "i": 32,
+   "start": 134.436,
+   "end": 136.833,
+   "startFrame": 4033,
+   "endFrame": 4105,
+   "words": 7,
+   "text": "It just needs air that can't move."
+  }
+ ],
+ "chapters": []
+}

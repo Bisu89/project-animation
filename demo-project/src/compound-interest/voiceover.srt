@@ -1,0 +1,11 @@
+1
+00:00:03,200 --> 00:00:06,200
+Bạn gửi một trăm đô la vào ngân hàng.
+
+2
+00:00:07,050 --> 00:00:10,383
+Mỗi năm, tiền lãi lại tiếp tục sinh thêm lãi.
+
+3
+00:00:11,233 --> 00:00:15,567
+Theo thời gian, số tiền nhỏ phát triển thành một gia tài lớn.

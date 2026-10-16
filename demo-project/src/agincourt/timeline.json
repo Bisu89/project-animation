@@ -1,0 +1,161 @@
+{
+ "fps": 30,
+ "durationInFrames": 2100,
+ "seconds": 70.0,
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.6,
+   "end": 2.267,
+   "startFrame": 18,
+   "endFrame": 68,
+   "words": 5,
+   "text": "25 October 1415, northern France."
+  },
+  {
+   "i": 1,
+   "start": 2.767,
+   "end": 7.1,
+   "startFrame": 83,
+   "endFrame": 213,
+   "words": 13,
+   "text": "A tired English army, far from home, faces a much larger French force."
+  },
+  {
+   "i": 2,
+   "start": 7.6,
+   "end": 9.933,
+   "startFrame": 228,
+   "endFrame": 298,
+   "words": 7,
+   "text": "Between them lies a narrow, muddy field."
+  },
+  {
+   "i": 3,
+   "start": 10.433,
+   "end": 12.767,
+   "startFrame": 313,
+   "endFrame": 383,
+   "words": 7,
+   "text": "Henry V chose this ground on purpose."
+  },
+  {
+   "i": 4,
+   "start": 13.267,
+   "end": 19.267,
+   "startFrame": 398,
+   "endFrame": 578,
+   "words": 18,
+   "text": "A gap between two woods was too narrow for the larger French army to use its full width."
+  },
+  {
+   "i": 5,
+   "start": 19.767,
+   "end": 24.1,
+   "startFrame": 593,
+   "endFrame": 723,
+   "words": 13,
+   "text": "Archers lined both flanks, stakes driven into the earth in front of them."
+  },
+  {
+   "i": 6,
+   "start": 24.6,
+   "end": 29.267,
+   "startFrame": 738,
+   "endFrame": 878,
+   "words": 14,
+   "text": "The English longbow could loose arrows faster than almost any weapon of its age."
+  },
+  {
+   "i": 7,
+   "start": 29.767,
+   "end": 32.433,
+   "startFrame": 893,
+   "endFrame": 973,
+   "words": 8,
+   "text": "Volley after volley arced into the French ranks."
+  },
+  {
+   "i": 8,
+   "start": 32.933,
+   "end": 38.267,
+   "startFrame": 988,
+   "endFrame": 1148,
+   "words": 16,
+   "text": "The French men-at-arms advanced across a field churned to mud by rain and thousands of feet."
+  },
+  {
+   "i": 9,
+   "start": 38.767,
+   "end": 42.1,
+   "startFrame": 1163,
+   "endFrame": 1263,
+   "words": 10,
+   "text": "The narrow ground crowded them together, rank pressing into rank."
+  },
+  {
+   "i": 10,
+   "start": 42.6,
+   "end": 44.267,
+   "startFrame": 1278,
+   "endFrame": 1328,
+   "words": 5,
+   "text": "When the lines finally met,"
+  },
+  {
+   "i": 11,
+   "start": 44.467,
+   "end": 48.467,
+   "startFrame": 1334,
+   "endFrame": 1454,
+   "words": 12,
+   "text": "the press of bodies left little room to even raise a weapon."
+  },
+  {
+   "i": 12,
+   "start": 48.967,
+   "end": 53.633,
+   "startFrame": 1469,
+   "endFrame": 1609,
+   "words": 14,
+   "text": "Exhausted and too tightly packed to manoeuvre, the French formation began to break apart."
+  },
+  {
+   "i": 13,
+   "start": 54.133,
+   "end": 57.8,
+   "startFrame": 1624,
+   "endFrame": 1734,
+   "words": 11,
+   "text": "It became one of the most one-sided defeats in French history."
+  },
+  {
+   "i": 14,
+   "start": 58.3,
+   "end": 60.967,
+   "startFrame": 1749,
+   "endFrame": 1829,
+   "words": 8,
+   "text": "Historians still debate how much was the mud,"
+  },
+  {
+   "i": 15,
+   "start": 61.167,
+   "end": 64.167,
+   "startFrame": 1835,
+   "endFrame": 1925,
+   "words": 9,
+   "text": "how much the arrows, how much the ground itself."
+  },
+  {
+   "i": 16,
+   "start": 64.667,
+   "end": 69.0,
+   "startFrame": 1940,
+   "endFrame": 2070,
+   "words": 13,
+   "text": "What is clear is that Henry's choice of terrain shaped everything that followed."
+  }
+ ],
+ "chapters": []
+}
