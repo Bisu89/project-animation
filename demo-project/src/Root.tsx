@@ -12,6 +12,7 @@ import { FarLayer, MidLayer } from "./agincourt/Stills";
 import { Video as SpidermanDemo, DURATION as SpidermanDemo_DURATION } from "./spiderman-demo/Video";
 import { Video as SurvivalTest, DURATION as SurvivalTest_DURATION } from "./survival-test/Video";
 import { Video as ZombieWalk, DURATION as ZombieWalk_DURATION } from "./zombie-walk/Video";
+import { Video as ZsEp01, DURATION as ZsEp01_DURATION } from "./zs-ep01/Video";
 // stickman-video:imports
 
 export const RemotionRoot: React.FC = () => {
@@ -104,6 +105,15 @@ export const RemotionRoot: React.FC = () => {
         id="ZombieWalk"
         component={ZombieWalk}
         durationInFrames={ZombieWalk_DURATION}
+        fps={30}
+        width={1920}
+        height={1080}
+        defaultProps={{ music: 0.35, sfx: 0.8, voice: "", captions: false }}
+      />
+      <Composition
+        id="ZsEp01"
+        component={ZsEp01}
+        durationInFrames={ZsEp01_DURATION}
         fps={30}
         width={1920}
         height={1080}

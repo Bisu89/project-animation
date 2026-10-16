@@ -44,6 +44,12 @@ SERIES_BIBLE, CHARACTER_BIBLE, WORLD_RULES, SURVIVAL_STATE (numbers are PROPOSAL
 Everything is tagged [CONFIRMED]/[PROPOSAL]; read WORLD_RULES + SURVIVAL_STATE before writing any script. **Known conflict:** the SurvivalTest zombies keep pace with a sprinting human, which
 strains the confirmed rule "no superhuman speed" (WORLD_RULES section 1): slow the zombies in animation before using that clip as canon.
 
+### Episode work (2026-10-16)
+- Beat sheets: `docs/series/100-days-zombie-survival/episodes/`. Draft narration (awaiting owner approval): `content/zs-ep01..05/script.md` (Ep1 1483 words ~9 min; Ep2-5 only 850-1025 words, below the 8-10 min target).
+- **Ep1 voice DONE**: `demo-project/public/zs-ep01/voice.wav` + `src/zs-ep01/timeline.ts` (558.8 s, 197 cues, en-US-GuyNeural, rate -4%). `voice.wav` is git-ignored: regenerate with `python scripts/gen_voice.py --script content/zs-ep01/script.md --out demo-project/public/zs-ep01 --timeline-out demo-project/src/zs-ep01 --rate=-4% --para-pause 0.9` (use `--rate=-4%` with an equals sign).
+- **Ep1 scene 1 animatic BUILT** (`src/zs-ep01/S01ClockStarts.tsx`, cues 0-28, ~85 s): phone alert + 24:00:00 countdown, window view of the street, packing, leaving. Rendered first 60 s: `out/zs-ep01-animatic.mp4` (1920x1080, 30 fps, no voice mixed yet; render with `--props='{"voice":"voice.wav"}'`). Scenes 2-8 not built (`Video.tsx` has only S01).
+  Known issues: window street is small and dark; the survivor stands stiffly (no walk/turn), packing shows no hands; zombies at the window drift at 1.15 px/frame (fine); music is a placeholder `mystery:90`.
+
 ### Open items / next steps
 1. **Survival series**: the user's approved English narration (8 scenes: Clock Starts, First Mistake, Trap, Three Rules, Wrong House, Last Hour, First Night, Day Two) has NOT been provided yet. Next: get it, run `gen_voice.py`, then animatic of scenes 1-2. Priority animation scenes: street panic, mall run, stairwell (backpack caught on railing), house door handle + window shadow, night flashlight/door shake, dawn walk to bridge. Gaps in the engine: door with open/close state, flashlight beam, stairs/railing, smooth turn-around (facing flips instantly), footstep sfx.
 2. SurvivalTest leftovers: survivor's face is pale under the bars, first two zombies overlap at the grille, survivor never turns to look at them.
