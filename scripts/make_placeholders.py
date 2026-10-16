@@ -40,14 +40,16 @@ def main():
                 v = 0.5 + 0.5 * ((x / 1919) - 0.5)
                 px[x, y] = (int(34 + 26 * t + 10 * v + (n % 5) * 3), int(40 + 24 * t + 10 * v), int(52 + 20 * t + 8 * v + (n % 3) * 4))
         d = ImageDraw.Draw(img)
-        d.text((960, 380), f"{n:02d}", font=font(220), fill=(210, 214, 222), anchor="mm")
+        # clearly a stand-in: a small banner at the top, the planned picture described in the middle
+        d.rectangle((0, 0, 1920, 70), fill=(120, 40, 40))
+        d.text((960, 35), f"ANH GIU CHO  -  scene {n:02d}  -  thay bang public/<slug>/images/{r['image_filename']}", font=font(30), fill=(255, 235, 235), anchor="mm")
         desc = r["image_prompt"]
         if style and desc.startswith(style):
             desc = desc[len(style):].strip()
-        y0 = 560
-        for line in textwrap.wrap(desc, 62)[:6]:
-            d.text((960, y0), line, font=font(34), fill=(170, 176, 188), anchor="mm")
-            y0 += 48
+        y0 = 400
+        for line in textwrap.wrap("Hinh du kien: " + desc, 64)[:7]:
+            d.text((960, y0), line, font=font(36), fill=(150, 156, 168), anchor="mm")
+            y0 += 52
         img.save(path)
         made += 1
     print("placeholders written:", made, "->", out)

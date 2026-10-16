@@ -30,7 +30,7 @@ Water arithmetic: previous + gains - use. Food: previous + gains - eaten. "Fatig
 
 | End of | Water | Food | Phone | Light left | Health | Fatigue | Location | Relationships |
 |---|---|---|---|---|---|---|---|---|
-| Day 1 (Ep 1) | 1.2 L (1.0 + 1.0 mall - 0.8) | 3 (2 + 3 mall - 2) | 62% | 6 h | 92 (scraped palm) | 7 | small utility building (first shelter) | none |
+| Day 1 (Ep 1) | 1.2 L (1.0 + 1.0 mall - 0.8) | 3 (2 + 3 mall - 2) | 70% (calls -8, note -2, rest -5) | 7 h (flashlight left on for a while at night) | 92 (scraped palm) | 7 | small utility building (first shelter) | none |
 | Day 2 (Ep 2) | 0.2 L (1.2 - 1.0) | 1 (3 - 2) | 50% | 6 h | 88 (blisters, mild ankle strain) | 6 | back at the utility building | none |
 | Day 3 (Ep 3) | 0.7 L (0.2 + 1.5 found - 1.0) | 0 (1 - 1) | 44% | 5.5 h | 85 | 7 | utility building; one forage trip nearby | none |
 | Day 4 (Ep 4) | 0.3 L (0.7 - 0.4 rationed) | 0 | 40% | 4.5 h | 78 (hunger) | 8 | utility building (stays in) | none |
@@ -41,7 +41,7 @@ Water arithmetic: previous + gains - use. Food: previous + gains - eaten. "Fatig
 ## 3. Provisional per-day detail
 Format: inventory change / knowledge gained / current goal at end / unresolved threats at end. Items marked (new) are PROPOSALS that appear only if the outline keeps them.
 
-**Day 1 (Episode 1)** - inventory: + 2 bottles of water, + 3 cans (mall); the backpack gets caught on a railing and a minor item may be lost (undecided; default: nothing lost). Knowledge: the Three Rules; mall and stairwell are traps; crowds attract zombies; the utility building is quiet. Goal: survive until morning, then act on the broadcast. Threats: zombies outside the shelter; the evacuation message is unverified.
+**Day 1 (Episode 1)** - inventory: + 2 bottles of water, + 3 cans (mall); the backpack gets caught on a railing and a minor item may be lost (undecided; default: nothing lost). Knowledge: three observations (they walk, crowds draw them, unknown numbers); rule 1 only at dawn of Day 2 (be quiet); mall and stairwell are traps; light and noise draw them; the utility building is quiet. Goal: survive until morning, then act on the broadcast. Threats: zombies outside the shelter; the evacuation message is unverified.
 
 **Day 2 (Episode 2)** - inventory: nothing important gained; water and food consumed on the road. Knowledge: the evacuation message (location and cut-off time); the road to the bridge is blocked/overrun (default outcome, see unresolved decision). Goal: return to a known shelter with what is left. Threats: low water; a group of zombies now between him and the bridge.
 

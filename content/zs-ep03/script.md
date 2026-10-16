@@ -50,6 +50,8 @@ Then I saw them. First one. Then another. They came from the side of the street 
 
 I closed the valve. I lowered myself behind the parapet. I did not move for ten minutes, and every one of them was the longest minute of my life.
 
+And while I lay there I understood something else. If they had come up the stairs, I would not have got out in time. That became my third rule. Do not stay anywhere you cannot leave in under a minute.
+
 When I looked again, they were still there. But they were no longer looking up.
 
 # 6. One and a Half Litres

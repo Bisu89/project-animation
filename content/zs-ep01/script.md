@@ -6,29 +6,27 @@ The screen said: emergency alert. Remain calm. Next update in twenty-four hours.
 
 I read the last line twice. Twenty-four hours. Whoever wrote it did not think I would need to know anything sooner.
 
+I called my sister. It rang and rang. I called a friend across town. Nothing. I called the emergency number, and a recording told me that all lines were busy. Eight percent of my battery, gone, and I knew nothing more than before.
+
 I walked to the window. Down on the street, a man ran past a stopped car with his shoes in his hand. A woman was screaming a name. Someone was leaning on a horn, and nobody was telling him to stop. At the far end of the block, a few people were walking toward the crowd, slowly, in a way that made the crowd run faster.
 
-I did not understand what I was looking at. I only understood that I could not stay here. The building was already loud. Doors, footsteps, voices in the stairwell. Noise, I would learn, is the one thing you cannot afford.
+I did not understand what I was looking at. I understood only one thing: everyone was running, and I did not want to be the one who stayed behind.
 
-I packed fast. Two bottles of water. Two snack bars. My flashlight. My phone, at eighty-five percent. I took the small backpack from the hook by the door, and I did not look back at the apartment.
+I packed in a hurry, without thinking. Two bottles of water. Two snack bars. My flashlight, because it was by the bed. My phone, at seventy-seven percent. I grabbed the small backpack from the hook by the door, and I left the door open behind me.
 
-That was the first decision of the day. It was not a good one yet. But it was a decision.
-
-The clock had started.
+That was the first decision of the day. I would make many more before night, and most of them would be wrong.
 
 # 2. The First Mistake
 
 Everyone on the street was running the same way, so I ran the same way. Toward the mall.
 
-It had big doors, bright lights, security guards. It looked like the kind of place that would be safe. That is exactly why everybody was going there.
+It had big doors, bright lights, security guards. It looked like the kind of place that would be safe. It did not occur to me that this was exactly why everybody was going there.
 
 The entrance was a funnel. Hundreds of people pushing through two doors, and the noise bouncing off the glass. I told myself it was fine. Crowds mean help. Crowds mean someone is in charge.
 
-Inside, it got worse. A man shouted for everyone to stay calm, and nobody listened. A child was crying somewhere above me. I found a small kiosk with its shutter half open and took what I could carry. Two bottles of water. Three cans of food.
+Inside, it got worse. A man shouted for everyone to stay calm, and nobody listened. A child was crying somewhere above me. I found a small kiosk with its shutter half open and took what I could carry. Two bottles of water. Three cans of food. I felt almost proud of myself.
 
-I did not check how many exits there were. I did not look for a quiet corner. I did what everyone else did. I followed the noise.
-
-Here is what I got wrong. I thought a crowd was protection. A crowd is a signal. Every shout, every alarm, every breaking glass door was telling them exactly where we were.
+I did not look for exits. I did not even think about exits. I did what everyone else did. I followed the noise, and I told myself that was a plan.
 
 # 3. The Trap
 
@@ -42,76 +40,78 @@ I slipped one arm out of the strap, dragged the bag free, and tore my palm open 
 
 At the next landing there was a grey door with three words on it. Staff only.
 
-It was unlocked. I pushed through and pulled it shut behind me. A corridor, cold air, the smell of cleaning fluid. Through the wall I could hear the mall. I went the other way, down a ramp, through a second door, and out onto a loading dock where the morning was suddenly quiet.
+I did not choose it. I was pushed toward it, and it opened. A corridor, cold air, the smell of cleaning fluid. Through the wall I could hear the mall. I ran the other way, down a ramp, through a second door, and out onto a loading dock where the morning was suddenly quiet.
 
 I sat down between two dumpsters, and I realised my hand was shaking.
 
-# 4. Three Rules
+# 4. Three Things I Know
 
-I did not know how long I could stay there, so I used the time. I opened the notes on my phone and typed with one thumb, because my other hand was bleeding onto my sleeve.
+I did not know what to do, so I did what I always do when I am scared. I made a list.
 
-Rule one. Noise draws them. Be quiet.
+I opened the notes on my phone and typed with one thumb, because my other hand was bleeding onto my sleeve. I did not call it rules. I did not know enough for rules. I wrote down only what I had seen with my own eyes.
 
-Rule two. Never go into a place without a second way out.
+One. The ones from the mall did not run. They walked.
 
-Rule three. Do not stay anywhere you cannot leave in under a minute.
+Two. The crowd made them come. Every scream seemed to pull them closer.
 
-Two percent of my battery for three lines. It was worth it.
+Three. I do not know how many there are.
 
-From behind the dumpster I could see a long stretch of street. Somewhere in the mall an alarm was ringing and ringing, and the people left out here were drifting toward it, one after another. They did not run. They did not look for me. They walked toward the sound the way water finds a low place.
+Two percent of my battery for three lines. It felt like a waste. It was the first useful thing I had done all day.
 
-That was when I understood the rest. They were not fast. They were not clever. They followed the noise. And if I could be quiet, and far enough away, they would not follow me at all.
+From behind the dumpster I could see a long stretch of street. Somewhere in the mall an alarm was ringing and ringing, and the people left out here were drifting toward it, one after another. They did not look for me. They did not run. They walked toward the sound the way water finds a low place.
+
+I watched them for a long time, and I did not yet know what I was watching.
 
 # 5. The Wrong House
 
-By the afternoon I needed somewhere to rest. The streets had gone quiet the way a place does when everyone has left in a hurry. At the end of a row I found a house. The front door stood open a hand's width. No lights. It looked like what I wanted. A bed. A lock. A back door.
+By the afternoon I needed somewhere to rest, and I wanted a bed. The streets had gone quiet the way a place does when everyone has left in a hurry. At the end of a row I found a house. The front door stood open a hand's width. No lights. It looked like what I wanted.
+
+I pushed the door and called out, softly, hello? I think I wanted someone to answer. Nobody answered.
 
 Then I saw the frame. The wood around the lock was splintered, and the splinters pointed out, not in. Whatever broke that door had been inside.
 
-I stood there for a long time. Then the handle moved. Slowly. Down, and back up. Nobody opened the door.
+Something moved upstairs. A slow step, then another, then the sound of something dragging along a wall. I stood in the hall with my heart pounding in my ears, and I still did not run. I did not know what a running person sounds like to them.
 
-Above me, in the upstairs window, a shadow crossed the glass and was gone.
+The steps started down the stairs. Then I ran. I hit the front door with my shoulder, knocked a vase off a table, and I did not stop until I was three streets away, bent over a garden wall, listening to my own breath.
 
-I did not run. Rule one. I took one step back, then another, and I walked away with my hands tight on the straps of my backpack until the house was behind a hedge. My heart was going so hard I thought it could be heard. It could not.
+Nothing had followed me far. It had stopped at the door, the way a dog stops at the edge of the garden. I do not think it was clever. I think it had simply lost interest the moment I stopped making noise.
 
-That was the second decision of the day, and it was better than the first.
+I thought about that for a long time, because I could not stop thinking about it.
 
 # 6. The Last Hour
 
-The light was already going orange. I had maybe an hour. I made myself stop and think like the notes on my phone.
+The light was already going orange. I had no plan, only a body that wanted to stop. I tried a parking garage first, but the gate was shut and chained. I tried an apartment block, but the stairwell smelled of smoke, and I turned back at the first landing, remembering the mall.
 
-The first place was a parking garage. Open on every side, concrete, echoing. Too many entrances. No.
+I was near the end of the street when I saw a small utility building behind a row of shops. One steel door at the front. A narrow hatch at the back. No windows. It was cold, and it smelled of oil. It had no water, no bed, nothing a normal person would call comfortable.
 
-The second was an apartment block. Six floors, one stairwell. I had just spent the morning inside a stairwell. No.
+I do not want to pretend that I chose it. It was the last place left. I tried the handle, and it was not locked.
 
-The third was a small utility building behind a row of shops. One steel door at the front. A narrow service hatch at the back. No windows. It was cold, and it smelled of oil. It had no water, no bed, nothing a normal person would call comfortable. But it had two ways out, and it was quiet.
-
-I stood at the steel door and listened. Nothing. I counted slowly to sixty and listened again. Nothing.
-
-Then I went in, and I closed the door as softly as I have ever closed anything.
+I went in, and I closed the door behind me. For the first time since the alert, nobody was running.
 
 # 7. The First Night
 
-Night came fast. With the power gone, the city went completely dark. I did not use the flashlight at first. Light draws them too. I sat with my back to the wall opposite the door and the hatch at my shoulder, and I waited.
+Night came fast. With the power gone, the city went completely dark. I was afraid of the dark, so I switched on the flashlight and I left it on. I sat in the middle of the room with the beam on the door, as if the light could keep it shut.
 
 Around midnight I heard it. A scrape outside. Then another. Something dragging a foot across concrete.
 
-I switched the flashlight on for ten seconds, only to see the room, and turned it off again. In that moment the steel door moved. Not a knock. A push. Once. Twice. Then a slow rhythm of hands on metal.
+The steel door moved. Not a knock. A push. Once. Twice. Then a slow rhythm of hands on metal. More hands. I could hear them gathering. I thought of the street at the mall, of the people drifting toward the alarm, and I understood with a horrible clarity what I had done. I had switched on a light in a black city. I had made myself the alarm.
 
-They could not open it. They did not know how. But they were there, and the door was not made to last forever.
+My hand was shaking so hard that the flashlight slipped and rolled across the floor and went out.
 
-I crawled to the back hatch. I held the lever with one hand and pressed the other over my own mouth. The pushing went on for what felt like an hour. Then, little by little, it thinned out. A last scrape. Then nothing. They had lost the noise. They had forgotten there was anything here.
+The darkness was total. I held my breath. I pressed myself against the wall. The pushing went on for a while, and then, little by little, it thinned. A last scrape. Then nothing. I do not know how long I waited. When I finally breathed out, it felt as if I had been holding it for an hour.
 
-I did not leave. I stayed on my knees at the hatch until it was light.
+They had stopped because I had stopped. The light was gone, the noise was gone, and in a few minutes they had forgotten there was anything here at all.
 
-That was the third decision of the day. To do nothing at all.
+I did not turn the flashlight on again. I stayed on my knees against the wall until it was light, and I told myself, over and over, one word. Quiet.
 
 # 8. Day Two
 
-Dawn came grey and slow. I opened the hatch a finger's width, looked at an empty yard, and closed it again. I had been awake for more than twenty hours. I had a little over a litre of water, three meals of food, a scraped hand, a phone at sixty-two percent, and three rules.
+Dawn came grey and slow. I opened the hatch a finger's width, looked at an empty yard, and closed it again. I had been awake for more than twenty hours. I had a little over a litre of water, three meals of food, a scraped hand, a phone at seventy percent, and a flashlight I was afraid to touch.
 
-My phone buzzed. A new message. Automated. Flat. Evacuation point. River Crossing Bridge, north bank. Cut-off, twelve noon today.
+I took out the phone and added a fourth line under my three. It was not a list of things I had seen. It was the first thing I had learned. They come to noise. So be quiet.
+
+Then the phone buzzed. A new message. Automated. Flat. Evacuation point. River Crossing Bridge, north bank. Cut-off, twelve noon today.
 
 I read it four times. I should have asked who was sending it. I should have asked how many other people had read it. Instead I did what a tired person does. I wanted it to be true.
 
-I counted my supplies again. I checked the street. I put the backpack on, I stepped out into the cold, and I started walking toward the river.
+I counted my supplies again. I put on the backpack, I stepped out into the cold, and I started walking toward the river. For the first time since the alert, I walked slowly, and I tried not to make a sound.

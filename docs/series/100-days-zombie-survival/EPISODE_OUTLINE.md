@@ -19,12 +19,12 @@ Eight scenes **[CONFIRMED structure]**; content of each scene follows the brief,
 - **Main objective:** get through the first day and night alive. [PROPOSAL]
 - **Obstacle:** panic, crowds, his own bad assumptions (the mall will be safe; official crowds mean safety).
 - **Turning point:** the stairwell trap in the mall (scene 3): his backpack catches on a railing; he escapes through a maintenance exit and sees that crowds, not individual zombies, are the real danger.
-- **Consequence:** he loses the mall, scrapes his palm (health 92), writes the Three Rules, and must find shelter before dark with fatigue 7.
-- **Character change (shown):** from following the crowd to choosing a place by criteria (exits, noise); he checks a door before opening it for the first time.
-- **Scenes (brief order):** 1 The Clock Starts (city panic, apartment window, emergency alert) / 2 The First Mistake (enters a crowded shopping mall) / 3 The Trap (dangerous stairwell, backpack caught on a railing, escape through a maintenance exit) / 4 Three Rules (writes three rules, observes the street) / 5 The Wrong House (suspicious damage, decides to leave) / 6 The Last Hour (scouts three shelter options, picks a small utility building) / 7 The First Night (darkness, suspicious sounds, a threatened entrance, retreat toward the rear exit) / 8 Day Two (an evacuation message, a journey toward a distant bridge begins).
+- **Consequence:** he loses the mall, scrapes his palm (health 92), writes three observations (not rules), and must find shelter before dark with fatigue 7.
+- **Character change (shown):** from following the crowd, to one lesson learned the hard way: noise draws them (first rule, written on Day 2 morning). No other rule yet.
+- **Scenes (brief order):** 1 The Clock Starts (city panic, apartment window, emergency alert) / 2 The First Mistake (enters a crowded shopping mall) / 3 The Trap (dangerous stairwell, backpack caught on a railing, escape through a maintenance exit) / 4 Three Things I Know (CHANGED from 'Three Rules': he writes three plain observations, not rules; the scene keeps its place in the brief's order) / 5 The Wrong House (he walks in and calls 'hello?', something moves upstairs, he flees and learns noise matters) / 6 The Last Hour (a locked garage, a smoky stairwell; the utility building is the last place left, not a clever choice) / 7 The First Night (he leaves the flashlight on and draws them to the door; it falls and goes out; silence makes them leave: first lesson) / 8 Day Two (an evacuation message, a journey toward a distant bridge begins).
 - **Picture plan [PROPOSAL, replaces animation priorities]:** 47 pictures (see `content/zs-ep01/scenes.csv`). Strongest moves/fx: street panic (slow push-in + dust), mall funnel (push-in), stairwell snag (close-up, flicker), house door handle (flicker close-up) and window shadow (slow zoom), night door (flicker + shake-free zoom), dawn road (zoom-out). Old animation notes:  L2/L3 for the opening street panic; the run into the mall (the existing `SurvivalTest` is a prototype of this beat, see `PRODUCTION_WORKFLOW.md`); the crowded stairwell with the backpack caught on the railing; the suspicious house (door handle moving, a shadow crossing the upstairs window); the night climax (flashlight beam, shaking entrance door, retreat to the rear exit); the final dawn walk toward the bridge. L0/L1 for narration-heavy moments (Three Rules, scouting three shelters).
 - **Ending:** he survives the night, the zombies drift away at dawn (they have no memory), a broadcast says to reach the river bridge, and he starts walking. Water 1.2 L, food 3, phone 62%, light 6 h, health 92, fatigue 7.
-- **Continuity out:** knows the Three Rules; knows the utility building; has heard the evacuation message (location + cut-off time).
+- **Continuity out:** one rule (be quiet) plus three observations; knows the utility building; has heard the evacuation message (location + cut-off time).
 
 ## Episode 2 — Day 2: the bridge [PROPOSAL]
 - **Hook:** "The message said the bridge was open until noon. I believed it."
@@ -101,7 +101,7 @@ Eight scenes **[CONFIRMED structure]**; content of each scene follows the brief,
 ---
 
 ## Cross-episode continuity checks
-- The Three Rules (Ep 1) are referenced or tested in every episode.
+- Rules are earned one at a time: rule 1 (Ep 1 night), rule 2 (Ep 2 bridge), rule 3 (Ep 3 roof). Later episodes test them.
 - The scraped palm (Ep 1) is visible until about Day 3 (see health). The ankle strain (Ep 2) fades by Day 4.
 - Phone battery only falls; it is never recharged in this arc.
 - The evacuation broadcast (Ep 1 end, Ep 2) must not be explained until a later arc.

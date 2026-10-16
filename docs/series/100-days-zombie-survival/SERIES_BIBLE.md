@@ -32,7 +32,7 @@ and a 10-second walk test (`ZombieWalk`); see `PRODUCTION_WORKFLOW.md`.
 - Narration style: first person, past tense ("I had 24 hours..."), spoken by the survivor looking back. [PROPOSAL, implied by the working title]
 
 ## 3. Tone and narrative principles
-1. **Decisions over explanation.** Growth is shown by what the survivor chooses and does, not by narration saying he has changed. [CONFIRMED]
+1. **Decisions over explanation.** Growth is shown by what the survivor chooses and does, not by narration saying he has changed. **Skills are earned day by day through mistakes** (no veteran behaviour on Day 1; see the rules table in `CHARACTER_BIBLE.md`). [CONFIRMED]
    Narration states facts and fears; the picture shows the new behaviour (checking a door before entering, rationing, going quiet).
 2. **Consistency over spectacle.** Every episode starts from the previous episode's `SURVIVAL_STATE.md` row. Water, food, battery, health,
    fatigue, inventory, relationships, knowledge, location and unresolved threats must agree across episodes. [CONFIRMED]

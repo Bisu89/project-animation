@@ -29,16 +29,21 @@ Legend: **[CONFIRMED]** decided by the series owner or already true in the repos
 ### Growth stages (shown by action, not narration) [PROPOSAL]
 | Stage | Days | Observable behaviours |
 |---|---|---|
-| 1 Reactive | 1-2 | Runs toward crowds and exits; opens doors without checking; wastes light and battery |
-| 2 Rule-maker | 3-4 | Writes and follows rules; checks exits first; rations; panics when the rules are tested |
+| 1 Naive | 1 | Runs with the crowd; no rules; phones people; enters a strange house calling out; wastes light and battery; learns noise draws them only at night |
+| 2 Rule-maker | 2-4 | (rule 1 end of Day 1, rule 2 Day 2, rule 3 Day 3) | Writes and follows rules; checks exits first; rations; panics when the rules are tested |
 | 3 Planner | 5-6 | Plans a route, a time limit and a retreat before leaving; tests another person before trusting |
 | 4 Partner | 7 | Shares a rule set, divides tasks, accepts a trade-off for a safer base |
 Growth never removes the limitations above.
 
-### The "Three Rules" (Episode 1, scene 4) [CONFIRMED that the survivor writes three rules; content is a PROPOSAL]
-1. Noise draws them: stay quiet.
-2. Never enter a place without a second way out.
-3. Do not stay anywhere you cannot leave in under a minute.
+### How the rules are earned (REVISED 2026-10-16 after owner feedback: no veteran on Day 1)
+The survivor does **not** have rules on Day 1. Each rule is learned from a mistake, on the day it happens, and only then written down. [CONFIRMED correction; exact wording of the rules is PROPOSAL]
+| Rule | Learned | By what |
+|---|---|---|
+| (Day 1 notes, not rules) | Ep 1 scene 4 | three plain observations: they walk, the crowd draws them, he does not know how many (replaces the earlier "Three Rules" scene content; the scene keeps its place, renamed "Three Things I Know") |
+| 1. Noise draws them: be quiet | end of Ep 1 | calling "hello?" in the wrong house, then the flashlight left on all night |
+| 2. Never go into a place without a second way out | Ep 2 | the dead-end street at the bridge |
+| 3. Do not stay anywhere you cannot leave in under a minute | Ep 3 | the rooftop tank, when zombies gather below |
+Day 1 behaviours must look naive: he phones people (battery lost), follows the crowd, ignores exits, calls out in a strange house, uses the flashlight all evening. He survives partly by luck, and learns from it.
 Later episodes may break or refine a rule; changes must be shown as a decision (and recorded in `SURVIVAL_STATE.md` knowledge).
 
 ## 2. THE STRANGER (first supporting character)

@@ -6,7 +6,7 @@ Nine kilometres. That was what the phone said. Three hours if I walked without s
 
 The streets were different in daylight. Cars sat where their owners had left them, doors open, engines cold. A shopping cart lay on its side in the middle of a crossing. Everything looked like a photograph of a place that used to be busy.
 
-I kept to the walls. I kept my steps soft. My palm throbbed under a strip of cloth, and every time I closed my hand I thought about the railing. Rule one. Noise draws them. I had three rules and nothing else, so I held on to them.
+I kept to the walls. I kept my steps soft. My palm throbbed under a strip of cloth, and every time I closed my hand I thought about the railing. Rule one. Noise draws them. I had exactly one rule and nothing else, so I held on to it.
 
 # 2. The Shortcut
 
@@ -50,9 +50,9 @@ I did not stand there feeling sorry for myself. That is not true. I stood there 
 
 Water: a little under half a litre. Food: one meal left, because I had eaten twice on the road without noticing. Battery: fifty-eight percent. A blister on my left heel. A twisted ankle that I had not felt until I stopped.
 
-I made myself say it out loud, in a whisper. Rule three. Do not stay anywhere you cannot leave in under a minute.
-
 I was standing at the mouth of a street with one way out, and the figures on the bridge had started to turn their heads.
+
+That was when a second rule wrote itself, so clearly that I said it out loud in a whisper. Never go into a place without a second way out.
 
 I did not run. I walked backwards, three steps, five, ten, and then I turned and I walked the way I had come.
 
@@ -64,7 +64,7 @@ The heat made it worse. The sun was high, my water was almost gone, and every bl
 
 I used the cars. I moved from one to the next, crouching, resting my back against a door, listening. Twice I heard the shuffle of feet on the other side, and twice I held my breath until it passed.
 
-My ankle started to swell. I walked on the outside of my foot, and I cursed myself in a whisper for forgetting rule two. Never go into a place without a second way out. I had walked into a whole day without one.
+My ankle started to swell. I walked on the outside of my foot, and I cursed myself in a whisper. Rule two had cost me nothing to write and everything to learn. I had walked into a whole day without a second way out.
 
 # 7. Dusk
 

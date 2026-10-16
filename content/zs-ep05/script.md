@@ -54,7 +54,7 @@ On the counter, under a layer of dust, was a folded street map. The shop had giv
 
 # 6. The Mark
 
-On the way back, I took a different street. Rule two. Never use the same exit twice.
+On the way back, I took a different street. A habit was forming. Never take the same way back twice.
 
 It was a quiet lane, behind a row of garages. At the end, a door that had once been painted blue. And on the door, in white chalk, a single mark. A short line, and across it a cross.
 

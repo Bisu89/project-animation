@@ -36,7 +36,7 @@ I took out the phone and read them again.
 
 Noise draws them. Be quiet. Never go into a place without a second way out. Do not stay anywhere you cannot leave in under a minute.
 
-I read the third rule and understood what I had done. I was in a building I could leave in ten seconds. I had broken none of them. And I had not moved in a day.
+I read the third rule, the newest one, and understood what I had done. I was in a building I could leave in ten seconds. I had broken none of them. And I had not moved in a day.
 
 That frightened me more than the shadows. The rules had kept me alive. They could keep me alive until I starved. A list of things I must not do tells you how to hide. It does not tell you how to live.
 
