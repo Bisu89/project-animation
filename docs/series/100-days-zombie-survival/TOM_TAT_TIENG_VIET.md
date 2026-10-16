@@ -13,7 +13,7 @@ Nhãn: **[ĐÃ CHỐT]** = bạn đã quyết hoặc repo đã đúng như vậy
 - **SURVIVOR-001:** người thường, thận trọng, hay quan sát, không biết đánh nhau. Tóc ngắn đen, áo khoác xám xanh, ba lô nâu. Chưa đặt tên, tuổi, nghề. [ĐỀ XUẤT: để trống có chủ ý]
 - Giới hạn cứng: thể lực bình thường, cần nước và thức ăn mỗi ngày, mang được một ba lô, chấn thương lành chậm.
 - Phát triển (thể hiện bằng hành động, không giải thích bằng lời): Ngày 1–2 hành động theo phản xạ → 3–4 biết lập quy tắc nhưng sợ → 5–6 chủ động chịu rủi ro, chấp nhận giúp đỡ → 7 lập kế hoạch cùng người khác. [ĐỀ XUẤT]
-- **Ba Quy Tắc** (Tập 1): 1) Tiếng ồn dẫn dụ chúng, hãy im lặng. 2) Không vào nơi nào nếu không có lối thoát thứ hai. 3) Không ở nơi nào mà bạn không rời đi được trong chưa đầy một phút. [nội dung ĐỀ XUẤT]
+- **Quy tắc được học dần, KHÔNG có sẵn ngày 1** [ĐÃ CHỈNH theo góp ý của bạn 16/10]: Ngày 1 anh chỉ ghi 3 điều quan sát (chúng đi bộ, đám đông kéo chúng đến, không biết có bao nhiêu). Quy tắc 1 (im lặng, tiếng ồn dẫn dụ chúng) học được cuối Tập 1 sau khi gọi 'xin chào' trong nhà lạ và để đèn pin sáng cả đêm. Quy tắc 2 (luôn có lối thoát thứ hai) học ở Tập 2 tại cây cầu. Quy tắc 3 (đừng ở nơi không rời đi được trong dưới 1 phút) học ở Tập 3 trên mái nhà. [nội dung ĐỀ XUẤT]
 - **THE STRANGER (Người Lạ):** người sống sót đầu tiên, xuất hiện **từ Ngày 6**, không sớm hơn (Ngày 5 chỉ có dấu vết). Kín tiếng, thực tế, cũng là người thường. Chưa có tiểu sử. [Ngày 6 ĐÃ CHỐT; còn lại ĐỀ XUẤT]
 
 ## 3. Luật thế giới (ngắn gọn)
@@ -28,7 +28,7 @@ Bắt đầu Ngày 1: ba lô nhỏ, điện thoại 85%, đèn pin ~8 giờ, nư
 
 | Cuối ngày | Nước | Thức ăn | Pin | Sức khỏe | Mệt | Nơi ở |
 |---|---|---|---|---|---|---|
-| 1 | 1,2 L | 3 | 62% | 92 (trầy lòng bàn tay) | 7 | Tòa nhà tiện ích nhỏ |
+| 1 | 1,2 L | 3 | 70% | 92 (trầy lòng bàn tay) | 7 | Tòa nhà tiện ích nhỏ |
 | 2 | 0,2 L | 1 | 50% | 88 | 6 | Quay về tòa nhà đó |
 | 3 | 0,7 L | 0 | 44% | 85 | 7 | Cùng nơi |
 | 4 | 0,3 L | 0 | 40% | 78 | 8 | Ở trong |
@@ -37,7 +37,7 @@ Bắt đầu Ngày 1: ba lô nhỏ, điện thoại 85%, đèn pin ~8 giờ, nư
 | 7 | 2,0 L | 3 | 30% | 87 | 5 | Nơi trú tạm mới (chung) |
 
 ## 5. Bảy tập đầu (tóm tắt)
-1. **Ngày 1 — "I Had 24 Hours to Survive the First Night of a Zombie Apocalypse".** Sáng sớm điện thoại báo khẩn cấp, 24 giờ nữa mới có tin mới. Anh chạy theo đám đông vào trung tâm thương mại (sai lầm đầu tiên), bị kẹt ở cầu thang đông nghẹt (ba lô mắc vào tay vịn, trầy lòng bàn tay), thoát ra cửa nhân viên. Lập Ba Quy Tắc, bỏ qua một ngôi nhà đáng ngờ, chọn tòa nhà tiện ích nhỏ làm nơi trú, sống qua đêm im lặng. Sáng ra nhận tin sơ tán: cầu sông, hạn 12 giờ trưa. (8 cảnh: Đồng hồ bắt đầu — Sai lầm đầu tiên — Cái bẫy — Ba quy tắc — Ngôi nhà sai — Giờ cuối — Đêm đầu tiên — Ngày thứ hai)
+1. **Ngày 1 — "I Had 24 Hours to Survive the First Night of a Zombie Apocalypse".** Sáng sớm điện thoại báo khẩn cấp, 24 giờ nữa mới có tin mới. Anh gọi điện cho người thân (hao pin, không ai nghe), chạy theo đám đông vào trung tâm thương mại (sai lầm đầu tiên), bị kẹt ở cầu thang đông nghẹt (ba lô mắc vào tay vịn, trầy lòng bàn tay), thoát ra cửa nhân viên chỉ vì bị đẩy tới đó. Ghi 3 điều quan sát. Vào một ngôi nhà lạ và gọi 'xin chào', bỏ chạy khi có tiếng bước chân. Tòa nhà tiện ích nhỏ là nơi cuối cùng còn lại, không phải lựa chọn khôn ngoan. Đêm đầu để đèn pin sáng làm zombie kéo tới cửa; đèn rơi tắt, im lặng, chúng bỏ đi: bài học đầu tiên. Sáng ra nhận tin sơ tán: cầu sông, hạn 12 giờ trưa. (8 cảnh: Đồng hồ bắt đầu — Sai lầm đầu tiên — Cái bẫy — Ba điều tôi biết [đổi từ 'Ba quy tắc'] — Ngôi nhà sai — Giờ cuối — Đêm đầu tiên — Ngày thứ hai)
 2. **Ngày 2 — Cây cầu.** Đi bộ 9 km tới cầu theo tin nhắn. Tránh một đám đông (lần đầu bỏ đi thay vì nhập vào), tới nơi thì cầu đã tắc, trạm kiểm soát bỏ hoang, quá hạn từ lâu. Quay về với bàn chân phồng rộp, cạn nước (0,2 L). Nỗi sợ lớn nhất giờ là phép tính, không phải zombie.
 3. **Ngày 3 — Nước.** Vòi nước cạn. Tìm nước ở tòa văn phòng nhỏ, lấy được nước từ bồn mái nhưng phải gây tiếng động, zombie kéo tới sân. Lấy 1,5 L, đổi lại hết thức ăn và mất sự yên tĩnh.
 4. **Ngày 4 — Nỗi sợ.** Ở lì trong phòng, nhịn, nhấp từng ngụm nước. Một đám zombie đi ngang, một con thử cửa trong đêm; anh im lặng và nó bỏ đi. Nhận ra các quy tắc giúp sống sót nhưng không đủ để sống. Viết kế hoạch cho ngày mai.
@@ -48,6 +48,7 @@ Bắt đầu Ngày 1: ba lô nhỏ, điện thoại 85%, đèn pin ~8 giờ, nư
 Tình trạng kịch bản lời bình: Tập 1 (~1.483 từ, ~9 phút) và Tập 2–5 (850–1.025 từ, chỉ ~5–6,5 phút) đã có **bản nháp tiếng Anh** chờ bạn duyệt. Tập 6–7 mới có dàn ý. **Chưa có tập nào được sản xuất hoàn chỉnh.**
 
 ## 6. Cách làm một tập (hiện tại)
+**Quy trình bạn yêu cầu: viết truyện → bạn duyệt → rồi mới làm video.** Mình sẽ không tạo giọng đọc, ảnh hay video cho tập nào khi bạn chưa duyệt kịch bản tập đó.
 1. Viết lời bình tiếng Anh (`content/<tập>/script.md`).
 2. Tạo giọng đọc + mốc thời gian thật: `python scripts/gen_voice.py ...` (cần mạng; ra `voice.wav`, phụ đề và timeline).
 3. Viết `prompts.txt` (mô tả từng ảnh) rồi `python scripts/build_scenes.py --slug <tập>`: chia lời bình thành các ảnh (khoảng 9–11 giây mỗi ảnh), tạo `scenes.csv` có prompt cho công cụ vẽ AI.
