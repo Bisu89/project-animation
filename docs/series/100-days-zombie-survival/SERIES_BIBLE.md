@@ -1,5 +1,10 @@
 # SERIES BIBLE — 100 Days: Zombie Survival
 
+> **FORMAT UPDATE (owner decision, 2026-10-16):** the series is now made mainly from **AI pictures with smooth zoom/pan, narration, subtitles and light motion**
+> (rain, wind, dust, flicker), not full stickman animation. Wherever this document says "animation", "L0-L3" or "grounded gait", read it as
+> **"picture plan + camera move + light fx"**. Pipeline: `PRODUCTION_WORKFLOW.md` section 2b. The vector animation code stays as an optional library.
+
+
 Status legend used in every document of this folder:
 **[CONFIRMED]** = decided by the series owner in conversation or already true in the repository.
 **[PROPOSAL]** = my suggestion to make the plan complete; needs approval before it becomes canon.

@@ -1,5 +1,10 @@
 # VISUAL STYLE GUIDE — 100 Days: Zombie Survival
 
+> **FORMAT UPDATE (owner decision, 2026-10-16):** the series is now made mainly from **AI pictures with smooth zoom/pan, narration, subtitles and light motion**
+> (rain, wind, dust, flicker), not full stickman animation. Wherever this document says "animation", "L0-L3" or "grounded gait", read it as
+> **"picture plan + camera move + light fx"**. Pipeline: `PRODUCTION_WORKFLOW.md` section 2b. The vector animation code stays as an optional library.
+
+
 Legend: **[CONFIRMED]** = already true in the repository code or brief (file named); **[PROPOSAL]** = suggestion.
 Values below were read from `demo-project/src/survival-test/*` and `demo-project/src/stickman/*` (engine copy of `assets/engine/`).
 

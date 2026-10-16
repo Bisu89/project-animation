@@ -1,5 +1,10 @@
 # PRODUCTION WORKFLOW — 100 Days: Zombie Survival
 
+> **FORMAT UPDATE (owner decision, 2026-10-16):** the series is now made mainly from **AI pictures with smooth zoom/pan, narration, subtitles and light motion**
+> (rain, wind, dust, flicker), not full stickman animation. Wherever this document says "animation", "L0-L3" or "grounded gait", read it as
+> **"picture plan + camera move + light fx"**. Pipeline: `PRODUCTION_WORKFLOW.md` section 2b. The vector animation code stays as an optional library.
+
+
 Everything here is taken from the repository as it actually behaves (`SKILL.md`, `demo-project/package.json`, `scripts/*.py`, `HANDOFF.md`) and from the two prototypes
 built so far. Legend: **[VERIFIED]** I ran or read it; **[PROPOSAL]** a suggested convention.
 
@@ -17,7 +22,15 @@ built so far. Legend: **[VERIFIED]** I ran or read it; **[PROPOSAL]** a suggeste
 - Episode narration and scene tables: `content/<slug>/script.md` and `content/<slug>/scenes.csv` (same format as `content/why-igloos/`).
 - Slug pattern: `zs-ep01` ... `zs-ep07`; composition id = PascalCase of the slug (`ZsEp01`). Reusable code shared across episodes (survivor, zombies, locations, gait) goes in a shared folder (for example `src/zs-shared/`) once a second episode needs it; today it lives in `src/survival-test/` (`gait.ts`, `Figures.tsx`, `World.tsx`).
 
-## 2. Steps for one episode
+## 2b. Picture pipeline (current, verified on Episode 1)
+1. `content/<slug>/script.md` (paragraphs). 2. `python scripts/gen_voice.py --script content/<slug>/script.md --out demo-project/public/<slug> --timeline-out demo-project/src/<slug> --rate=-4% --para-pause 0.9`.
+3. Write `content/<slug>/prompts.txt` (one line per picture: `fx | description`; the number of lines = number of scenes printed by step 4) and keep the shared style in `content/zs-style.txt`.
+4. `python scripts/build_scenes.py --slug <slug> --target 9` -> `content/<slug>/scenes.csv` (prompts for the AI image tool) + `src/<slug>/scenes.ts`.
+5. `python scripts/make_placeholders.py --slug <slug>`; the owner generates pictures and saves them as `demo-project/public/<slug>/images/sceneNN.png`.
+6. Copy `src/zs-ep01/Video.tsx` + `KenBurns.tsx` into the new episode folder (scaffold with `scripts/new_video.py` first), set `ASSETS`, then `npx remotion render <Id> out/<slug>.mp4`. Subtitles and voice are on by default.
+(The older animation steps below remain valid for animated scenes.)
+
+## 2. Steps for one episode (animation version)
 1. **Check continuity.** Read the episode's row in `EPISODE_OUTLINE.md` and the previous end-of-day row in `SURVIVAL_STATE.md`; run the checklist at the end of `WORLD_RULES.md`.
 2. **Write narration** (first person, ~1,200-1,500 words for 8-10 min): `content/<slug>/script.md`, paragraphs = scenes, `# Title` lines become chapter cards. No new facts that are not in these docs.
 3. **Scaffold:** `python scripts/new_video.py --project demo-project --slug zs-ep01 --seconds <n>` (creates `src/zs-ep01/`, `public/zs-ep01/`, registers `ZsEp01`).
