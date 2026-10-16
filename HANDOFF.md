@@ -39,6 +39,11 @@ writes `voice.wav`, `voice.srt` and the timeline (real timings, no whisper neede
   It is our own vector drawing (no PNG). We stop short of copying the game's characters exactly (copyright for a YouTube channel); say so if asked to go closer. Not done yet: crawler zombie, missing-arm variant, soft shading.
 - Style rules for the history/survival series: serious tone, small heads (`head: 0.8`), dot eyes, no comic fonts/bursts, restrained cuts (dip to black).
 
+### Series documentation (new, 2026-10-16): `docs/series/100-days-zombie-survival/`
+SERIES_BIBLE, CHARACTER_BIBLE, WORLD_RULES, SURVIVAL_STATE (numbers are PROPOSALS), EPISODE_OUTLINE (Ep 1-7, outlines only), VISUAL_STYLE_GUIDE, PRODUCTION_WORKFLOW.
+Everything is tagged [CONFIRMED]/[PROPOSAL]; read WORLD_RULES + SURVIVAL_STATE before writing any script. **Known conflict:** the SurvivalTest zombies keep pace with a sprinting human, which
+strains the confirmed rule "no superhuman speed" (WORLD_RULES section 1): slow the zombies in animation before using that clip as canon.
+
 ### Open items / next steps
 1. **Survival series**: the user's approved English narration (8 scenes: Clock Starts, First Mistake, Trap, Three Rules, Wrong House, Last Hour, First Night, Day Two) has NOT been provided yet. Next: get it, run `gen_voice.py`, then animatic of scenes 1-2. Priority animation scenes: street panic, mall run, stairwell (backpack caught on railing), house door handle + window shadow, night flashlight/door shake, dawn walk to bridge. Gaps in the engine: door with open/close state, flashlight beam, stairs/railing, smooth turn-around (facing flips instantly), footstep sfx.
 2. SurvivalTest leftovers: survivor's face is pale under the bars, first two zombies overlap at the grille, survivor never turns to look at them.
