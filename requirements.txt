@@ -1,6 +1,7 @@
 numpy
 scipy
 pillow
+edge-tts>=7.3.1        # gen_voice.py (7.2.8 gives HTTP 403)
 # optional
 faster-whisper          # align_voice.py / transcribe_voice.py
 youtube-transcript-api  # fetch_transcript.py

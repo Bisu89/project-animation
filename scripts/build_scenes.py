@@ -37,6 +37,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--slug", required=True)
     ap.add_argument("--target", type=float, default=11.0, help="aim for this many seconds per image")
+    ap.add_argument("--min-s", type=float, default=7.0, help="fold scenes shorter than this into the previous one")
     ap.add_argument("--style-file", default="content/zs-style.txt")
     a = ap.parse_args()
     root = os.path.dirname(HERE)
@@ -57,6 +58,16 @@ def main():
             cur = {"chapter": chapter, "first": first, "last": last}
             scenes.append(cur)
 
+    # a scene shorter than --min-s is folded into the previous scene of the same chapter (no 2-second pictures)
+    merged = []
+    for s in scenes:
+        short = cues[s["last"]]["end"] - cues[s["first"]]["start"] < a.min_s
+        if merged and short and merged[-1]["chapter"] == s["chapter"]:
+            merged[-1]["last"] = s["last"]
+        else:
+            merged.append(s)
+    scenes = merged
+
     prompts = []
     pf = os.path.join(root, "content", a.slug, "prompts.txt")
     if os.path.exists(pf):
@@ -73,6 +84,11 @@ def main():
         text = " ".join(c["text"] for c in cues[s["first"] : s["last"] + 1])
         name = f"scene{i + 1:02d}.png"
         motion = MOTIONS[i % len(MOTIONS)]
+        toks = fx.split()
+        for t in toks:  # `mo:in-left` in the fx column picks this picture's camera move
+            if t.startswith("mo:"):
+                motion = t[3:]
+        fx = " ".join(t for t in toks if not t.startswith("mo:")) or "none"
         rows.append([i + 1, s["chapter"], round(start, 1), round(end, 1), text, name, motion, fx, f"{style} {desc}".strip()])
         ts.append({"i": i + 1, "chapter": s["chapter"], "firstCue": s["first"], "lastCue": s["last"], "image": name, "motion": motion, "fx": fx})
 

@@ -5,423 +5,432 @@ export const SCENE_SPECS: SceneSpec[] = [
   "i": 1,
   "chapter": "1. The Clock Starts",
   "firstCue": 0,
-  "lastCue": 2,
+  "lastCue": 3,
   "image": "scene01.png",
   "motion": "in",
-  "fx": "flicker"
+  "fx": "screen:0.275,0.73,0.2,#ff2a2a alarm:#ff1a1a,1.4 card:alert@2 hand"
  },
  {
   "i": 2,
   "chapter": "1. The Clock Starts",
-  "firstCue": 3,
-  "lastCue": 5,
+  "firstCue": 4,
+  "lastCue": 9,
   "image": "scene02.png",
-  "motion": "out",
-  "fx": "none"
+  "motion": "in-right",
+  "fx": "screen:0.52,0.5,0.08 breath:0.43,0.52,0.2,0.3,0.9 card:chat@3"
  },
  {
   "i": 3,
   "chapter": "1. The Clock Starts",
-  "firstCue": 6,
-  "lastCue": 8,
+  "firstCue": 10,
+  "lastCue": 14,
   "image": "scene03.png",
-  "motion": "in-left",
-  "fx": "none"
+  "motion": "out-left",
+  "fx": "lamp:0.853,0.055,0.1,fail glow:0.49,0.5,0.045,#ffa21a,blink glow:0.61,0.495,0.045,#ffa21a,blink glow:0.33,0.48,0.035,#ffa21a,blink breath:0.17,0.66,0.2,0.35,0.8 hand"
  },
  {
   "i": 4,
   "chapter": "1. The Clock Starts",
-  "firstCue": 9,
-  "lastCue": 13,
+  "firstCue": 15,
+  "lastCue": 19,
   "image": "scene04.png",
-  "motion": "in-right",
-  "fx": "dust"
+  "motion": "in",
+  "fx": "lamp:0.537,0.27,0.05,flicker heart:78 hand"
  },
  {
   "i": 5,
   "chapter": "1. The Clock Starts",
-  "firstCue": 14,
-  "lastCue": 18,
+  "firstCue": 20,
+  "lastCue": 24,
   "image": "scene05.png",
-  "motion": "out-left",
-  "fx": "none"
+  "motion": "in",
+  "fx": "lamp:0.526,0.065,0.14,flicker heart:84"
  },
  {
   "i": 6,
   "chapter": "1. The Clock Starts",
-  "firstCue": 19,
-  "lastCue": 24,
+  "firstCue": 25,
+  "lastCue": 28,
   "image": "scene06.png",
   "motion": "in-up",
-  "fx": "flicker"
+  "fx": "glow:0.62,0.63,0.18,#ffd9a0,flicker,0.4 breath:0.38,0.5,0.17,0.4,0.8 heart:88 hand"
  },
  {
   "i": 7,
   "chapter": "1. The Clock Starts",
-  "firstCue": 25,
-  "lastCue": 28,
+  "firstCue": 29,
+  "lastCue": 33,
   "image": "scene07.png",
-  "motion": "out-right",
-  "fx": "none"
+  "motion": "in",
+  "fx": "lamp:0.634,0.05,0.1,flicker sway:0.8,0.47,0.14,0.2,0.6 heart:90 hand"
  },
  {
   "i": 8,
-  "chapter": "2. The First Mistake",
-  "firstCue": 29,
-  "lastCue": 30,
+  "chapter": "1. The Clock Starts",
+  "firstCue": 34,
+  "lastCue": 36,
   "image": "scene08.png",
-  "motion": "in-down",
-  "fx": "dust"
+  "motion": "out-right",
+  "fx": "lamp:0.94,0.42,0.1,flicker fog:#8a93a3,0.12 dust hand"
  },
  {
   "i": 9,
   "chapter": "2. The First Mistake",
-  "firstCue": 31,
-  "lastCue": 33,
+  "firstCue": 37,
+  "lastCue": 40,
   "image": "scene09.png",
-  "motion": "in",
-  "fx": "none"
+  "motion": "in-left",
+  "fx": "breath:0.15,0.5,0.18,0.45,0.8 dust hand"
  },
  {
   "i": 10,
   "chapter": "2. The First Mistake",
-  "firstCue": 34,
-  "lastCue": 38,
+  "firstCue": 41,
+  "lastCue": 47,
   "image": "scene10.png",
   "motion": "out",
-  "fx": "dust"
+  "fx": "glow:0.6,0.32,0.28,#ffd98a,flicker,0.3 lamp:0.075,0.07,0.06,flicker lamp:0.96,0.09,0.06,fail breath:0.19,0.55,0.17,0.45,0.8 dust"
  },
  {
   "i": 11,
   "chapter": "2. The First Mistake",
-  "firstCue": 39,
-  "lastCue": 44,
+  "firstCue": 48,
+  "lastCue": 51,
   "image": "scene11.png",
-  "motion": "in-left",
-  "fx": "flicker"
+  "motion": "in-right",
+  "fx": "glow:0.5,0.07,0.22,#fff0c0,flicker,0.3"
  },
  {
   "i": 12,
   "chapter": "2. The First Mistake",
-  "firstCue": 45,
-  "lastCue": 48,
+  "firstCue": 52,
+  "lastCue": 55,
   "image": "scene12.png",
-  "motion": "in-right",
-  "fx": "none"
+  "motion": "in-left",
+  "fx": "screen:0.227,0.49,0.07"
  },
  {
   "i": 13,
   "chapter": "2. The First Mistake",
-  "firstCue": 49,
-  "lastCue": 52,
+  "firstCue": 56,
+  "lastCue": 60,
   "image": "scene13.png",
-  "motion": "out-left",
-  "fx": "dust"
+  "motion": "in-up",
+  "fx": "heart:76 alarm:#ff2a2a,0.9 hand"
  },
  {
   "i": 14,
   "chapter": "3. The Trap",
-  "firstCue": 53,
-  "lastCue": 56,
+  "firstCue": 61,
+  "lastCue": 64,
   "image": "scene14.png",
-  "motion": "in-up",
-  "fx": "flicker"
+  "motion": "in",
+  "fx": "alarm:#ff2a2a,1.3 hand"
  },
  {
   "i": 15,
   "chapter": "3. The Trap",
-  "firstCue": 57,
-  "lastCue": 60,
+  "firstCue": 65,
+  "lastCue": 68,
   "image": "scene15.png",
-  "motion": "out-right",
-  "fx": "none"
+  "motion": "in-left",
+  "fx": "glow:0.878,0.05,0.05,#3cff8a,pulse alarm:#ff2a2a,1.3 hand"
  },
  {
   "i": 16,
   "chapter": "3. The Trap",
-  "firstCue": 61,
-  "lastCue": 67,
+  "firstCue": 69,
+  "lastCue": 74,
   "image": "scene16.png",
-  "motion": "in-down",
-  "fx": "flicker"
+  "motion": "in",
+  "fx": "lamp:0.26,0.11,0.1,flicker heart:96 hand"
  },
  {
   "i": 17,
   "chapter": "3. The Trap",
-  "firstCue": 68,
-  "lastCue": 70,
+  "firstCue": 75,
+  "lastCue": 80,
   "image": "scene17.png",
   "motion": "in",
-  "fx": "none"
+  "fx": "heart:100 hand"
  },
  {
   "i": 18,
   "chapter": "3. The Trap",
-  "firstCue": 71,
-  "lastCue": 72,
+  "firstCue": 81,
+  "lastCue": 84,
   "image": "scene18.png",
-  "motion": "out",
-  "fx": "none"
+  "motion": "in-right",
+  "fx": "lamp:0.466,0.09,0.06,flicker hand"
  },
  {
   "i": 19,
   "chapter": "3. The Trap",
-  "firstCue": 73,
-  "lastCue": 77,
+  "firstCue": 85,
+  "lastCue": 89,
   "image": "scene19.png",
-  "motion": "in-left",
-  "fx": "dust"
+  "motion": "out",
+  "fx": "breath:0.39,0.5,0.26,0.5,0.8 dust"
  },
  {
   "i": 20,
-  "chapter": "3. The Trap",
-  "firstCue": 78,
-  "lastCue": 78,
+  "chapter": "4. After the Mall",
+  "firstCue": 90,
+  "lastCue": 95,
   "image": "scene20.png",
-  "motion": "in-right",
-  "fx": "none"
+  "motion": "in-left",
+  "fx": "dust hand"
  },
  {
   "i": 21,
-  "chapter": "4. Three Rules",
-  "firstCue": 79,
-  "lastCue": 80,
+  "chapter": "4. After the Mall",
+  "firstCue": 96,
+  "lastCue": 101,
   "image": "scene21.png",
-  "motion": "out-left",
-  "fx": "none"
+  "motion": "in",
+  "fx": "glow:0.625,0.56,0.04,#ffa21a,blink glow:0.81,0.56,0.04,#ffa21a,blink glow:0.336,0.44,0.03,#ffa21a,blink glow:0.737,0.14,0.04,#ff2a2a,blink hand"
  },
  {
   "i": 22,
-  "chapter": "4. Three Rules",
-  "firstCue": 81,
-  "lastCue": 85,
+  "chapter": "4. After the Mall",
+  "firstCue": 102,
+  "lastCue": 106,
   "image": "scene22.png",
-  "motion": "in-up",
-  "fx": "none"
+  "motion": "out-left",
+  "fx": "fog:#8d96a6,0.16 breath:0.15,0.55,0.2,0.45,0.8 glow:0.86,0.16,0.05,#ff4a3a,pulse"
  },
  {
   "i": 23,
-  "chapter": "4. Three Rules",
-  "firstCue": 86,
-  "lastCue": 89,
+  "chapter": "5. The Wrong House",
+  "firstCue": 107,
+  "lastCue": 110,
   "image": "scene23.png",
   "motion": "out-right",
-  "fx": "none"
+  "fx": "wind dust hand"
  },
  {
   "i": 24,
-  "chapter": "4. Three Rules",
-  "firstCue": 90,
-  "lastCue": 94,
+  "chapter": "5. The Wrong House",
+  "firstCue": 111,
+  "lastCue": 115,
   "image": "scene24.png",
-  "motion": "in-down",
-  "fx": "wind"
+  "motion": "in",
+  "fx": "talk:0.378,0.392,0.02,0.03,4 wind"
  },
  {
   "i": 25,
-  "chapter": "4. Three Rules",
-  "firstCue": 95,
-  "lastCue": 99,
+  "chapter": "5. The Wrong House",
+  "firstCue": 116,
+  "lastCue": 119,
   "image": "scene25.png",
   "motion": "in",
-  "fx": "none"
+  "fx": "hand"
  },
  {
   "i": 26,
   "chapter": "5. The Wrong House",
-  "firstCue": 100,
-  "lastCue": 108,
+  "firstCue": 120,
+  "lastCue": 123,
   "image": "scene26.png",
-  "motion": "out",
-  "fx": "none"
+  "motion": "in-up",
+  "fx": "dust heart:84 hand"
  },
  {
   "i": 27,
   "chapter": "5. The Wrong House",
-  "firstCue": 109,
-  "lastCue": 111,
+  "firstCue": 124,
+  "lastCue": 129,
   "image": "scene27.png",
-  "motion": "in-left",
-  "fx": "flicker"
+  "motion": "in-up",
+  "fx": "talk:0.386,0.33,0.022,0.032,3-4 heart:90"
  },
  {
   "i": 28,
   "chapter": "5. The Wrong House",
-  "firstCue": 112,
-  "lastCue": 116,
+  "firstCue": 130,
+  "lastCue": 134,
   "image": "scene28.png",
-  "motion": "in-right",
-  "fx": "none"
+  "motion": "in",
+  "fx": "heart:104 hand"
  },
  {
   "i": 29,
   "chapter": "5. The Wrong House",
-  "firstCue": 117,
-  "lastCue": 117,
+  "firstCue": 135,
+  "lastCue": 137,
   "image": "scene29.png",
-  "motion": "out-left",
-  "fx": "none"
+  "motion": "out",
+  "fx": "dust breath:0.23,0.52,0.18,0.35,0.8"
  },
  {
   "i": 30,
   "chapter": "5. The Wrong House",
-  "firstCue": 118,
-  "lastCue": 122,
+  "firstCue": 138,
+  "lastCue": 140,
   "image": "scene30.png",
-  "motion": "in-up",
-  "fx": "none"
+  "motion": "in",
+  "fx": "breath:0.3,0.5,0.3,0.6,0.8 hand"
  },
  {
   "i": 31,
-  "chapter": "5. The Wrong House",
-  "firstCue": 123,
-  "lastCue": 123,
+  "chapter": "6. A Place for the Night",
+  "firstCue": 141,
+  "lastCue": 145,
   "image": "scene31.png",
   "motion": "out-right",
-  "fx": "none"
+  "fx": "lamp:0.21,0.05,0.08,fail"
  },
  {
   "i": 32,
-  "chapter": "6. The Last Hour",
-  "firstCue": 124,
-  "lastCue": 126,
+  "chapter": "6. A Place for the Night",
+  "firstCue": 146,
+  "lastCue": 152,
   "image": "scene32.png",
-  "motion": "in-down",
-  "fx": "none"
+  "motion": "in-left",
+  "fx": "fog:#7f8794,0.2 glow:0.867,0.15,0.04,#ff7a2a,flicker lamp:0.67,0.43,0.05,flicker"
  },
  {
   "i": 33,
-  "chapter": "6. The Last Hour",
-  "firstCue": 127,
-  "lastCue": 130,
+  "chapter": "6. A Place for the Night",
+  "firstCue": 153,
+  "lastCue": 158,
   "image": "scene33.png",
   "motion": "in",
-  "fx": "none"
+  "fx": "lamp:0.15,0.04,0.08,flicker hand"
  },
  {
   "i": 34,
-  "chapter": "6. The Last Hour",
-  "firstCue": 131,
-  "lastCue": 134,
+  "chapter": "6. A Place for the Night",
+  "firstCue": 159,
+  "lastCue": 164,
   "image": "scene34.png",
-  "motion": "out",
-  "fx": "dust"
+  "motion": "in-right",
+  "fx": "torch:0.5,0.54,0.32,0.8 hand"
  },
  {
   "i": 35,
-  "chapter": "6. The Last Hour",
-  "firstCue": 135,
-  "lastCue": 141,
+  "chapter": "6. A Place for the Night",
+  "firstCue": 165,
+  "lastCue": 169,
   "image": "scene35.png",
-  "motion": "in-left",
-  "fx": "none"
+  "motion": "out",
+  "fx": "breath:0.33,0.57,0.15,0.42,0.8 dust"
  },
  {
   "i": 36,
-  "chapter": "6. The Last Hour",
-  "firstCue": 142,
-  "lastCue": 145,
+  "chapter": "7. The First Night",
+  "firstCue": 170,
+  "lastCue": 174,
   "image": "scene36.png",
-  "motion": "in-right",
-  "fx": "none"
+  "motion": "in",
+  "fx": "screen:0.14,0.74,0.08 card:nosignal@1"
  },
  {
   "i": 37,
-  "chapter": "6. The Last Hour",
-  "firstCue": 146,
-  "lastCue": 146,
+  "chapter": "7. The First Night",
+  "firstCue": 175,
+  "lastCue": 178,
   "image": "scene37.png",
-  "motion": "out-left",
-  "fx": "rain"
+  "motion": "in-left",
+  "fx": "lamp:0.32,0.045,0.07,flicker heart:72 hand"
  },
  {
   "i": 38,
   "chapter": "7. The First Night",
-  "firstCue": 147,
-  "lastCue": 151,
+  "firstCue": 179,
+  "lastCue": 184,
   "image": "scene38.png",
-  "motion": "in-up",
-  "fx": "none"
+  "motion": "in",
+  "fx": "torch:0.58,0.43,0.28,0.8 heart:92 dust"
  },
  {
   "i": 39,
   "chapter": "7. The First Night",
-  "firstCue": 152,
-  "lastCue": 155,
+  "firstCue": 185,
+  "lastCue": 189,
   "image": "scene39.png",
-  "motion": "out-right",
-  "fx": "flicker"
+  "motion": "in",
+  "fx": "heart:98 hand"
  },
  {
   "i": 40,
   "chapter": "7. The First Night",
-  "firstCue": 156,
-  "lastCue": 162,
+  "firstCue": 190,
+  "lastCue": 195,
   "image": "scene40.png",
-  "motion": "in-down",
-  "fx": "flicker"
+  "motion": "in",
+  "fx": "heart:100 hand"
  },
  {
   "i": 41,
   "chapter": "7. The First Night",
-  "firstCue": 163,
-  "lastCue": 165,
+  "firstCue": 196,
+  "lastCue": 200,
   "image": "scene41.png",
-  "motion": "in",
-  "fx": "none"
+  "motion": "in-up",
+  "fx": "breath:0.86,0.5,0.17,0.45,1.2 glow:0.56,0.6,0.15,#9fb7ff,pulse,0.3 heart:62"
  },
  {
   "i": 42,
   "chapter": "7. The First Night",
-  "firstCue": 166,
-  "lastCue": 173,
+  "firstCue": 201,
+  "lastCue": 206,
   "image": "scene42.png",
   "motion": "out",
-  "fx": "none"
+  "fx": "glow:0.82,0.74,0.1,#ffd9a0,pulse,0.4 heart:56 breath:0.64,0.5,0.14,0.4,1"
  },
  {
   "i": 43,
-  "chapter": "7. The First Night",
-  "firstCue": 174,
-  "lastCue": 177,
+  "chapter": "8. Day Two",
+  "firstCue": 207,
+  "lastCue": 209,
   "image": "scene43.png",
-  "motion": "in-left",
-  "fx": "none"
+  "motion": "out-left",
+  "fx": "fog:#aab2bf,0.15 wind"
  },
  {
   "i": 44,
   "chapter": "8. Day Two",
-  "firstCue": 178,
-  "lastCue": 181,
+  "firstCue": 210,
+  "lastCue": 214,
   "image": "scene44.png",
-  "motion": "in-right",
-  "fx": "flicker"
+  "motion": "in",
+  "fx": "wind dust"
  },
  {
   "i": 45,
   "chapter": "8. Day Two",
-  "firstCue": 182,
-  "lastCue": 188,
+  "firstCue": 215,
+  "lastCue": 219,
   "image": "scene45.png",
-  "motion": "out-left",
-  "fx": "none"
+  "motion": "in",
+  "fx": "screen:0.5,0.52,0.07,#9fd0ff card:evac@2 hand"
  },
  {
   "i": 46,
   "chapter": "8. Day Two",
-  "firstCue": 189,
-  "lastCue": 193,
+  "firstCue": 220,
+  "lastCue": 223,
   "image": "scene46.png",
-  "motion": "in-up",
-  "fx": "dust"
+  "motion": "in-down",
+  "fx": "screen:0.63,0.4,0.04 breath:0.72,0.5,0.15,0.42,1"
  },
  {
   "i": 47,
   "chapter": "8. Day Two",
-  "firstCue": 194,
-  "lastCue": 196,
+  "firstCue": 224,
+  "lastCue": 226,
   "image": "scene47.png",
-  "motion": "out-right",
-  "fx": "none"
+  "motion": "in-up",
+  "fx": "breath:0.52,0.45,0.2,0.5,1 hand"
+ },
+ {
+  "i": 48,
+  "chapter": "8. Day Two",
+  "firstCue": 227,
+  "lastCue": 229,
+  "image": "scene48.png",
+  "motion": "in",
+  "fx": "glow:0.773,0.45,0.1,#ffeec8,pulse,0.35 fog:#c9ced8,0.12"
  }
 ];

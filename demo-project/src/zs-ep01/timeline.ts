@@ -20,1772 +20,2078 @@ export type Timeline = {
 
 export const TIMELINE: Timeline = {
   "fps": 30,
-  "durationInFrames": 18200,
-  "seconds": 606.67,
+  "durationInFrames": 22046,
+  "seconds": 734.87,
   "cues": [
     {
       "i": 0,
       "start": 0.6,
-      "end": 4.61,
+      "end": 3.74,
       "startFrame": 18,
-      "endFrame": 138,
-      "words": 15,
-      "text": "At six-oh-two in the morning my phone made a sound I had never heard before."
+      "endFrame": 112,
+      "words": 11,
+      "text": "At six-oh-two in the morning, my phone let out an alarm."
     },
     {
       "i": 1,
-      "start": 4.96,
-      "end": 6.197,
-      "startFrame": 149,
-      "endFrame": 186,
-      "words": 3,
-      "text": "Not a ringtone."
+      "start": 4.29,
+      "end": 6.78,
+      "startFrame": 129,
+      "endFrame": 203,
+      "words": 9,
+      "text": "I woke up, reaching for it on the table."
     },
     {
       "i": 2,
-      "start": 6.547,
-      "end": 7.562,
-      "startFrame": 196,
-      "endFrame": 227,
-      "words": 2,
-      "text": "An alarm."
+      "start": 7.33,
+      "end": 9.59,
+      "startFrame": 220,
+      "endFrame": 288,
+      "words": 6,
+      "text": "The screen showed an emergency alert."
     },
     {
       "i": 3,
-      "start": 8.462,
-      "end": 10.767,
-      "startFrame": 254,
-      "endFrame": 323,
-      "words": 5,
-      "text": "The screen said: emergency alert."
+      "start": 9.94,
+      "end": 14.368,
+      "startFrame": 298,
+      "endFrame": 431,
+      "words": 15,
+      "text": "Residents were told to stay inside, lock their doors, and wait for the next update."
     },
     {
       "i": 4,
-      "start": 11.117,
-      "end": 12.353,
-      "startFrame": 334,
-      "endFrame": 371,
-      "words": 2,
-      "text": "Remain calm."
+      "start": 14.918,
+      "end": 16.745,
+      "startFrame": 448,
+      "endFrame": 502,
+      "words": 7,
+      "text": "I called a few numbers I knew."
     },
     {
       "i": 5,
-      "start": 12.703,
-      "end": 14.956,
-      "startFrame": 381,
-      "endFrame": 449,
-      "words": 5,
-      "text": "Next update in twenty-four hours."
+      "start": 17.095,
+      "end": 18.36,
+      "startFrame": 513,
+      "endFrame": 551,
+      "words": 3,
+      "text": "No one answered."
     },
     {
       "i": 6,
-      "start": 15.856,
-      "end": 17.731,
-      "startFrame": 476,
-      "endFrame": 532,
-      "words": 6,
-      "text": "I read the last line twice."
+      "start": 18.71,
+      "end": 22.194,
+      "startFrame": 561,
+      "endFrame": 666,
+      "words": 9,
+      "text": "On the building's resident chat, messages kept jumping in."
     },
     {
       "i": 7,
-      "start": 18.081,
-      "end": 19.526,
-      "startFrame": 542,
-      "endFrame": 586,
-      "words": 2,
-      "text": "Twenty-four hours."
+      "start": 22.544,
+      "end": 24.588,
+      "startFrame": 676,
+      "endFrame": 738,
+      "words": 5,
+      "text": "Someone asked what was happening."
     },
     {
       "i": 8,
-      "start": 19.876,
-      "end": 23.469,
-      "startFrame": 596,
-      "endFrame": 704,
-      "words": 13,
-      "text": "Whoever wrote it did not think I would need to know anything sooner."
+      "start": 24.938,
+      "end": 26.981,
+      "startFrame": 748,
+      "endFrame": 809,
+      "words": 6,
+      "text": "Someone said not to go outside."
     },
     {
       "i": 9,
-      "start": 24.369,
-      "end": 25.788,
-      "startFrame": 731,
-      "endFrame": 774,
-      "words": 4,
-      "text": "I called my sister."
+      "start": 27.331,
+      "end": 31.555,
+      "startFrame": 820,
+      "endFrame": 947,
+      "words": 14,
+      "text": "A video someone had just posted was deleted before I could finish watching it."
     },
     {
       "i": 10,
-      "start": 26.138,
-      "end": 27.492,
-      "startFrame": 784,
-      "endFrame": 825,
-      "words": 4,
-      "text": "It rang and rang."
+      "start": 32.105,
+      "end": 33.498,
+      "startFrame": 963,
+      "endFrame": 1005,
+      "words": 5,
+      "text": "I went to the window."
     },
     {
       "i": 11,
-      "start": 27.842,
-      "end": 29.743,
-      "startFrame": 835,
-      "endFrame": 892,
-      "words": 6,
-      "text": "I called a friend across town."
+      "start": 34.048,
+      "end": 36.818,
+      "startFrame": 1021,
+      "endFrame": 1105,
+      "words": 8,
+      "text": "Down on the street, a car rear-ended another."
     },
     {
       "i": 12,
-      "start": 30.093,
-      "end": 30.913,
-      "startFrame": 903,
-      "endFrame": 927,
-      "words": 1,
-      "text": "Nothing."
+      "start": 37.168,
+      "end": 39.186,
+      "startFrame": 1115,
+      "endFrame": 1176,
+      "words": 6,
+      "text": "The driver abandoned it and ran."
     },
     {
       "i": 13,
-      "start": 31.263,
-      "end": 35.638,
-      "startFrame": 938,
-      "endFrame": 1069,
-      "words": 15,
-      "text": "I called the emergency number, and a recording told me that all lines were busy."
+      "start": 39.536,
+      "end": 43.097,
+      "startFrame": 1186,
+      "endFrame": 1293,
+      "words": 12,
+      "text": "Near the corner store, a few people were struggling with each other."
     },
     {
       "i": 14,
-      "start": 35.988,
-      "end": 40.024,
-      "startFrame": 1080,
-      "endFrame": 1201,
-      "words": 13,
-      "text": "Eight percent of my battery, gone, and I knew nothing more than before."
+      "start": 43.447,
+      "end": 46.268,
+      "startFrame": 1303,
+      "endFrame": 1388,
+      "words": 9,
+      "text": "One of them fell, and the rest scattered fast."
     },
     {
       "i": 15,
-      "start": 40.924,
-      "end": 42.408,
-      "startFrame": 1228,
-      "endFrame": 1272,
-      "words": 5,
-      "text": "I walked to the window."
+      "start": 46.818,
+      "end": 49.984,
+      "startFrame": 1405,
+      "endFrame": 1500,
+      "words": 12,
+      "text": "I pulled the curtain shut and went back to lock the door."
     },
     {
       "i": 16,
-      "start": 42.758,
-      "end": 47.055,
-      "startFrame": 1283,
-      "endFrame": 1412,
-      "words": 17,
-      "text": "Down on the street, a man ran past a stopped car with his shoes in his hand."
+      "start": 50.534,
+      "end": 52.092,
+      "startFrame": 1516,
+      "endFrame": 1563,
+      "words": 5,
+      "text": "I meant to stay inside."
     },
     {
       "i": 17,
-      "start": 47.405,
-      "end": 49.371,
-      "startFrame": 1422,
-      "endFrame": 1481,
-      "words": 6,
-      "text": "A woman was screaming a name."
+      "start": 52.642,
+      "end": 56.688,
+      "startFrame": 1579,
+      "endFrame": 1701,
+      "words": 14,
+      "text": "About ten minutes later, there was pounding on a door somewhere down the hallway."
     },
     {
       "i": 18,
-      "start": 49.721,
-      "end": 53.588,
-      "startFrame": 1492,
-      "endFrame": 1608,
-      "words": 13,
-      "text": "Someone was leaning on a horn, and nobody was telling him to stop."
+      "start": 57.038,
+      "end": 59.528,
+      "startFrame": 1711,
+      "endFrame": 1786,
+      "words": 10,
+      "text": "A man was calling for someone to let him in."
     },
     {
       "i": 19,
-      "start": 53.938,
-      "end": 60.539,
-      "startFrame": 1618,
-      "endFrame": 1816,
-      "words": 25,
-      "text": "At the far end of the block, a few people were walking toward the crowd, slowly, in a way that made the crowd run faster."
+      "start": 59.878,
+      "end": 62.253,
+      "startFrame": 1796,
+      "endFrame": 1868,
+      "words": 8,
+      "text": "I went closer and looked through the peephole."
     },
     {
       "i": 20,
-      "start": 61.439,
-      "end": 63.926,
-      "startFrame": 1843,
-      "endFrame": 1918,
-      "words": 9,
-      "text": "I did not understand what I was looking at."
+      "start": 62.803,
+      "end": 67.665,
+      "startFrame": 1884,
+      "endFrame": 2030,
+      "words": 17,
+      "text": "He was standing in front of the apartment across from mine, one hand holding the other arm."
     },
     {
       "i": 21,
-      "start": 64.276,
-      "end": 69.744,
-      "startFrame": 1928,
-      "endFrame": 2092,
-      "words": 20,
-      "text": "I understood only one thing: everyone was running, and I did not want to be the one who stayed behind."
+      "start": 68.015,
+      "end": 70.05799999999999,
+      "startFrame": 2040,
+      "endFrame": 2102,
+      "words": 6,
+      "text": "Blood was dripping onto the floor."
     },
     {
       "i": 22,
-      "start": 70.645,
-      "end": 72.91,
-      "startFrame": 2119,
-      "endFrame": 2187,
-      "words": 7,
-      "text": "I packed in a hurry, without thinking."
+      "start": 70.608,
+      "end": 73.787,
+      "startFrame": 2118,
+      "endFrame": 2214,
+      "words": 10,
+      "text": "Before I could do anything, the stairwell door burst open."
     },
     {
       "i": 23,
-      "start": 73.26,
-      "end": 74.83500000000001,
-      "startFrame": 2198,
-      "endFrame": 2245,
-      "words": 4,
-      "text": "Two bottles of water."
+      "start": 74.337,
+      "end": 75.755,
+      "startFrame": 2230,
+      "endFrame": 2273,
+      "words": 3,
+      "text": "Someone came out."
     },
     {
       "i": 24,
-      "start": 75.185,
-      "end": 76.55199999999999,
-      "startFrame": 2256,
-      "endFrame": 2297,
-      "words": 3,
-      "text": "Two snack bars."
-    },
-    {
-      "i": 25,
-      "start": 76.902,
-      "end": 79.298,
-      "startFrame": 2307,
-      "endFrame": 2379,
-      "words": 8,
-      "text": "My flashlight, because it was by the bed."
-    },
-    {
-      "i": 26,
-      "start": 79.648,
-      "end": 82.135,
-      "startFrame": 2389,
-      "endFrame": 2464,
-      "words": 5,
-      "text": "My phone, at seventy-seven percent."
-    },
-    {
-      "i": 27,
-      "start": 82.485,
-      "end": 87.30199999999999,
-      "startFrame": 2475,
-      "endFrame": 2619,
-      "words": 19,
-      "text": "I grabbed the small backpack from the hook by the door, and I left the door open behind me."
-    },
-    {
-      "i": 28,
-      "start": 88.202,
-      "end": 90.572,
-      "startFrame": 2646,
-      "endFrame": 2717,
-      "words": 8,
-      "text": "That was the first decision of the day."
-    },
-    {
-      "i": 29,
-      "start": 90.922,
-      "end": 94.398,
-      "startFrame": 2728,
-      "endFrame": 2832,
-      "words": 14,
-      "text": "I would make many more before night, and most of them would be wrong."
-    },
-    {
-      "i": 30,
-      "start": 95.298,
-      "end": 99.30799999999999,
-      "startFrame": 2859,
-      "endFrame": 2979,
-      "words": 15,
-      "text": "Everyone on the street was running the same way, so I ran the same way."
-    },
-    {
-      "i": 31,
-      "start": 99.658,
-      "end": 100.804,
-      "startFrame": 2990,
-      "endFrame": 3024,
-      "words": 3,
-      "text": "Toward the mall."
-    },
-    {
-      "i": 32,
-      "start": 101.70400000000001,
-      "end": 104.946,
-      "startFrame": 3051,
-      "endFrame": 3148,
-      "words": 8,
-      "text": "It had big doors, bright lights, security guards."
-    },
-    {
-      "i": 33,
-      "start": 105.29599999999999,
-      "end": 107.913,
-      "startFrame": 3159,
-      "endFrame": 3237,
-      "words": 11,
-      "text": "It looked like the kind of place that would be safe."
-    },
-    {
-      "i": 34,
-      "start": 108.263,
-      "end": 112.455,
-      "startFrame": 3248,
-      "endFrame": 3374,
-      "words": 15,
-      "text": "It did not occur to me that this was exactly why everybody was going there."
-    },
-    {
-      "i": 35,
-      "start": 113.35499999999999,
-      "end": 115.048,
-      "startFrame": 3401,
-      "endFrame": 3451,
-      "words": 5,
-      "text": "The entrance was a funnel."
-    },
-    {
-      "i": 36,
-      "start": 115.398,
-      "end": 119.642,
-      "startFrame": 3462,
-      "endFrame": 3589,
-      "words": 14,
-      "text": "Hundreds of people pushing through two doors, and the noise bouncing off the glass."
-    },
-    {
-      "i": 37,
-      "start": 119.99199999999999,
-      "end": 121.88,
-      "startFrame": 3600,
-      "endFrame": 3656,
-      "words": 6,
-      "text": "I told myself it was fine."
-    },
-    {
-      "i": 38,
-      "start": 122.23,
-      "end": 123.649,
-      "startFrame": 3667,
-      "endFrame": 3709,
-      "words": 3,
-      "text": "Crowds mean help."
-    },
-    {
-      "i": 39,
-      "start": 123.999,
-      "end": 126.069,
-      "startFrame": 3720,
-      "endFrame": 3782,
-      "words": 6,
-      "text": "Crowds mean someone is in charge."
-    },
-    {
-      "i": 40,
-      "start": 126.969,
-      "end": 128.753,
-      "startFrame": 3809,
-      "endFrame": 3863,
-      "words": 4,
-      "text": "Inside, it got worse."
-    },
-    {
-      "i": 41,
-      "start": 129.103,
-      "end": 132.644,
-      "startFrame": 3873,
-      "endFrame": 3979,
-      "words": 11,
-      "text": "A man shouted for everyone to stay calm, and nobody listened."
-    },
-    {
-      "i": 42,
-      "start": 132.994,
-      "end": 135.338,
-      "startFrame": 3990,
-      "endFrame": 4060,
-      "words": 7,
-      "text": "A child was crying somewhere above me."
-    },
-    {
-      "i": 43,
-      "start": 135.688,
-      "end": 139.763,
-      "startFrame": 4071,
-      "endFrame": 4193,
-      "words": 16,
-      "text": "I found a small kiosk with its shutter half open and took what I could carry."
-    },
-    {
-      "i": 44,
-      "start": 140.113,
-      "end": 141.688,
-      "startFrame": 4203,
-      "endFrame": 4251,
-      "words": 4,
-      "text": "Two bottles of water."
-    },
-    {
-      "i": 45,
-      "start": 142.038,
-      "end": 143.575,
-      "startFrame": 4261,
-      "endFrame": 4307,
-      "words": 4,
-      "text": "Three cans of food."
-    },
-    {
-      "i": 46,
-      "start": 143.925,
-      "end": 146.06,
-      "startFrame": 4318,
-      "endFrame": 4382,
-      "words": 6,
-      "text": "I felt almost proud of myself."
-    },
-    {
-      "i": 47,
-      "start": 146.96,
-      "end": 148.704,
-      "startFrame": 4409,
-      "endFrame": 4461,
-      "words": 6,
-      "text": "I did not look for exits."
-    },
-    {
-      "i": 48,
-      "start": 149.054,
-      "end": 151.203,
-      "startFrame": 4472,
-      "endFrame": 4536,
-      "words": 7,
-      "text": "I did not even think about exits."
-    },
-    {
-      "i": 49,
-      "start": 151.553,
-      "end": 153.427,
-      "startFrame": 4547,
-      "endFrame": 4603,
-      "words": 6,
-      "text": "I did what everyone else did."
-    },
-    {
-      "i": 50,
-      "start": 153.777,
-      "end": 157.04500000000002,
-      "startFrame": 4613,
-      "endFrame": 4711,
-      "words": 12,
-      "text": "I followed the noise, and I told myself that was a plan."
-    },
-    {
-      "i": 51,
-      "start": 157.945,
-      "end": 159.898,
-      "startFrame": 4738,
-      "endFrame": 4797,
-      "words": 6,
-      "text": "It started on the upper level."
-    },
-    {
-      "i": 52,
-      "start": 160.248,
-      "end": 161.55,
-      "startFrame": 4807,
-      "endFrame": 4846,
-      "words": 4,
-      "text": "I never saw how."
-    },
-    {
-      "i": 53,
-      "start": 161.9,
-      "end": 167.994,
-      "startFrame": 4857,
-      "endFrame": 5040,
-      "words": 23,
-      "text": "First a scream, then a surge, and then the whole floor was moving at once toward the only place anyone could think of."
-    },
-    {
-      "i": 54,
-      "start": 168.344,
-      "end": 169.489,
-      "startFrame": 5050,
-      "endFrame": 5085,
-      "words": 2,
-      "text": "The stairwell."
-    },
-    {
-      "i": 55,
-      "start": 170.389,
-      "end": 171.704,
-      "startFrame": 5112,
-      "endFrame": 5151,
-      "words": 4,
-      "text": "I got swept in."
-    },
-    {
-      "i": 56,
-      "start": 172.054,
-      "end": 175.14,
-      "startFrame": 5162,
-      "endFrame": 5254,
-      "words": 12,
-      "text": "The stairs were too narrow for the number of people on them."
-    },
-    {
-      "i": 57,
-      "start": 175.49,
-      "end": 179.786,
-      "startFrame": 5265,
-      "endFrame": 5394,
-      "words": 11,
-      "text": "Shoulders, elbows, bags, and a metal handrail running down the middle."
-    },
-    {
-      "i": 58,
-      "start": 180.136,
-      "end": 181.803,
-      "startFrame": 5404,
-      "endFrame": 5454,
-      "words": 5,
-      "text": "My backpack caught on it."
-    },
-    {
-      "i": 59,
-      "start": 182.703,
-      "end": 185.919,
-      "startFrame": 5481,
-      "endFrame": 5578,
-      "words": 12,
-      "text": "For a moment I did not understand why I had stopped moving."
-    },
-    {
-      "i": 60,
-      "start": 186.269,
-      "end": 190.188,
-      "startFrame": 5588,
-      "endFrame": 5706,
-      "words": 15,
-      "text": "The crowd kept pushing, and the strap held me to the railing like a hand."
-    },
-    {
-      "i": 61,
-      "start": 190.538,
-      "end": 191.827,
-      "startFrame": 5716,
-      "endFrame": 5755,
-      "words": 3,
-      "text": "I pulled once."
-    },
-    {
-      "i": 62,
-      "start": 192.177,
-      "end": 192.997,
-      "startFrame": 5765,
-      "endFrame": 5790,
-      "words": 1,
-      "text": "Nothing."
-    },
-    {
-      "i": 63,
-      "start": 193.347,
-      "end": 195.287,
-      "startFrame": 5800,
-      "endFrame": 5859,
-      "words": 5,
-      "text": "People were shouting behind me."
-    },
-    {
-      "i": 64,
-      "start": 195.637,
-      "end": 196.965,
-      "startFrame": 5869,
-      "endFrame": 5909,
-      "words": 2,
-      "text": "Someone fell."
-    },
-    {
-      "i": 65,
-      "start": 197.315,
-      "end": 200.843,
-      "startFrame": 5919,
-      "endFrame": 6025,
-      "words": 13,
-      "text": "Below us the sound changed, and I knew what it meant without looking."
-    },
-    {
-      "i": 66,
-      "start": 201.743,
-      "end": 206.847,
-      "startFrame": 6052,
-      "endFrame": 6205,
-      "words": 20,
-      "text": "I slipped one arm out of the strap, dragged the bag free, and tore my palm open on the metal."
-    },
-    {
-      "i": 67,
-      "start": 207.197,
-      "end": 208.199,
-      "startFrame": 6216,
-      "endFrame": 6246,
-      "words": 2,
-      "text": "It stung."
-    },
-    {
-      "i": 68,
-      "start": 208.549,
-      "end": 209.903,
-      "startFrame": 6256,
-      "endFrame": 6297,
-      "words": 4,
-      "text": "I did not care."
-    },
-    {
-      "i": 69,
-      "start": 210.803,
-      "end": 214.214,
-      "startFrame": 6324,
-      "endFrame": 6426,
-      "words": 14,
-      "text": "At the next landing there was a grey door with three words on it."
-    },
-    {
-      "i": 70,
-      "start": 214.564,
-      "end": 215.775,
-      "startFrame": 6437,
-      "endFrame": 6473,
-      "words": 2,
-      "text": "Staff only."
-    },
-    {
-      "i": 71,
-      "start": 216.675,
-      "end": 218.029,
-      "startFrame": 6500,
-      "endFrame": 6541,
-      "words": 5,
-      "text": "I did not choose it."
-    },
-    {
-      "i": 72,
-      "start": 218.379,
-      "end": 220.579,
-      "startFrame": 6551,
-      "endFrame": 6617,
-      "words": 8,
-      "text": "I was pushed toward it, and it opened."
-    },
-    {
-      "i": 73,
-      "start": 220.929,
-      "end": 224.15800000000002,
-      "startFrame": 6628,
-      "endFrame": 6725,
-      "words": 9,
-      "text": "A corridor, cold air, the smell of cleaning fluid."
-    },
-    {
-      "i": 74,
-      "start": 224.508,
-      "end": 226.644,
-      "startFrame": 6735,
-      "endFrame": 6799,
-      "words": 8,
-      "text": "Through the wall I could hear the mall."
-    },
-    {
-      "i": 75,
-      "start": 226.994,
-      "end": 233.204,
-      "startFrame": 6810,
-      "endFrame": 6996,
-      "words": 24,
-      "text": "I ran the other way, down a ramp, through a second door, and out onto a loading dock where the morning was suddenly quiet."
-    },
-    {
-      "i": 76,
-      "start": 234.10399999999998,
-      "end": 238.27100000000002,
-      "startFrame": 7023,
-      "endFrame": 7148,
-      "words": 13,
-      "text": "I sat down between two dumpsters, and I realised my hand was shaking."
-    },
-    {
-      "i": 77,
-      "start": 239.171,
-      "end": 243.103,
-      "startFrame": 7175,
-      "endFrame": 7293,
-      "words": 18,
-      "text": "I did not know what to do, so I did what I always do when I am scared."
-    },
-    {
-      "i": 78,
-      "start": 243.453,
-      "end": 244.677,
-      "startFrame": 7304,
-      "endFrame": 7340,
-      "words": 4,
-      "text": "I made a list."
-    },
-    {
-      "i": 79,
-      "start": 245.577,
-      "end": 251.123,
-      "startFrame": 7367,
-      "endFrame": 7534,
-      "words": 21,
-      "text": "I opened the notes on my phone and typed with one thumb, because my other hand was bleeding onto my sleeve."
-    },
-    {
-      "i": 80,
-      "start": 251.473,
-      "end": 253.153,
-      "startFrame": 7544,
-      "endFrame": 7595,
-      "words": 6,
-      "text": "I did not call it rules."
-    },
-    {
-      "i": 81,
-      "start": 253.503,
-      "end": 255.495,
-      "startFrame": 7605,
-      "endFrame": 7665,
-      "words": 7,
-      "text": "I did not know enough for rules."
-    },
-    {
-      "i": 82,
-      "start": 255.845,
-      "end": 258.605,
-      "startFrame": 7675,
-      "endFrame": 7758,
-      "words": 12,
-      "text": "I wrote down only what I had seen with my own eyes."
-    },
-    {
-      "i": 83,
-      "start": 259.505,
-      "end": 260.20799999999997,
-      "startFrame": 7785,
-      "endFrame": 7806,
-      "words": 1,
-      "text": "One."
-    },
-    {
-      "i": 84,
-      "start": 260.558,
-      "end": 262.602,
-      "startFrame": 7817,
-      "endFrame": 7878,
-      "words": 8,
-      "text": "The ones from the mall did not run."
-    },
-    {
-      "i": 85,
-      "start": 262.952,
-      "end": 263.902,
-      "startFrame": 7889,
-      "endFrame": 7917,
-      "words": 2,
-      "text": "They walked."
-    },
-    {
-      "i": 86,
-      "start": 264.802,
-      "end": 265.505,
-      "startFrame": 7944,
-      "endFrame": 7965,
-      "words": 1,
-      "text": "Two."
-    },
-    {
-      "i": 87,
-      "start": 265.855,
-      "end": 267.495,
-      "startFrame": 7976,
-      "endFrame": 8025,
-      "words": 5,
-      "text": "The crowd made them come."
-    },
-    {
-      "i": 88,
-      "start": 267.845,
-      "end": 270.202,
-      "startFrame": 8035,
-      "endFrame": 8106,
-      "words": 7,
-      "text": "Every scream seemed to pull them closer."
-    },
-    {
-      "i": 89,
-      "start": 271.102,
-      "end": 272.0,
-      "startFrame": 8133,
-      "endFrame": 8160,
-      "words": 1,
-      "text": "Three."
-    },
-    {
-      "i": 90,
-      "start": 272.35,
-      "end": 274.394,
-      "startFrame": 8171,
-      "endFrame": 8232,
-      "words": 8,
-      "text": "I do not know how many there are."
-    },
-    {
-      "i": 91,
-      "start": 275.294,
-      "end": 277.794,
-      "startFrame": 8259,
-      "endFrame": 8334,
-      "words": 8,
-      "text": "Two percent of my battery for three lines."
-    },
-    {
-      "i": 92,
-      "start": 278.144,
-      "end": 279.641,
-      "startFrame": 8344,
-      "endFrame": 8389,
-      "words": 5,
-      "text": "It felt like a waste."
-    },
-    {
-      "i": 93,
-      "start": 279.991,
-      "end": 282.764,
-      "startFrame": 8400,
-      "endFrame": 8483,
-      "words": 11,
-      "text": "It was the first useful thing I had done all day."
-    },
-    {
-      "i": 94,
-      "start": 283.664,
-      "end": 286.932,
-      "startFrame": 8510,
-      "endFrame": 8608,
-      "words": 12,
-      "text": "From behind the dumpster I could see a long stretch of street."
-    },
-    {
-      "i": 95,
-      "start": 287.282,
-      "end": 293.701,
-      "startFrame": 8618,
-      "endFrame": 8811,
-      "words": 23,
-      "text": "Somewhere in the mall an alarm was ringing and ringing, and the people left out here were drifting toward it, one after another."
-    },
-    {
-      "i": 96,
-      "start": 294.051,
-      "end": 295.64,
-      "startFrame": 8822,
-      "endFrame": 8869,
-      "words": 6,
-      "text": "They did not look for me."
-    },
-    {
-      "i": 97,
-      "start": 295.99,
-      "end": 297.291,
-      "startFrame": 8880,
-      "endFrame": 8919,
-      "words": 4,
-      "text": "They did not run."
-    },
-    {
-      "i": 98,
-      "start": 297.641,
-      "end": 300.831,
-      "startFrame": 8929,
-      "endFrame": 9025,
-      "words": 12,
-      "text": "They walked toward the sound the way water finds a low place."
-    },
-    {
-      "i": 99,
-      "start": 301.731,
-      "end": 305.611,
-      "startFrame": 9052,
-      "endFrame": 9168,
-      "words": 17,
-      "text": "I watched them for a long time, and I did not yet know what I was watching."
-    },
-    {
-      "i": 100,
-      "start": 306.511,
-      "end": 310.157,
-      "startFrame": 9195,
-      "endFrame": 9305,
-      "words": 13,
-      "text": "By the afternoon I needed somewhere to rest, and I wanted a bed."
-    },
-    {
-      "i": 101,
-      "start": 310.507,
-      "end": 314.686,
-      "startFrame": 9315,
-      "endFrame": 9441,
-      "words": 17,
-      "text": "The streets had gone quiet the way a place does when everyone has left in a hurry."
-    },
-    {
-      "i": 102,
-      "start": 315.036,
-      "end": 317.224,
-      "startFrame": 9451,
-      "endFrame": 9517,
-      "words": 10,
-      "text": "At the end of a row I found a house."
-    },
-    {
-      "i": 103,
-      "start": 317.574,
-      "end": 319.995,
-      "startFrame": 9527,
-      "endFrame": 9600,
-      "words": 8,
-      "text": "The front door stood open a hand's width."
-    },
-    {
-      "i": 104,
-      "start": 320.345,
-      "end": 321.387,
-      "startFrame": 9610,
-      "endFrame": 9642,
-      "words": 2,
-      "text": "No lights."
-    },
-    {
-      "i": 105,
-      "start": 321.737,
-      "end": 323.455,
-      "startFrame": 9652,
-      "endFrame": 9704,
-      "words": 6,
-      "text": "It looked like what I wanted."
-    },
-    {
-      "i": 106,
-      "start": 324.355,
-      "end": 327.285,
-      "startFrame": 9731,
-      "endFrame": 9819,
-      "words": 9,
-      "text": "I pushed the door and called out, softly, hello?"
-    },
-    {
-      "i": 107,
-      "start": 327.635,
-      "end": 329.744,
-      "startFrame": 9829,
-      "endFrame": 9892,
-      "words": 7,
-      "text": "I think I wanted someone to answer."
-    },
-    {
-      "i": 108,
-      "start": 330.094,
-      "end": 331.435,
-      "startFrame": 9903,
-      "endFrame": 9943,
-      "words": 2,
-      "text": "Nobody answered."
-    },
-    {
-      "i": 109,
-      "start": 332.335,
-      "end": 333.819,
-      "startFrame": 9970,
-      "endFrame": 10015,
-      "words": 5,
-      "text": "Then I saw the frame."
-    },
-    {
-      "i": 110,
-      "start": 334.169,
-      "end": 338.387,
-      "startFrame": 10025,
-      "endFrame": 10152,
-      "words": 14,
-      "text": "The wood around the lock was splintered, and the splinters pointed out, not in."
-    },
-    {
-      "i": 111,
-      "start": 338.737,
-      "end": 341.068,
-      "startFrame": 10162,
-      "endFrame": 10232,
-      "words": 7,
-      "text": "Whatever broke that door had been inside."
-    },
-    {
-      "i": 112,
-      "start": 341.968,
-      "end": 343.726,
-      "startFrame": 10259,
-      "endFrame": 10312,
-      "words": 3,
-      "text": "Something moved upstairs."
-    },
-    {
-      "i": 113,
-      "start": 344.076,
-      "end": 348.242,
-      "startFrame": 10322,
-      "endFrame": 10447,
-      "words": 14,
-      "text": "A slow step, then another, then the sound of something dragging along a wall."
-    },
-    {
-      "i": 114,
-      "start": 348.592,
-      "end": 352.798,
-      "startFrame": 10458,
-      "endFrame": 10584,
-      "words": 18,
-      "text": "I stood in the hall with my heart pounding in my ears, and I still did not run."
-    },
-    {
-      "i": 115,
-      "start": 353.148,
-      "end": 356.155,
-      "startFrame": 10594,
-      "endFrame": 10685,
-      "words": 12,
-      "text": "I did not know what a running person sounds like to them."
-    },
-    {
-      "i": 116,
-      "start": 357.055,
-      "end": 359.164,
-      "startFrame": 10712,
-      "endFrame": 10775,
-      "words": 6,
-      "text": "The steps started down the stairs."
-    },
-    {
-      "i": 117,
-      "start": 359.514,
-      "end": 360.634,
-      "startFrame": 10785,
-      "endFrame": 10819,
-      "words": 3,
-      "text": "Then I ran."
-    },
-    {
-      "i": 118,
-      "start": 360.984,
-      "end": 369.747,
-      "startFrame": 10830,
-      "endFrame": 11092,
-      "words": 35,
-      "text": "I hit the front door with my shoulder, knocked a vase off a table, and I did not stop until I was three streets away, bent over a garden wall, listening to my own breath."
-    },
-    {
-      "i": 119,
-      "start": 370.647,
-      "end": 372.521,
-      "startFrame": 11119,
-      "endFrame": 11176,
-      "words": 5,
-      "text": "Nothing had followed me far."
-    },
-    {
-      "i": 120,
-      "start": 372.871,
-      "end": 376.738,
-      "startFrame": 11186,
-      "endFrame": 11302,
-      "words": 17,
-      "text": "It had stopped at the door, the way a dog stops at the edge of the garden."
-    },
-    {
-      "i": 121,
-      "start": 377.088,
-      "end": 379.015,
-      "startFrame": 11313,
-      "endFrame": 11370,
-      "words": 7,
-      "text": "I do not think it was clever."
-    },
-    {
-      "i": 122,
-      "start": 379.365,
-      "end": 383.037,
-      "startFrame": 11381,
-      "endFrame": 11491,
-      "words": 13,
-      "text": "I think it had simply lost interest the moment I stopped making noise."
-    },
-    {
-      "i": 123,
-      "start": 383.937,
-      "end": 387.999,
-      "startFrame": 11518,
-      "endFrame": 11640,
-      "words": 16,
-      "text": "I thought about that for a long time, because I could not stop thinking about it."
-    },
-    {
-      "i": 124,
-      "start": 388.899,
-      "end": 390.995,
-      "startFrame": 11667,
-      "endFrame": 11730,
-      "words": 6,
-      "text": "The light was already going orange."
-    },
-    {
-      "i": 125,
-      "start": 391.345,
-      "end": 394.548,
-      "startFrame": 11740,
-      "endFrame": 11836,
-      "words": 11,
-      "text": "I had no plan, only a body that wanted to stop."
-    },
-    {
-      "i": 126,
-      "start": 394.898,
-      "end": 398.57,
-      "startFrame": 11847,
-      "endFrame": 11957,
-      "words": 13,
-      "text": "I tried a parking garage first, but the gate was shut and chained."
-    },
-    {
-      "i": 127,
-      "start": 398.92,
-      "end": 405.48199999999997,
-      "startFrame": 11968,
-      "endFrame": 12164,
-      "words": 22,
-      "text": "I tried an apartment block, but the stairwell smelled of smoke, and I turned back at the first landing, remembering the mall."
-    },
-    {
-      "i": 128,
-      "start": 406.382,
-      "end": 411.278,
-      "startFrame": 12191,
-      "endFrame": 12338,
-      "words": 20,
-      "text": "I was near the end of the street when I saw a small utility building behind a row of shops."
-    },
-    {
-      "i": 129,
-      "start": 411.628,
-      "end": 413.555,
-      "startFrame": 12349,
-      "endFrame": 12407,
-      "words": 6,
-      "text": "One steel door at the front."
-    },
-    {
-      "i": 130,
-      "start": 413.905,
-      "end": 415.571,
-      "startFrame": 12417,
-      "endFrame": 12467,
-      "words": 6,
-      "text": "A narrow hatch at the back."
-    },
-    {
-      "i": 131,
-      "start": 415.921,
-      "end": 417.119,
-      "startFrame": 12478,
-      "endFrame": 12514,
-      "words": 2,
-      "text": "No windows."
-    },
-    {
-      "i": 132,
-      "start": 417.469,
-      "end": 419.747,
-      "startFrame": 12524,
-      "endFrame": 12592,
-      "words": 8,
-      "text": "It was cold, and it smelled of oil."
-    },
-    {
-      "i": 133,
-      "start": 420.097,
-      "end": 424.394,
-      "startFrame": 12603,
-      "endFrame": 12732,
-      "words": 13,
-      "text": "It had no water, no bed, nothing a normal person would call comfortable."
-    },
-    {
-      "i": 134,
-      "start": 425.294,
-      "end": 427.637,
-      "startFrame": 12759,
-      "endFrame": 12829,
-      "words": 10,
-      "text": "I do not want to pretend that I chose it."
-    },
-    {
-      "i": 135,
-      "start": 427.987,
-      "end": 429.81,
-      "startFrame": 12840,
-      "endFrame": 12894,
-      "words": 6,
-      "text": "It was the last place left."
-    },
-    {
-      "i": 136,
-      "start": 430.16,
-      "end": 432.608,
-      "startFrame": 12905,
-      "endFrame": 12978,
-      "words": 9,
-      "text": "I tried the handle, and it was not locked."
-    },
-    {
-      "i": 137,
-      "start": 433.508,
-      "end": 436.19,
-      "startFrame": 13005,
-      "endFrame": 13086,
-      "words": 10,
-      "text": "I went in, and I closed the door behind me."
-    },
-    {
-      "i": 138,
-      "start": 436.54,
-      "end": 439.821,
-      "startFrame": 13096,
-      "endFrame": 13195,
-      "words": 10,
-      "text": "For the first time since the alert, nobody was running."
-    },
-    {
-      "i": 139,
-      "start": 440.721,
-      "end": 442.114,
-      "startFrame": 13222,
-      "endFrame": 13263,
-      "words": 3,
-      "text": "Night came fast."
-    },
-    {
-      "i": 140,
-      "start": 442.464,
-      "end": 445.55,
-      "startFrame": 13274,
-      "endFrame": 13366,
-      "words": 9,
-      "text": "With the power gone, the city went completely dark."
-    },
-    {
-      "i": 141,
-      "start": 445.9,
-      "end": 449.858,
-      "startFrame": 13377,
-      "endFrame": 13496,
-      "words": 17,
-      "text": "I was afraid of the dark, so I switched on the flashlight and I left it on."
-    },
-    {
-      "i": 142,
-      "start": 450.20799999999997,
-      "end": 454.973,
-      "startFrame": 13506,
-      "endFrame": 13649,
-      "words": 22,
-      "text": "I sat in the middle of the room with the beam on the door, as if the light could keep it shut."
-    },
-    {
-      "i": 143,
-      "start": 455.873,
-      "end": 457.618,
-      "startFrame": 13676,
-      "endFrame": 13729,
-      "words": 5,
-      "text": "Around midnight I heard it."
-    },
-    {
-      "i": 144,
-      "start": 457.968,
-      "end": 459.348,
-      "startFrame": 13739,
-      "endFrame": 13780,
-      "words": 3,
-      "text": "A scrape outside."
-    },
-    {
-      "i": 145,
-      "start": 459.698,
-      "end": 460.791,
-      "startFrame": 13791,
-      "endFrame": 13824,
+      "start": 76.105,
+      "end": 77.179,
+      "startFrame": 2283,
+      "endFrame": 2315,
       "words": 2,
       "text": "Then another."
     },
     {
-      "i": 146,
-      "start": 461.141,
-      "end": 463.641,
-      "startFrame": 13834,
-      "endFrame": 13909,
+      "i": 25,
+      "start": 77.729,
+      "end": 81.96600000000001,
+      "startFrame": 2332,
+      "endFrame": 2459,
+      "words": 12,
+      "text": "The man turned, pressed himself against the door, and started pounding harder."
+    },
+    {
+      "i": 26,
+      "start": 82.51599999999999,
+      "end": 85.605,
+      "startFrame": 2475,
+      "endFrame": 2568,
+      "words": 10,
+      "text": "I pulled back from the peephole when the screaming started."
+    },
+    {
+      "i": 27,
+      "start": 86.155,
+      "end": 89.703,
+      "startFrame": 2585,
+      "endFrame": 2691,
+      "words": 14,
+      "text": "Standing in the middle of the room, I heard thuds out in the hallway."
+    },
+    {
+      "i": 28,
+      "start": 90.053,
+      "end": 93.00200000000001,
+      "startFrame": 2702,
+      "endFrame": 2790,
+      "words": 9,
+      "text": "A moment later, someone touched my own door handle."
+    },
+    {
+      "i": 29,
+      "start": 93.55199999999999,
+      "end": 95.914,
+      "startFrame": 2807,
+      "endFrame": 2877,
+      "words": 7,
+      "text": "The handle dipped, then sprang back up."
+    },
+    {
+      "i": 30,
+      "start": 96.464,
+      "end": 98.048,
+      "startFrame": 2894,
+      "endFrame": 2941,
+      "words": 5,
+      "text": "I backed into the kitchen."
+    },
+    {
+      "i": 31,
+      "start": 98.598,
+      "end": 101.981,
+      "startFrame": 2958,
+      "endFrame": 3059,
+      "words": 12,
+      "text": "The apartment had a back door that led to a service stairwell."
+    },
+    {
+      "i": 32,
+      "start": 102.331,
+      "end": 105.203,
+      "startFrame": 3070,
+      "endFrame": 3156,
+      "words": 11,
+      "text": "I had never used it except to take out the trash."
+    },
+    {
+      "i": 33,
+      "start": 105.553,
+      "end": 111.997,
+      "startFrame": 3167,
+      "endFrame": 3360,
+      "words": 24,
+      "text": "I grabbed my backpack, put in two bottles of water, a few snack bars still in the cupboard, and the flashlight by the bed."
+    },
+    {
+      "i": 34,
+      "start": 112.547,
+      "end": 114.667,
+      "startFrame": 3376,
+      "endFrame": 3440,
+      "words": 7,
+      "text": "There was no time to message anyone."
+    },
+    {
+      "i": 35,
+      "start": 115.217,
+      "end": 117.898,
+      "startFrame": 3457,
+      "endFrame": 3537,
+      "words": 8,
+      "text": "Outside the front door, there was movement again."
+    },
+    {
+      "i": 36,
+      "start": 118.44800000000001,
+      "end": 122.06,
+      "startFrame": 3553,
+      "endFrame": 3662,
+      "words": 15,
+      "text": "I went out through the back, and pulled it shut as quietly as I could."
+    },
+    {
+      "i": 37,
+      "start": 122.61,
+      "end": 125.903,
+      "startFrame": 3678,
+      "endFrame": 3777,
+      "words": 11,
+      "text": "The service stairwell led down to an alley behind the building."
+    },
+    {
+      "i": 38,
+      "start": 126.453,
+      "end": 128.037,
+      "startFrame": 3794,
+      "endFrame": 3841,
+      "words": 5,
+      "text": "There were people there too."
+    },
+    {
+      "i": 39,
+      "start": 128.387,
+      "end": 131.234,
+      "startFrame": 3852,
+      "endFrame": 3937,
+      "words": 10,
+      "text": "A couple was helping an old woman into a car."
+    },
+    {
+      "i": 40,
+      "start": 131.584,
+      "end": 136.254,
+      "startFrame": 3948,
+      "endFrame": 4088,
+      "words": 17,
+      "text": "The man told me to avoid the main road, there had been an accident at the intersection."
+    },
+    {
+      "i": 41,
+      "start": 136.804,
+      "end": 138.414,
+      "startFrame": 4104,
+      "endFrame": 4152,
       "words": 6,
-      "text": "Something dragging a foot across concrete."
+      "text": "I asked where I should go."
+    },
+    {
+      "i": 42,
+      "start": 138.964,
+      "end": 140.931,
+      "startFrame": 4169,
+      "endFrame": 4228,
+      "words": 6,
+      "text": "He pointed toward the shopping mall."
+    },
+    {
+      "i": 43,
+      "start": 141.481,
+      "end": 143.498,
+      "startFrame": 4244,
+      "endFrame": 4305,
+      "words": 6,
+      "text": "\"They're letting people in over there.\""
+    },
+    {
+      "i": 44,
+      "start": 144.048,
+      "end": 145.314,
+      "startFrame": 4321,
+      "endFrame": 4359,
+      "words": 4,
+      "text": "I went that way."
+    },
+    {
+      "i": 45,
+      "start": 145.864,
+      "end": 148.761,
+      "startFrame": 4376,
+      "endFrame": 4463,
+      "words": 11,
+      "text": "From a distance, I could see the lights were still on."
+    },
+    {
+      "i": 46,
+      "start": 149.111,
+      "end": 152.66,
+      "startFrame": 4473,
+      "endFrame": 4580,
+      "words": 10,
+      "text": "A security guard stood at the door, waving people inside."
+    },
+    {
+      "i": 47,
+      "start": 153.01,
+      "end": 159.772,
+      "startFrame": 4590,
+      "endFrame": 4793,
+      "words": 24,
+      "text": "After what had just happened outside my apartment, just seeing someone in uniform still doing their job was enough to make me feel lighter."
+    },
+    {
+      "i": 48,
+      "start": 160.322,
+      "end": 163.361,
+      "startFrame": 4810,
+      "endFrame": 4901,
+      "words": 8,
+      "text": "Inside, it was crowded, but not yet chaotic."
+    },
+    {
+      "i": 49,
+      "start": 163.711,
+      "end": 165.575,
+      "startFrame": 4911,
+      "endFrame": 4967,
+      "words": 5,
+      "text": "People sat along the hallway."
+    },
+    {
+      "i": 50,
+      "start": 165.925,
+      "end": 168.734,
+      "startFrame": 4978,
+      "endFrame": 5062,
+      "words": 10,
+      "text": "A child was having her face wiped by her mother."
+    },
+    {
+      "i": 51,
+      "start": 169.084,
+      "end": 172.224,
+      "startFrame": 5073,
+      "endFrame": 5167,
+      "words": 9,
+      "text": "Staff pushed small kiosks aside to clear a path."
+    },
+    {
+      "i": 52,
+      "start": 172.774,
+      "end": 176.424,
+      "startFrame": 5183,
+      "endFrame": 5293,
+      "words": 16,
+      "text": "I found a spot near the wall and took out my phone to try calling again."
+    },
+    {
+      "i": 53,
+      "start": 176.974,
+      "end": 178.035,
+      "startFrame": 5309,
+      "endFrame": 5341,
+      "words": 2,
+      "text": "Still nothing."
+    },
+    {
+      "i": 54,
+      "start": 178.585,
+      "end": 182.912,
+      "startFrame": 5358,
+      "endFrame": 5487,
+      "words": 14,
+      "text": "A staff member pushed a water cart past, telling everyone to take one bottle."
+    },
+    {
+      "i": 55,
+      "start": 183.262,
+      "end": 186.236,
+      "startFrame": 5498,
+      "endFrame": 5587,
+      "words": 11,
+      "text": "I took one, and asked if she knew what was happening."
+    },
+    {
+      "i": 56,
+      "start": 186.786,
+      "end": 188.064,
+      "startFrame": 5604,
+      "endFrame": 5642,
+      "words": 4,
+      "text": "She shook her head."
+    },
+    {
+      "i": 57,
+      "start": 188.614,
+      "end": 189.892,
+      "startFrame": 5658,
+      "endFrame": 5697,
+      "words": 3,
+      "text": "\"We're waiting too.\""
+    },
+    {
+      "i": 58,
+      "start": 190.442,
+      "end": 191.618,
+      "startFrame": 5713,
+      "endFrame": 5749,
+      "words": 3,
+      "text": "I sat down."
+    },
+    {
+      "i": 59,
+      "start": 191.968,
+      "end": 195.746,
+      "startFrame": 5759,
+      "endFrame": 5872,
+      "words": 14,
+      "text": "For a few minutes, I thought I could stay here until things became clearer."
+    },
+    {
+      "i": 60,
+      "start": 196.296,
+      "end": 199.117,
+      "startFrame": 5889,
+      "endFrame": 5974,
+      "words": 5,
+      "text": "Then, somewhere upstairs, someone screamed."
+    },
+    {
+      "i": 61,
+      "start": 199.667,
+      "end": 202.578,
+      "startFrame": 5990,
+      "endFrame": 6077,
+      "words": 10,
+      "text": "At first, only a few people stood up to look."
+    },
+    {
+      "i": 62,
+      "start": 203.128,
+      "end": 206.778,
+      "startFrame": 6094,
+      "endFrame": 6203,
+      "words": 13,
+      "text": "Then someone came running down the escalator and fell right at the bottom."
+    },
+    {
+      "i": 63,
+      "start": 207.128,
+      "end": 209.209,
+      "startFrame": 6214,
+      "endFrame": 6276,
+      "words": 6,
+      "text": "The person behind tripped over them."
+    },
+    {
+      "i": 64,
+      "start": 209.559,
+      "end": 211.641,
+      "startFrame": 6287,
+      "endFrame": 6349,
+      "words": 6,
+      "text": "The screaming spread down the hallway."
+    },
+    {
+      "i": 65,
+      "start": 212.191,
+      "end": 214.719,
+      "startFrame": 6366,
+      "endFrame": 6442,
+      "words": 9,
+      "text": "I stood up, trying to see the main entrance."
+    },
+    {
+      "i": 66,
+      "start": 215.269,
+      "end": 218.09,
+      "startFrame": 6458,
+      "endFrame": 6543,
+      "words": 9,
+      "text": "People from the doors were now running back inside."
+    },
+    {
+      "i": 67,
+      "start": 218.64,
+      "end": 221.423,
+      "startFrame": 6559,
+      "endFrame": 6643,
+      "words": 8,
+      "text": "I didn't know which direction was more dangerous."
+    },
+    {
+      "i": 68,
+      "start": 221.773,
+      "end": 225.602,
+      "startFrame": 6653,
+      "endFrame": 6768,
+      "words": 15,
+      "text": "When the people next to me surged toward the stairwell door, I went with them."
+    },
+    {
+      "i": 69,
+      "start": 226.152,
+      "end": 229.012,
+      "startFrame": 6785,
+      "endFrame": 6870,
+      "words": 11,
+      "text": "We made it down one floor before the whole line stopped."
+    },
+    {
+      "i": 70,
+      "start": 229.562,
+      "end": 232.30599999999998,
+      "startFrame": 6887,
+      "endFrame": 6969,
+      "words": 7,
+      "text": "Below, someone was screaming not to push."
+    },
+    {
+      "i": 71,
+      "start": 232.856,
+      "end": 235.32,
+      "startFrame": 6986,
+      "endFrame": 7060,
+      "words": 6,
+      "text": "But above, people kept pouring down."
+    },
+    {
+      "i": 72,
+      "start": 235.87,
+      "end": 237.914,
+      "startFrame": 7076,
+      "endFrame": 7137,
+      "words": 6,
+      "text": "I got pressed against the handrail."
+    },
+    {
+      "i": 73,
+      "start": 238.264,
+      "end": 241.838,
+      "startFrame": 7148,
+      "endFrame": 7255,
+      "words": 11,
+      "text": "My backpack caught on something behind me, yanking my shoulder back."
+    },
+    {
+      "i": 74,
+      "start": 242.188,
+      "end": 244.779,
+      "startFrame": 7266,
+      "endFrame": 7343,
+      "words": 9,
+      "text": "I turned, but there wasn't room to reach it."
+    },
+    {
+      "i": 75,
+      "start": 245.329,
+      "end": 247.207,
+      "startFrame": 7360,
+      "endFrame": 7416,
+      "words": 6,
+      "text": "A man slammed into my back."
+    },
+    {
+      "i": 76,
+      "start": 247.757,
+      "end": 248.537,
+      "startFrame": 7433,
+      "endFrame": 7456,
+      "words": 1,
+      "text": "\"Move!\""
+    },
+    {
+      "i": 77,
+      "start": 249.087,
+      "end": 252.01,
+      "startFrame": 7473,
+      "endFrame": 7560,
+      "words": 11,
+      "text": "I tried to say I was stuck, but he wasn't listening."
+    },
+    {
+      "i": 78,
+      "start": 252.56,
+      "end": 256.364,
+      "startFrame": 7577,
+      "endFrame": 7691,
+      "words": 12,
+      "text": "I slipped one strap off my shoulder, reached back, and yanked hard."
+    },
+    {
+      "i": 79,
+      "start": 256.714,
+      "end": 258.808,
+      "startFrame": 7701,
+      "endFrame": 7764,
+      "words": 7,
+      "text": "The bag tore free from the railing."
+    },
+    {
+      "i": 80,
+      "start": 259.158,
+      "end": 262.502,
+      "startFrame": 7775,
+      "endFrame": 7875,
+      "words": 11,
+      "text": "My hand scraped against a metal edge, and it stung badly."
+    },
+    {
+      "i": 81,
+      "start": 263.052,
+      "end": 265.619,
+      "startFrame": 7892,
+      "endFrame": 7969,
+      "words": 9,
+      "text": "At the landing there was a door standing open."
+    },
+    {
+      "i": 82,
+      "start": 265.969,
+      "end": 269.351,
+      "startFrame": 7979,
+      "endFrame": 8081,
+      "words": 12,
+      "text": "I squeezed past the person beside me and nearly fell through it."
+    },
+    {
+      "i": 83,
+      "start": 269.901,
+      "end": 271.651,
+      "startFrame": 8097,
+      "endFrame": 8150,
+      "words": 5,
+      "text": "It was a staff corridor."
+    },
+    {
+      "i": 84,
+      "start": 272.201,
+      "end": 277.203,
+      "startFrame": 8166,
+      "endFrame": 8316,
+      "words": 19,
+      "text": "I followed the arrows toward an exit, down a ramp, and pushed through a door into a loading area."
+    },
+    {
+      "i": 85,
+      "start": 277.753,
+      "end": 281.072,
+      "startFrame": 8333,
+      "endFrame": 8432,
+      "words": 12,
+      "text": "Out here there were only trucks and crates stacked against the wall."
+    },
+    {
+      "i": 86,
+      "start": 281.622,
+      "end": 283.921,
+      "startFrame": 8449,
+      "endFrame": 8518,
+      "words": 9,
+      "text": "I walked a few more steps and sat down."
+    },
+    {
+      "i": 87,
+      "start": 284.471,
+      "end": 286.04200000000003,
+      "startFrame": 8534,
+      "endFrame": 8581,
+      "words": 4,
+      "text": "My hand was bleeding."
+    },
+    {
+      "i": 88,
+      "start": 286.392,
+      "end": 291.305,
+      "startFrame": 8592,
+      "endFrame": 8739,
+      "words": 19,
+      "text": "I pressed a tissue against it, but my hand was shaking too hard, and I dropped the whole pack."
+    },
+    {
+      "i": 89,
+      "start": 291.855,
+      "end": 295.824,
+      "startFrame": 8756,
+      "endFrame": 8875,
+      "words": 18,
+      "text": "I sat there for a moment before I could bring myself to bend down and pick it up."
+    },
+    {
+      "i": 90,
+      "start": 296.374,
+      "end": 299.04200000000003,
+      "startFrame": 8891,
+      "endFrame": 8971,
+      "words": 11,
+      "text": "I drank a few sips of water and checked my phone."
+    },
+    {
+      "i": 91,
+      "start": 299.592,
+      "end": 300.921,
+      "startFrame": 8988,
+      "endFrame": 9028,
+      "words": 3,
+      "text": "No missed calls."
+    },
+    {
+      "i": 92,
+      "start": 301.471,
+      "end": 306.525,
+      "startFrame": 9044,
+      "endFrame": 9196,
+      "words": 20,
+      "text": "I wanted to go home, but every time I thought about the people out in the hallway, I stopped myself."
+    },
+    {
+      "i": 93,
+      "start": 307.075,
+      "end": 310.279,
+      "startFrame": 9212,
+      "endFrame": 9308,
+      "words": 11,
+      "text": "Through the gap between two trucks, I could see the street."
+    },
+    {
+      "i": 94,
+      "start": 310.629,
+      "end": 312.965,
+      "startFrame": 9319,
+      "endFrame": 9389,
+      "words": 8,
+      "text": "Someone ran past the mouth of the alley."
+    },
+    {
+      "i": 95,
+      "start": 313.315,
+      "end": 316.621,
+      "startFrame": 9399,
+      "endFrame": 9499,
+      "words": 9,
+      "text": "Behind them, two others were walking, slow and steady."
+    },
+    {
+      "i": 96,
+      "start": 317.171,
+      "end": 319.993,
+      "startFrame": 9515,
+      "endFrame": 9600,
+      "words": 8,
+      "text": "A car parked nearby started blaring its alarm."
+    },
+    {
+      "i": 97,
+      "start": 320.543,
+      "end": 323.785,
+      "startFrame": 9616,
+      "endFrame": 9714,
+      "words": 10,
+      "text": "The two walking figures stopped, and turned toward the car."
+    },
+    {
+      "i": 98,
+      "start": 324.335,
+      "end": 328.011,
+      "startFrame": 9730,
+      "endFrame": 9840,
+      "words": 14,
+      "text": "I watched them move to the door and slap their hands against the glass."
+    },
+    {
+      "i": 99,
+      "start": 328.561,
+      "end": 332.02,
+      "startFrame": 9857,
+      "endFrame": 9961,
+      "words": 10,
+      "text": "From inside the mall, a fire alarm started ringing too."
+    },
+    {
+      "i": 100,
+      "start": 332.37,
+      "end": 335.102,
+      "startFrame": 9971,
+      "endFrame": 10053,
+      "words": 9,
+      "text": "Someone near the end of the street turned around."
+    },
+    {
+      "i": 101,
+      "start": 335.452,
+      "end": 336.526,
+      "startFrame": 10064,
+      "endFrame": 10096,
+      "words": 2,
+      "text": "Then another."
+    },
+    {
+      "i": 102,
+      "start": 337.076,
+      "end": 338.443,
+      "startFrame": 10112,
+      "endFrame": 10153,
+      "words": 4,
+      "text": "I ducked down low."
+    },
+    {
+      "i": 103,
+      "start": 338.993,
+      "end": 341.21500000000003,
+      "startFrame": 10170,
+      "endFrame": 10236,
+      "words": 9,
+      "text": "I didn't yet know what was wrong with them."
+    },
+    {
+      "i": 104,
+      "start": 341.565,
+      "end": 344.22,
+      "startFrame": 10247,
+      "endFrame": 10327,
+      "words": 11,
+      "text": "But I had seen enough not to want to get closer."
+    },
+    {
+      "i": 105,
+      "start": 344.77,
+      "end": 352.451,
+      "startFrame": 10343,
+      "endFrame": 10574,
+      "words": 31,
+      "text": "When the loading area went quiet, I tore a strip of fabric from a shirt in my backpack, wrapped it around my hand, and left through the alley at the back."
+    },
+    {
+      "i": 106,
+      "start": 353.001,
+      "end": 355.452,
+      "startFrame": 10590,
+      "endFrame": 10664,
+      "words": 9,
+      "text": "I kept away from the direction of the ringing."
+    },
+    {
+      "i": 107,
+      "start": 356.002,
+      "end": 358.645,
+      "startFrame": 10680,
+      "endFrame": 10759,
+      "words": 8,
+      "text": "By afternoon, I had been walking for hours."
+    },
+    {
+      "i": 108,
+      "start": 359.195,
+      "end": 361.965,
+      "startFrame": 10776,
+      "endFrame": 10859,
+      "words": 10,
+      "text": "I finished off a snack bar and was still hungry."
+    },
+    {
+      "i": 109,
+      "start": 362.315,
+      "end": 364.231,
+      "startFrame": 10869,
+      "endFrame": 10927,
+      "words": 6,
+      "text": "My feet had started to burn."
+    },
+    {
+      "i": 110,
+      "start": 364.581,
+      "end": 367.849,
+      "startFrame": 10937,
+      "endFrame": 11035,
+      "words": 13,
+      "text": "I just wanted somewhere to sit down and some way to reach someone."
+    },
+    {
+      "i": 111,
+      "start": 368.399,
+      "end": 372.368,
+      "startFrame": 11052,
+      "endFrame": 11171,
+      "words": 17,
+      "text": "At the end of a row of houses, I found one with its door open a crack."
+    },
+    {
+      "i": 112,
+      "start": 372.918,
+      "end": 374.885,
+      "startFrame": 11188,
+      "endFrame": 11247,
+      "words": 8,
+      "text": "I stood at the gate for a moment."
+    },
+    {
+      "i": 113,
+      "start": 375.235,
+      "end": 377.316,
+      "startFrame": 11257,
+      "endFrame": 11319,
+      "words": 6,
+      "text": "No one in sight, no sound."
+    },
+    {
+      "i": 114,
+      "start": 377.866,
+      "end": 379.565,
+      "startFrame": 11336,
+      "endFrame": 11387,
+      "words": 4,
+      "text": "I called out, softly."
+    },
+    {
+      "i": 115,
+      "start": 380.115,
+      "end": 381.367,
+      "startFrame": 11403,
+      "endFrame": 11441,
+      "words": 3,
+      "text": "\"Is anyone home?\""
+    },
+    {
+      "i": 116,
+      "start": 381.91700000000003,
+      "end": 383.04200000000003,
+      "startFrame": 11458,
+      "endFrame": 11491,
+      "words": 2,
+      "text": "No answer."
+    },
+    {
+      "i": 117,
+      "start": 383.592,
+      "end": 385.444,
+      "startFrame": 11508,
+      "endFrame": 11563,
+      "words": 7,
+      "text": "There was a crack around the lock."
+    },
+    {
+      "i": 118,
+      "start": 385.794,
+      "end": 390.465,
+      "startFrame": 11574,
+      "endFrame": 11714,
+      "words": 18,
+      "text": "I saw it, but told myself the owner might have damaged the door themselves on the way out."
+    },
+    {
+      "i": 119,
+      "start": 391.015,
+      "end": 393.403,
+      "startFrame": 11730,
+      "endFrame": 11802,
+      "words": 8,
+      "text": "I pushed the door open and stepped inside."
+    },
+    {
+      "i": 120,
+      "start": 393.953,
+      "end": 395.651,
+      "startFrame": 11819,
+      "endFrame": 11870,
+      "words": 5,
+      "text": "The living room was empty."
+    },
+    {
+      "i": 121,
+      "start": 396.001,
+      "end": 399.435,
+      "startFrame": 11880,
+      "endFrame": 11983,
+      "words": 11,
+      "text": "A chair had been knocked over, things scattered across the floor."
+    },
+    {
+      "i": 122,
+      "start": 399.78499999999997,
+      "end": 402.581,
+      "startFrame": 11994,
+      "endFrame": 12077,
+      "words": 9,
+      "text": "A half-finished glass of water sat on the table."
+    },
+    {
+      "i": 123,
+      "start": 403.131,
+      "end": 406.564,
+      "startFrame": 12094,
+      "endFrame": 12197,
+      "words": 15,
+      "text": "I had just passed the foot of the stairs when I heard a sound above."
+    },
+    {
+      "i": 124,
+      "start": 407.114,
+      "end": 408.099,
+      "startFrame": 12213,
+      "endFrame": 12243,
+      "words": 2,
+      "text": "A footstep."
+    },
+    {
+      "i": 125,
+      "start": 408.649,
+      "end": 409.659,
+      "startFrame": 12259,
+      "endFrame": 12290,
+      "words": 3,
+      "text": "I looked up."
+    },
+    {
+      "i": 126,
+      "start": 410.209,
+      "end": 414.318,
+      "startFrame": 12306,
+      "endFrame": 12430,
+      "words": 13,
+      "text": "Someone was standing at the top of the stairs, half-hidden behind the railing."
+    },
+    {
+      "i": 127,
+      "start": 414.868,
+      "end": 416.236,
+      "startFrame": 12446,
+      "endFrame": 12487,
+      "words": 3,
+      "text": "\"Sorry,\" I said."
+    },
+    {
+      "i": 128,
+      "start": 416.586,
+      "end": 417.723,
+      "startFrame": 12498,
+      "endFrame": 12532,
+      "words": 3,
+      "text": "\"I just need—\""
+    },
+    {
+      "i": 129,
+      "start": 418.273,
+      "end": 420.24,
+      "startFrame": 12548,
+      "endFrame": 12607,
+      "words": 5,
+      "text": "The figure started coming down."
+    },
+    {
+      "i": 130,
+      "start": 420.79,
+      "end": 423.42,
+      "startFrame": 12624,
+      "endFrame": 12703,
+      "words": 10,
+      "text": "I saw the blood on their shirt, then the face."
+    },
+    {
+      "i": 131,
+      "start": 423.97,
+      "end": 427.136,
+      "startFrame": 12719,
+      "endFrame": 12814,
+      "words": 12,
+      "text": "I turned too fast and knocked into the table by the door."
+    },
+    {
+      "i": 132,
+      "start": 427.486,
+      "end": 429.057,
+      "startFrame": 12825,
+      "endFrame": 12872,
+      "words": 5,
+      "text": "A vase fell and shattered."
+    },
+    {
+      "i": 133,
+      "start": 429.60699999999997,
+      "end": 430.885,
+      "startFrame": 12888,
+      "endFrame": 12927,
+      "words": 3,
+      "text": "I ran outside."
+    },
+    {
+      "i": 134,
+      "start": 431.435,
+      "end": 434.333,
+      "startFrame": 12943,
+      "endFrame": 13030,
+      "words": 12,
+      "text": "Not until the end of the street did I dare look back."
+    },
+    {
+      "i": 135,
+      "start": 434.883,
+      "end": 439.464,
+      "startFrame": 13046,
+      "endFrame": 13184,
+      "words": 16,
+      "text": "The figure had reached the gate, standing in a patch of leftover sunlight on the sidewalk."
+    },
+    {
+      "i": 136,
+      "start": 440.014,
+      "end": 443.83,
+      "startFrame": 13200,
+      "endFrame": 13315,
+      "words": 16,
+      "text": "I turned down a different alley and kept going until the house was out of sight."
+    },
+    {
+      "i": 137,
+      "start": 444.38,
+      "end": 448.362,
+      "startFrame": 13331,
+      "endFrame": 13451,
+      "words": 16,
+      "text": "When I finally stopped, I had to brace my hands on my knees just to breathe."
+    },
+    {
+      "i": 138,
+      "start": 448.912,
+      "end": 451.491,
+      "startFrame": 13467,
+      "endFrame": 13545,
+      "words": 10,
+      "text": "I had seen the broken door before I went in."
+    },
+    {
+      "i": 139,
+      "start": 452.041,
+      "end": 453.587,
+      "startFrame": 13561,
+      "endFrame": 13608,
+      "words": 5,
+      "text": "I knew I shouldn't have."
+    },
+    {
+      "i": 140,
+      "start": 454.137,
+      "end": 457.124,
+      "startFrame": 13624,
+      "endFrame": 13714,
+      "words": 12,
+      "text": "But I was tired, and I wanted that house to be empty."
+    },
+    {
+      "i": 141,
+      "start": 457.674,
+      "end": 459.399,
+      "startFrame": 13730,
+      "endFrame": 13782,
+      "words": 6,
+      "text": "The light was starting to go."
+    },
+    {
+      "i": 142,
+      "start": 459.949,
+      "end": 462.489,
+      "startFrame": 13798,
+      "endFrame": 13875,
+      "words": 9,
+      "text": "I had stopped looking for anywhere with a bed."
+    },
+    {
+      "i": 143,
+      "start": 463.039,
+      "end": 466.371,
+      "startFrame": 13891,
+      "endFrame": 13991,
+      "words": 13,
+      "text": "The parking garage at the end of the street had its gate locked."
+    },
+    {
+      "i": 144,
+      "start": 466.721,
+      "end": 469.491,
+      "startFrame": 14002,
+      "endFrame": 14085,
+      "words": 9,
+      "text": "I stood outside and looked in, called out once."
+    },
+    {
+      "i": 145,
+      "start": 469.841,
+      "end": 470.966,
+      "startFrame": 14095,
+      "endFrame": 14129,
+      "words": 2,
+      "text": "No answer."
+    },
+    {
+      "i": 146,
+      "start": 471.516,
+      "end": 473.827,
+      "startFrame": 14145,
+      "endFrame": 14215,
+      "words": 7,
+      "text": "I tried the apartment block next door."
     },
     {
       "i": 147,
-      "start": 464.541,
-      "end": 466.025,
-      "startFrame": 13936,
-      "endFrame": 13981,
-      "words": 4,
-      "text": "The steel door moved."
+      "start": 474.177,
+      "end": 477.202,
+      "startFrame": 14225,
+      "endFrame": 14316,
+      "words": 10,
+      "text": "Just past the first flight of stairs, I smelled smoke."
     },
     {
       "i": 148,
-      "start": 466.375,
-      "end": 467.469,
-      "startFrame": 13991,
-      "endFrame": 14024,
-      "words": 3,
-      "text": "Not a knock."
+      "start": 477.552,
+      "end": 480.029,
+      "startFrame": 14327,
+      "endFrame": 14401,
+      "words": 6,
+      "text": "Somewhere above, an alarm kept ringing."
     },
     {
       "i": 149,
-      "start": 467.819,
-      "end": 468.782,
-      "startFrame": 14035,
-      "endFrame": 14063,
-      "words": 2,
-      "text": "A push."
+      "start": 480.579,
+      "end": 481.755,
+      "startFrame": 14417,
+      "endFrame": 14453,
+      "words": 3,
+      "text": "I turned back."
     },
     {
       "i": 150,
-      "start": 469.132,
-      "end": 469.991,
-      "startFrame": 14074,
-      "endFrame": 14100,
-      "words": 1,
-      "text": "Once."
+      "start": 482.305,
+      "end": 486.466,
+      "startFrame": 14469,
+      "endFrame": 14594,
+      "words": 14,
+      "text": "Behind a row of shops, I found a small building used for maintenance storage."
     },
     {
       "i": 151,
-      "start": 470.341,
-      "end": 471.148,
-      "startFrame": 14110,
-      "endFrame": 14134,
-      "words": 1,
-      "text": "Twice."
+      "start": 486.816,
+      "end": 489.242,
+      "startFrame": 14604,
+      "endFrame": 14677,
+      "words": 8,
+      "text": "A steel door, no windows on the wall."
     },
     {
       "i": 152,
-      "start": 471.498,
-      "end": 473.842,
-      "startFrame": 14145,
-      "endFrame": 14215,
-      "words": 8,
-      "text": "Then a slow rhythm of hands on metal."
+      "start": 489.592,
+      "end": 492.885,
+      "startFrame": 14688,
+      "endFrame": 14787,
+      "words": 11,
+      "text": "At the back, a low window opened onto a narrow yard."
     },
     {
       "i": 153,
-      "start": 474.192,
-      "end": 475.389,
-      "startFrame": 14226,
-      "endFrame": 14262,
-      "words": 2,
-      "text": "More hands."
+      "start": 493.435,
+      "end": 495.797,
+      "startFrame": 14803,
+      "endFrame": 14874,
+      "words": 8,
+      "text": "I walked around it before trying the handle."
     },
     {
       "i": 154,
-      "start": 475.739,
-      "end": 477.354,
-      "startFrame": 14272,
-      "endFrame": 14321,
-      "words": 5,
-      "text": "I could hear them gathering."
+      "start": 496.347,
+      "end": 497.65,
+      "startFrame": 14890,
+      "endFrame": 14930,
+      "words": 3,
+      "text": "It wasn't locked."
     },
     {
       "i": 155,
-      "start": 477.704,
-      "end": 484.357,
-      "startFrame": 14331,
-      "endFrame": 14531,
-      "words": 26,
-      "text": "I thought of the street at the mall, of the people drifting toward the alarm, and I understood with a horrible clarity what I had done."
+      "start": 498.2,
+      "end": 500.716,
+      "startFrame": 14946,
+      "endFrame": 15021,
+      "words": 8,
+      "text": "I stood outside and called in, then waited."
     },
     {
       "i": 156,
-      "start": 484.707,
-      "end": 487.155,
-      "startFrame": 14541,
-      "endFrame": 14615,
-      "words": 10,
-      "text": "I had switched on a light in a black city."
+      "start": 501.266,
+      "end": 502.39,
+      "startFrame": 15038,
+      "endFrame": 15072,
+      "words": 2,
+      "text": "Nothing moved."
     },
     {
       "i": 157,
-      "start": 487.505,
-      "end": 489.549,
-      "startFrame": 14625,
-      "endFrame": 14686,
-      "words": 6,
-      "text": "I had made myself the alarm."
+      "start": 502.94,
+      "end": 506.501,
+      "startFrame": 15088,
+      "endFrame": 15195,
+      "words": 11,
+      "text": "Inside were tool shelves, a few plastic bins, and a table."
     },
     {
       "i": 158,
-      "start": 490.449,
-      "end": 495.136,
-      "startFrame": 14713,
-      "endFrame": 14854,
-      "words": 18,
-      "text": "My hand was shaking so hard that the flashlight slipped and rolled across the floor and went out."
+      "start": 506.851,
+      "end": 510.4,
+      "startFrame": 15206,
+      "endFrame": 15312,
+      "words": 13,
+      "text": "I switched on the flashlight and checked the blind corner behind the door."
     },
     {
       "i": 159,
-      "start": 496.036,
-      "end": 497.676,
-      "startFrame": 14881,
-      "endFrame": 14930,
-      "words": 4,
-      "text": "The darkness was total."
+      "start": 510.95,
+      "end": 511.947,
+      "startFrame": 15328,
+      "endFrame": 15358,
+      "words": 2,
+      "text": "No one."
     },
     {
       "i": 160,
-      "start": 498.026,
-      "end": 499.354,
-      "startFrame": 14941,
-      "endFrame": 14981,
-      "words": 4,
-      "text": "I held my breath."
+      "start": 512.497,
+      "end": 516.441,
+      "startFrame": 15375,
+      "endFrame": 15493,
+      "words": 16,
+      "text": "The back window was wide enough to climb through if I set my bag down first."
     },
     {
       "i": 161,
-      "start": 499.704,
-      "end": 501.866,
-      "startFrame": 14991,
-      "endFrame": 15056,
-      "words": 6,
-      "text": "I pressed myself against the wall."
+      "start": 516.7909999999999,
+      "end": 519.191,
+      "startFrame": 15504,
+      "endFrame": 15576,
+      "words": 8,
+      "text": "I tried the latch, then closed it again."
     },
     {
       "i": 162,
-      "start": 502.216,
-      "end": 506.278,
-      "startFrame": 15066,
-      "endFrame": 15188,
-      "words": 14,
-      "text": "The pushing went on for a while, and then, little by little, it thinned."
+      "start": 519.741,
+      "end": 521.797,
+      "startFrame": 15592,
+      "endFrame": 15654,
+      "words": 8,
+      "text": "Then I went back to the front door."
     },
     {
       "i": 163,
-      "start": 506.628,
-      "end": 507.839,
-      "startFrame": 15199,
-      "endFrame": 15235,
-      "words": 3,
-      "text": "A last scrape."
+      "start": 522.347,
+      "end": 523.765,
+      "startFrame": 15670,
+      "endFrame": 15713,
+      "words": 4,
+      "text": "The bolt still worked."
     },
     {
       "i": 164,
-      "start": 508.189,
-      "end": 509.295,
-      "startFrame": 15246,
-      "endFrame": 15279,
-      "words": 2,
-      "text": "Then nothing."
+      "start": 524.115,
+      "end": 526.758,
+      "startFrame": 15723,
+      "endFrame": 15803,
+      "words": 10,
+      "text": "I slid it shut, pulled on it twice to check."
     },
     {
       "i": 165,
-      "start": 509.645,
-      "end": 511.663,
-      "startFrame": 15289,
-      "endFrame": 15350,
-      "words": 8,
-      "text": "I do not know how long I waited."
+      "start": 527.308,
+      "end": 529.364,
+      "startFrame": 15819,
+      "endFrame": 15881,
+      "words": 7,
+      "text": "The room smelled of oil and dust."
     },
     {
       "i": 166,
-      "start": 512.013,
-      "end": 516.075,
-      "startFrame": 15360,
-      "endFrame": 15482,
-      "words": 17,
-      "text": "When I finally breathed out, it felt as if I had been holding it for an hour."
+      "start": 529.7139999999999,
+      "end": 534.665,
+      "startFrame": 15891,
+      "endFrame": 16040,
+      "words": 18,
+      "text": "The concrete floor was cold, and there was nothing to lie on but a few flattened cardboard sheets."
     },
     {
       "i": 167,
-      "start": 516.975,
-      "end": 519.097,
-      "startFrame": 15509,
-      "endFrame": 15573,
-      "words": 7,
-      "text": "They had stopped because I had stopped."
+      "start": 535.215,
+      "end": 537.807,
+      "startFrame": 16056,
+      "endFrame": 16134,
+      "words": 10,
+      "text": "I laid them out against the wall and sat down."
     },
     {
       "i": 168,
-      "start": 519.447,
-      "end": 525.033,
-      "startFrame": 15583,
-      "endFrame": 15751,
-      "words": 22,
-      "text": "The light was gone, the noise was gone, and in a few minutes they had forgotten there was anything here at all."
+      "start": 538.357,
+      "end": 541.485,
+      "startFrame": 16151,
+      "endFrame": 16245,
+      "words": 11,
+      "text": "This time, before I ate, I looked back at the door."
     },
     {
       "i": 169,
-      "start": 525.933,
-      "end": 528.225,
-      "startFrame": 15778,
-      "endFrame": 15847,
-      "words": 8,
-      "text": "I did not turn the flashlight on again."
+      "start": 542.035,
+      "end": 543.478,
+      "startFrame": 16261,
+      "endFrame": 16304,
+      "words": 4,
+      "text": "It was still closed."
     },
     {
       "i": 170,
-      "start": 528.575,
-      "end": 534.16,
-      "startFrame": 15857,
-      "endFrame": 16025,
-      "words": 21,
-      "text": "I stayed on my knees against the wall until it was light, and I told myself, over and over, one word."
+      "start": 544.028,
+      "end": 546.85,
+      "startFrame": 16321,
+      "endFrame": 16406,
+      "words": 11,
+      "text": "I finished the last snack bar and took out my phone."
     },
     {
       "i": 171,
-      "start": 534.51,
-      "end": 535.33,
-      "startFrame": 16035,
-      "endFrame": 16060,
-      "words": 1,
-      "text": "Quiet."
+      "start": 547.4,
+      "end": 548.78,
+      "startFrame": 16422,
+      "endFrame": 16463,
+      "words": 3,
+      "text": "No new messages."
     },
     {
       "i": 172,
-      "start": 536.23,
-      "end": 537.819,
-      "startFrame": 16087,
-      "endFrame": 16135,
-      "words": 5,
-      "text": "Dawn came grey and slow."
+      "start": 549.13,
+      "end": 551.096,
+      "startFrame": 16474,
+      "endFrame": 16533,
+      "words": 6,
+      "text": "Not a single bar of signal."
     },
     {
       "i": 173,
-      "start": 538.169,
-      "end": 542.622,
-      "startFrame": 16145,
-      "endFrame": 16279,
-      "words": 16,
-      "text": "I opened the hatch a finger's width, looked at an empty yard, and closed it again."
+      "start": 551.646,
+      "end": 554.302,
+      "startFrame": 16549,
+      "endFrame": 16629,
+      "words": 10,
+      "text": "I dimmed the screen and set it down beside me."
     },
     {
       "i": 174,
-      "start": 542.972,
-      "end": 545.51,
-      "startFrame": 16289,
-      "endFrame": 16365,
-      "words": 9,
-      "text": "I had been awake for more than twenty hours."
+      "start": 554.852,
+      "end": 556.627,
+      "startFrame": 16646,
+      "endFrame": 16699,
+      "words": 7,
+      "text": "I don't know when I fell asleep."
     },
     {
       "i": 175,
-      "start": 545.86,
-      "end": 553.451,
-      "startFrame": 16376,
-      "endFrame": 16604,
-      "words": 29,
-      "text": "I had a little over a litre of water, three meals of food, a scraped hand, a phone at seventy percent, and a flashlight I was afraid to touch."
+      "start": 557.177,
+      "end": 559.399,
+      "startFrame": 16715,
+      "endFrame": 16782,
+      "words": 8,
+      "text": "A sound outside the door woke me up."
     },
     {
       "i": 176,
-      "start": 554.351,
-      "end": 557.567,
-      "startFrame": 16631,
-      "endFrame": 16727,
-      "words": 13,
-      "text": "I took out the phone and added a fourth line under my three."
+      "start": 559.949,
+      "end": 563.178,
+      "startFrame": 16798,
+      "endFrame": 16895,
+      "words": 12,
+      "text": "I sat up fast and knocked the water bottle with my hand."
     },
     {
       "i": 177,
-      "start": 557.917,
-      "end": 560.235,
-      "startFrame": 16738,
-      "endFrame": 16807,
-      "words": 10,
-      "text": "It was not a list of things I had seen."
+      "start": 563.528,
+      "end": 567.88,
+      "startFrame": 16906,
+      "endFrame": 17036,
+      "words": 16,
+      "text": "It rolled off the cardboard, bounced on the floor, and hit the leg of a shelf."
     },
     {
       "i": 178,
-      "start": 560.585,
-      "end": 562.668,
-      "startFrame": 16818,
-      "endFrame": 16880,
-      "words": 8,
-      "text": "It was the first thing I had learned."
+      "start": 568.43,
+      "end": 569.938,
+      "startFrame": 17053,
+      "endFrame": 17098,
+      "words": 4,
+      "text": "The sound wasn't loud."
     },
     {
       "i": 179,
-      "start": 563.018,
-      "end": 564.333,
-      "startFrame": 16891,
-      "endFrame": 16930,
-      "words": 4,
-      "text": "They come to noise."
+      "start": 570.488,
+      "end": 573.258,
+      "startFrame": 17115,
+      "endFrame": 17198,
+      "words": 7,
+      "text": "But right after, the footsteps outside stopped."
     },
     {
       "i": 180,
-      "start": 564.683,
-      "end": 565.985,
-      "startFrame": 16940,
-      "endFrame": 16980,
-      "words": 3,
-      "text": "So be quiet."
+      "start": 573.808,
+      "end": 575.226,
+      "startFrame": 17214,
+      "endFrame": 17257,
+      "words": 5,
+      "text": "I looked at the door."
     },
     {
       "i": 181,
-      "start": 566.885,
-      "end": 568.395,
-      "startFrame": 17007,
-      "endFrame": 17052,
-      "words": 4,
-      "text": "Then the phone buzzed."
+      "start": 575.776,
+      "end": 577.832,
+      "startFrame": 17273,
+      "endFrame": 17335,
+      "words": 5,
+      "text": "The handle moved, just slightly."
     },
     {
       "i": 182,
-      "start": 568.745,
-      "end": 569.903,
-      "startFrame": 17062,
-      "endFrame": 17097,
-      "words": 3,
-      "text": "A new message."
+      "start": 578.382,
+      "end": 579.749,
+      "startFrame": 17351,
+      "endFrame": 17392,
+      "words": 4,
+      "text": "Then came a push."
     },
     {
       "i": 183,
-      "start": 570.253,
-      "end": 571.295,
-      "startFrame": 17108,
-      "endFrame": 17139,
-      "words": 1,
-      "text": "Automated."
+      "start": 580.299,
+      "end": 582.6610000000001,
+      "startFrame": 17409,
+      "endFrame": 17480,
+      "words": 7,
+      "text": "I switched the flashlight on without thinking."
     },
     {
       "i": 184,
-      "start": 571.645,
-      "end": 572.517,
-      "startFrame": 17149,
-      "endFrame": 17176,
-      "words": 1,
-      "text": "Flat."
+      "start": 583.011,
+      "end": 585.17,
+      "startFrame": 17490,
+      "endFrame": 17555,
+      "words": 7,
+      "text": "The beam shook against the steel door."
     },
     {
       "i": 185,
-      "start": 572.867,
-      "end": 574.377,
-      "startFrame": 17186,
-      "endFrame": 17231,
+      "start": 585.72,
+      "end": 586.908,
+      "startFrame": 17572,
+      "endFrame": 17607,
+      "words": 2,
+      "text": "Another push."
+    },
+    {
+      "i": 186,
+      "start": 587.458,
+      "end": 589.795,
+      "startFrame": 17624,
+      "endFrame": 17694,
+      "words": 9,
+      "text": "I turned it off and backed against the wall."
+    },
+    {
+      "i": 187,
+      "start": 590.145,
+      "end": 591.971,
+      "startFrame": 17704,
+      "endFrame": 17759,
+      "words": 5,
+      "text": "My heel scraped the floor."
+    },
+    {
+      "i": 188,
+      "start": 592.521,
+      "end": 596.146,
+      "startFrame": 17776,
+      "endFrame": 17884,
+      "words": 11,
+      "text": "Outside, a scratching sound started right where I had been standing."
+    },
+    {
+      "i": 189,
+      "start": 596.696,
+      "end": 597.872,
+      "startFrame": 17901,
+      "endFrame": 17936,
+      "words": 3,
+      "text": "I went still."
+    },
+    {
+      "i": 190,
+      "start": 598.422,
+      "end": 600.478,
+      "startFrame": 17953,
+      "endFrame": 18014,
+      "words": 7,
+      "text": "The door rattled a few more times."
+    },
+    {
+      "i": 191,
+      "start": 600.828,
+      "end": 605.511,
+      "startFrame": 18025,
+      "endFrame": 18165,
+      "words": 18,
+      "text": "The bolt held, but every sound of metal against metal made me think of the moment it wouldn't."
+    },
+    {
+      "i": 192,
+      "start": 606.061,
+      "end": 608.653,
+      "startFrame": 18182,
+      "endFrame": 18260,
+      "words": 10,
+      "text": "I wanted to drag the table over to brace it."
+    },
+    {
+      "i": 193,
+      "start": 609.203,
+      "end": 611.769,
+      "startFrame": 18276,
+      "endFrame": 18353,
+      "words": 11,
+      "text": "But the table was on the other side of the room."
+    },
+    {
+      "i": 194,
+      "start": 612.119,
+      "end": 616.025,
+      "startFrame": 18364,
+      "endFrame": 18481,
+      "words": 11,
+      "text": "I remembered the bottle rolling, and the footsteps stopping right after."
+    },
+    {
+      "i": 195,
+      "start": 616.375,
+      "end": 617.5889999999999,
+      "startFrame": 18491,
+      "endFrame": 18528,
+      "words": 4,
+      "text": "I didn't get up."
+    },
+    {
+      "i": 196,
+      "start": 618.139,
+      "end": 622.095,
+      "startFrame": 18544,
+      "endFrame": 18663,
+      "words": 13,
+      "text": "I sat against the wall, arms around my knees, trying to breathe slowly."
+    },
+    {
+      "i": 197,
+      "start": 622.645,
+      "end": 624.778,
+      "startFrame": 18679,
+      "endFrame": 18743,
+      "words": 8,
+      "text": "The noise outside went on for a while."
+    },
+    {
+      "i": 198,
+      "start": 625.328,
+      "end": 627.09,
+      "startFrame": 18760,
+      "endFrame": 18813,
+      "words": 6,
+      "text": "Then it began to thin out."
+    },
+    {
+      "i": 199,
+      "start": 627.64,
+      "end": 630.003,
+      "startFrame": 18829,
+      "endFrame": 18900,
+      "words": 10,
+      "text": "I didn't know how many of them were out there."
+    },
+    {
+      "i": 200,
+      "start": 630.353,
+      "end": 633.608,
+      "startFrame": 18911,
+      "endFrame": 19008,
+      "words": 12,
+      "text": "I didn't know if they had left, or were just standing, waiting."
+    },
+    {
+      "i": 201,
+      "start": 634.158,
+      "end": 637.451,
+      "startFrame": 19025,
+      "endFrame": 19124,
+      "words": 12,
+      "text": "When my legs went numb, I still didn't dare stretch them out."
+    },
+    {
+      "i": 202,
+      "start": 638.001,
+      "end": 641.945,
+      "startFrame": 19140,
+      "endFrame": 19258,
+      "words": 13,
+      "text": "Much later, there was the sound of glass breaking, somewhere in the distance."
+    },
+    {
+      "i": 203,
+      "start": 642.494,
+      "end": 644.487,
+      "startFrame": 19275,
+      "endFrame": 19335,
+      "words": 4,
+      "text": "The footsteps outside shifted."
+    },
+    {
+      "i": 204,
+      "start": 644.837,
+      "end": 648.474,
+      "startFrame": 19345,
+      "endFrame": 19454,
+      "words": 12,
+      "text": "The drag of their feet on the concrete grew fainter, then disappeared."
+    },
+    {
+      "i": 205,
+      "start": 649.024,
+      "end": 652.164,
+      "startFrame": 19471,
+      "endFrame": 19565,
+      "words": 12,
+      "text": "I waited a long time before I reached for the water bottle."
+    },
+    {
+      "i": 206,
+      "start": 652.7139999999999,
+      "end": 655.191,
+      "startFrame": 19581,
+      "endFrame": 19656,
+      "words": 8,
+      "text": "This time, I held it with both hands."
+    },
+    {
+      "i": 207,
+      "start": 655.741,
+      "end": 658.422,
+      "startFrame": 19672,
+      "endFrame": 19753,
+      "words": 9,
+      "text": "Near dawn, I managed to sleep a little more."
+    },
+    {
+      "i": 208,
+      "start": 658.972,
+      "end": 663.426,
+      "startFrame": 19769,
+      "endFrame": 19903,
+      "words": 20,
+      "text": "When I woke, my neck was so stiff I had to turn my whole body just to look behind me."
+    },
+    {
+      "i": 209,
+      "start": 663.976,
+      "end": 667.065,
+      "startFrame": 19919,
+      "endFrame": 20012,
+      "words": 12,
+      "text": "I cracked open the back window and looked down at the yard."
+    },
+    {
+      "i": 210,
+      "start": 667.615,
+      "end": 668.804,
+      "startFrame": 20028,
+      "endFrame": 20064,
+      "words": 3,
+      "text": "No one there."
+    },
+    {
+      "i": 211,
+      "start": 669.354,
+      "end": 672.099,
+      "startFrame": 20081,
+      "endFrame": 20163,
+      "words": 11,
+      "text": "I had a bit more than one bottle of water left."
+    },
+    {
+      "i": 212,
+      "start": 672.449,
+      "end": 673.803,
+      "startFrame": 20173,
+      "endFrame": 20214,
+      "words": 4,
+      "text": "The food was gone."
+    },
+    {
+      "i": 213,
+      "start": 674.153,
+      "end": 677.013,
+      "startFrame": 20225,
+      "endFrame": 20310,
+      "words": 9,
+      "text": "My hand was faintly swollen under the dirty wrap."
+    },
+    {
+      "i": 214,
+      "start": 677.363,
+      "end": 681.562,
+      "startFrame": 20321,
+      "endFrame": 20447,
+      "words": 16,
+      "text": "I needed to wash it, needed to eat, and needed to know where I actually was."
+    },
+    {
+      "i": 215,
+      "start": 682.112,
+      "end": 684.27,
+      "startFrame": 20463,
+      "endFrame": 20528,
+      "words": 8,
+      "text": "There was still no reply on my phone."
+    },
+    {
+      "i": 216,
+      "start": 684.82,
+      "end": 688.432,
+      "startFrame": 20545,
+      "endFrame": 20653,
+      "words": 12,
+      "text": "I was about to try calling again when a new notification appeared."
+    },
+    {
+      "i": 217,
+      "start": 688.982,
+      "end": 690.4639999999999,
+      "startFrame": 20669,
+      "endFrame": 20714,
       "words": 2,
       "text": "Evacuation point."
     },
     {
-      "i": 186,
-      "start": 574.727,
-      "end": 577.097,
-      "startFrame": 17242,
-      "endFrame": 17313,
+      "i": 218,
+      "start": 690.814,
+      "end": 693.138,
+      "startFrame": 20724,
+      "endFrame": 20794,
       "words": 5,
       "text": "River Crossing Bridge, north bank."
     },
     {
-      "i": 187,
-      "start": 577.447,
-      "end": 579.335,
-      "startFrame": 17323,
-      "endFrame": 17380,
+      "i": 219,
+      "start": 693.488,
+      "end": 695.352,
+      "startFrame": 20805,
+      "endFrame": 20861,
       "words": 4,
-      "text": "Cut-off, twelve noon today."
+      "text": "Receiving until twelve noon."
     },
     {
-      "i": 188,
-      "start": 580.235,
-      "end": 581.784,
-      "startFrame": 17407,
-      "endFrame": 17454,
+      "i": 220,
+      "start": 695.902,
+      "end": 697.665,
+      "startFrame": 20877,
+      "endFrame": 20930,
       "words": 5,
-      "text": "I read it four times."
+      "text": "I read the address again."
     },
     {
-      "i": 189,
-      "start": 582.134,
-      "end": 584.178,
-      "startFrame": 17464,
-      "endFrame": 17525,
-      "words": 8,
-      "text": "I should have asked who was sending it."
+      "i": 221,
+      "start": 698.215,
+      "end": 701.814,
+      "startFrame": 20946,
+      "endFrame": 21054,
+      "words": 15,
+      "text": "Yesterday I had walked into the mall because I saw a guard at the door."
     },
     {
-      "i": 190,
-      "start": 584.528,
-      "end": 587.275,
-      "startFrame": 17536,
-      "endFrame": 17618,
-      "words": 11,
-      "text": "I should have asked how many other people had read it."
+      "i": 222,
+      "start": 702.164,
+      "end": 705.993,
+      "startFrame": 21065,
+      "endFrame": 21180,
+      "words": 17,
+      "text": "Now I was about to head toward a place that might be just as full of people."
     },
     {
-      "i": 191,
-      "start": 587.625,
-      "end": 590.229,
-      "startFrame": 17629,
-      "endFrame": 17707,
-      "words": 8,
-      "text": "Instead I did what a tired person does."
+      "i": 223,
+      "start": 706.543,
+      "end": 710.066,
+      "startFrame": 21196,
+      "endFrame": 21302,
+      "words": 13,
+      "text": "I sat there a little longer, looking at the bottle in my hand."
     },
     {
-      "i": 192,
-      "start": 590.579,
-      "end": 592.232,
-      "startFrame": 17717,
-      "endFrame": 17767,
-      "words": 6,
-      "text": "I wanted it to be true."
+      "i": 224,
+      "start": 710.616,
+      "end": 714.088,
+      "startFrame": 21318,
+      "endFrame": 21423,
+      "words": 14,
+      "text": "If I stayed here, I would still have to go outside by noon anyway."
     },
     {
-      "i": 193,
-      "start": 593.132,
-      "end": 594.994,
-      "startFrame": 17794,
-      "endFrame": 17850,
-      "words": 5,
-      "text": "I counted my supplies again."
+      "i": 225,
+      "start": 714.638,
+      "end": 718.926,
+      "startFrame": 21439,
+      "endFrame": 21568,
+      "words": 14,
+      "text": "I saved the evacuation address, in case the phone lost signal on the way."
     },
     {
-      "i": 194,
-      "start": 595.344,
-      "end": 600.201,
-      "startFrame": 17860,
-      "endFrame": 18006,
-      "words": 18,
-      "text": "I put on the backpack, I stepped out into the cold, and I started walking toward the river."
+      "i": 226,
+      "start": 719.476,
+      "end": 723.585,
+      "startFrame": 21584,
+      "endFrame": 21708,
+      "words": 17,
+      "text": "Then I put on the backpack, checked my pocket to make sure the phone was still there."
     },
     {
-      "i": 195,
-      "start": 600.551,
-      "end": 605.16,
-      "startFrame": 18017,
-      "endFrame": 18155,
-      "words": 18,
-      "text": "For the first time since the alert, I walked slowly, and I tried not to make a sound."
+      "i": 227,
+      "start": 724.135,
+      "end": 726.332,
+      "startFrame": 21724,
+      "endFrame": 21790,
+      "words": 4,
+      "text": "Outside, footsteps passed by."
+    },
+    {
+      "i": 228,
+      "start": 726.882,
+      "end": 729.346,
+      "startFrame": 21806,
+      "endFrame": 21880,
+      "words": 9,
+      "text": "I put my hand on the bolt, and waited."
+    },
+    {
+      "i": 229,
+      "start": 729.896,
+      "end": 733.355,
+      "startFrame": 21897,
+      "endFrame": 22001,
+      "words": 12,
+      "text": "Only when I couldn't hear anything anymore did I open the door."
     }
   ],
   "chapters": []

@@ -1,117 +1,331 @@
 # 1. The Clock Starts
 
-At six-oh-two in the morning my phone made a sound I had never heard before. Not a ringtone. An alarm.
+At six-oh-two in the morning, my phone let out an alarm.
 
-The screen said: emergency alert. Remain calm. Next update in twenty-four hours.
+I woke up, reaching for it on the table.
 
-I read the last line twice. Twenty-four hours. Whoever wrote it did not think I would need to know anything sooner.
+The screen showed an emergency alert. Residents were told to stay inside, lock their doors, and wait for the next update.
 
-I called my sister. It rang and rang. I called a friend across town. Nothing. I called the emergency number, and a recording told me that all lines were busy. Eight percent of my battery, gone, and I knew nothing more than before.
+I called a few numbers I knew. No one answered. On the building's resident chat, messages kept jumping in. Someone asked what was happening. Someone said not to go outside. A video someone had just posted was deleted before I could finish watching it.
 
-I walked to the window. Down on the street, a man ran past a stopped car with his shoes in his hand. A woman was screaming a name. Someone was leaning on a horn, and nobody was telling him to stop. At the far end of the block, a few people were walking toward the crowd, slowly, in a way that made the crowd run faster.
+I went to the window.
 
-I did not understand what I was looking at. I understood only one thing: everyone was running, and I did not want to be the one who stayed behind.
+Down on the street, a car rear-ended another. The driver abandoned it and ran. Near the corner store, a few people were struggling with each other. One of them fell, and the rest scattered fast.
 
-I packed in a hurry, without thinking. Two bottles of water. Two snack bars. My flashlight, because it was by the bed. My phone, at seventy-seven percent. I grabbed the small backpack from the hook by the door, and I left the door open behind me.
+I pulled the curtain shut and went back to lock the door.
 
-That was the first decision of the day. I would make many more before night, and most of them would be wrong.
+I meant to stay inside.
+
+About ten minutes later, there was pounding on a door somewhere down the hallway. A man was calling for someone to let him in. I went closer and looked through the peephole.
+
+He was standing in front of the apartment across from mine, one hand holding the other arm. Blood was dripping onto the floor.
+
+Before I could do anything, the stairwell door burst open.
+
+Someone came out. Then another.
+
+The man turned, pressed himself against the door, and started pounding harder.
+
+I pulled back from the peephole when the screaming started.
+
+Standing in the middle of the room, I heard thuds out in the hallway. A moment later, someone touched my own door handle.
+
+The handle dipped, then sprang back up.
+
+I backed into the kitchen.
+
+The apartment had a back door that led to a service stairwell. I had never used it except to take out the trash. I grabbed my backpack, put in two bottles of water, a few snack bars still in the cupboard, and the flashlight by the bed.
+
+There was no time to message anyone.
+
+Outside the front door, there was movement again.
+
+I went out through the back, and pulled it shut as quietly as I could.
 
 # 2. The First Mistake
 
-Everyone on the street was running the same way, so I ran the same way. Toward the mall.
+The service stairwell led down to an alley behind the building.
 
-It had big doors, bright lights, security guards. It looked like the kind of place that would be safe. It did not occur to me that this was exactly why everybody was going there.
+There were people there too. A couple was helping an old woman into a car. The man told me to avoid the main road, there had been an accident at the intersection.
 
-The entrance was a funnel. Hundreds of people pushing through two doors, and the noise bouncing off the glass. I told myself it was fine. Crowds mean help. Crowds mean someone is in charge.
+I asked where I should go.
 
-Inside, it got worse. A man shouted for everyone to stay calm, and nobody listened. A child was crying somewhere above me. I found a small kiosk with its shutter half open and took what I could carry. Two bottles of water. Three cans of food. I felt almost proud of myself.
+He pointed toward the shopping mall.
 
-I did not look for exits. I did not even think about exits. I did what everyone else did. I followed the noise, and I told myself that was a plan.
+"They're letting people in over there."
+
+I went that way.
+
+From a distance, I could see the lights were still on. A security guard stood at the door, waving people inside. After what had just happened outside my apartment, just seeing someone in uniform still doing their job was enough to make me feel lighter.
+
+Inside, it was crowded, but not yet chaotic. People sat along the hallway. A child was having her face wiped by her mother. Staff pushed small kiosks aside to clear a path.
+
+I found a spot near the wall and took out my phone to try calling again.
+
+Still nothing.
+
+A staff member pushed a water cart past, telling everyone to take one bottle. I took one, and asked if she knew what was happening.
+
+She shook her head.
+
+"We're waiting too."
+
+I sat down. For a few minutes, I thought I could stay here until things became clearer.
+
+Then, somewhere upstairs, someone screamed.
 
 # 3. The Trap
 
-It started on the upper level. I never saw how. First a scream, then a surge, and then the whole floor was moving at once toward the only place anyone could think of. The stairwell.
+At first, only a few people stood up to look.
 
-I got swept in. The stairs were too narrow for the number of people on them. Shoulders, elbows, bags, and a metal handrail running down the middle. My backpack caught on it.
+Then someone came running down the escalator and fell right at the bottom. The person behind tripped over them. The screaming spread down the hallway.
 
-For a moment I did not understand why I had stopped moving. The crowd kept pushing, and the strap held me to the railing like a hand. I pulled once. Nothing. People were shouting behind me. Someone fell. Below us the sound changed, and I knew what it meant without looking.
+I stood up, trying to see the main entrance.
 
-I slipped one arm out of the strap, dragged the bag free, and tore my palm open on the metal. It stung. I did not care.
+People from the doors were now running back inside.
 
-At the next landing there was a grey door with three words on it. Staff only.
+I didn't know which direction was more dangerous. When the people next to me surged toward the stairwell door, I went with them.
 
-I did not choose it. I was pushed toward it, and it opened. A corridor, cold air, the smell of cleaning fluid. Through the wall I could hear the mall. I ran the other way, down a ramp, through a second door, and out onto a loading dock where the morning was suddenly quiet.
+We made it down one floor before the whole line stopped.
 
-I sat down between two dumpsters, and I realised my hand was shaking.
+Below, someone was screaming not to push.
 
-# 4. Three Things I Know
+But above, people kept pouring down.
 
-I did not know what to do, so I did what I always do when I am scared. I made a list.
+I got pressed against the handrail. My backpack caught on something behind me, yanking my shoulder back. I turned, but there wasn't room to reach it.
 
-I opened the notes on my phone and typed with one thumb, because my other hand was bleeding onto my sleeve. I did not call it rules. I did not know enough for rules. I wrote down only what I had seen with my own eyes.
+A man slammed into my back.
 
-One. The ones from the mall did not run. They walked.
+"Move!"
 
-Two. The crowd made them come. Every scream seemed to pull them closer.
+I tried to say I was stuck, but he wasn't listening.
 
-Three. I do not know how many there are.
+I slipped one strap off my shoulder, reached back, and yanked hard. The bag tore free from the railing. My hand scraped against a metal edge, and it stung badly.
 
-Two percent of my battery for three lines. It felt like a waste. It was the first useful thing I had done all day.
+At the landing there was a door standing open. I squeezed past the person beside me and nearly fell through it.
 
-From behind the dumpster I could see a long stretch of street. Somewhere in the mall an alarm was ringing and ringing, and the people left out here were drifting toward it, one after another. They did not look for me. They did not run. They walked toward the sound the way water finds a low place.
+It was a staff corridor.
 
-I watched them for a long time, and I did not yet know what I was watching.
+I followed the arrows toward an exit, down a ramp, and pushed through a door into a loading area.
+
+Out here there were only trucks and crates stacked against the wall.
+
+I walked a few more steps and sat down.
+
+My hand was bleeding. I pressed a tissue against it, but my hand was shaking too hard, and I dropped the whole pack.
+
+I sat there for a moment before I could bring myself to bend down and pick it up.
+
+# 4. After the Mall
+
+I drank a few sips of water and checked my phone.
+
+No missed calls.
+
+I wanted to go home, but every time I thought about the people out in the hallway, I stopped myself.
+
+Through the gap between two trucks, I could see the street. Someone ran past the mouth of the alley. Behind them, two others were walking, slow and steady.
+
+A car parked nearby started blaring its alarm.
+
+The two walking figures stopped, and turned toward the car.
+
+I watched them move to the door and slap their hands against the glass.
+
+From inside the mall, a fire alarm started ringing too. Someone near the end of the street turned around. Then another.
+
+I ducked down low.
+
+I didn't yet know what was wrong with them. But I had seen enough not to want to get closer.
+
+When the loading area went quiet, I tore a strip of fabric from a shirt in my backpack, wrapped it around my hand, and left through the alley at the back.
+
+I kept away from the direction of the ringing.
 
 # 5. The Wrong House
 
-By the afternoon I needed somewhere to rest, and I wanted a bed. The streets had gone quiet the way a place does when everyone has left in a hurry. At the end of a row I found a house. The front door stood open a hand's width. No lights. It looked like what I wanted.
+By afternoon, I had been walking for hours.
 
-I pushed the door and called out, softly, hello? I think I wanted someone to answer. Nobody answered.
+I finished off a snack bar and was still hungry. My feet had started to burn. I just wanted somewhere to sit down and some way to reach someone.
 
-Then I saw the frame. The wood around the lock was splintered, and the splinters pointed out, not in. Whatever broke that door had been inside.
+At the end of a row of houses, I found one with its door open a crack.
 
-Something moved upstairs. A slow step, then another, then the sound of something dragging along a wall. I stood in the hall with my heart pounding in my ears, and I still did not run. I did not know what a running person sounds like to them.
+I stood at the gate for a moment. No one in sight, no sound.
 
-The steps started down the stairs. Then I ran. I hit the front door with my shoulder, knocked a vase off a table, and I did not stop until I was three streets away, bent over a garden wall, listening to my own breath.
+I called out, softly.
 
-Nothing had followed me far. It had stopped at the door, the way a dog stops at the edge of the garden. I do not think it was clever. I think it had simply lost interest the moment I stopped making noise.
+"Is anyone home?"
 
-I thought about that for a long time, because I could not stop thinking about it.
+No answer.
 
-# 6. The Last Hour
+There was a crack around the lock. I saw it, but told myself the owner might have damaged the door themselves on the way out.
 
-The light was already going orange. I had no plan, only a body that wanted to stop. I tried a parking garage first, but the gate was shut and chained. I tried an apartment block, but the stairwell smelled of smoke, and I turned back at the first landing, remembering the mall.
+I pushed the door open and stepped inside.
 
-I was near the end of the street when I saw a small utility building behind a row of shops. One steel door at the front. A narrow hatch at the back. No windows. It was cold, and it smelled of oil. It had no water, no bed, nothing a normal person would call comfortable.
+The living room was empty. A chair had been knocked over, things scattered across the floor. A half-finished glass of water sat on the table.
 
-I do not want to pretend that I chose it. It was the last place left. I tried the handle, and it was not locked.
+I had just passed the foot of the stairs when I heard a sound above.
 
-I went in, and I closed the door behind me. For the first time since the alert, nobody was running.
+A footstep.
+
+I looked up.
+
+Someone was standing at the top of the stairs, half-hidden behind the railing.
+
+"Sorry," I said. "I just need—"
+
+The figure started coming down.
+
+I saw the blood on their shirt, then the face.
+
+I turned too fast and knocked into the table by the door. A vase fell and shattered.
+
+I ran outside.
+
+Not until the end of the street did I dare look back.
+
+The figure had reached the gate, standing in a patch of leftover sunlight on the sidewalk.
+
+I turned down a different alley and kept going until the house was out of sight.
+
+When I finally stopped, I had to brace my hands on my knees just to breathe.
+
+I had seen the broken door before I went in.
+
+I knew I shouldn't have.
+
+But I was tired, and I wanted that house to be empty.
+
+# 6. A Place for the Night
+
+The light was starting to go.
+
+I had stopped looking for anywhere with a bed.
+
+The parking garage at the end of the street had its gate locked. I stood outside and looked in, called out once. No answer.
+
+I tried the apartment block next door. Just past the first flight of stairs, I smelled smoke. Somewhere above, an alarm kept ringing.
+
+I turned back.
+
+Behind a row of shops, I found a small building used for maintenance storage. A steel door, no windows on the wall. At the back, a low window opened onto a narrow yard.
+
+I walked around it before trying the handle.
+
+It wasn't locked.
+
+I stood outside and called in, then waited.
+
+Nothing moved.
+
+Inside were tool shelves, a few plastic bins, and a table. I switched on the flashlight and checked the blind corner behind the door.
+
+No one.
+
+The back window was wide enough to climb through if I set my bag down first. I tried the latch, then closed it again.
+
+Then I went back to the front door.
+
+The bolt still worked. I slid it shut, pulled on it twice to check.
+
+The room smelled of oil and dust. The concrete floor was cold, and there was nothing to lie on but a few flattened cardboard sheets.
+
+I laid them out against the wall and sat down.
+
+This time, before I ate, I looked back at the door.
+
+It was still closed.
 
 # 7. The First Night
 
-Night came fast. With the power gone, the city went completely dark. I was afraid of the dark, so I switched on the flashlight and I left it on. I sat in the middle of the room with the beam on the door, as if the light could keep it shut.
+I finished the last snack bar and took out my phone.
 
-Around midnight I heard it. A scrape outside. Then another. Something dragging a foot across concrete.
+No new messages. Not a single bar of signal.
 
-The steel door moved. Not a knock. A push. Once. Twice. Then a slow rhythm of hands on metal. More hands. I could hear them gathering. I thought of the street at the mall, of the people drifting toward the alarm, and I understood with a horrible clarity what I had done. I had switched on a light in a black city. I had made myself the alarm.
+I dimmed the screen and set it down beside me.
 
-My hand was shaking so hard that the flashlight slipped and rolled across the floor and went out.
+I don't know when I fell asleep.
 
-The darkness was total. I held my breath. I pressed myself against the wall. The pushing went on for a while, and then, little by little, it thinned. A last scrape. Then nothing. I do not know how long I waited. When I finally breathed out, it felt as if I had been holding it for an hour.
+A sound outside the door woke me up.
 
-They had stopped because I had stopped. The light was gone, the noise was gone, and in a few minutes they had forgotten there was anything here at all.
+I sat up fast and knocked the water bottle with my hand. It rolled off the cardboard, bounced on the floor, and hit the leg of a shelf.
 
-I did not turn the flashlight on again. I stayed on my knees against the wall until it was light, and I told myself, over and over, one word. Quiet.
+The sound wasn't loud.
+
+But right after, the footsteps outside stopped.
+
+I looked at the door.
+
+The handle moved, just slightly.
+
+Then came a push.
+
+I switched the flashlight on without thinking. The beam shook against the steel door.
+
+Another push.
+
+I turned it off and backed against the wall. My heel scraped the floor.
+
+Outside, a scratching sound started right where I had been standing.
+
+I went still.
+
+The door rattled a few more times. The bolt held, but every sound of metal against metal made me think of the moment it wouldn't.
+
+I wanted to drag the table over to brace it.
+
+But the table was on the other side of the room. I remembered the bottle rolling, and the footsteps stopping right after. I didn't get up.
+
+I sat against the wall, arms around my knees, trying to breathe slowly.
+
+The noise outside went on for a while.
+
+Then it began to thin out.
+
+I didn't know how many of them were out there. I didn't know if they had left, or were just standing, waiting.
+
+When my legs went numb, I still didn't dare stretch them out.
+
+Much later, there was the sound of glass breaking, somewhere in the distance.
+
+The footsteps outside shifted. The drag of their feet on the concrete grew fainter, then disappeared.
+
+I waited a long time before I reached for the water bottle.
+
+This time, I held it with both hands.
 
 # 8. Day Two
 
-Dawn came grey and slow. I opened the hatch a finger's width, looked at an empty yard, and closed it again. I had been awake for more than twenty hours. I had a little over a litre of water, three meals of food, a scraped hand, a phone at seventy percent, and a flashlight I was afraid to touch.
+Near dawn, I managed to sleep a little more.
 
-I took out the phone and added a fourth line under my three. It was not a list of things I had seen. It was the first thing I had learned. They come to noise. So be quiet.
+When I woke, my neck was so stiff I had to turn my whole body just to look behind me.
 
-Then the phone buzzed. A new message. Automated. Flat. Evacuation point. River Crossing Bridge, north bank. Cut-off, twelve noon today.
+I cracked open the back window and looked down at the yard.
 
-I read it four times. I should have asked who was sending it. I should have asked how many other people had read it. Instead I did what a tired person does. I wanted it to be true.
+No one there.
 
-I counted my supplies again. I put on the backpack, I stepped out into the cold, and I started walking toward the river. For the first time since the alert, I walked slowly, and I tried not to make a sound.
+I had a bit more than one bottle of water left. The food was gone. My hand was faintly swollen under the dirty wrap. I needed to wash it, needed to eat, and needed to know where I actually was.
+
+There was still no reply on my phone.
+
+I was about to try calling again when a new notification appeared.
+
+Evacuation point. River Crossing Bridge, north bank. Receiving until twelve noon.
+
+I read the address again.
+
+Yesterday I had walked into the mall because I saw a guard at the door. Now I was about to head toward a place that might be just as full of people.
+
+I sat there a little longer, looking at the bottle in my hand.
+
+If I stayed here, I would still have to go outside by noon anyway.
+
+I saved the evacuation address, in case the phone lost signal on the way.
+
+Then I put on the backpack, checked my pocket to make sure the phone was still there.
+
+Outside, footsteps passed by.
+
+I put my hand on the bolt, and waited.
+
+Only when I couldn't hear anything anymore did I open the door.

@@ -1,70 +1,177 @@
-# Tập 1 — Bản dịch tiếng Việt (bản MỚI sau góp ý: nhân vật vụng về ở Ngày 1, kỹ năng học dần)
+# Tập 1 — Bản dịch tiếng Việt (bản viết lại theo góp ý của chủ dự án, 2026-10-19)
 
 Chỉ để đọc hiểu; bản đọc là `script.md` tiếng Anh.
 
 ## 1. Đồng hồ bắt đầu
-Lúc 6 giờ 02 sáng, điện thoại tôi phát ra một âm thanh chưa từng nghe. Không phải nhạc chuông. Là còi báo động.
-Màn hình viết: cảnh báo khẩn cấp. Hãy giữ bình tĩnh. Cập nhật tiếp theo sau hai mươi bốn giờ.
-Tôi đọc dòng cuối hai lần. Hai mươi bốn giờ. Người viết nó không nghĩ tôi cần biết gì sớm hơn.
-Tôi gọi cho em gái. Chuông reo mãi. Gọi cho một người bạn ở bên kia thành phố. Không ai nghe. Gọi số khẩn cấp, một bản ghi âm bảo mọi đường dây đang bận. Tám phần trăm pin biến mất mà tôi chẳng biết thêm điều gì.
-Tôi bước tới cửa sổ. Dưới phố, một người đàn ông chạy qua chiếc xe đang dừng, tay xách giày. Một người phụ nữ gào lên một cái tên. Ai đó tì vào còi xe và không ai bảo anh ta dừng. Ở cuối dãy phố, vài người đi về phía đám đông, chậm rãi, theo cách làm đám đông chạy nhanh hơn.
-Tôi không hiểu mình đang nhìn thấy gì. Tôi chỉ hiểu một điều: ai cũng đang chạy, và tôi không muốn là người ở lại phía sau.
-Tôi đóng đồ vội vàng, không suy nghĩ. Hai chai nước. Hai thanh ăn nhẹ. Đèn pin, vì nó nằm cạnh giường. Điện thoại, còn 77%. Tôi giật chiếc ba lô nhỏ trên móc cạnh cửa và bỏ ngỏ cửa phía sau.
-Đó là quyết định đầu tiên trong ngày. Trước tối tôi sẽ đưa ra nhiều quyết định nữa, và phần lớn sẽ sai.
+Lúc 6 giờ 02 sáng, điện thoại tôi phát ra tiếng còi báo động.
+Tôi tỉnh giấc, quờ tay tìm nó trên bàn.
+Màn hình hiện cảnh báo khẩn cấp. Người dân được yêu cầu ở trong nhà, khóa cửa và chờ thông báo tiếp theo.
+Tôi gọi vài số quen. Không ai nghe. Trên nhóm cư dân, tin nhắn nhảy liên tục. Có người hỏi chuyện gì đang xảy ra. Có người bảo đừng xuống đường. Một đoạn video vừa gửi lên chưa xem hết đã bị xóa.
+Tôi ra cửa sổ.
+Dưới phố, một chiếc xe đâm vào đuôi xe khác. Người lái bỏ xe chạy. Gần cửa hàng tiện lợi, vài người đang giằng co. Một người ngã xuống, những người còn lại tản ra rất nhanh.
+Tôi kéo rèm, quay lại khóa cửa.
+Tôi định ở yên trong nhà.
+Khoảng mười phút sau, ngoài hành lang có tiếng đập cửa. Một người đàn ông gọi ai đó mở cho vào. Tôi bước đến gần, nhìn qua mắt cửa.
+Ông ấy đứng trước căn hộ đối diện, một tay ôm cánh tay còn lại. Máu nhỏ xuống sàn.
+Tôi chưa kịp làm gì thì cửa cầu thang bật mở.
+Có người đi ra. Rồi thêm một người nữa.
+Người đàn ông quay lại, lùi sát vào cửa. Ông bắt đầu đập mạnh hơn.
+Tôi rời mắt khỏi lỗ nhìn khi tiếng hét vang lên.
+Đứng giữa phòng, tôi nghe tiếng va đập ngoài hành lang. Một lúc sau, ai đó chạm vào tay nắm cửa nhà tôi.
+Tay nắm hạ xuống rồi bật lên.
+Tôi lùi vào bếp.
+Căn hộ có cửa sau dẫn ra cầu thang phụ. Tôi chưa từng dùng nó ngoài những lần mang rác xuống. Tôi lấy ba lô, bỏ vào hai chai nước, mấy thanh bánh còn trong ngăn tủ và chiếc đèn pin cạnh giường.
+Tôi không có thời gian nhắn cho ai.
+Ngoài cửa chính lại có tiếng động.
+Tôi đi bằng cửa sau, kéo cửa đóng thật nhẹ.
 
 ## 2. Sai lầm đầu tiên
-Mọi người trên phố chạy cùng một hướng, nên tôi cũng chạy. Về phía trung tâm thương mại.
-Cửa lớn, đèn sáng, có bảo vệ. Trông như nơi an toàn. Tôi không nghĩ ra rằng chính vì thế ai cũng đổ về đó.
-Lối vào là một cái phễu. Hàng trăm người chen qua hai cánh cửa, tiếng ồn dội lại từ kính. Tôi tự nhủ không sao. Đông người nghĩa là có sự giúp đỡ. Đông người nghĩa là có ai đó phụ trách.
-Bên trong còn tệ hơn. Một người hét bảo mọi người bình tĩnh, không ai nghe. Một đứa trẻ khóc ở đâu đó phía trên. Tôi thấy một quầy nhỏ với cửa cuốn mở nửa chừng và lấy những gì mang được. Hai chai nước. Ba hộp thức ăn. Tôi gần như tự hào về mình.
-Tôi không tìm lối thoát. Thậm chí không nghĩ tới lối thoát. Tôi làm như mọi người: chạy theo tiếng ồn, và tự nhủ đó là một kế hoạch.
+Cầu thang phụ dẫn xuống một con ngõ phía sau tòa nhà.
+Ở đó cũng có người. Một đôi vợ chồng đang đỡ bà cụ lên xe. Người đàn ông bảo tôi tránh đường lớn, phía ngã tư có tai nạn.
+Tôi hỏi nên đi đâu.
+Ông chỉ về phía trung tâm thương mại.
+"Họ đang cho người vào trong đấy."
+Tôi đi theo hướng đó.
+Từ xa, tôi thấy đèn vẫn sáng. Bảo vệ đứng ở cửa, ra hiệu cho mọi người đi vào. Sau những gì vừa xảy ra ngoài căn hộ, chỉ cần nhìn thấy một người mặc đồng phục còn làm việc cũng đủ khiến tôi nhẹ người.
+Bên trong đông, nhưng lúc đầu chưa hỗn loạn. Có người ngồi dọc hành lang. Một đứa trẻ đang được mẹ lau mặt. Nhân viên kéo những quầy hàng nhỏ sang bên để chừa lối đi.
+Tôi tìm một chỗ gần tường, lấy điện thoại gọi lại.
+Vẫn không được.
+Một nhân viên đẩy xe nước đi qua, bảo mỗi người lấy một chai. Tôi lấy một chai, hỏi có biết chuyện gì đang xảy ra không.
+Chị lắc đầu.
+"Bọn em cũng đang chờ."
+Tôi ngồi xuống. Trong vài phút, tôi nghĩ mình có thể ở đây cho đến khi mọi chuyện rõ ràng hơn.
+Rồi trên tầng có tiếng hét.
 
 ## 3. Cái bẫy
-Nó bắt đầu ở tầng trên. Tôi không thấy bằng cách nào. Đầu tiên là một tiếng hét, rồi một đợt xô đẩy, rồi cả tầng cùng dồn về nơi duy nhất ai cũng nghĩ ra: cầu thang bộ.
-Tôi bị cuốn vào. Cầu thang quá hẹp so với số người. Vai, khuỷu tay, túi xách, và một tay vịn kim loại chạy giữa. Ba lô của tôi mắc vào đó.
-Một lúc tôi không hiểu vì sao mình dừng. Đám đông vẫn đẩy, quai ba lô giữ tôi vào lan can như một bàn tay. Tôi giật một lần. Không được. Phía sau người ta la hét. Có người ngã. Bên dưới, âm thanh đổi khác, và tôi biết nó nghĩa là gì mà không cần nhìn.
-Tôi tuột một tay khỏi quai, kéo ba lô ra, rách lòng bàn tay vào kim loại. Rát. Tôi không quan tâm.
-Ở chiếu nghỉ tiếp theo có một cánh cửa xám với ba chữ: chỉ dành cho nhân viên.
-Tôi không chọn nó. Tôi bị đẩy về phía nó, và nó mở ra. Một hành lang, không khí lạnh, mùi nước lau sàn. Qua bức tường tôi nghe thấy trung tâm thương mại. Tôi chạy hướng ngược lại, xuống một đoạn dốc, qua cánh cửa thứ hai, ra một bến hàng nơi buổi sáng bỗng yên ắng.
-Tôi ngồi xuống giữa hai thùng rác và nhận ra tay mình đang run.
+Ban đầu chỉ vài người đứng dậy nhìn.
+Sau đó có người chạy xuống thang cuốn, ngã ngay ở chân thang. Người phía sau vấp vào họ. Tiếng hét lan dọc hành lang.
+Tôi đứng lên, cố nhìn cửa chính.
+Người từ phía cửa đang chạy ngược vào.
+Tôi không biết bên nào nguy hiểm hơn. Khi những người cạnh mình lao về cửa cầu thang bộ, tôi đi theo.
+Chúng tôi xuống được một tầng thì cả hàng dừng lại.
+Phía dưới có người hét đừng đẩy.
+Nhưng phía trên vẫn tiếp tục tràn xuống.
+Tôi bị ép vào tay vịn. Ba lô mắc ở đâu đó phía sau, kéo giật vai tôi lại. Tôi quay người, không đủ chỗ để đưa tay ra.
+Một người đàn ông đập vào lưng tôi.
+"Đi đi!"
+Tôi cố nói mình bị mắc, nhưng ông ấy không nghe.
+Tôi tuột một quai khỏi vai, luồn tay ra sau kéo mạnh. Ba lô bật khỏi lan can. Bàn tay tôi quệt vào một cạnh kim loại, đau buốt.
+Ở chiếu nghỉ có một cánh cửa đang mở. Tôi lách qua người bên cạnh, gần như ngã vào trong.
+Đó là hành lang dành cho nhân viên.
+Tôi đi theo mũi tên chỉ lối ra, qua một đoạn dốc rồi đẩy cửa bước ra khu giao hàng.
+Ngoài này chỉ có xe tải và những thùng hàng xếp sát tường.
+Tôi đi thêm vài bước rồi ngồi xuống.
+Bàn tay đang chảy máu. Tôi lấy khăn giấy ép lên đó, nhưng tay run quá, làm rơi cả gói.
+Tôi cứ ngồi như vậy một lúc mới cúi xuống nhặt.
 
-## 4. Ba điều tôi biết
-Tôi không biết phải làm gì, nên tôi làm điều mình vẫn làm mỗi khi sợ: lập một danh sách.
-Tôi mở ghi chú trong điện thoại và gõ bằng một ngón, vì bàn tay kia đang chảy máu lên tay áo. Tôi không gọi đó là quy tắc. Tôi chưa biết đủ để có quy tắc. Tôi chỉ ghi những gì mắt mình đã thấy.
-Một. Những kẻ từ trung tâm thương mại không chạy. Chúng đi bộ.
-Hai. Đám đông khiến chúng kéo đến. Mỗi tiếng hét dường như kéo chúng lại gần hơn.
-Ba. Tôi không biết có bao nhiêu kẻ.
-Hai phần trăm pin cho ba dòng. Cảm giác thật phí. Đó là việc có ích đầu tiên tôi làm cả ngày.
-Từ sau thùng rác tôi nhìn được một đoạn phố dài. Đâu đó trong trung tâm thương mại một chuông báo cứ reo mãi, và những người còn lại ngoài này trôi về phía nó, từng người một. Chúng không tìm tôi. Không chạy. Chúng đi về phía âm thanh như nước tìm chỗ trũng.
-Tôi nhìn chúng rất lâu, và tôi vẫn chưa biết mình đang nhìn thấy điều gì.
+## 4. Sau trung tâm thương mại
+Tôi uống vài ngụm nước rồi kiểm tra điện thoại.
+Không có cuộc gọi nhỡ.
+Tôi muốn về nhà, nhưng cứ nghĩ đến những người ngoài hành lang là lại thôi.
+Qua khe giữa hai xe tải, tôi nhìn được ra đường. Có người chạy ngang đầu ngõ. Đằng sau họ, hai người khác bước theo chậm chạp.
+Một chiếc xe đậu gần đó bắt đầu hú báo động.
+Hai người đang đi dừng lại, quay về phía chiếc xe.
+Tôi nhìn họ tiến đến bên cửa, đập tay lên kính.
+Từ trong trung tâm thương mại, chuông báo cháy cũng bắt đầu reo. Một người ở gần đầu đường quay lại. Rồi thêm một người nữa.
+Tôi cúi thấp xuống.
+Tôi chưa biết họ bị làm sao. Nhưng tôi đã nhìn thấy đủ để không muốn đến gần.
+Khi khu giao hàng vắng hẳn, tôi xé một dải vải từ chiếc áo lót trong ba lô, quấn tạm bàn tay rồi rời đi theo con ngõ phía sau.
+Tôi tránh hướng có tiếng chuông.
 
 ## 5. Ngôi nhà sai
-Đến chiều tôi cần chỗ nghỉ, và tôi muốn một cái giường. Phố đã yên theo kiểu nơi mọi người vội vã bỏ đi. Cuối một dãy nhà, tôi thấy một ngôi nhà. Cửa trước mở hé một gang tay. Không đèn. Trông đúng thứ tôi muốn.
-Tôi đẩy cửa và gọi nhỏ: xin chào? Tôi nghĩ mình muốn ai đó trả lời. Không ai trả lời.
-Rồi tôi thấy khung cửa. Gỗ quanh ổ khóa nứt toác, các mảnh dăm chĩa ra ngoài, không phải vào trong. Thứ làm hỏng cánh cửa này đã ở bên trong.
-Có gì đó động đậy trên tầng hai. Một bước chân chậm, rồi một bước nữa, rồi tiếng thứ gì lê dọc tường. Tôi đứng trong hành lang, tim đập vang trong tai, và vẫn không chạy. Tôi không biết tiếng một người đang chạy nghe thế nào với chúng.
-Các bước chân bắt đầu xuống cầu thang. Lúc đó tôi mới chạy. Tôi đâm vai vào cửa trước, làm rơi một cái bình khỏi bàn, và không dừng cho tới khi cách xa ba con phố, gập người trên một bức tường vườn, nghe hơi thở của chính mình.
-Không có gì đuổi theo xa. Nó dừng lại ở cửa, như con chó dừng ở mép khu vườn. Tôi không nghĩ nó khôn. Tôi nghĩ nó mất hứng ngay khi tôi thôi gây tiếng động.
-Tôi nghĩ về điều đó rất lâu, vì không thể ngừng nghĩ.
+Đến chiều, tôi đã đi bộ nhiều giờ.
+Tôi ăn hết một thanh bánh mà vẫn thấy cồn cào. Bàn chân bắt đầu rát. Tôi chỉ muốn tìm chỗ ngồi xuống và gọi được cho ai đó.
+Cuối một dãy nhà có căn nhà mở hé cửa.
+Tôi đứng ngoài cổng một lúc. Không thấy ai, cũng không nghe tiếng động.
+Tôi gọi nhỏ.
+"Có ai ở nhà không?"
+Không có tiếng trả lời.
+Quanh ổ khóa có một vết vỡ. Tôi nhìn thấy, nhưng vẫn tự nhủ có thể chủ nhà đã làm hỏng cửa khi bỏ đi.
+Tôi đẩy cửa bước vào.
+Phòng khách trống. Một chiếc ghế bị đổ, đồ đạc nằm rải trên sàn. Trên bàn có một cốc nước uống dở.
+Tôi vừa bước qua chân cầu thang thì nghe tiếng động phía trên.
+Một bước chân.
+Tôi ngẩng lên.
+Có ai đó đứng ở đầu cầu thang, khuất sau lan can.
+"Xin lỗi," tôi nói. "Tôi chỉ cần—"
+Người đó bắt đầu xuống.
+Tôi nhìn thấy vết máu trên áo, rồi khuôn mặt.
+Tôi quay người quá vội, va vào chiếc bàn cạnh cửa. Một cái bình rơi xuống vỡ.
+Tôi chạy ra ngoài.
+Đến cuối phố, tôi mới dám ngoái lại.
+Người đó đã ra đến cổng, đứng giữa những mảnh nắng còn sót trên vỉa hè.
+Tôi rẽ vào một con ngõ khác, tiếp tục đi cho đến khi không còn nhìn thấy căn nhà.
+Lúc dừng lại, tôi phải chống hai tay lên đầu gối mới thở được.
+Tôi đã thấy cánh cửa hỏng trước khi bước vào.
+Tôi biết mình không nên vào.
+Nhưng lúc ấy tôi mệt, và tôi muốn căn nhà đó trống.
 
-## 6. Giờ cuối cùng
-Ánh sáng đã chuyển cam. Tôi không có kế hoạch, chỉ có một cơ thể muốn dừng lại. Tôi thử bãi đỗ xe nhiều tầng trước, nhưng cổng đóng và xích. Tôi thử một khu chung cư, nhưng cầu thang sặc mùi khói, và tôi quay lại ngay tại chiếu nghỉ đầu tiên, nhớ tới trung tâm thương mại.
-Tôi ở gần cuối phố thì thấy một tòa nhà tiện ích nhỏ sau dãy cửa hàng. Một cửa thép phía trước. Một cửa sổ kỹ thuật hẹp phía sau. Không cửa sổ nào khác. Lạnh, mùi dầu. Không nước, không giường, không gì người ta gọi là thoải mái.
-Tôi không muốn giả vờ là mình đã chọn nó. Đó là nơi cuối cùng còn lại. Tôi thử tay nắm, nó không khóa.
-Tôi vào, và đóng cửa lại phía sau. Lần đầu từ lúc có cảnh báo, không ai đang chạy.
+## 6. Chỗ qua đêm
+Trời sắp tối.
+Tôi không còn tìm một chỗ có giường nữa.
+Bãi đỗ xe đầu phố đã khóa cổng. Tôi đứng ngoài nhìn vào, gọi thử một tiếng. Không ai đáp.
+Tôi thử khu chung cư bên cạnh. Vừa lên hết đoạn cầu thang đầu tiên đã ngửi thấy khói. Có tiếng chuông báo ở đâu đó phía trên.
+Tôi quay xuống.
+Sau dãy cửa hàng có một căn nhà nhỏ dùng làm kho bảo trì. Cửa thép, tường không có cửa kính. Phía sau là một ô cửa sổ thấp mở ra khoảng sân hẹp.
+Tôi đi vòng quanh trước khi thử tay nắm.
+Cửa không khóa.
+Tôi đứng ngoài gọi, rồi chờ.
+Không có gì động đậy.
+Bên trong có kệ dụng cụ, vài thùng nhựa và một chiếc bàn. Tôi bật đèn pin, soi cả góc khuất sau cửa.
+Không có ai.
+Ô cửa sổ phía sau đủ rộng để tôi chui qua nếu bỏ ba lô xuống trước. Tôi mở thử chốt rồi đóng lại.
+Sau đó quay về cửa chính.
+Chốt cửa vẫn dùng được. Tôi cài nó lại, kéo thử hai lần.
+Căn phòng có mùi dầu và bụi. Nền bê tông lạnh, chẳng có gì để nằm ngoài mấy tấm bìa.
+Tôi trải chúng sát tường, ngồi xuống.
+Lần này, trước khi ăn, tôi nhìn lại cánh cửa.
+Nó vẫn đóng.
 
 ## 7. Đêm đầu tiên
-Đêm xuống rất nhanh. Mất điện, cả thành phố tối hẳn. Tôi sợ bóng tối, nên bật đèn pin và để nó sáng. Tôi ngồi giữa phòng, chiếu chùm sáng vào cánh cửa, như thể ánh sáng có thể giữ cửa đóng.
-Khoảng nửa đêm tôi nghe thấy. Một tiếng cào bên ngoài. Rồi một tiếng nữa. Thứ gì đó lê chân trên bê tông.
-Cánh cửa thép nhúc nhích. Không phải gõ. Là một cú đẩy. Một lần. Hai lần. Rồi nhịp chậm của những bàn tay trên kim loại. Nhiều tay hơn. Tôi nghe chúng đang tụ lại. Tôi nghĩ tới con phố ở trung tâm thương mại, những người trôi về phía chuông báo, và hiểu rất rõ điều mình đã làm. Tôi đã bật đèn trong một thành phố đen kịt. Tôi đã tự biến mình thành chiếc chuông báo.
-Tay tôi run mạnh đến mức đèn pin tuột ra, lăn trên sàn rồi tắt.
-Bóng tối hoàn toàn. Tôi nín thở. Áp sát vào tường. Tiếng đẩy còn một lúc, rồi dần dần thưa đi. Một tiếng cào cuối. Rồi không gì. Tôi không biết mình đã chờ bao lâu. Khi cuối cùng thở ra, cảm giác như đã nín cả một giờ.
-Chúng dừng lại vì tôi dừng lại. Ánh sáng tắt, tiếng động tắt, và chỉ sau vài phút chúng quên rằng ở đây có thứ gì.
-Tôi không bật đèn pin nữa. Tôi quỳ bên tường cho tới khi trời sáng, và lặp đi lặp lại với chính mình một từ. Im lặng.
+Tôi ăn nốt thanh bánh còn lại rồi lấy điện thoại ra.
+Không có tin nhắn mới. Không một gạch sóng.
+Tôi giảm độ sáng màn hình, đặt điện thoại cạnh mình.
+Tôi không biết mình ngủ lúc nào.
+Một tiếng động ngoài cửa làm tôi tỉnh dậy.
+Tôi ngồi bật lên, quệt tay vào chai nước. Nó lăn khỏi tấm bìa, nảy trên nền rồi chạm vào chân kệ.
+Âm thanh không lớn.
+Nhưng ngay sau đó, tiếng chân bên ngoài dừng lại.
+Tôi nhìn cánh cửa.
+Tay nắm khẽ động.
+Rồi có một cú đẩy.
+Tôi vội bật đèn pin. Chùm sáng rung trên cánh cửa thép.
+Một cú đẩy nữa.
+Tôi tắt đèn, lùi về sát tường. Gót giày cọ trên nền.
+Bên ngoài có tiếng cào ngay chỗ tôi vừa đứng.
+Tôi dừng lại.
+Cánh cửa rung thêm vài lần. Chốt vẫn giữ được, nhưng mỗi tiếng kim loại va nhau đều khiến tôi nghĩ đến lúc nó bật ra.
+Tôi muốn kéo bàn tới chắn.
+Nhưng chiếc bàn nằm bên kia phòng. Tôi nhớ tiếng chai nước lăn, rồi tiếng chân dừng ngay sau đó. Tôi không đứng lên.
+Tôi ngồi sát tường, hai tay ôm đầu gối, cố thở chậm.
+Tiếng động bên ngoài tiếp tục một lúc.
+Rồi thưa dần.
+Tôi không biết có bao nhiêu người ngoài đó. Tôi cũng không biết họ đã đi hay chỉ đứng chờ.
+Khi chân bắt đầu tê, tôi vẫn không dám duỗi ra.
+Mãi về sau, có tiếng kính vỡ từ xa.
+Những bước chân ngoài cửa dịch chuyển. Tiếng đế giày kéo trên bê tông nhỏ dần, rồi mất hẳn.
+Tôi chờ rất lâu mới với lấy chai nước.
+Lần này tôi giữ nó bằng cả hai tay.
 
 ## 8. Ngày thứ hai
-Bình minh đến chậm và xám. Tôi mở cửa sổ kỹ thuật một ngón tay, nhìn một cái sân trống rồi đóng lại. Tôi đã thức hơn hai mươi giờ. Tôi còn hơn một lít nước, ba bữa ăn, một bàn tay trầy, điện thoại 70%, và một chiếc đèn pin tôi sợ không dám chạm.
-Tôi lấy điện thoại ra và thêm dòng thứ tư dưới ba dòng cũ. Đó không còn là điều tôi đã thấy. Đó là điều đầu tiên tôi đã học. Chúng đến vì tiếng động. Vậy hãy im lặng.
-Rồi điện thoại rung. Một tin nhắn mới. Tự động. Lạnh lẽo. Điểm sơ tán. Cầu River Crossing, bờ bắc. Hạn chót, mười hai giờ trưa hôm nay.
-Tôi đọc bốn lần. Lẽ ra tôi phải hỏi ai gửi. Lẽ ra phải hỏi bao nhiêu người khác cũng đọc nó. Thay vào đó tôi làm như người mệt: tôi muốn nó là thật.
-Tôi đếm lại đồ. Đeo ba lô, bước ra cái lạnh, và bắt đầu đi về phía con sông. Lần đầu từ lúc có cảnh báo, tôi đi chậm, và cố không gây tiếng động.
+Gần sáng, tôi ngủ thêm được một lúc.
+Khi tỉnh dậy, cổ cứng đến mức phải xoay cả người mới nhìn được ra sau.
+Tôi hé ô cửa sổ, nhìn xuống sân.
+Không có ai.
+Nước còn hơn một chai. Đồ ăn đã hết. Bàn tay sưng nhẹ dưới lớp vải bẩn. Tôi cần rửa nó, cần ăn và cần biết mình đang ở đâu trên bản đồ.
+Điện thoại vẫn chưa có hồi âm.
+Tôi đang định gọi thì một thông báo mới hiện lên.
+ĐIỂM SƠ TÁN: ĐẦU CẦU RIVER CROSSING, BỜ BẮC. TIẾP NHẬN ĐẾN 12 GIỜ TRƯA.
+Tôi đọc lại địa chỉ.
+Hôm qua tôi đã đi vào trung tâm thương mại vì thấy bảo vệ ở cửa. Giờ tôi lại chuẩn bị đi đến một nơi có thể đang đầy người.
+Tôi ngồi thêm một lúc, nhìn chai nước trên tay.
+Ở lại đây, đến trưa tôi cũng phải ra ngoài.
+Tôi lưu lại địa chỉ sơ tán, phòng khi điện thoại mất sóng giữa đường.
+Sau đó đeo ba lô, kiểm tra túi áo để chắc điện thoại vẫn ở đó.
+Ngoài cửa có tiếng chân đi qua.
+Tôi đặt tay lên chốt, chờ.
+Đến khi không còn nghe thấy gì nữa, tôi mới mở cửa.

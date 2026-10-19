@@ -39,8 +39,7 @@ Growth never removes the limitations above.
 The survivor does **not** have rules on Day 1. Each rule is learned from a mistake, on the day it happens, and only then written down. [CONFIRMED correction; exact wording of the rules is PROPOSAL]
 | Rule | Learned | By what |
 |---|---|---|
-| (Day 1 notes, not rules) | Ep 1 scene 4 | three plain observations: they walk, the crowd draws them, he does not know how many (replaces the earlier "Three Rules" scene content; the scene keeps its place, renamed "Three Things I Know") |
-| 1. Noise draws them: be quiet | end of Ep 1 | calling "hello?" in the wrong house, then the flashlight left on all night |
+| 1. Noise draws them: be quiet | demonstrated Ep 1 scene 4, confirmed scene 7 | calling "hello?" in the wrong house; watching two shambling figures turn toward a car alarm then the mall's fire alarm (scene 4); a dropped water bottle draws them to his door and distant breaking glass pulls them away (scene 7) — two clean before/after events, no written list (REVISED 2026-10-19, replaces the earlier "Three Things I Know" written-observations scene) |
 | 2. Never go into a place without a second way out | Ep 2 | the dead-end street at the bridge |
 | 3. Do not stay anywhere you cannot leave in under a minute | Ep 3 | the rooftop tank, when zombies gather below |
 Day 1 behaviours must look naive: he phones people (battery lost), follows the crowd, ignores exits, calls out in a strange house, uses the flashlight all evening. He survives partly by luck, and learns from it.

@@ -33,6 +33,18 @@ desktop.ini
 .env
 .env.*
 
+# local render output
+renders/
+
+# reference videos downloaded for style/story analysis (large, not source material)
+checkvideo/
+
+# AI pictures kept next to the scripts, archived old versions and scratch dumps (large / local)
+content/zs-ep*/scene[0-9][0-9].png
+content/zs-ep*/old_v1/
+content/zs-ep*/image/
+content/zs-ep*/_*.txt
+
 # placeholder/AI pictures for the survival episodes (large, generated locally)
 demo-project/public/zs-ep*/images/
 demo-project/public/zs-ep*/.voice_cache/
