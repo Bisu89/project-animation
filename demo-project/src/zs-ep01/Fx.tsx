@@ -328,6 +328,20 @@ const EvacCard: React.FC<{ f: number; start: number }> = ({ f, start }) => {
   );
 };
 
+const NOTES: Record<string, string> = { note1: "Rule one: Noise attracts them.", note2: "Rule two: Find another way out before going farther in.", note3: "Rule three: Don't stay anywhere you can't leave in under a minute." };
+
+// a plain note typed into the phone (Episode 2 onward: the survivor writes his rules down)
+const NoteCard: React.FC<{ f: number; start: number; text: string }> = ({ f, start, text }) => {
+  const p = cardAnim(f, start);
+  if (f < start) return null;
+  return (
+    <div style={{ position: "absolute", top: 70, left: W / 2 - 430, width: 860, opacity: p, transform: `translateY(${(1 - p) * -30}px)`, fontFamily: FONT.body, background: "rgba(28,28,32,0.93)", borderRadius: 16, overflow: "hidden", boxShadow: "0 10px 34px rgba(0,0,0,0.55)" }}>
+      <div style={{ background: "#d9a521", color: "#1a1a1a", fontSize: 24, fontWeight: 800, letterSpacing: 3, padding: "8px 24px" }}>NOTES</div>
+      <div style={{ color: "#fff", fontSize: 36, fontWeight: 700, lineHeight: 1.3, padding: "18px 24px" }}>{text}</div>
+    </div>
+  );
+};
+
 const NoSignalCard: React.FC<{ f: number; start: number }> = ({ f, start }) => {
   const p = cardAnim(f, start);
   if (f < start) return null;
@@ -354,6 +368,7 @@ export const Cards: React.FC<{ toks: FxTok[]; f: number; sceneFrom: number; firs
         if (kind === "chat") return <ChatCard key={i} f={f} starts={[at(c.at), at(c.at + 1), at(c.at + 2)]} />;
         if (kind === "evac") return <EvacCard key={i} f={f} start={at(c.at)} />;
         if (kind === "nosignal") return <NoSignalCard key={i} f={f} start={at(c.at)} />;
+        if (NOTES[kind]) return <NoteCard key={i} f={f} start={at(c.at)} text={NOTES[kind]} />;
         return null;
       })}
     </>

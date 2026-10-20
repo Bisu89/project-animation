@@ -38,6 +38,7 @@ Chi tiết kỹ thuật: `HANDOFF.md` (mục 0, tiếng Anh). Bản tiếng Vi�
 - **Tập 2** `content/zs-ep02/script.md` + `script.vi.md` = **bản của bạn** (~2000 từ, nhiều đoạn ngắn nên đọc ra ~13 phút), đã sửa vài chỗ logic nhỏ; quy tắc 2 = "Find another way out before going farther in"; cái loa đúng 12 giờ nói "Evacuation transport is arriving".
 - **Tập 3** `content/zs-ep03/script.md` + `script.vi.md` (đã viết lại theo bộ 12 quy tắc, ~1990 từ ≈ 11–12 phút; ngày 3: nước; bình nước nóng phòng khám; quy tắc 3).
 - Dàn ý đã cập nhật ở `EPISODE_OUTLINE.md`, sổ trạng thái ở `SURVIVAL_STATE.md` (bảng "Revision"). Tập 4–7 vẫn là nháp/dàn ý cũ, phải viết lại theo bảng mới (thức ăn đã = 0 từ Ngày 1) trước khi duyệt.
+- **Tập 2 — CSV ảnh đã tạo** (2026-10-20): giọng đọc + timeline (699 s ≈ 11,7 phút, 223 câu), **47 ảnh** ở `content/zs-ep02/scenes.csv` (prompt + hiệu ứng nhẹ, nguồn `content/zs-ep02/prompts.txt`). Hiệu ứng chỉ là zoom/trượt chậm, ánh sáng ổn định, bụi/gió nhẹ và thẻ ghi chú `card:note1/note2` (hiện chữ quy tắc trên điện thoại) — KHÔNG nhấp nháy đỏ, rung, tim đập. Ảnh lưu vào `demo-project/public/zs-ep02/images/scene01..47.png`; chưa có Video/Composition cho Tập 2 (sao chép từ `zs-ep01/Video.tsx`), bảng giờ `HUD` trong `Fx.tsx` mới có chương của Tập 1.
 - Quy trình: duyệt kịch bản → mới tạo giọng đọc/ảnh/render (đúng quy tắc 1).
 
 ## Việc kế tiếp
