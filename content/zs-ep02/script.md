@@ -1,215 +1,367 @@
-# 1. The List
+# 1. Before Leaving
 
-At dawn, before I opened the door, I opened my notes.
+On the morning of day two, I had a little over one bottle of water and nothing to eat.
 
-I had one thing I was sure of. I typed it with my good hand.
+The message that came in at dawn said to reach River Crossing before noon.
 
-Rule one. Noise brings them. Be quiet.
+I didn't know how far that was. I didn't know if the evacuation point was still operating. But this room had no water supply, and I couldn't stay here forever.
 
-It looked small on the screen. It had cost me a whole night.
+I decided to go.
 
-Then I switched off everything my phone could do out loud. The keyboard clicks. The vibration. Every alert tone. A message arriving in an empty street would carry a long way.
+I slid the bolt back across the door. If I was going out, I wanted to do it properly.
 
-I counted what I had. A little more than one bottle of water. No food. A flashlight I had decided to use as little as possible.
+I opened the notes on my phone.
 
-Then I unwrapped my hand.
+Rule one: Noise attracts them.
 
-The palm was swollen and stiff, the scrape crusted dark and cracked at the edges. I poured a few drops of water over it and let it dry, because I had read once that a dirty wound is worse than a small one. I wrapped it again with a cleaner strip of the shirt. It did not feel better. It felt looked after.
+The water bottle I'd dropped last night had taught me that.
 
-I tightened my shoelaces twice. I was going to walk a long way, and a blister can end a day as surely as a crowd can.
+I turned off notification sounds, keyboard sounds, and vibration. Then I checked for any alarms I'd set.
 
-If I stayed, I would have no water by tomorrow. If I went, I would be walking toward a message I could not check.
+I didn't want to make the same mistake again.
 
-I chose the message. Not because I trusted it. Because it was the only plan I had.
+Next was my hand.
 
-# 2. The Road
+The cloth I'd wrapped around it yesterday was dirty. One edge had stuck to the scrape. I peeled it away slowly, but it still hurt.
 
-The city looked different in daylight. Cars sat where their drivers had left them, doors open, engines cold. A shopping cart lay on its side in the middle of a crossing. Everything looked like a photograph of a place that used to be busy.
+I replaced it with a cleaner strip of cloth. I could still move my fingers. Closing my hand was harder.
 
-I kept to the walls, in the shade. A wall covers one side of you. Shade hides the rest.
+I packed the water and flashlight. Then I checked the zippers and made sure nothing was hanging loose outside the bag.
 
-At every corner, I stopped and listened for ten seconds. Silence is information. If I heard nothing, I walked. If I heard feet, I waited.
+Before leaving, I took a good look at the door and the buildings around it so I could find my way back.
 
-It was slow. It was boring. It was also the first time since the alert that I felt I was doing something right.
+If I couldn't reach the evacuation point, at least I still had this place.
 
-A road sign pointed the way. River Crossing, eleven kilometres.
+# 2. Outside
 
-Eleven kilometres. With a bad hand, no food, and a stop at every corner, that was five hours at least. Noon was six hours away. It could work, if nothing went wrong.
+There were abandoned cars along the street. Some still had their doors open. Belongings lay scattered across the pavement.
 
-# 3. Watching Them
+I stayed near the buildings and avoided gaps between cars where I couldn't see ahead.
 
-On the second corner, I found a place to watch from. A lorry, parked across a side street, with a gap under its chassis.
+At each corner, I stopped to listen before looking around it.
 
-Down the street, one of them was wandering between two cars. I watched it for a quarter of an hour.
+Once, I heard dragging footsteps just beyond a turn. I waited behind the wall until they passed.
 
-It did not look for anything. It did not follow a path. It walked until it met a car door, and then it pushed against it, and then it slid sideways and walked on until it met the next thing. When a bird clattered off a roof, its head came up and it turned toward the noise, and it stood there until the sound was gone. Then it went back to wandering.
+It was slow, but I didn't want to turn a corner and walk straight into one of them.
 
-It did not know where it was going. It did not remember where it had been.
+A sign said River Crossing was eleven kilometers away.
 
-That should have comforted me. Instead, I felt something colder. Whatever they were, they were not hunting me. They were reacting. Everything depended on what I did, and everything I did was a sound.
+I checked the time. It wasn't six yet.
 
-I wrote one more line under rule one, so I would not forget it. They do not remember. Out of earshot, they forget.
+With all these stops, I'd be lucky to manage three kilometers an hour. That meant four or five hours. If the roads were clear, I could get there before noon. But I also needed food, and I would have to avoid them along the way.
 
-# 4. The Empty Shelves
+I put the phone away and kept walking.
 
-By seven, my stomach had started to complain. It was not pain yet. It was a flat, hollow ache, the kind that makes every shop window look like a plan.
+# 3. Watching
 
-On a corner stood a small convenience store. The glass was gone from the door. Inside, in the grey light, I could see the shelves.
+On a side street, I spotted one standing beside a parked car.
 
-I stopped at the edge of the doorway and did what I had not done at the mall. I looked at how I would leave. One door at the front, and behind the counter, a curtain that probably hid a back room. I listened for a full minute.
+I crouched behind a delivery truck. From there, I could watch without stepping out into the open.
 
-Then I stepped over the broken glass, one slow foot at a time, and went in.
+It moved slowly between two cars, bumped into a door, then changed direction.
 
-The shelves were empty. Not neatly empty. Torn empty. Boxes on the floor, a till hanging open, a whole rack of crisps swept to the ground and trodden flat. Someone had been here before me, on the first day, in a hurry, and they had not left anything for the second.
+A bird flew off a nearby roof.
 
-I looked behind the counter anyway. Cigarettes. A tray of lighters. A single crushed packet of mints, which I put in my pocket.
+It turned toward the sound of the wings, took a few steps, and stopped.
 
-It is a strange feeling, to realise that other people have already been through the thing you are hoping to find. It meant they had been alive. It also meant they were not coming back for what was left.
+I waited.
 
-I went out the way I had come in.
+There was no more noise. After a while, it started wandering again.
 
-# 5. The Overpass
+I still didn't know how well it could see, or whether it could smell me.
 
-An hour later, I climbed a footbridge over a wide road, because I wanted to see where I was.
+All I'd seen was that it reacted to a sound, then stopped following when the sound was gone.
 
-From the top, the city opened out. Columns of smoke stood up from three places, thin and straight in the still air. Nothing moved on the roads below, except small grey shapes, far apart, drifting.
+That wasn't enough to assume silence would keep me safe.
 
-And all along the wide road, in both directions, there were cars. A long line of them, nose to tail, stopped in their lanes, all pointing the same way. Toward the river.
+I waited until it moved farther away, then crossed the street.
 
-I stood with my hands on the rail and I understood something I had not wanted to understand.
+# 4. The Convenience Store
 
-I was not the only one who had read that message. Hundreds of people had read it, or one like it, and got into their cars, and driven toward the water, and sat in a line with the engines running until the fuel ran out. They had not been fools. They had been doing what I was doing.
+Around seven, I found a convenience store with a broken front window.
 
-I did not feel better. I felt less alone, and more afraid.
+I'd been hungry since waking up.
 
-# 6. The Alarm
+From outside, I could see that most of the shelves were empty. I still wanted to check.
 
-At nine, I heard it. A car alarm, ringing somewhere ahead.
+I listened for a while, then stepped inside, avoiding the larger pieces of glass.
 
-It had been going since yesterday. Every time it stopped, it started again. A car battery can keep that up for a long time, but not forever.
+There was a curtain behind the counter. Before searching for food, I pulled it aside.
 
-I stopped behind a parked bus and looked.
+A small storeroom. A fallen shelf blocked the back door.
 
-Around the car stood a crowd. Dozens of them, packed close, all turned toward the sound, the way plants turn toward a window.
+I wouldn't be able to get out that way if I needed to run.
 
-The avenue beyond them ran straight to the river. No turns. No guessing. It was the shortest way, and it went straight through them.
+I went back to the front and only searched near the entrance.
 
-At the mall, I had told myself a crowd meant help. This time I knew better. I went back one block, then left, then left again, and took the back streets.
+Most of the food was gone. Empty packets and crushed boxes covered the floor.
 
-It cost me forty minutes, and a third of a bottle of water in the heat.
+Behind the counter, I found an unopened packet of mints and a lighter.
 
-# 7. Thirst
+I took both.
 
-I made a rule for the water. One sip every half hour. Not more, even when my mouth was dry. Gulping feels good for a minute. Then your stomach turns, and you cannot afford to lose what you drank.
+I wanted to keep looking, but the longer I stayed, the more chance there was of something reaching the entrance.
 
-My heel had started to burn. A blister was forming inside my shoe. I told myself it was nothing. I told myself that every few hundred metres.
+I left.
 
-I moved from car to car. Crouch, rest my back against a door, listen.
+A little sugar was better than nothing. But a few mints wouldn't be enough for a whole day of walking.
 
-Around ten, I sat down in the doorway of a closed pharmacy to rest my foot. I leaned my head against the shutter and shut my eyes for a moment.
+# 5. Checking the Route
 
-When I opened them, one of them was walking toward me.
+I came to a pedestrian overpass and climbed up to see the roads ahead.
 
-It was coming along the pavement, slowly, dragging one foot, perhaps ten metres away. A man in a torn shirt, with his head tilted a little to one side, like someone trying to hear a faraway radio.
+The road toward the river was full of cars.
 
-I did not move. I did not breathe. I thought about the shutter behind my head, and the doorway I was sitting in, and how little there was between us.
+Some had stopped in the middle of junctions. Others had driven onto the pavement and been left there.
 
-It came closer. Five metres. Three. I could see the pattern on his shirt.
+Figures were moving between them.
 
-It stopped, almost level with me. Its head turned. The face was slack, and the eyes were looking at nothing.
+I couldn't tell whether they were survivors or more of the infected.
 
-Then something far off clinked, a can rolling in a gutter, and the head turned away from me. It shuffled on, past the doorway, and I watched its back disappear around the corner.
+I looked for a quieter route. If I followed the main road, there would be little room to get around a group.
 
-I stayed exactly where I was for ten more minutes. My hands were shaking so hard that I had to hold them between my knees.
+From the overpass, I spotted a street running alongside it. There were fewer cars, and it led toward the river too.
 
-Stillness had saved me. Not courage. Not a plan. Just doing nothing, very well.
+I went down and headed that way.
 
-By ten fifty, I could see the river.
+# 6. The Car Alarm
 
-# 8. The Approach
+Around nine, I heard a car alarm.
 
-The last stretch was a single road with a concrete wall on one side and a steel fence on the other. Barriers had been set up to guide the traffic. Orange cones. A banner, torn, hanging from one corner. A white tent.
+I stopped before the corner and looked from behind a parked bus.
 
-It looked organised. That was exactly what I wanted it to look like.
+Dozens of them were gathered around the car.
 
-I walked in.
+Some were pressed against its doors. Others were still trying to get closer.
 
-Halfway down, I saw the checkpoint. A table with a clipboard. A speaker on a pole, grey and silent. On the ground, a row of paper cups. A child's shoe. A folded blanket, still in its plastic.
+I needed to reach the road beyond them.
 
-The clipboard held a sheet of paper with a handwritten tally. Rows of little marks in groups of five, in blue pen, hundreds of them. The last row stopped halfway. Whoever was counting had put the pen down in the middle of a line.
+Going back to find another route would cost time. Trying to slip past would bring me too close.
 
-Beyond the table, the bridge. Both lanes full. Cars nose to tail, doors open, bags on the road. And between them, hundreds of figures, standing very still. Not crossing. Not going anywhere.
+I backed away to the last junction.
 
-No buses. No soldiers. Nobody to receive me.
+The detour wasn't as simple as I'd hoped. One alley ended at a locked fence. I had to turn around and try another street.
 
-I took out my phone. Eleven forty-one.
+It took about forty minutes to get past the area.
 
-I had reached it before the cut-off, and there was nobody there.
+I stopped in the shade and drank some water.
 
-# 9. Twelve O'Clock
+The bottle was getting low. I hadn't reached the river yet, and I still needed enough for the walk back if there was nobody at the evacuation point.
 
-I should have turned back right then. I knew it. But I stayed, beside the table, with my back against the pole, because I wanted to see what would happen at noon.
+I tightened the cap and moved on.
 
-I told myself I was being careful. That I was checking. That I owed it to the message.
+# 7. The Wrong Place to Rest
 
-The truth is, I wanted it to be true.
+By about ten, my heel was sore.
 
-At twelve o'clock exactly, the speaker above my head woke up.
+I stopped in the recessed doorway of a closed pharmacy.
 
-A tone, loud enough to rattle the cups on the ground. Then a flat, recorded voice. "This evacuation point is now closed. Please remain where you are."
+It kept me partly out of sight, but it was still right beside the pavement.
 
-Then again. And again.
+I put the bag between my feet, leaned back, and closed my eyes.
 
-On the bridge, every head turned.
+I only meant to rest for a minute.
 
-They did not run. They never run. They came the way they always come, slowly, a little faster than a walk, all of them toward the sound.
+Dragging footsteps made me open them.
 
-And the sound was above my head.
+One was coming toward me, about ten meters away.
 
-I walked at first. Then I ran. Running makes noise, but nothing I could make would compete with that speaker.
+I pulled my feet in.
 
-A hundred and fifty metres of wall and fence, with the recorded voice repeating behind me.
+My shoe brushed the bag. I stopped moving.
 
-At the end of the road, I looked back. It was filling up. A wall on one side. A fence on the other. One way out, and I had just used it.
+It kept coming.
 
-If I had stood there ten minutes longer, I would have been at the bottom of a dead end with a crowd walking into it.
+I pressed farther into the doorway, trying not to touch the metal shutter behind me.
+
+When it was only a few meters away, my shoulder made the shutter click.
+
+It stopped.
+
+I stayed still.
+
+Then something metal clattered onto the road farther down the street.
+
+It turned toward the noise and moved on.
+
+I waited until I couldn't hear its footsteps before moving.
+
+I didn't know what would have happened without that other sound.
+
+But this wasn't a safe place to sleep.
+
+I stood up, put on the bag, and kept going.
+
+At ten fifty, I saw the river.
+
+# 8. The Evacuation Point
+
+Near the bridge, temporary fencing and a concrete wall marked an approach lane.
+
+Inside were traffic cones, an evacuation sign, and a white tent.
+
+I watched from outside.
+
+No staff. No buses.
+
+The tent blocked part of my view. I wanted to get closer and check for a notice or anyone inside.
+
+The lane was about a hundred and fifty meters long, with the wall on one side and the fence on the other.
+
+I looked for an opening along the fence.
+
+There wasn't one.
+
+If anything happened, I would have to come back the same way.
+
+I knew that. But after walking all morning, I didn't want to leave without checking.
+
+I went in.
+
+Under the tent were a folding table, paperwork, and paper cups scattered on the ground.
+
+Nobody was there.
+
+From that point, I could see the bridge clearly.
+
+Cars blocked both lanes. A large number of infected stood or wandered between them.
+
+There was no queue for transport. Nobody directing people.
+
+I checked my phone.
+
+Eleven forty-one.
+
+Nineteen minutes before the time in the message.
+
+# 9. Waiting Until Noon
+
+I thought about leaving.
+
+Then I wondered if the buses simply hadn't arrived yet. What if I left and they came a few minutes later?
+
+I waited beside the tent, keeping my distance from the bridge.
+
+At noon, the loudspeaker above me suddenly played a chime.
+
+I flinched and stepped away from the pole.
+
+A recorded voice followed.
+
+"Evacuation transport is arriving. Please proceed to the marked waiting area."
+
+I looked toward the bridge.
+
+No vehicles were moving.
+
+But the nearest infected had turned toward the speaker.
+
+The announcement played again.
+
+They started coming toward the tent. More followed behind them.
+
+I didn't wait any longer.
+
+I turned and ran back toward the entrance.
+
+There was still a wall on one side and a fence on the other. Nowhere to turn off.
+
+I had to run the full length of the lane.
+
+Once I was out, I looked back.
+
+The first had almost reached the table. More were coming off the bridge behind them.
+
+If I'd kept waiting, they would have cut off my way out.
+
+I left the area and turned two corners before stopping.
 
 # 10. Rule Two
 
-I sat behind a dumpster two streets away, and I wrote it down. My hand was shaking so badly that I had to type it twice.
+I crouched behind a dumpster and waited for my breathing to slow.
 
-Rule two. Never go into a place without a second way out.
+I could still hear the speaker.
 
-I had checked the road. I had not checked the way out. I had looked at what I wanted to find, and not at how I would leave.
+It kept repeating the same announcement.
 
-The speaker kept going. Every minute, the tone, and then the voice, small and flat in the distance. I heard it for the next two kilometres. I think I would have heard it anywhere.
+I took out my phone and wrote:
 
-I still do not know if the message was ever real. Maybe it was sent too late. Maybe it was meant for someone else. Maybe it was a recording that nobody was left to switch off. At noon, a speaker on a pole kept doing its job for nobody, and it almost killed me.
+Rule two: Find another way out before going farther in.
 
-# 11. The Long Way Back
+I'd known to check for an exit since yesterday.
 
-The road home was longer than the road out. That is always true. I had never understood why until that day.
+I'd even checked the back door in the store that morning.
 
-The sun was high. My water was almost gone. Every block ahead looked exactly like the one I had just crossed.
+But at the evacuation point, I'd ignored the problem.
 
-I walked with my head down and I counted my steps, because counting was the only thing that kept the other thoughts quiet. The mints went one at a time, slowly, like a ration of something precious. They tasted of nothing but sugar. I was grateful for every one.
+I'd seen the sign and the tent and hoped there were people who could help. I'd kept going even though I knew there was only one way back.
 
-Near a bus stop, I stepped off a curb onto a loose piece of rubble, and my ankle turned. I bit down on my sleeve so I would not make a sound. I stood on one foot until the pain became something I could walk on.
+I didn't know whether the message was old or the evacuation point had only just been abandoned.
 
-I walked on the outside of my foot for the rest of the day.
+Knowing wouldn't help me now.
 
-# 12. Dusk
+I needed to leave before the speaker attracted more of them.
 
-I reached the shops behind the utility building as the light began to go orange. The steel door was exactly as I had left it. I stood there and listened. I counted to sixty. I listened again.
+# 11. Going Back
 
-Inside, I slid the bolt, and I sat down on the floor, and for a long time I did not move.
+I considered looking for somewhere nearby.
 
-I took out the bottle. A few mouthfuls. No food. A phone at half. An ankle I could not stand on. A hand that would not close.
+But I didn't know the area. I had no food and little water.
 
-I unwrapped it once more, by the light of the gap under the door. The scab had split again, and the palm was tight and hot. I could barely close my fingers around the bottle. I looked at it for a long time, and then I wrapped it up again, because looking at it would not change what it was.
+At least the old room had a door I could lock. I decided to get back before dark.
 
-I had no medicine. I had no clean water to spare. All I could do was keep it dry and keep it still, and hope.
+The return was slower.
 
-I had come back to the only place I had, and it had no water in it.
+I'd been walking since morning. My feet hurt, and I'd eaten only a few mints.
 
-For the first time since the alert, I was not afraid of the zombies. I was afraid of the arithmetic.
+Where I wasn't sure of the route, I stopped to check street signs and look for landmarks.
+
+Near a bus stop, I stepped off the curb without looking down.
+
+A loose piece of broken concrete shifted under my shoe. My ankle rolled.
+
+I grabbed the bus shelter to keep from falling.
+
+It hurt enough that I had to stand still for a while.
+
+I tried putting my foot down. It could take some weight, but every step hurt.
+
+I didn't know anywhere closer to go.
+
+I carried on, moving more slowly and stopping to rest several times.
+
+By then, I just wanted to reach the room before dark.
+
+# 12. The End of the Day
+
+It was late afternoon when I reached the row of shops.
+
+The steel door was still closed.
+
+I listened outside and checked around me before opening it.
+
+Inside, I slid the bolt across and sat on the floor.
+
+I'd walked all day and ended up back where I'd started.
+
+All I'd brought back was a lighter and the remaining mints.
+
+There were only a few mouthfuls of water left.
+
+I took off my shoe. My ankle was swollen.
+
+My hand hurt more than it had that morning. The scrape had opened again while I was running and grabbing onto things.
+
+I changed the cloth around it and checked my phone.
+
+There was still battery, but no new message.
+
+I looked at the water.
+
+Not enough for tomorrow.
+
+I'd gone to the evacuation point expecting help. Now I still needed to find water and food, and walking was harder than before.
+
+Tomorrow, I had to find water.
+
+I couldn't afford another day like this.

@@ -42,8 +42,8 @@ Water arithmetic: previous + gains - use. Food: previous + gains - eaten. "Fatig
 | End of | Water | Food | Phone | Health | Notes |
 |---|---|---|---|---|---|
 | Day 1 (Ep 1, rewritten) | a bit over 1 bottle (~0.6 L) | 0 (all eaten on screen) | not stated | scraped palm (wrapped, swelling) | utility building; flashlight barely used |
-| Day 2 (Ep 2) | a few mouthfuls (~0.1 L) | 0 | ~50% | blister + twisted ankle + swollen hand | rule 2 earned; bridge = dead end, 11 km away |
-| Day 3 (Ep 3) | ~1.5 L (three bottles) | 0 | not stated | ~83 | rule 3 earned; water source = clinic water heater (now compromised by broken glass) |
+| Day 2 (Ep 2) | a few mouthfuls | 0 (a few mints) | has battery, no number | twisted ankle, scrape reopened | rule 2 earned; bridge 11 km away; found a lighter |
+| Day 3 (Ep 3) | ~1.5 L (three bottles) | 0 (mints, ~30 sugar sachets) | has battery, no signal | ankle still swollen | rule 3 earned; water source = clinic water heater (front glass broken) |
 Episodes 4-7 below keep their old numbers until they are rewritten: re-check them against this table (food is already 0 from Day 1).
 
 ## 3. Provisional per-day detail

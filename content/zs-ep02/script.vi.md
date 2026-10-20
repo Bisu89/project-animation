@@ -1,121 +1,197 @@
-# Tập 2 — Bản tiếng Việt (để duyệt; bản đọc là `script.md` tiếng Anh)
+# Tập 2 — Bản dịch tiếng Việt (dịch sát ý để duyệt; bản đọc là `script.md` tiếng Anh)
 
-## 1. Danh sách
-Lúc rạng sáng, trước khi mở cửa, tôi mở ghi chú.
-Tôi chỉ chắc chắn một điều. Tôi gõ nó bằng bàn tay lành.
-Quy tắc một. Tiếng động kéo chúng đến. Hãy im lặng.
-Nhìn trên màn hình thì nhỏ xíu. Nó đã làm tôi mất cả một đêm.
-Rồi tôi tắt mọi thứ mà điện thoại có thể phát ra tiếng. Tiếng gõ phím. Rung. Mọi âm báo. Một tin nhắn đến giữa phố vắng cũng vang đi rất xa.
-Tôi kiểm đồ. Hơn một chai nước một chút. Không có đồ ăn. Một chiếc đèn pin mà tôi quyết định dùng càng ít càng tốt.
-Rồi tôi tháo băng bàn tay.
-Lòng bàn tay sưng cứng, vết xước đóng vảy sẫm và nứt ở mép. Tôi nhỏ vài giọt nước lên và để khô, vì có lần tôi đọc rằng vết thương bẩn còn tệ hơn vết thương nhỏ. Tôi quấn lại bằng một dải áo sạch hơn. Nó không đỡ đau hơn. Nhưng cảm giác như được chăm sóc.
-Tôi siết dây giày hai lần. Tôi sắp đi một quãng dài, và một vết phồng có thể chấm dứt một ngày chắc chắn như một đám đông.
-Nếu ở lại, mai tôi sẽ hết nước. Nếu đi, tôi sẽ đi về phía một tin nhắn không thể kiểm chứng.
-Tôi chọn tin nhắn. Không phải vì tin nó. Vì đó là kế hoạch duy nhất tôi có.
+## 1. Trước khi đi
+Sáng ngày thứ hai, tôi còn hơn một chai nước một chút và không có gì để ăn.
+Tin nhắn đến lúc rạng sáng bảo phải tới River Crossing trước buổi trưa.
+Tôi không biết nó cách đây bao xa. Tôi không biết điểm sơ tán còn hoạt động không. Nhưng căn phòng này không có nước, và tôi không thể ở đây mãi.
+Tôi quyết định đi.
+Tôi kéo chốt cửa lại. Nếu đã ra ngoài thì tôi muốn làm cho đàng hoàng.
+Tôi mở ghi chú trong điện thoại.
+Quy tắc một: Tiếng động thu hút chúng.
+Cái chai nước tôi làm rơi đêm qua đã dạy tôi điều đó.
+Tôi tắt âm thông báo, âm bàn phím và rung. Rồi tôi kiểm tra xem mình có đặt báo thức nào không.
+Tôi không muốn mắc lại sai lầm đó.
+Tiếp theo là bàn tay.
+Mảnh vải tôi quấn hôm qua đã bẩn. Một mép dính vào vết xước. Tôi gỡ nó ra từ từ, nhưng vẫn đau.
+Tôi thay bằng một dải vải sạch hơn. Tôi vẫn cử động được các ngón tay. Nắm lại thì khó hơn.
+Tôi cho nước và đèn pin vào túi. Rồi tôi kiểm tra các khóa kéo và chắc chắn không có gì lủng lẳng bên ngoài.
+Trước khi đi, tôi nhìn kỹ cánh cửa và các tòa nhà quanh đó để sau này còn tìm được đường về.
+Nếu không tới được điểm sơ tán, ít nhất tôi vẫn còn chỗ này.
 
-## 2. Con đường
-Thành phố ban ngày trông khác. Xe đậu nơi chủ xe bỏ lại, cửa mở, máy nguội. Một chiếc xe đẩy hàng nằm nghiêng giữa ngã tư. Mọi thứ trông như tấm ảnh chụp một nơi từng đông đúc.
-Tôi đi sát tường, trong bóng râm. Bức tường che một bên người. Bóng râm giấu phần còn lại.
-Ở mỗi góc phố, tôi dừng lại nghe mười giây. Im lặng cũng là thông tin. Không nghe gì thì tôi đi. Nghe thấy bước chân thì tôi chờ.
-Chậm. Chán. Nhưng cũng là lần đầu tiên từ lúc có cảnh báo, tôi cảm thấy mình đang làm đúng điều gì đó.
-Một biển chỉ đường chỉ lối. Cầu River Crossing, mười một cây số.
-Mười một cây số. Với bàn tay hỏng, không có đồ ăn, và dừng ở mỗi góc phố, ít nhất cũng năm tiếng. Trưa còn sáu tiếng nữa. Có thể kịp, nếu không có gì trục trặc.
+## 2. Ngoài đường
+Dọc đường có những chiếc xe bỏ hoang. Vài chiếc vẫn mở cửa. Đồ đạc vương vãi trên vỉa hè.
+Tôi đi sát các tòa nhà và tránh những khe giữa các xe nơi tôi không nhìn thấy phía trước.
+Ở mỗi góc phố, tôi dừng lại nghe trước khi nhìn ra.
+Có một lần, tôi nghe tiếng bước chân lê ngay sau một khúc quanh. Tôi chờ sau bức tường cho tới khi chúng đi qua.
+Chậm, nhưng tôi không muốn rẽ vào góc phố và đi thẳng vào một trong số chúng.
+Một tấm biển ghi cầu River Crossing cách đây mười một cây số.
+Tôi xem giờ. Chưa tới sáu giờ.
+Với những lần dừng thế này, tôi chỉ may ra đi được ba cây số một giờ. Nghĩa là bốn đến năm tiếng. Nếu đường không bị chặn, tôi có thể tới đó trước buổi trưa. Nhưng tôi cũng cần thức ăn, và dọc đường tôi phải tránh chúng.
+Tôi cất điện thoại và đi tiếp.
 
-## 3. Quan sát chúng
-Ở góc phố thứ hai, tôi tìm được chỗ để quan sát. Một chiếc xe tải đậu chắn ngang một con ngõ, với khe hở dưới gầm.
-Xuống phố, một kẻ đang lang thang giữa hai chiếc xe. Tôi quan sát nó mười lăm phút.
-Nó không tìm kiếm gì. Nó không đi theo lối nào. Nó đi cho tới khi đụng phải cửa xe, rồi đẩy vào, rồi trượt sang bên và đi tiếp cho tới khi đụng vật tiếp theo. Khi một con chim vụt khỏi mái nhà, đầu nó ngóc lên và quay về phía tiếng động, và nó đứng đó cho tới khi âm thanh tan hết. Rồi nó lại quay về lang thang.
-Nó không biết mình đang đi đâu. Nó không nhớ mình đã ở đâu.
-Lẽ ra điều đó phải làm tôi yên tâm. Thay vào đó, tôi cảm thấy một thứ lạnh hơn. Dù chúng là gì, chúng không săn tôi. Chúng chỉ phản ứng. Mọi thứ phụ thuộc vào việc tôi làm, và mọi việc tôi làm đều là một âm thanh.
-Tôi ghi thêm một dòng dưới quy tắc một để khỏi quên. Chúng không nhớ. Ra khỏi tầm nghe, chúng quên.
+## 3. Quan sát
+Ở một con phố nhỏ, tôi thấy một con đứng cạnh một chiếc xe đậu.
+Tôi cúi xuống sau một chiếc xe giao hàng. Từ đó tôi có thể quan sát mà không phải bước ra chỗ trống.
+Nó đi chậm giữa hai chiếc xe, va vào một cánh cửa, rồi đổi hướng.
+Một con chim bay khỏi mái nhà gần đó.
+Nó quay về phía tiếng cánh vỗ, đi vài bước rồi dừng lại.
+Tôi chờ.
+Không còn tiếng động nào nữa. Một lúc sau, nó lại bắt đầu đi lang thang.
+Tôi vẫn không biết nó nhìn tốt đến đâu, hay nó có ngửi thấy tôi không.
+Tất cả những gì tôi thấy là nó phản ứng với một âm thanh, rồi thôi đi theo khi âm thanh biến mất.
+Chừng đó chưa đủ để cho rằng im lặng sẽ giữ tôi an toàn.
+Tôi chờ cho tới khi nó đi xa hơn, rồi băng qua đường.
 
-## 4. Những kệ hàng trống
-Đến bảy giờ, bụng tôi bắt đầu phàn nàn. Chưa phải cơn đau. Là một cảm giác rỗng, phẳng, thứ làm mọi ô cửa kính cửa hàng đều trông như một kế hoạch.
-Ở một góc phố có một cửa hàng tiện lợi nhỏ. Kính cửa đã mất. Bên trong, trong ánh sáng xám, tôi thấy các kệ hàng.
-Tôi dừng ở mép ô cửa và làm điều tôi đã không làm ở trung tâm thương mại. Tôi nhìn xem mình sẽ rời đi bằng cách nào. Một cửa phía trước, và sau quầy thu ngân là một tấm rèm có lẽ che một căn phòng sau. Tôi lắng nghe trọn một phút.
-Rồi tôi bước qua đống kính vỡ, từng bước chậm, và vào trong.
-Các kệ trống. Không phải trống gọn gàng. Là trống kiểu bị xé. Hộp rơi vãi dưới sàn, ngăn kéo thu ngân mở toang, cả một giá bim bim bị quét xuống đất và giẫm bẹp. Có người đã đến đây trước tôi, vào ngày đầu tiên, trong vội vã, và họ không để lại gì cho ngày thứ hai.
-Dù vậy tôi vẫn tìm sau quầy. Thuốc lá. Một khay bật lửa. Một gói kẹo bạc hà bị nghiền, tôi bỏ vào túi.
-Thật lạ khi nhận ra những người khác đã đi qua thứ mình đang hy vọng tìm thấy. Nó có nghĩa là họ đã còn sống. Nó cũng có nghĩa là họ sẽ không quay lại lấy những gì còn sót.
-Tôi đi ra bằng đúng lối đã vào.
+## 4. Cửa hàng tiện lợi
+Khoảng bảy giờ, tôi thấy một cửa hàng tiện lợi có cửa kính trước bị vỡ.
+Tôi đã đói từ lúc thức dậy.
+Từ bên ngoài, tôi thấy hầu hết các kệ đã trống. Tôi vẫn muốn kiểm tra.
+Tôi lắng nghe một lúc, rồi bước vào, tránh những mảnh kính lớn.
+Phía sau quầy có một tấm rèm. Trước khi tìm đồ ăn, tôi kéo nó sang một bên.
+Một kho nhỏ. Một cái kệ đổ chắn cửa sau.
+Nếu cần chạy, tôi sẽ không thoát ra lối đó được.
+Tôi quay lại phía trước và chỉ tìm gần cửa vào.
+Phần lớn đồ ăn đã mất. Vỏ gói và hộp bẹp phủ đầy sàn.
+Sau quầy, tôi tìm thấy một gói kẹo bạc hà chưa mở và một chiếc bật lửa.
+Tôi lấy cả hai.
+Tôi muốn tìm thêm, nhưng ở càng lâu thì càng có nhiều khả năng có thứ gì đó tới cửa.
+Tôi rời đi.
+Một chút đường vẫn hơn không. Nhưng vài viên kẹo không đủ cho cả ngày đi bộ.
 
-## 5. Cầu vượt
-Một giờ sau, tôi leo lên một cầu vượt bộ hành bắc qua một con đường rộng, vì tôi muốn xem mình đang ở đâu.
-Từ trên cao, thành phố mở ra. Những cột khói dựng lên từ ba nơi, mảnh và thẳng trong không khí lặng gió. Không có gì chuyển động trên các con đường bên dưới, ngoại trừ những bóng xám nhỏ, cách xa nhau, lang thang.
-Và dọc theo con đường rộng, cả hai hướng, đều có xe. Một hàng dài xe nối đuôi nhau, dừng trong làn đường của mình, tất cả cùng hướng về một phía. Về phía sông.
-Tôi đứng đó, hai tay đặt trên lan can, và hiểu ra điều tôi không muốn hiểu.
-Tôi không phải người duy nhất đọc tin nhắn đó. Hàng trăm người đã đọc nó, hoặc một tin như thế, rồi lên xe, lái về phía mặt nước, và nằm trong hàng với động cơ chạy cho tới khi hết xăng. Họ không ngốc. Họ đã làm đúng điều tôi đang làm.
-Tôi không thấy khá hơn. Tôi thấy bớt cô đơn, và sợ hơn.
+## 5. Kiểm tra đường đi
+Tôi gặp một cầu vượt bộ hành và leo lên để nhìn các con đường phía trước.
+Con đường hướng ra sông đầy xe.
+Vài chiếc dừng giữa các ngã tư. Vài chiếc khác đã lên vỉa hè và bị bỏ lại ở đó.
+Có những bóng người đang di chuyển giữa chúng.
+Tôi không phân biệt được đó là người sống sót hay thêm những kẻ bị nhiễm.
+Tôi tìm một tuyến đường vắng hơn. Nếu đi theo đường chính, sẽ ít chỗ để tránh một nhóm.
+Từ cầu vượt, tôi thấy một con phố chạy song song. Ít xe hơn, và cũng dẫn ra sông.
+Tôi đi xuống và đi theo hướng đó.
 
-## 6. Tiếng báo động
-Lúc chín giờ, tôi nghe thấy. Một chiếc xe hơi đang hú báo động ở đâu đó phía trước.
-Nó đã kêu từ hôm qua. Mỗi lần tắt, nó lại tự kêu lại. Ắc quy xe có thể chịu được rất lâu, nhưng không mãi mãi.
-Tôi dừng lại sau một chiếc xe buýt đang đậu và nhìn ra.
-Quanh chiếc xe là một đám đông. Hàng chục kẻ, đứng sát nhau, tất cả quay về phía tiếng động, như cây hướng về phía cửa sổ.
-Đại lộ sau lưng họ chạy thẳng ra sông. Không rẽ. Không đoán. Đó là đường ngắn nhất, và nó đi thẳng qua họ.
-Ở trung tâm thương mại, tôi đã tự nhủ đám đông nghĩa là có sự giúp đỡ. Lần này tôi biết rõ hơn. Tôi lùi lại một dãy phố, rẽ trái, rồi rẽ trái nữa, đi vào các ngõ sau.
-Mất bốn mươi phút, và mất một phần ba chai nước dưới cái nóng.
+## 6. Tiếng báo động xe
+Khoảng chín giờ, tôi nghe thấy tiếng báo động của một chiếc xe.
+Tôi dừng trước góc phố và nhìn từ sau một chiếc xe buýt đang đậu.
+Hàng chục con đang tụ quanh chiếc xe đó.
+Vài con áp sát cửa xe. Những con khác vẫn đang cố lại gần hơn.
+Tôi cần tới con đường phía bên kia chúng.
+Quay lại tìm tuyến khác sẽ mất thời gian. Cố lách qua thì sẽ tới quá gần.
+Tôi lùi lại ngã tư gần nhất.
+Đường vòng không đơn giản như tôi hy vọng. Một con hẻm cụt vì hàng rào khóa. Tôi phải quay lại và thử con phố khác.
+Mất khoảng bốn mươi phút để qua khỏi khu vực đó.
+Tôi dừng lại trong bóng râm và uống chút nước.
+Chai nước đang cạn. Tôi chưa tới sông, mà vẫn cần đủ nước cho đường về nếu ở điểm sơ tán không có ai.
+Tôi vặn chặt nắp và đi tiếp.
 
-## 7. Cơn khát
-Tôi đặt ra một quy tắc cho nước. Mỗi nửa tiếng một ngụm. Không hơn, kể cả khi miệng khô khốc. Uống ừng ực thì thấy đã trong một phút. Rồi bụng quặn lên, và tôi không thể để mất thứ đã uống.
-Gót chân bắt đầu rát. Một vết phồng đang hình thành trong giày. Tôi tự nhủ không sao. Tôi tự nhủ như thế sau mỗi vài trăm mét.
-Tôi di chuyển từ xe này sang xe khác. Cúi người, tựa lưng vào cửa xe, lắng nghe.
-Khoảng mười giờ, tôi ngồi xuống ở ô cửa một hiệu thuốc đã đóng để nghỉ chân. Tôi tựa đầu vào cánh cửa cuốn và nhắm mắt một lúc.
-Khi mở mắt ra, một trong số chúng đang đi về phía tôi.
-Nó đi dọc vỉa hè, chậm rãi, lê một chân, cách chừng mười mét. Một người đàn ông trong chiếc áo rách, đầu hơi nghiêng sang một bên, như người đang cố nghe một chiếc radio ở xa.
-Tôi không nhúc nhích. Tôi không thở. Tôi nghĩ tới cánh cửa cuốn sau đầu, ô cửa tôi đang ngồi, và giữa chúng tôi có ít ỏi biết bao.
-Nó tiến lại gần. Năm mét. Ba mét. Tôi nhìn rõ cả họa tiết trên áo nó.
-Nó dừng lại, gần như ngang tầm tôi. Đầu nó quay sang. Khuôn mặt chùng xuống, đôi mắt nhìn vào hư không.
-Rồi ở xa có gì đó leng keng, một cái lon lăn trong rãnh, và cái đầu quay đi khỏi tôi. Nó lê bước qua ô cửa, và tôi nhìn bóng lưng nó khuất sau góc phố.
-Tôi ở nguyên đó thêm mười phút nữa. Tay tôi run mạnh đến mức phải kẹp giữa hai đầu gối.
-Chính sự bất động đã cứu tôi. Không phải dũng cảm. Không phải kế hoạch. Chỉ là không làm gì, và làm thật giỏi.
-Đến mười giờ năm mươi, tôi đã thấy được con sông.
+## 7. Nơi không nên nghỉ
+Khoảng mười giờ, gót chân tôi đau.
+Tôi dừng ở ô cửa thụt vào của một hiệu thuốc đã đóng.
+Nó che tôi một phần, nhưng vẫn nằm ngay cạnh vỉa hè.
+Tôi đặt túi giữa hai chân, tựa lưng ra sau và nhắm mắt.
+Tôi chỉ định nghỉ một phút.
+Tiếng bước chân lê làm tôi mở mắt.
+Một con đang đi về phía tôi, cách chừng mười mét.
+Tôi co chân lại.
+Giày tôi chạm vào cái túi. Tôi ngừng cử động.
+Nó vẫn tiến lại.
+Tôi ép sát vào trong ô cửa, cố không chạm vào cánh cửa cuốn bằng kim loại sau lưng.
+Khi nó chỉ còn cách vài mét, vai tôi làm cánh cửa cuốn kêu lách cách.
+Nó dừng lại.
+Tôi vẫn bất động.
+Rồi có thứ gì đó bằng kim loại rơi lạch cạch xuống đường ở xa hơn.
+Nó quay về phía tiếng động và đi tiếp.
+Tôi chờ cho tới khi không còn nghe thấy bước chân của nó mới di chuyển.
+Tôi không biết nếu không có âm thanh kia thì chuyện gì đã xảy ra.
+Nhưng đây không phải nơi an toàn để ngủ.
+Tôi đứng dậy, đeo túi và đi tiếp.
+Lúc mười giờ năm mươi, tôi nhìn thấy con sông.
 
-## 8. Đường vào
-Đoạn cuối là một con đường duy nhất, một bên là tường bê tông, bên kia là hàng rào thép. Người ta đã dựng rào để dẫn dòng xe. Những chiếc nón cam. Một tấm băng rôn rách, treo lủng lẳng ở một góc. Một chiếc lều trắng.
-Trông có tổ chức. Đúng là điều tôi muốn nó trông như vậy.
-Tôi bước vào.
-Đi được nửa đường, tôi thấy trạm kiểm soát. Một cái bàn với tập giấy kẹp. Một chiếc loa trên cột, xám và im lìm. Dưới đất là một hàng cốc giấy. Một chiếc giày trẻ con. Một tấm chăn gấp gọn, vẫn còn trong bao nilon.
-Tập giấy kẹp có một tờ ghi tay các vạch đếm. Từng hàng vạch nhỏ gom theo nhóm năm, bằng bút xanh, hàng trăm vạch. Hàng cuối dừng giữa chừng. Ai đó đang đếm đã đặt bút xuống giữa một dòng.
-Xa hơn cái bàn là cây cầu. Cả hai làn đều kẹt xe. Xe nối đuôi nhau, cửa mở, túi đồ vứt trên đường. Và giữa chúng, hàng trăm bóng người đứng im. Không băng qua cầu. Không đi đâu cả.
-Không có xe buýt. Không có lính. Không có ai tiếp nhận tôi.
-Tôi lấy điện thoại ra. Mười một giờ bốn mươi mốt.
-Tôi đã đến trước giờ chót, và không có ai ở đó.
+## 8. Điểm sơ tán
+Gần cây cầu, hàng rào tạm và một bức tường bê tông tạo thành một lối vào.
+Bên trong có các nón giao thông, một biển sơ tán và một chiếc lều trắng.
+Tôi quan sát từ bên ngoài.
+Không có nhân viên. Không có xe buýt.
+Chiếc lều che mất một phần tầm nhìn. Tôi muốn lại gần hơn để xem có thông báo nào hay có ai bên trong không.
+Lối vào dài khoảng một trăm năm mươi mét, một bên là tường, bên kia là hàng rào.
+Tôi tìm xem dọc hàng rào có chỗ hở nào không.
+Không có.
+Nếu có chuyện xảy ra, tôi sẽ phải quay lại đúng đường đó.
+Tôi biết điều đó. Nhưng sau khi đi bộ cả buổi sáng, tôi không muốn rời đi mà chưa kiểm tra.
+Tôi đi vào.
+Dưới lều có một cái bàn gấp, giấy tờ và những cốc giấy vứt rải rác dưới đất.
+Không có ai ở đó.
+Từ chỗ đó, tôi nhìn rõ cây cầu.
+Xe chặn cả hai làn. Rất nhiều kẻ bị nhiễm đứng hoặc đi lang thang giữa chúng.
+Không có hàng người chờ xe. Không có ai chỉ dẫn mọi người.
+Tôi xem điện thoại.
+Mười một giờ bốn mươi mốt.
+Còn mười chín phút nữa là tới giờ trong tin nhắn.
 
-## 9. Mười hai giờ
-Lẽ ra tôi phải quay lại ngay lúc đó. Tôi biết. Nhưng tôi ở lại, bên cạnh cái bàn, lưng tựa vào cột, vì tôi muốn xem điều gì sẽ xảy ra vào buổi trưa.
-Tôi tự nhủ mình đang cẩn thận. Đang kiểm tra. Rằng tôi nợ tin nhắn ấy điều đó.
-Sự thật là tôi muốn nó là thật.
-Đúng mười hai giờ, chiếc loa trên đầu tôi thức dậy.
-Một hồi chuông đủ lớn để làm rung các cốc dưới đất. Rồi một giọng thu sẵn, phẳng lặng. "Điểm sơ tán này đã đóng. Xin hãy ở nguyên vị trí."
-Rồi lại một lần nữa. Và một lần nữa.
-Trên cầu, tất cả các cái đầu cùng quay lại.
-Chúng không chạy. Chúng không bao giờ chạy. Chúng đến theo cách chúng vẫn đến, chậm rãi, nhanh hơn đi bộ một chút, tất cả hướng về phía tiếng động.
-Và tiếng động ở ngay trên đầu tôi.
-Lúc đầu tôi đi. Rồi tôi chạy. Chạy thì có tiếng, nhưng chẳng tiếng nào tôi gây ra có thể cạnh tranh được với chiếc loa đó.
-Một trăm năm mươi mét tường và hàng rào, với giọng thu sẵn lặp đi lặp lại sau lưng.
-Ở cuối đường, tôi ngoái lại. Nó đang đầy lên. Một bên là tường. Bên kia là hàng rào. Chỉ một lối ra, và tôi vừa dùng nó.
-Nếu tôi đứng đó thêm mười phút nữa, tôi sẽ ở đáy một ngõ cụt, với cả đám đông đang bước vào.
+## 9. Chờ đến buổi trưa
+Tôi nghĩ tới việc rời đi.
+Rồi tôi tự hỏi liệu xe buýt chỉ đơn giản là chưa tới. Nếu tôi đi rồi mà vài phút sau chúng đến thì sao?
+Tôi chờ bên cạnh chiếc lều, giữ khoảng cách với cây cầu.
+Đúng buổi trưa, chiếc loa phía trên tôi đột nhiên phát một hồi chuông.
+Tôi giật mình và bước ra xa khỏi cột.
+Một giọng thu sẵn vang lên.
+"Xe sơ tán đang đến. Xin hãy di chuyển tới khu vực chờ đã đánh dấu."
+Tôi nhìn về phía cây cầu.
+Không có xe nào di chuyển.
+Nhưng những kẻ bị nhiễm gần nhất đã quay về phía chiếc loa.
+Thông báo phát lại lần nữa.
+Chúng bắt đầu đi về phía lều. Nhiều con khác theo sau.
+Tôi không chờ thêm nữa.
+Tôi quay lại và chạy về phía lối vào.
+Vẫn là một bên tường, một bên hàng rào. Không có chỗ nào để rẽ.
+Tôi phải chạy hết chiều dài của lối đó.
+Ra tới ngoài, tôi ngoái lại.
+Con đầu tiên gần như đã tới cái bàn. Nhiều con khác đang từ cầu đi xuống phía sau chúng.
+Nếu tôi cứ chờ, chúng đã chặn mất đường ra của tôi.
+Tôi rời khỏi khu vực đó và rẽ qua hai góc phố mới dừng lại.
 
 ## 10. Quy tắc hai
-Tôi ngồi sau một thùng rác cách hai dãy phố, và tôi ghi nó lại. Tay tôi run mạnh đến mức phải gõ hai lần.
-Quy tắc hai. Đừng bao giờ vào một nơi mà không có lối ra thứ hai.
-Tôi đã kiểm tra con đường. Tôi đã không kiểm tra lối thoát. Tôi nhìn vào thứ mình muốn tìm thấy, chứ không nhìn vào cách mình sẽ rời đi.
-Chiếc loa vẫn tiếp tục. Mỗi phút một lần, hồi chuông, rồi giọng nói, nhỏ và phẳng lặng ở đằng xa. Tôi nghe nó suốt hai cây số tiếp theo. Tôi nghĩ ở đâu tôi cũng sẽ nghe thấy nó.
-Tôi vẫn không biết tin nhắn đó có từng thật hay không. Có thể nó gửi quá muộn. Có thể nó dành cho người khác. Có thể đó chỉ là một đoạn ghi âm mà không còn ai ở lại để tắt. Đến buổi trưa, một chiếc loa trên cột vẫn tiếp tục làm việc của nó cho chẳng ai cả, và nó suýt giết tôi.
+Tôi cúi xuống sau một thùng rác và chờ hơi thở dịu lại.
+Tôi vẫn nghe thấy chiếc loa.
+Nó cứ lặp đi lặp lại cùng một thông báo.
+Tôi lấy điện thoại ra và viết:
+Quy tắc hai: Tìm một lối ra khác trước khi đi sâu hơn.
+Từ hôm qua tôi đã biết phải kiểm tra lối thoát.
+Sáng nay tôi còn kiểm tra cả cửa sau trong cửa hàng.
+Nhưng ở điểm sơ tán, tôi đã phớt lờ vấn đề đó.
+Tôi thấy biển báo và chiếc lều, và hy vọng có những người có thể giúp. Tôi cứ đi tiếp dù biết chỉ có một đường quay lại.
+Tôi không biết tin nhắn đó đã cũ hay điểm sơ tán chỉ vừa mới bị bỏ lại.
+Biết điều đó bây giờ cũng chẳng giúp được gì.
+Tôi cần rời đi trước khi chiếc loa thu hút thêm nhiều con nữa.
 
-## 11. Đường về dài
-Đường về dài hơn đường đi. Điều đó lúc nào cũng đúng. Tôi chưa bao giờ hiểu vì sao cho tới hôm ấy.
-Mặt trời đã lên cao. Nước của tôi gần cạn. Mỗi dãy phố phía trước trông y hệt dãy phố tôi vừa đi qua.
-Tôi đi cúi đầu và đếm bước, vì đếm là thứ duy nhất giữ cho những ý nghĩ khác im lặng. Những viên kẹo bạc hà hết dần từng viên, chậm rãi, như khẩu phần của thứ gì quý giá. Chúng chỉ có vị đường. Tôi biết ơn từng viên.
-Gần một trạm xe buýt, tôi bước xuống khỏi vỉa hè đạp phải một mảnh vụn lỏng, và mắt cá chân bị trẹo. Tôi cắn chặt tay áo để không phát ra tiếng nào. Tôi đứng trên một chân cho tới khi cơn đau trở thành thứ tôi có thể đi được.
-Tôi đi bằng mép ngoài bàn chân suốt phần còn lại của ngày.
+## 11. Đường về
+Tôi cân nhắc tìm một chỗ nào đó gần đây.
+Nhưng tôi không biết khu vực này. Tôi không có đồ ăn và còn ít nước.
+Ít nhất căn phòng cũ có cánh cửa tôi khóa được. Tôi quyết định về trước khi trời tối.
+Đường về chậm hơn.
+Tôi đã đi từ sáng. Chân tôi đau, và tôi chỉ ăn vài viên kẹo bạc hà.
+Chỗ nào không chắc về đường, tôi dừng lại xem biển tên phố và tìm các mốc.
+Gần một trạm xe buýt, tôi bước xuống khỏi vỉa hè mà không nhìn xuống.
+Một mảnh bê tông vỡ lỏng trượt dưới giày. Mắt cá chân tôi bị lật.
+Tôi chộp lấy mái trạm xe buýt để khỏi ngã.
+Đau đến mức tôi phải đứng yên một lúc.
+Tôi thử đặt chân xuống. Nó chịu được một ít sức nặng, nhưng mỗi bước đều đau.
+Tôi không biết chỗ nào gần hơn để đi.
+Tôi tiếp tục, đi chậm hơn và dừng nghỉ nhiều lần.
+Lúc đó, tôi chỉ muốn về tới căn phòng trước khi trời tối.
 
-## 12. Chạng vạng
-Tôi tới dãy cửa hàng sau tòa nhà tiện ích đúng lúc ánh sáng bắt đầu ngả cam. Cánh cửa thép vẫn y như lúc tôi rời đi. Tôi đứng đó lắng nghe. Tôi đếm tới sáu mươi. Rồi lắng nghe lại.
-Bên trong, tôi cài chốt, ngồi xuống sàn, và rất lâu sau tôi không động đậy.
-Tôi lấy chai nước ra. Vài ngụm. Không có đồ ăn. Điện thoại còn một nửa pin. Một mắt cá chân không đứng nổi. Một bàn tay không nắm lại được.
-Tôi tháo băng thêm một lần nữa, dưới ánh sáng lọt qua khe cửa. Lớp vảy đã nứt ra lần nữa, và lòng bàn tay căng và nóng. Tôi gần như không khép được các ngón quanh chai nước. Tôi nhìn nó rất lâu, rồi quấn lại, vì nhìn mãi cũng không thay đổi được nó là gì.
-Tôi không có thuốc. Tôi không có nước sạch để dư. Tất cả những gì tôi làm được là giữ cho nó khô và yên, và hy vọng.
-Tôi đã trở về nơi duy nhất mình có, và nó không có nước.
-Lần đầu tiên từ lúc có cảnh báo, tôi không sợ lũ zombie. Tôi sợ phép tính.
+## 12. Cuối ngày
+Đã gần chiều muộn khi tôi tới dãy cửa hàng.
+Cánh cửa thép vẫn đóng.
+Tôi lắng nghe bên ngoài và nhìn quanh trước khi mở.
+Vào trong, tôi cài chốt rồi ngồi xuống sàn.
+Tôi đã đi cả ngày và rốt cuộc lại ở đúng chỗ xuất phát.
+Tất cả những gì tôi mang về là một chiếc bật lửa và mấy viên kẹo bạc hà còn lại.
+Chỉ còn vài ngụm nước.
+Tôi cởi giày ra. Mắt cá chân đã sưng.
+Tay tôi đau hơn hồi sáng. Vết xước đã nứt ra lần nữa khi tôi chạy và bám vào các thứ.
+Tôi thay lại miếng vải quanh tay và xem điện thoại.
+Vẫn còn pin, nhưng không có tin nhắn mới.
+Tôi nhìn chỗ nước.
+Không đủ cho ngày mai.
+Tôi đã đến điểm sơ tán để mong được giúp đỡ. Giờ tôi vẫn phải tìm nước và thức ăn, và việc đi lại còn khó hơn trước.
+Ngày mai, tôi phải tìm nước.
+Tôi không thể chịu thêm một ngày như thế này.

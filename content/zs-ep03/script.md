@@ -1,187 +1,123 @@
-# 1. The Arithmetic
+# 1. No Water
 
-I woke up with a headache behind my eyes and a mouth like paper.
+I woke up at dawn with a headache and a dry mouth.
 
-The bottle was empty. I had finished it in the night, in sips, in the dark.
+The bottle was empty. I had finished the last of it during the night.
 
-I lay on the cardboard and did the sums. I had read somewhere that a person can last about three days without water. It is not a promise. It is a warning. Long before the third day, your head hurts, your thinking slows, and you start making bad decisions.
+My ankle was stiff and swollen, and my hand hurt when I tried to close it. When I stood up, the room spun for a moment, and I held onto the wall until it stopped.
 
-I had already made enough of those.
+I had eaten a few mints the day before and nothing else. Food was a problem too, but water couldn't wait. I had read that a person can last about three days without it, but I didn't know how true that was, and I didn't want to test it. After one day with very little, I already had a headache and felt dizzy.
 
-The room was very quiet. And in that quiet, I could hear it. Far away, thin as a thread, a tone, a pause, and a flat voice. Two kilometres away, the speaker at the bridge was still repeating itself. It had not stopped in the night.
+I opened my notes and read the rules. One: Noise attracts them. Two: Find another way out before going farther in.
 
-I tried to stand, and the room tilted. I stood still with my hand against the wall until it settled.
+Then I added a line at the bottom: Find water today.
 
-I read my two rules on the phone. One. Noise brings them. Two. Never go into a place without a second way out.
-
-Then I added a line that was not a rule yet. Find water today.
+It had to be close to the room. With my ankle, I couldn't walk far.
 
 # 2. The Taps
 
-I started with the obvious thing. There was a small sink behind the shops, and a tap on the wall.
+I started with the taps. There was a small sink behind the shops, with a tap on the outside wall. I turned it. Air hissed out, a few brown drops fell, and then nothing.
 
-I turned it. It coughed. A breath of air, a few brown drops, and then nothing.
+I tried a tap on the side of a house, and another on the wall of a petrol station. None of them gave anything.
 
-I tried the next one. Then a garden tap on the side of a house. Nothing.
+My guess was that the pumps had stopped when the power went out, but it was only a guess. Whatever the reason, the pipes were empty.
 
-When the power went, the pumps stopped. Without the pumps, the pressure drained out of the pipes, and the city's water went with it. It had not been a mystery. I had simply never needed to know.
+There were puddles in the road and a grey trickle in a gutter. I didn't want to drink any of it. I had no way to boil it or filter it, and I couldn't afford to get sick when I was already weak.
 
-There were puddles in the road. There was a stream of grey water in a gutter. I looked at them for a long time.
+# 3. The Toilet Tank
 
-Clear water is not clean water. I remembered that, and I wished I had not. If I drank something that made me sick, I would be lying on a floor with my stomach turning inside out, and nothing outside would care how loud I was.
+I remembered that a toilet has a tank of water behind it, and that this water usually comes straight from the pipes.
 
-# 3. The Blue Water
+Behind the shops there was a small restaurant with its back door standing open. I listened for a while, then went in through the kitchen. Plates and pans were still out on the counters, as if everyone had left in the middle of a shift. At the end of a short corridor was a toilet.
 
-Behind the shops there was a small restaurant with its back door standing open.
+When I lifted the lid of the tank, the ceramic scraped against the rim. I stopped and listened for a minute. Nothing came. I wrapped my sleeve around the edge and lifted the lid the rest of the way.
 
-I stood in the doorway and listened. Then I went in, through a kitchen where everything had been left mid-meal, and down a short corridor to a toilet at the end.
+There was plenty of water inside, but it was bright blue. Someone had put a cleaning tablet in the tank. I didn't know exactly what was in it, only that it wasn't meant to be drunk. I put the lid back slowly and left.
 
-A toilet has a tank behind it. I knew that much. I put my hands on the lid, and the ceramic scraped against the rim with a noise that went through me like a nail. I stopped. I waited. I wrapped my sleeve around the edge and lifted it again, a millimetre at a time.
+That had taken almost an hour, and all I'd gained was knowing one more place that wouldn't work.
 
-Inside, there was a good six or seven litres of water, perfectly still.
+# 4. Choosing a Building
 
-It looked clean. And then I saw the colour. A pale, bright blue, as if someone had dissolved the sky in it. One of those cleaning tablets that sit in the tank and tint every flush.
+I sat down outside to think.
 
-I knew almost nothing about chemistry. I knew enough to know that nobody had made that blue to be drunk.
+Water doesn't disappear when the pumps stop. It stays wherever it was being stored. A toilet tank was one place. The only other one I could think of was a water heater. When I was renting, my landlord once drained ours and complained that it held about a hundred and fifty litres. I had no way to check that number, but I remembered it was a lot.
 
-It took me a full minute to put the lid back without a sound. I stood there afterwards, shaking. Water that is stored is not water that is safe. It matters what it is sitting with.
+I needed a building that was small enough to check quickly, with a heater I could reach. Not a large building with lots of floors.
 
-I had spent an hour and a great deal of nerve, and I had gained nothing but a better question.
+Across the lane from the shops there was a clinic. It was brick, two floors, with a glass front door and a metal door at the side. I had walked past it a few times without really looking at it.
 
-# 4. Where Water Waits
+# 5. Checking the Clinic
 
-I sat against a wall outside and made myself think like a person who was not panicking.
+I walked around it before going in. The front was glass. The side door was grey metal with no window. I listened at it for about a minute and heard nothing.
 
-Water does not vanish when the pumps stop. It stays where it is stored.
+Behind the building was a car park, and three of them were standing between the parked cars. They weren't moving. They were facing the back wall, away from the lane the side door opened onto. I couldn't tell what held their attention, and I didn't want to find out.
 
-A toilet tank with nothing in it is one place. A water heater is another. A steel drum holding far more, sealed, away from the street. My old landlord once drained ours and complained about how much came out. A hundred and fifty litres, he said, as if I had done it on purpose.
+I stayed behind a dumpster and watched them for about ten minutes. None of them moved. The side door was around the corner from where they stood, and as far as I could see, they had no view of it.
 
-A building with a heater. Not a mall. Not an apartment block with a single stairwell. Something small.
+I made a plan. I would go in through the side door and keep my steps quiet. The glass front door was my second way out. If something came from the car park side, I would leave by the front. If something came from the front, I would leave by the side.
 
-Across the lane from the shops there was a clinic. Brick, two floors, a glass front door and a metal door at the side. I had passed it three times without really looking.
+I tried the handle. It wasn't locked. I opened it slowly, and as I stepped through, I folded a piece of cardboard and wedged it under the door so it wouldn't swing shut behind me.
 
-# 5. Two Ways Out
+# 6. The Water Heater
 
-This time I did not walk in. I walked around it.
+Inside, the clinic smelled of dust and disinfectant. There were waiting-room chairs, a reception desk with its drawers pulled out, and a corridor running from the lobby toward the back. Enough daylight came through the front windows to see by, so I kept the flashlight off. I didn't know whether light drew them, and I didn't want to find out.
 
-The front was glass, with a sign hanging crooked. The side had a grey service door. I put my ear against it and listened for a full minute. Nothing.
+On the reception desk was a paper bag with half a sandwich in it, covered in green mold. I looked at it for longer than I want to admit, then walked on.
 
-Then I saw the courtyard behind the clinic. Three of them, standing among the parked cars, turned toward nothing in particular. Not hunting. Not resting. Just waiting for a sound to arrive.
+About halfway down the corridor was a door with the word Utility painted on it. Inside, in a small closet, stood the heater, a tall steel drum with a pipe running into the wall and a brass valve at the bottom. On a shelf above it was a toolbox. I opened it slowly. Pliers, screwdrivers, and an adjustable wrench.
 
-I crouched behind a dumpster, and I waited too.
+I put the wrench on the valve and turned it a quarter turn. The pipes started banging, a deep knocking that ran the whole length of the building. I closed the valve at once and stood still, listening to the lobby. I counted to a hundred. Nothing happened.
 
-Waiting is a skill, and I was bad at it. Every part of me wanted to move. My legs ached from crouching. My mouth was dry, and every minute felt like a decision I was failing to make. I kept my eyes on the three figures and my hands flat on the ground, and I told myself the same thing, over and over. Nothing happens if I do nothing. Nothing happens if I do nothing.
+I wrapped my jacket tightly around the valve and the pipe to muffle it, then opened the valve again, a little at a time, until a thin stream of water ran into my bottle. It was warm and tasted of metal, but it was water.
 
-It is the least heroic thing in the world. It was also the only thing keeping me alive.
+# 7. Drinking and Filling
 
-Twenty minutes later, something clanged two streets away. A loose shutter, banging in the wind. All three heads turned together. Then they went, one after the other, toward it.
+I drank slowly, a mouthful at a time, waiting between mouthfuls, because I was afraid of making myself sick. My stomach cramped, then settled.
 
-It was luck. I knew it was luck. I did not like how much of my life was luck.
+I wasn't sure the water was safe. It had come from the mains before everything stopped and had been sitting in a closed tank, which seemed better than a puddle. It was cloudy at first, so I let the bottle stand and poured the clearer water off the top into another one, leaving the sediment behind. I had a lighter, but nothing I could boil water in. In the end I drank it anyway. Being thirsty was a certain problem, and a bad stomach was only a possible one. If I was wrong, I would find out in a day or two.
 
-I tried the side door. It was not locked. I opened it half a hand's width, and I stopped. I had a front door and a side door. Two ways out. I wedged a folded piece of cardboard under the side door, so it would not swing shut behind me.
+In a break room off the corridor I found three empty bottles beside a dead water cooler. In a drawer there was a box of paper sachets of sugar, maybe thirty of them. It wasn't food, but it was something, so I put them in my pocket.
 
-# 6. The Closet
+Filling the bottles was slow, because I kept the stream thin to keep the pipes quiet. By the time I had four bottles filled, my phone said I had been in the clinic for more than twenty minutes. Four bottles was already more than I could comfortably carry on that ankle and with that hand.
 
-Inside, the clinic was dim, and it smelled of dust and disinfectant. Waiting-room chairs. A reception desk with its drawers pulled out. A corridor that led away from the lobby toward the back of the building.
+# 8. Staying Too Long
 
-I did not use the flashlight. Light is the third thing that draws them. Noise first, then movement, then light. In a building with big glass windows, I did not want to find out how far it carried.
+I should have left then. But the heater was still nearly full, and I was still thirsty. I had drunk only about one bottle's worth, and I had no idea when I would find water again. I decided to drink more while I was there, so I wouldn't have to carry it.
 
-On the way, I passed a reception counter with a paper bag on it. Inside was half a sandwich, furred with green. I stood and looked at it for longer than I want to admit. Then I walked on.
+I sat on the floor of the closet and drank slowly for another ten minutes or so. My head had stopped hurting. I could think properly for the first time that day.
 
-Halfway down the corridor, there was a door marked in worn paint. Utility.
+I knew I was taking a risk. The closet was about ten meters from the side door, with the corridor between, and I had a bag, a bad ankle, and a hand I couldn't close. But nothing had happened so far, and I told myself a few more minutes would be fine.
 
-The heater stood in the corner of a small closet. A tall steel drum, with a pipe running into the wall, and at the bottom, a brass valve with a hose connection.
+# 9. Getting Out
 
-On a shelf above it was a small toolbox. I opened it as slowly as I have ever opened anything. Pliers. Screwdrivers. An adjustable wrench.
+Then I heard knocking from the lobby, a slow thumping on the glass.
 
-I put the wrench on the valve, and I turned it a quarter turn.
+I couldn't tell whether the three from the car park had heard the pipes earlier and come around to the front, or whether they had simply wandered that way. I didn't wait to find out.
 
-The pipes screamed. A deep knocking, like someone hitting a radiator with a hammer, and it ran the whole length of the building. Water hammer, I think it is called. I did not care what it was called. I closed the valve and stood absolutely still.
+I put three full bottles in my bag and left the fourth, which was only half full. I walked quickly down the corridor, keeping my steps as quiet as I could. The cardboard was still under the side door.
 
-I counted to a hundred. I listened to the lobby. Nothing.
+As I stepped outside, I heard the glass crack behind me, and then a sound like something falling to the floor. I closed the door behind me as quietly as I could and went the other way along the lane, away from the car park.
 
-I wrapped my jacket around the valve and the pipe, as tight as I could. Then I opened it again, slowly, a little at a time, until a thin, steady thread of water ran into my bottle.
+The bottles knocked together in my bag with every step. I stopped between two parked vans, took the bag off, and pushed my spare shirt between the bottles so they couldn't touch. Then I listened. I could hear no footsteps behind me. I started walking again, and I didn't stop until I was three streets away.
 
-It was warm. It tasted of metal. It was the best thing I had ever put in my mouth.
+# 10. Rule Three
 
-# 7. Is It Safe?
+I stopped in a doorway and opened my notes.
 
-Before I let myself believe in it, I did the checks I could.
+Rule three: Don't stay anywhere you can't leave in under a minute.
 
-This was water that had come from the mains before the pumps stopped. It had been sitting in a sealed steel drum, away from the street and the rain and every puddle I had been afraid of. It was not boiled. I had no fire to boil it, and no filter to run it through.
+I had followed rule two. I had checked for a second way out before I went in. But I had stayed more than half an hour in a building where, from the back of the corridor, it took me far longer than a minute to get out with my bag. I had known that was a risk, and I had stayed anyway, because I was thirsty and the water was right there.
 
-I held the first bottle up to the light from the corridor. A faint cloud hung in it. I let it stand, and the cloud sank slowly to the bottom, and I poured the clearer water off the top into another bottle and left the dregs behind.
+I had come out with three bottles. If I had left when I first had four, I would probably have come out with four.
 
-It was a judgement, not a guarantee. It was the best judgement I could make with what I knew, and if I was wrong, I would find out in a day or two, in the worst possible way.
+# 11. Back at the Room
 
-I drank anyway. Thirst does not argue.
+I went back to the room by the back streets, slowly, because my ankle was worse after the extra walking.
 
-I made myself go slowly. A mouthful. Wait. A mouthful. Wait. My stomach clenched, then settled.
+I slid the bolt across and sat on the floor. I had three bottles. They were about half a litre each, as far as I could tell, so around a litre and a half in total. I had also drunk a lot at the clinic, so I wasn't thirsty for the first time in two days.
 
-# 8. One More Bottle
+I ate one of the sugar sachets, pouring it onto my tongue. It was the first thing sweet I'd had since the mints. I didn't have any real food. The last proper meal had been two nights ago.
 
-In a break room off the corridor, I found three empty bottles beside a dead water cooler. In a drawer, there was a box of little paper sachets. Sugar. Maybe thirty of them.
+I looked at what I had. Water for about two days if I was careful. A lighter, mints, and about thirty sugar sachets. A swollen ankle, a hand that hurt when I closed it, and a phone with some battery and no signal.
 
-It was not a meal. It was a decision not to faint. I put them in my pocket.
-
-I filled the bottles one at a time, with my hand cupped around the valve, one thin thread at a time. It took a long time. A thin thread of water takes a long time to fill a bottle.
-
-When I finished, I had four bottles. That was already more than I had hoped for.
-
-I looked at the heater. It was still nearly full. A hundred litres, and I could carry only a few.
-
-I thought: one more bottle. Just one. I had no way of knowing when I would find water again.
-
-I stopped counting the minutes after twenty.
-
-# 9. Glass
-
-The first sound was soft. A knock, from the lobby.
-
-A palm on a glass door. Then another. Then a slow rhythm.
-
-They had come back, drawn by the banging pipes, late, the way noise sometimes reaches people late. The front doors were latched. That was something. But glass bends before it breaks, and I could hear it bending.
-
-I did not run to the lobby to look. I grabbed three bottles and put them in my backpack. I left the fourth on the floor, half full. I took the corridor to the side door, and the cardboard was still there.
-
-Behind me, the glass gave way. It did not shatter dramatically. It cracked, like ice, and then it fell.
-
-The bottles knocked together in my backpack at every step, a hollow, bright clinking that sounded like a bell in the empty street. I stopped between two parked vans, pulled off the pack, and stuffed my spare shirt between the bottles with shaking hands. Then I stopped again, and listened. Somewhere behind me, three pairs of feet were moving toward the broken glass.
-
-I did not stop again until I was three streets away.
-
-# 10. The Rule
-
-I sat in a doorway and put my head between my knees. I had water. I had three bottles of it.
-
-And I had a rule. I wrote it down with a shaking thumb.
-
-Rule three. Do not stay anywhere you cannot leave in under a minute.
-
-I had checked for two exits. I had followed rule two. And I had still spent twenty-five minutes in a place I could not have left in less than one, because I wanted one more bottle.
-
-Rule two stops you walking into a trap. Rule three stops you from sitting down in it.
-
-# 11. Evening
-
-I went home the long way, through the back streets, one slow step at a time.
-
-At the utility building, I slid the bolt and sat on the floor and drank. A little. Then I stopped, and I put the cap back on.
-
-I opened one of the sachets and let the sugar dissolve on my tongue. I had been awake for the whole of the day, and it was the first sweet thing I had tasted since the mints. For a minute, the room stopped tilting.
-
-Water had solved one problem and shown me the next. My stomach had stopped hurting hours ago. That was not a good sign. It had simply given up asking.
-
-I had not eaten a real meal since the night before the night before. Mints and sugar do not count.
-
-People can live for weeks without food. I knew that. It did not help. The problem was not dying. The problem was the days in between, when your hands shake and your thoughts come slowly, and every decision you make has to be right.
-
-Outside the door, footsteps passed. I held still and listened until they were gone.
-
-Before I lay down, I opened my notes and read the three lines together. Noise brings them. Never go into a place without a second way out. Do not stay anywhere you cannot leave in under a minute.
-
-Three days ago, I had none of them. Each one had a place and a time and a cost. A mall. A bridge. A closet with a hundred litres of water in it. It was a strange kind of education, one where the lesson always came after the exam.
-
-I looked at the lines for a long time. They were not much. But they were mine, and they had kept me alive.
-
-I made a decision then. Tomorrow I would not go out.
+I couldn't go far on that ankle, and I didn't have enough strength to risk another trip like today's. I decided to stay in the room tomorrow and rest it. I would use the time to think about where I might find food close by.

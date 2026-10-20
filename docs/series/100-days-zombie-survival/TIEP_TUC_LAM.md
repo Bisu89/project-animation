@@ -3,6 +3,8 @@
 Repo: `C:\Users\hoavx\Desktop\stickman-video`, nhánh `main`, remote `project-animation` (`https://github.com/Bisu89/project-animation.git`). Đã commit + push ngày 19/10 (commit `cb84154`: kịch bản mới, hiệu ứng, âm thanh, youtube.md). Video/ảnh/âm thanh sinh tự động KHÔNG push (xem `.gitignore`); máy mới phải tạo lại bằng các lệnh bên dưới.
 Chi tiết kỹ thuật: `HANDOFF.md` (mục 0, tiếng Anh). Bản tiếng Việt tóm tắt cả series: `TOM_TAT_TIENG_VIET.md` (cùng thư mục).
 
+**Quy tắc viết kịch bản (12 điều, bạn đặt 20/10): đọc `WRITING_RULES.md` cùng thư mục trước khi viết hay sửa bất kỳ tập nào.**
+
 ## Quy tắc làm việc bạn đã đặt
 1. **Viết truyện trước → bạn duyệt → rồi mới làm video.**
 2. Trả lời bằng tiếng Việt; lời bình và chữ trong video là tiếng Anh.
@@ -33,8 +35,8 @@ Chi tiết kỹ thuật: `HANDOFF.md` (mục 0, tiếng Anh). Bản tiếng Vi�
 
 ## Đã viết thêm (2026-10-20) — chờ bạn duyệt
 - Độ dài mục tiêu mỗi tập **13–15 phút ≈ 2300–2600 từ** (giọng đọc ~2,87 từ/giây). Tập 1 hiện 12,2 phút.
-- **Tập 2** `content/zs-ep02/script.md` + `script.vi.md` (2422 từ ≈ 14 phút; ngày 2: cây cầu; quy tắc 2; cái loa đúng 12 giờ).
-- **Tập 3** `content/zs-ep03/script.md` + `script.vi.md` (2274 từ ≈ 13 phút; ngày 3: nước; bình nước nóng phòng khám; quy tắc 3).
+- **Tập 2** `content/zs-ep02/script.md` + `script.vi.md` = **bản của bạn** (~2000 từ, nhiều đoạn ngắn nên đọc ra ~13 phút), đã sửa vài chỗ logic nhỏ; quy tắc 2 = "Find another way out before going farther in"; cái loa đúng 12 giờ nói "Evacuation transport is arriving".
+- **Tập 3** `content/zs-ep03/script.md` + `script.vi.md` (đã viết lại theo bộ 12 quy tắc, ~1990 từ ≈ 11–12 phút; ngày 3: nước; bình nước nóng phòng khám; quy tắc 3).
 - Dàn ý đã cập nhật ở `EPISODE_OUTLINE.md`, sổ trạng thái ở `SURVIVAL_STATE.md` (bảng "Revision"). Tập 4–7 vẫn là nháp/dàn ý cũ, phải viết lại theo bảng mới (thức ăn đã = 0 từ Ngày 1) trước khi duyệt.
 - Quy trình: duyệt kịch bản → mới tạo giọng đọc/ảnh/render (đúng quy tắc 1).
 

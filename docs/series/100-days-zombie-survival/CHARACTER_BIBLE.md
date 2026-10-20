@@ -40,8 +40,8 @@ The survivor does **not** have rules on Day 1. Each rule is learned from a mista
 | Rule | Learned | By what |
 |---|---|---|
 | 1. Noise draws them: be quiet | demonstrated Ep 1 scene 4, confirmed scene 7 | calling "hello?" in the wrong house; watching two shambling figures turn toward a car alarm then the mall's fire alarm (scene 4); a dropped water bottle draws them to his door and distant breaking glass pulls them away (scene 7) — two clean before/after events, no written list (REVISED 2026-10-19, replaces the earlier "Three Things I Know" written-observations scene) |
-| 2. Never go into a place without a second way out | Ep 2 | the dead-end street at the bridge |
-| 3. Do not stay anywhere you cannot leave in under a minute | Ep 3 | the rooftop tank, when zombies gather below |
+| 2. Find another way out before going farther in (wording REVISED 2026-10-20) | Ep 2 | the dead-end approach lane at the bridge; he already knew to check exits and ignored it because he hoped for help |
+| 3. Do not stay anywhere you cannot leave in under a minute (wording REVISED 2026-10-20: "Don't stay anywhere you can't leave in under a minute") | Ep 3 | staying 30+ minutes in the clinic to drink more; they knock on the glass |
 Day 1 behaviours must look naive: he phones people (battery lost), follows the crowd, ignores exits, calls out in a strange house, uses the flashlight all evening. He survives partly by luck, and learns from it.
 Later episodes may break or refine a rule; changes must be shown as a decision (and recorded in `SURVIVAL_STATE.md` knowledge).
 
