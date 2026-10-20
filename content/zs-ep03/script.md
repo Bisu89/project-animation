@@ -14,6 +14,8 @@ Then I added a line at the bottom: Find water today.
 
 It had to be close to the room. With my ankle, I couldn't walk far.
 
+Before going out, I looked at the ankle properly. It was swollen around the bone and had turned a dull purple. I could put weight on it, but not comfortably. I folded a strip of the cardboard I'd slept on into a stiff pad, held it against the outside of the ankle, and wrapped it tight with a strip torn from the sleeve of my spare shirt. It wasn't a proper bandage, and I didn't know whether it was helping, but the ankle felt steadier when I walked.
+
 # 2. The Taps
 
 I started with the taps. There was a small sink behind the shops, with a tap on the outside wall. I turned it. Air hissed out, a few brown drops fell, and then nothing.
@@ -28,7 +30,11 @@ There were puddles in the road and a grey trickle in a gutter. I didn't want to 
 
 I remembered that a toilet has a tank of water behind it, and that this water usually comes straight from the pipes.
 
-Behind the shops there was a small restaurant with its back door standing open. I listened for a while, then went in through the kitchen. Plates and pans were still out on the counters, as if everyone had left in the middle of a shift. At the end of a short corridor was a toilet.
+Behind the shops there was a small restaurant with its back door standing open. I listened for a while, then went in through the kitchen. Plates and pans were still out on the counters, as if everyone had left in the middle of a shift.
+
+I tried the gas stove first. The knob clicked and nothing came out. Either the gas was off or it had run out, and I had no way to tell which. Without the stove, a lighter alone wouldn't boil a pan of water. A fire outdoors would, but it would also make smoke and light, and I didn't know what either of those would bring. I left the idea for later. The pantry shelves were mostly bare, and the two big refrigerators smelled so bad that I didn't open them.
+
+At the end of a short corridor was a toilet.
 
 When I lifted the lid of the tank, the ceramic scraped against the rim. I stopped and listened for a minute. Nothing came. I wrapped my sleeve around the edge and lifted the lid the rest of the way.
 
@@ -74,7 +80,7 @@ I wrapped my jacket tightly around the valve and the pipe to muffle it, then ope
 
 I drank slowly, a mouthful at a time, waiting between mouthfuls, because I was afraid of making myself sick. My stomach cramped, then settled.
 
-I wasn't sure the water was safe. It had come from the mains before everything stopped and had been sitting in a closed tank, which seemed better than a puddle. It was cloudy at first, so I let the bottle stand and poured the clearer water off the top into another one, leaving the sediment behind. I had a lighter, but nothing I could boil water in. In the end I drank it anyway. Being thirsty was a certain problem, and a bad stomach was only a possible one. If I was wrong, I would find out in a day or two.
+I wasn't sure the water was safe. It had come from the mains before everything stopped and had been sitting in a closed tank, which seemed better than a puddle. It was cloudy at first, so I let the bottle stand and poured the clearer water off the top into another one, leaving the sediment behind. I had a lighter, but the stove in the restaurant hadn't worked, and a fire meant smoke and light that I didn't want to risk. In the end I drank it anyway. Being thirsty was a certain problem, and a bad stomach was only a possible one. If I was wrong, I would find out in a day or two.
 
 In a break room off the corridor I found three empty bottles beside a dead water cooler. In a drawer there was a box of paper sachets of sugar, maybe thirty of them. It wasn't food, but it was something, so I put them in my pocket.
 
@@ -98,7 +104,7 @@ I put three full bottles in my bag and left the fourth, which was only half full
 
 As I stepped outside, I heard the glass crack behind me, and then a sound like something falling to the floor. I closed the door behind me as quietly as I could and went the other way along the lane, away from the car park.
 
-The bottles knocked together in my bag with every step. I stopped between two parked vans, took the bag off, and pushed my spare shirt between the bottles so they couldn't touch. Then I listened. I could hear no footsteps behind me. I started walking again, and I didn't stop until I was three streets away.
+The bottles knocked together in my bag with every step. I stopped between two parked vans, took the bag off, and pushed what was left of my spare shirt between the bottles so they couldn't touch. Then I listened. I could hear no footsteps behind me. I started walking again, and I didn't stop until I was three streets away.
 
 # 10. Rule Three
 
@@ -110,7 +116,15 @@ I had followed rule two. I had checked for a second way out before I went in. Bu
 
 I had come out with three bottles. If I had left when I first had four, I would probably have come out with four.
 
-# 11. Back at the Room
+# 11. From a Distance
+
+Before going back to the room, I took the long way round to look at the clinic from a distance. I needed to know whether it was still an option.
+
+From the end of the lane, behind a parked van, I could see the front of the building. The glass door had collapsed. Seven or eight of them were standing in the lobby and on the pavement outside, packed around the doorway. I couldn't tell why they had gathered there. It might have been the glass, or the pipes earlier, or just that the first ones had stopped and the others had followed.
+
+The heater was still nearly full, and I knew I would want that water again. But the side door led into a corridor with the lobby at one end of it. Going back in meant walking into the building they were standing in. I decided not to try. If I needed that water again, it would have to wait until they had moved on.
+
+# 12. Back at the Room
 
 I went back to the room by the back streets, slowly, because my ankle was worse after the extra walking.
 
@@ -118,6 +132,8 @@ I slid the bolt across and sat on the floor. I had three bottles. They were abou
 
 I ate one of the sugar sachets, pouring it onto my tongue. It was the first thing sweet I'd had since the mints. I didn't have any real food. The last proper meal had been two nights ago.
 
-I looked at what I had. Water for about two days if I was careful. A lighter, mints, and about thirty sugar sachets. A swollen ankle, a hand that hurt when I closed it, and a phone with some battery and no signal.
+I looked at what I had. Water for about three days if I kept to one bottle a day, which would leave me thirsty. A lighter, mints, and about thirty sugar sachets. A swollen ankle, a hand that hurt when I closed it, and a phone with some battery and no signal.
 
 I couldn't go far on that ankle, and I didn't have enough strength to risk another trip like today's. I decided to stay in the room tomorrow and rest it. I would use the time to think about where I might find food close by.
+
+That night, I lay on the cardboard with the bolt across the door. Twice I heard something pass outside, slow footsteps that stopped for a while and then went on. Both times I stayed still until they were gone. I couldn't tell whether they knew I was there or were only passing, and I didn't want to be the one to find out.

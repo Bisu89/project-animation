@@ -1,4 +1,4 @@
-# WRITING RULES — 100 Days: Zombie Survival (do NOT skip; set by the owner 2026-10-20)
+# WRITING RULES — 100 Days: Zombie Survival (owner's REFERENCE, 2026-10-20: a guide, not law. Drop or bend any rule that does not suit the series, and say so)
 
 Applies to every new or refactored episode (Episode 1 was approved before these rules; keep it as is unless asked). Script in natural English; notes and explanations to the owner in Vietnamese.
 If asked for a Vietnamese version: translate close to the meaning, in natural speech, no literary flourish.
