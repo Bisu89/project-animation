@@ -14,7 +14,7 @@ I counted what I had. A little more than one bottle of water. No food. A flashli
 
 Then I unwrapped my hand.
 
-The palm was swollen and shiny, with a red line running out from the scrape. I poured a few drops of water over it and let it dry, because I had read once that a dirty wound is worse than a small one. I wrapped it again with a cleaner strip of the shirt. It did not feel better. It felt looked after.
+The palm was swollen and stiff, the scrape crusted dark and cracked at the edges. I poured a few drops of water over it and let it dry, because I had read once that a dirty wound is worse than a small one. I wrapped it again with a cleaner strip of the shirt. It did not feel better. It felt looked after.
 
 I tightened my shoelaces twice. I was going to walk a long way, and a blister can end a day as surely as a crowd can.
 
@@ -206,7 +206,7 @@ Inside, I slid the bolt, and I sat down on the floor, and for a long time I did 
 
 I took out the bottle. A few mouthfuls. No food. A phone at half. An ankle I could not stand on. A hand that would not close.
 
-I unwrapped it once more, by the light of the gap under the door. The red line had grown. Not much. About the width of a finger. I looked at it for a long time, and then I wrapped it up again, because looking at it would not change what it was.
+I unwrapped it once more, by the light of the gap under the door. The scab had split again, and the palm was tight and hot. I could barely close my fingers around the bottle. I looked at it for a long time, and then I wrapped it up again, because looking at it would not change what it was.
 
 I had no medicine. I had no clean water to spare. All I could do was keep it dry and keep it still, and hope.
 

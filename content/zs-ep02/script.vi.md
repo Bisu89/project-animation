@@ -8,7 +8,7 @@ Nhìn trên màn hình thì nhỏ xíu. Nó đã làm tôi mất cả một đê
 Rồi tôi tắt mọi thứ mà điện thoại có thể phát ra tiếng. Tiếng gõ phím. Rung. Mọi âm báo. Một tin nhắn đến giữa phố vắng cũng vang đi rất xa.
 Tôi kiểm đồ. Hơn một chai nước một chút. Không có đồ ăn. Một chiếc đèn pin mà tôi quyết định dùng càng ít càng tốt.
 Rồi tôi tháo băng bàn tay.
-Lòng bàn tay sưng bóng, với một đường đỏ chạy ra từ vết xước. Tôi nhỏ vài giọt nước lên và để khô, vì có lần tôi đọc rằng vết thương bẩn còn tệ hơn vết thương nhỏ. Tôi quấn lại bằng một dải áo sạch hơn. Nó không đỡ đau hơn. Nhưng cảm giác như được chăm sóc.
+Lòng bàn tay sưng cứng, vết xước đóng vảy sẫm và nứt ở mép. Tôi nhỏ vài giọt nước lên và để khô, vì có lần tôi đọc rằng vết thương bẩn còn tệ hơn vết thương nhỏ. Tôi quấn lại bằng một dải áo sạch hơn. Nó không đỡ đau hơn. Nhưng cảm giác như được chăm sóc.
 Tôi siết dây giày hai lần. Tôi sắp đi một quãng dài, và một vết phồng có thể chấm dứt một ngày chắc chắn như một đám đông.
 Nếu ở lại, mai tôi sẽ hết nước. Nếu đi, tôi sẽ đi về phía một tin nhắn không thể kiểm chứng.
 Tôi chọn tin nhắn. Không phải vì tin nó. Vì đó là kế hoạch duy nhất tôi có.
@@ -115,7 +115,7 @@ Tôi đi bằng mép ngoài bàn chân suốt phần còn lại của ngày.
 Tôi tới dãy cửa hàng sau tòa nhà tiện ích đúng lúc ánh sáng bắt đầu ngả cam. Cánh cửa thép vẫn y như lúc tôi rời đi. Tôi đứng đó lắng nghe. Tôi đếm tới sáu mươi. Rồi lắng nghe lại.
 Bên trong, tôi cài chốt, ngồi xuống sàn, và rất lâu sau tôi không động đậy.
 Tôi lấy chai nước ra. Vài ngụm. Không có đồ ăn. Điện thoại còn một nửa pin. Một mắt cá chân không đứng nổi. Một bàn tay không nắm lại được.
-Tôi tháo băng thêm một lần nữa, dưới ánh sáng lọt qua khe cửa. Đường đỏ đã dài ra. Không nhiều. Cỡ bề ngang một ngón tay. Tôi nhìn nó rất lâu, rồi quấn lại, vì nhìn mãi cũng không thay đổi được nó là gì.
+Tôi tháo băng thêm một lần nữa, dưới ánh sáng lọt qua khe cửa. Lớp vảy đã nứt ra lần nữa, và lòng bàn tay căng và nóng. Tôi gần như không khép được các ngón quanh chai nước. Tôi nhìn nó rất lâu, rồi quấn lại, vì nhìn mãi cũng không thay đổi được nó là gì.
 Tôi không có thuốc. Tôi không có nước sạch để dư. Tất cả những gì tôi làm được là giữ cho nó khô và yên, và hy vọng.
 Tôi đã trở về nơi duy nhất mình có, và nó không có nước.
 Lần đầu tiên từ lúc có cảnh báo, tôi không sợ lũ zombie. Tôi sợ phép tính.
