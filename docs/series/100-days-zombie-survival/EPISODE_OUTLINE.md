@@ -27,29 +27,16 @@ Eight scenes **[CONFIRMED structure]**; content of each scene follows the brief,
 - **Continuity out:** one rule (be quiet); knows the utility building; has heard the evacuation message (location + cut-off time, but not how far away it is — the distance/travel time to the bridge is deliberately NOT stated in Ep1, so Episode 2 is free to make the journey take as long as it needs to).
 - **Note (owner rewrite, 2026-10-19):** the "three observations" list-on-phone device (previously scene 4) is dropped for Episode 1; the family/sibling subplot drafted in this rewrite was also dropped by the owner ("khó duy trì vì đây là sinh tồn một mình") — SURVIVOR-001 stays unspecified-gender/no-named-family per `CHARACTER_BIBLE.md`. If a later episode still wants an explicit written-rules device, reintroduce it there instead of backfilling Ep1.
 
-## Episode 2 — Day 2: the bridge [PROPOSAL]
-- **Hook:** "The message said the bridge was open until noon. I believed it."
-- **Situation:** morning after the first night, tired, following the broadcast; water 1.2 L, food 0 (REVISED: Ep1 ends with no food left).
-- **Objective:** reach the bridge evacuation point before the cut-off.
-- **Obstacle:** the road: abandoned cars, small groups of zombies, a crowd attracted by noise near the approach.
-- **Turning point:** at the bridge he finds it overrun/blocked with no sign of evacuation (whether the message was real stays undecided).
-- **Consequence:** he spends most of his water and food, picks up blisters/ankle strain (health 88) and must go back.
-- **Character change:** applies a rule on purpose (leaves a crowd instead of joining it) and abandons a plan that stopped making sense.
-- **Picture plan:** long road (zoom-in), bridge wide (slow zoom-out), checkpoint close-ups. Old notes: the long walk/jog with grounded gait (L2), a wide establishing shot of the bridge (L0), a retreat sequence using shelter-door and parked-car obstacles (L2/L3).
-- **Ending:** he reaches the utility building at dusk with water 0.2 L, food 1; for the first time he realises he is running out.
-- **Continuity out:** the bridge/evacuation is a dead end (default); water is the immediate problem.
+## Episode 2 — Day 2: the bridge (WRITTEN 2026-10-19/20, awaiting owner approval: `content/zs-ep02/script.md`, `script.vi.md`)
+- **Hook:** the first written rule, then a message he cannot check.
+- **Beats:** 1 The List (rule 1 typed into the phone, phone silenced, stock: ~1 bottle, no food, swollen hand) / 2 The Road (11 km sign, listens 10 s at every corner) / 3 The Alarm (a crowd around a car alarm; he takes the back streets, -40 min) / 4 Thirst (one sip per half hour, blister) / 5 The Approach (a single road between a wall and a fence; checkpoint abandoned; bridge choked; 11:41, nobody to receive him) / 6 Twelve O'Clock (the checkpoint speaker fires at noon with a recorded "this evacuation point is now closed", the bridge crowd turns and walks into the funnel; he runs out) / 7 Rule Two (never go into a place without a second way out; the message stays unexplained) / 8 The Long Way Back (ankle twisted on rubble, silent) / 9 Dusk (back at the utility building: a few mouthfuls of water, no food, phone at half, "afraid of the arithmetic").
+- **Ledger out:** water ~0.1 L, food 0, phone ~50%, health ~85 (swollen hand, blister, twisted ankle), fatigue 7. **Rule 2 earned.** The evacuation question stays unresolved (the loudspeaker is automatic, not proof either way).
+- **Continuity:** the bridge is a dead end; distance 11 km; the utility building is still home; THE STRANGER is absent.
 
-## Episode 3 — Day 3: water [PROPOSAL]
-- **Hook:** "On the third day the taps ran dry."
-- **Situation:** water 0.2 L, food 1; mains water has failed (see WORLD_RULES).
-- **Objective:** find drinkable water within a short, safe radius.
-- **Obstacle:** the places that hold water (a small office, a building roof tank) are close to groups of zombies; every sound counts.
-- **Turning point:** he finds a building water tank/heater with stored water, but carrying it out requires making noise.
-- **Consequence:** he gets 1.5 L back and spends food (food 0); the noise brings zombies toward the shelter side of the street.
-- **Character change:** plans a retreat before he commits (checks the exit first), accepts hunger as the price of water.
-- **Picture plan:** careful-movement stills, zombies drifting toward a sound (wind/dust). Old notes: quiet-movement sequence with a slow, careful gait (L2), an environmental beat of zombies drifting toward a sound (L3).
-- **Ending:** water 0.7 L, food 0, health 85; he hears nearby movement and decides to stay hidden tomorrow.
-- **Continuity out:** hunger is now the main problem.
+## Episode 3 — Day 3: water (WRITTEN 2026-10-20, awaiting owner approval: `content/zs-ep03/script.md`, `script.vi.md`)
+- **Hook:** thirst arithmetic, then dry taps.
+- **Beats:** 1 The Arithmetic (empty bottle, headache, "three days is a warning") / 2 The Taps (pumps stopped with the power; puddles are not an option) / 3 Where Water Waits (toilet tanks, a water heater holds ~150 L) / 4 Two Ways Out (circles a small clinic, waits for three zombies to drift off after a distant shutter bang, wedges the side door open) / 5 The Closet (finds the heater and a toolbox; the valve triggers pipe hammer; wraps the valve in his jacket and opens it slowly; no flashlight) / 6 One More Bottle (four bottles; stays ~25 min out of greed) / 7 Glass (zombies return to the lobby doors; glass cracks and falls; he leaves with three bottles via the side door) / 8 The Rule (rule 3: do not stay anywhere you cannot leave in under a minute) / 9 Evening (water solved, hunger is next; decides to stay in tomorrow).
+- **Ledger out:** water ~1.5 L (3 bottles) after drinking his fill, food 0, health ~83, fatigue 7. **Rule 3 earned.**
 
 ## Episode 4 — Day 4: fear [PROPOSAL]
 - **Hook:** "I did not leave the room on the fourth day. That was also a decision."

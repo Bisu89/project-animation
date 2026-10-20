@@ -38,6 +38,14 @@ Water arithmetic: previous + gains - use. Food: previous + gains - eaten. "Fatig
 | Day 6 (Ep 6) | 0.7 L (0.5 + 1.0 from the stranger - 0.8) | 2 (2 + 2 shared - 2) | 33% | 3.5 h | 84 | 6 | meets THE STRANGER away from the shelter | Wary |
 | Day 7 (Ep 7) | 2.0 L (0.7 + 2.3 collected - 1.0) | 3 (2 + 3 found - 2) | 30% | 3 h | 87 | 5 | new temporary shelter (shared) | Conditional trust |
 
+### Revision after the Episode 1-3 rewrite (2026-10-20, still provisional)
+| End of | Water | Food | Phone | Health | Notes |
+|---|---|---|---|---|---|
+| Day 1 (Ep 1, rewritten) | a bit over 1 bottle (~0.6 L) | 0 (all eaten on screen) | not stated | scraped palm (wrapped, swelling) | utility building; flashlight barely used |
+| Day 2 (Ep 2) | a few mouthfuls (~0.1 L) | 0 | ~50% | blister + twisted ankle + swollen hand | rule 2 earned; bridge = dead end, 11 km away |
+| Day 3 (Ep 3) | ~1.5 L (three bottles) | 0 | not stated | ~83 | rule 3 earned; water source = clinic water heater (now compromised by broken glass) |
+Episodes 4-7 below keep their old numbers until they are rewritten: re-check them against this table (food is already 0 from Day 1).
+
 ## 3. Provisional per-day detail
 Format: inventory change / knowledge gained / current goal at end / unresolved threats at end. Items marked (new) are PROPOSALS that appear only if the outline keeps them.
 

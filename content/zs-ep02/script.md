@@ -1,78 +1,132 @@
-# 1. The Road
+# 1. The List
 
-The message said the bridge would be open until noon. I believed it, because believing it was easier than the alternative.
+At dawn, before I opened the door, I opened my notes.
 
-Nine kilometres. That was what the phone said. Three hours if I walked without stopping, and I knew I would stop.
+I had one thing I was sure of. I typed it with my good hand.
 
-The streets were different in daylight. Cars sat where their owners had left them, doors open, engines cold. A shopping cart lay on its side in the middle of a crossing. Everything looked like a photograph of a place that used to be busy.
+Rule one. Noise brings them. Be quiet.
 
-I kept to the walls. I kept my steps soft. My palm throbbed under a strip of cloth, and every time I closed my hand I thought about the railing. Rule one. Noise draws them. I had exactly one rule and nothing else, so I held on to it.
+It looked small on the screen. It had cost me a whole night.
 
-# 2. The Shortcut
+Then I switched off everything my phone could do out loud. The keyboard clicks. The vibration. Every alert tone. A message arriving in an empty street would carry a long way.
 
-Two hours in, I made a mistake that looked like a good idea. A wide avenue ran straight toward the river. No turns, no guessing. The only problem was the sound.
+I counted what I had. A little more than one bottle of water. No food. A hand that had swollen under the cloth overnight. A flashlight I had decided to use as little as possible.
 
-I heard it before I saw it. A car alarm, somewhere ahead, that had been ringing since the day before. Around it, in the middle of the road, stood a crowd. Not people. Dozens of them, packed close, turned toward the noise like plants turn toward a window.
+If I stayed, I would have no water by tomorrow. If I went, I would be walking toward a message I could not check.
 
-I stopped behind a bus. I had my hand on the metal, and I could feel my own pulse in it.
+I chose the message. Not because I trusted it. Because it was the only plan I had.
 
-This time I did not walk toward the crowd. This time I did the thing I had not done at the mall. I turned around. I went back one block, then left, then left again, and I took the long way through the back streets, which added forty minutes and cost me a third of my water.
+# 2. The Road
 
-It was the first time I had walked away from something that looked like help.
+The city looked different in daylight. Cars sat where their drivers had left them, doors open, engines cold. A shopping cart lay on its side in the middle of a crossing. Everything looked like a photograph of a place that used to be busy.
 
-# 3. The Bridge
+I kept to the walls, in the shade. A wall covers one side of you. Shade hides the rest.
 
-I saw the river before I saw the bridge. A flat grey line at the end of a street, and then the long shape of the crossing, high above it, wider than I had expected.
+At every corner, I stopped and listened for ten seconds. Silence is information. If I heard nothing, I walked. If I heard feet, I waited.
 
-I stood on a rooftop stairwell landing for a long time, looking at it through the gap in a wall. Both lanes were full. Cars nose to tail, doors open, bags on the road. And between them, hundreds of figures, moving very slowly. Not crossing. Not going anywhere.
+A road sign pointed the way. River Crossing, eleven kilometres.
 
-There were no buses. There were no soldiers. There was a white tent at the near end, collapsed on one side, and a line of barriers that had been pushed over like toys.
+Eleven kilometres. With a bad hand, no food, and a stop at every corner, that was five hours at least. Noon was six hours away. It could work, if nothing went wrong.
 
-I took out my phone. Fifty-eight percent. The message was still there. Cut-off, twelve noon.
+# 3. The Alarm
 
-It was ten past one.
+Two hours in, I heard it. A car alarm, ringing somewhere ahead.
 
-# 4. The Checkpoint
+It had been going since yesterday. Every time it stopped, it started again. A car battery can keep that up for a long time, but not forever.
 
-I went closer, because I needed to be sure. Down the side street, behind a fence, to where the road met the bridge approach.
+I stopped behind a parked bus and looked.
 
-There was a checkpoint. There was a table with a clipboard on it. A speaker on a pole was still mounted above it, grey and silent. Whatever had called people here had stopped calling them a long time ago.
+Around the car stood a crowd. Dozens of them, packed close, all turned toward the sound, the way plants turn toward a window.
 
-On the ground, a line of paper cups. A child's shoe. A folded blanket, still in its plastic.
+The avenue beyond them ran straight to the river. No turns. No guessing. It was the shortest way, and it went straight through them.
 
-Nobody had been evacuated from here. People had come, and waited, and when the waiting stopped being safe, they had left or they had not.
+At the mall, I had told myself a crowd meant help. This time I knew better. I went back one block, then left, then left again, and took the back streets.
 
-I do not know whether the message was ever true. I do not know if it was meant for someone else, or if it was sent too late, or if it was a mistake that no one had been left to correct. I only know that I had walked nine kilometres toward a promise that was not there.
+It cost me forty minutes, and a third of a bottle of water in the heat.
 
-# 5. Turning Back
+# 4. Thirst
 
-I did not stand there feeling sorry for myself. That is not true. I stood there for a minute and I felt very sorry for myself. Then I counted.
+I made a rule for the water. One sip every half hour. Not more, even when my mouth was dry. Gulping feels good for a minute. Then your stomach turns, and you cannot afford to lose what you drank.
 
-Water: a little under half a litre. Food: one meal left, because I had eaten twice on the road without noticing. Battery: fifty-eight percent. A blister on my left heel. A twisted ankle that I had not felt until I stopped.
+My heel had started to burn. A blister was forming inside my shoe. I told myself it was nothing. I told myself that every few hundred metres.
 
-I was standing at the mouth of a street with one way out, and the figures on the bridge had started to turn their heads.
+I moved from car to car. Crouch, rest my back against a door, listen. Twice I heard the shuffle of feet on the far side of a bus, and twice I held my breath until it passed.
 
-That was when a second rule wrote itself, so clearly that I said it out loud in a whisper. Never go into a place without a second way out.
+By ten fifty, I could see the river.
 
-I did not run. I walked backwards, three steps, five, ten, and then I turned and I walked the way I had come.
+# 5. The Approach
 
-# 6. The Long Way Back
+The last stretch was a single road with a concrete wall on one side and a steel fence on the other. Barriers had been set up to guide the traffic. Orange cones. A banner, torn, hanging from one corner. A white tent.
 
-The road home was longer than the road out. That is always true, and I had never understood why until that day.
+It looked organised. That was exactly what I wanted it to look like.
 
-The heat made it worse. The sun was high, my water was almost gone, and every block I could see ahead looked exactly like the one I had just crossed. I rationed myself to a sip every half hour. I told myself it was a rule, so I did not have to admit it was fear.
+I walked in.
 
-I used the cars. I moved from one to the next, crouching, resting my back against a door, listening. Twice I heard the shuffle of feet on the other side, and twice I held my breath until it passed.
+Halfway down, I saw the checkpoint. A table with a clipboard. A speaker on a pole, grey and silent. On the ground, a row of paper cups. A child's shoe. A folded blanket, still in its plastic.
 
-My ankle started to swell. I walked on the outside of my foot, and I cursed myself in a whisper. Rule two had cost me nothing to write and everything to learn. I had walked into a whole day without a second way out.
+Beyond it, the bridge. Both lanes full. Cars nose to tail, doors open, bags on the road. And between them, hundreds of figures, standing very still. Not crossing. Not going anywhere.
 
-# 7. Dusk
+No buses. No soldiers. Nobody to receive me.
 
-I reached the shops behind the utility building just as the light began to go orange. The steel door was exactly as I had left it. I stood there and listened, counted to sixty, listened again.
+I took out my phone. Eleven forty-one.
 
-Inside, I sat down on the floor, and for a long time I did not move.
+I had reached it before the cut-off, and there was nobody there.
 
-I took out the bottle. Two hundred millilitres. Maybe less. One can of food. A phone that was fifty percent and falling. An ankle I could not stand on.
+# 6. Twelve O'Clock
+
+I should have turned back right then. I knew it. But I stayed, beside the table, with my back against the pole, because I wanted to see what would happen at noon.
+
+I told myself I was being careful. That I was checking. That I owed it to the message.
+
+The truth is, I wanted it to be true.
+
+At twelve o'clock exactly, the speaker above my head woke up.
+
+A tone, loud enough to rattle the cups on the ground. Then a flat, recorded voice. "This evacuation point is now closed. Please remain where you are."
+
+Then again. And again.
+
+On the bridge, every head turned.
+
+They did not run. They never run. They came the way they always come, slowly, a little faster than a walk, all of them toward the sound.
+
+And the sound was above my head.
+
+I walked at first. Then I ran. Running makes noise, but nothing I could make would compete with that speaker.
+
+A hundred and fifty metres of wall and fence, with the recorded voice repeating behind me.
+
+At the end of the road, I looked back. It was filling up. A wall on one side. A fence on the other. One way out, and I had just used it.
+
+If I had stood there ten minutes longer, I would have been at the bottom of a dead end with a crowd walking into it.
+
+# 7. Rule Two
+
+I sat behind a dumpster two streets away, and I wrote it down. My hand was shaking so badly that I had to type it twice.
+
+Rule two. Never go into a place without a second way out.
+
+I had checked the road. I had not checked the way out. I had looked at what I wanted to find, and not at how I would leave.
+
+I still do not know if the message was ever real. Maybe it was sent too late. Maybe it was meant for someone else. Maybe it was a recording that nobody was left to switch off. At noon, a speaker on a pole kept doing its job for nobody, and it almost killed me.
+
+# 8. The Long Way Back
+
+The road home was longer than the road out. That is always true. I had never understood why until that day.
+
+The sun was high. My water was almost gone. Every block ahead looked exactly like the one I had just crossed.
+
+Near a bus stop, I stepped off a curb onto a loose piece of rubble, and my ankle turned. I bit down on my sleeve so I would not make a sound. I stood on one foot until the pain became something I could walk on.
+
+I walked on the outside of my foot for the rest of the day.
+
+# 9. Dusk
+
+I reached the shops behind the utility building as the light began to go orange. The steel door was exactly as I had left it. I stood there and listened. I counted to sixty. I listened again.
+
+Inside, I slid the bolt, and I sat down on the floor, and for a long time I did not move.
+
+I took out the bottle. A few mouthfuls. No food. A phone at half. An ankle I could not stand on. A hand that would not close.
 
 I had come back to the only place I had, and it had no water in it.
 
