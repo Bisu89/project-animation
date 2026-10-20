@@ -32,8 +32,9 @@ Chi tiết kỹ thuật: `HANDOFF.md` (mục 0, tiếng Anh). Bản tiếng Vi�
 - Bảng giờ đầu mỗi chương: "DAY 1 · THE TRAP 07:50"... (bảng `HUD` trong `Fx.tsx`).
 
 ## Đã viết thêm (2026-10-20) — chờ bạn duyệt
-- **Tập 2** `content/zs-ep02/script.md` + `script.vi.md` (ngày 2: cây cầu; quy tắc 2; cái loa đúng 12 giờ).
-- **Tập 3** `content/zs-ep03/script.md` + `script.vi.md` (ngày 3: nước; bình nước nóng phòng khám; quy tắc 3).
+- Độ dài mục tiêu mỗi tập **13–15 phút ≈ 2300–2600 từ** (giọng đọc ~2,87 từ/giây). Tập 1 hiện 12,2 phút.
+- **Tập 2** `content/zs-ep02/script.md` + `script.vi.md` (2422 từ ≈ 14 phút; ngày 2: cây cầu; quy tắc 2; cái loa đúng 12 giờ).
+- **Tập 3** `content/zs-ep03/script.md` + `script.vi.md` (2274 từ ≈ 13 phút; ngày 3: nước; bình nước nóng phòng khám; quy tắc 3).
 - Dàn ý đã cập nhật ở `EPISODE_OUTLINE.md`, sổ trạng thái ở `SURVIVAL_STATE.md` (bảng "Revision"). Tập 4–7 vẫn là nháp/dàn ý cũ, phải viết lại theo bảng mới (thức ăn đã = 0 từ Ngày 1) trước khi duyệt.
 - Quy trình: duyệt kịch bản → mới tạo giọng đọc/ảnh/render (đúng quy tắc 1).
 
