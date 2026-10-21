@@ -1,0 +1,1247 @@
+1
+00:00:00,600 --> 00:00:05,574
+On the morning of the third day, a Greek army of thousands picks up its shields and walks away.
+
+2
+00:00:06,074 --> 00:00:08,326
+It leaves a few hundred men behind.
+
+3
+00:00:08,826 --> 00:00:11,104
+Their king has ordered the rest to go.
+
+4
+00:00:11,454 --> 00:00:14,084
+He stays, and so do the men who came with him.
+
+5
+00:00:14,584 --> 00:00:18,998
+Behind them, high on a mountain, Persian soldiers have found a path nobody guarded.
+
+6
+00:00:19,498 --> 00:00:21,855
+By midday the pass will be surrounded.
+
+7
+00:00:22,355 --> 00:00:26,261
+For two days, these Greeks have been the hardest thing in the world to move.
+
+8
+00:00:26,611 --> 00:00:28,863
+By the end of the third, they are dead.
+
+9
+00:00:29,363 --> 00:00:33,491
+So how does a small force stop the largest army anyone has ever seen?
+
+10
+00:00:33,991 --> 00:00:37,259
+And how does it lose, after all that, to a goat track?
+
+11
+00:00:37,759 --> 00:00:41,495
+Most people will tell you it was courage, and then it was a traitor.
+
+12
+00:00:41,845 --> 00:00:42,965
+Both are true.
+
+13
+00:00:43,315 --> 00:00:45,112
+Neither is the real answer.
+
+14
+00:00:45,612 --> 00:00:47,630
+The real answer is geometry.
+
+15
+00:00:47,980 --> 00:00:50,362
+And a plan with exactly one weak point.
+
+16
+00:00:50,862 --> 00:00:52,490
+Let's go back to the start.
+
+17
+00:00:52,990 --> 00:00:55,463
+It is the summer of 480 BC.
+
+18
+00:00:55,813 --> 00:00:59,029
+Xerxes, king of Persia, is marching on Greece.
+
+19
+00:00:59,529 --> 00:01:03,162
+His father tried this ten years earlier and lost at Marathon.
+
+20
+00:01:03,662 --> 00:01:07,242
+Xerxes means to finish the job, and he has brought everything.
+
+21
+00:01:07,592 --> 00:01:11,980
+Soldiers from every corner of an empire that stretches from Egypt to India.
+
+22
+00:01:12,480 --> 00:01:13,730
+A fleet to match.
+
+23
+00:01:14,080 --> 00:01:18,715
+A bridge of boats across the Hellespont, because he did not want to wait for a ferry.
+
+24
+00:01:19,215 --> 00:01:21,780
+He has also spent years on preparation.
+
+25
+00:01:22,130 --> 00:01:27,937
+Herodotus says food was stockpiled along the whole route, in depots built long before the army arrived.
+
+26
+00:01:28,287 --> 00:01:35,188
+A canal was dug through the headland at Mount Athos so the fleet would not have to sail around a cape where a storm had wrecked his father's ships.
+
+27
+00:01:35,688 --> 00:01:37,094
+This is not a raid.
+
+28
+00:01:37,444 --> 00:01:39,319
+It is a state moving house.
+
+29
+00:01:39,819 --> 00:01:40,938
+How many men?
+
+30
+00:01:41,288 --> 00:01:43,996
+Herodotus says more than two and a half million.
+
+31
+00:01:44,496 --> 00:01:48,181
+Herodotus was a wonderful storyteller and a poor accountant.
+
+32
+00:01:48,531 --> 00:01:53,140
+Modern historians say somewhere between one hundred thousand and a few hundred thousand.
+
+33
+00:01:53,640 --> 00:01:57,377
+Even the low end is the largest force the Greek world has ever faced.
+
+34
+00:01:57,877 --> 00:01:59,921
+And here is the part that matters.
+
+35
+00:02:00,271 --> 00:02:03,930
+An army that size has a problem that has nothing to do with fighting.
+
+36
+00:02:04,280 --> 00:02:06,714
+It has to eat and drink every single day.
+
+37
+00:02:07,064 --> 00:02:10,541
+Herodotus claims some rivers were drunk dry as it passed.
+
+38
+00:02:11,041 --> 00:02:18,332
+That is an exaggeration, but it points at something true: a force this large cannot sit still for long, and it cannot spread out too thin.
+
+39
+00:02:18,682 --> 00:02:22,549
+It has to keep moving along roads, and it has to keep winning quickly.
+
+40
+00:02:23,049 --> 00:02:25,523
+The Greeks cannot beat it on open ground.
+
+41
+00:02:25,873 --> 00:02:27,057
+They know that.
+
+42
+00:02:27,557 --> 00:02:30,695
+So they look for a place where open ground does not exist.
+
+43
+00:02:31,195 --> 00:02:33,487
+The Greek plan is not just one battle.
+
+44
+00:02:33,837 --> 00:02:35,842
+It is two, at the same time.
+
+45
+00:02:36,342 --> 00:02:41,354
+On land, they will block the road south at a narrow pass called Thermopylae, the Hot Gates.
+
+46
+00:02:41,704 --> 00:02:51,808
+At sea, a few miles away off the northern tip of the island of Euboea, a Greek fleet, with the Athenians providing most of the ships, will fight the Persian navy at a place called Artemisium.
+
+47
+00:02:52,308 --> 00:02:54,483
+The two positions protect each other.
+
+48
+00:02:54,833 --> 00:03:00,835
+The Persian fleet cannot simply sail past and land troops behind the pass, because the Greek ships are in the way.
+
+49
+00:03:01,185 --> 00:03:05,156
+The Persian army cannot simply march through, because the pass is blocked.
+
+50
+00:03:05,506 --> 00:03:08,449
+If either front breaks, the other has to fall back.
+
+51
+00:03:08,949 --> 00:03:10,237
+Remember that.
+
+52
+00:03:10,587 --> 00:03:12,293
+It will matter at the end.
+
+53
+00:03:12,793 --> 00:03:15,527
+Here the mountains come down almost to the sea.
+
+54
+00:03:15,877 --> 00:03:20,590
+In places, the road between cliff and water is barely wide enough for a single cart.
+
+55
+00:03:20,940 --> 00:03:23,050
+Herodotus says exactly that.
+
+56
+00:03:23,550 --> 00:03:29,747
+One thing to know about the ground today: the sea has long since retreated, and the pass is now a wide, flat plain.
+
+57
+00:03:30,097 --> 00:03:33,092
+If you visit, you will not see the place the Greeks saw.
+
+58
+00:03:33,592 --> 00:03:41,196
+The Greek coastline was far closer to the cliff, and the road squeezed through between them, past hot springs, which is how the place got its name.
+
+59
+00:03:41,696 --> 00:03:43,427
+Now look at what that does.
+
+60
+00:03:43,777 --> 00:03:51,928
+Imagine the Greek line packed shoulder to shoulder in the narrowest part, and say, for the sake of the picture, that each man takes up about a meter of frontage.
+
+61
+00:03:52,428 --> 00:03:57,780
+In a gap of fifteen or twenty meters, that means perhaps fifteen or twenty men in the front rank.
+
+62
+00:03:58,130 --> 00:04:01,450
+Behind them, more ranks, each one ready to step forward.
+
+63
+00:04:01,950 --> 00:04:03,291
+Now the Persians.
+
+64
+00:04:03,641 --> 00:04:06,323
+A hundred thousand men can march toward that line.
+
+65
+00:04:06,673 --> 00:04:10,748
+But only fifteen or twenty of them can actually fight at any given moment.
+
+66
+00:04:11,098 --> 00:04:14,717
+The rest are standing behind them, watching, with nothing to do.
+
+67
+00:04:15,067 --> 00:04:16,578
+They cannot go around.
+
+68
+00:04:16,928 --> 00:04:18,868
+They cannot go over the mountain.
+
+69
+00:04:19,218 --> 00:04:21,066
+They have to come through the door.
+
+70
+00:04:21,566 --> 00:04:23,168
+That is the whole trick.
+
+71
+00:04:23,518 --> 00:04:25,991
+The pass does not make the Greeks stronger.
+
+72
+00:04:26,341 --> 00:04:28,216
+It makes the Persians smaller.
+
+73
+00:04:28,566 --> 00:04:34,712
+A hundred thousand men, squeezed through a space the width of a cart, are only a few dozen men at the point of the spear.
+
+74
+00:04:35,212 --> 00:04:38,805
+This is where Leonidas, king of Sparta, takes his stand.
+
+75
+00:04:39,155 --> 00:04:44,559
+He brings three hundred Spartan soldiers, chosen for the job, and every one of them has a living son.
+
+76
+00:04:44,909 --> 00:04:47,552
+Sparta does not expect them to come back.
+
+77
+00:04:47,902 --> 00:04:50,558
+It makes sure their family names will survive them.
+
+78
+00:04:51,058 --> 00:04:53,844
+Around those three hundred gather thousands more.
+
+79
+00:04:54,194 --> 00:04:58,816
+Men from Tegea and Corinth, Arcadia, Thespiae, Phocis and Locris.
+
+80
+00:04:59,166 --> 00:05:01,992
+Herodotus counts about seven thousand in all.
+
+81
+00:05:02,342 --> 00:05:07,459
+The Spartans are the most famous of them, and they are fewer than one in twenty of the men in the pass.
+
+82
+00:05:07,959 --> 00:05:10,094
+Why only three hundred Spartans?
+
+83
+00:05:10,444 --> 00:05:21,225
+Because Sparta was in the middle of a religious festival, and Herodotus says the Spartans sent Leonidas and his bodyguard as an advance force, planning to send the rest of the army after the festival was over.
+
+84
+00:05:21,725 --> 00:05:24,068
+It was a dangerous way to fight a war.
+
+85
+00:05:24,418 --> 00:05:30,889
+It tells you something about how seriously Sparta took the threat, and how little it expected the first battle to be decisive.
+
+86
+00:05:31,389 --> 00:05:34,280
+They repair an old wall across the narrowest point.
+
+87
+00:05:34,630 --> 00:05:35,788
+Then they wait.
+
+88
+00:05:36,288 --> 00:05:39,726
+Xerxes arrives, camps, and does nothing for four days.
+
+89
+00:05:40,226 --> 00:05:43,285
+Herodotus says he was waiting for the Greeks to leave.
+
+90
+00:05:43,635 --> 00:05:44,989
+That may be true.
+
+91
+00:05:45,339 --> 00:05:52,058
+A Persian king who has been told that the Greeks are weak, and who has brought an army that size, might well expect his enemy to run.
+
+92
+00:05:52,408 --> 00:05:54,595
+But look at it from his side as well.
+
+93
+00:05:55,095 --> 00:05:57,699
+His fleet has just lost ships to a storm.
+
+94
+00:05:58,049 --> 00:06:01,031
+His scouts have told him that the Greek army is small.
+
+95
+00:06:01,381 --> 00:06:06,615
+A few days of waiting costs him little, and if the Greeks leave without a fight, it costs him nothing.
+
+96
+00:06:07,115 --> 00:06:08,781
+He sends a scout to look.
+
+97
+00:06:09,131 --> 00:06:11,162
+The scout comes back confused.
+
+98
+00:06:11,512 --> 00:06:14,220
+The Spartans in front of the wall are exercising.
+
+99
+00:06:14,570 --> 00:06:16,380
+Others are combing their hair.
+
+100
+00:06:16,880 --> 00:06:23,442
+There is a Spartan exile in Xerxes' camp, a former king named Demaratus, and Xerxes asks him what this means.
+
+101
+00:06:23,792 --> 00:06:25,771
+Demaratus answers plainly.
+
+102
+00:06:26,121 --> 00:06:28,959
+Spartans comb their hair before a fight to the death.
+
+103
+00:06:29,309 --> 00:06:31,484
+These men are getting ready to kill you.
+
+104
+00:06:31,984 --> 00:06:33,871
+Xerxes does not believe him.
+
+105
+00:06:34,221 --> 00:06:36,825
+On the fifth day, he sends his army in.
+
+106
+00:06:37,325 --> 00:06:43,640
+Before the fighting starts, someone warns a Spartan named Dienekes that the Persian arrows are so many they will hide the sun.
+
+107
+00:06:43,990 --> 00:06:47,297
+Dienekes replies, according to Herodotus, "Good.
+
+108
+00:06:47,647 --> 00:06:49,496
+Then we will fight in the shade."
+
+109
+00:06:49,996 --> 00:06:51,272
+Hold on to that.
+
+110
+00:06:51,622 --> 00:06:53,510
+We will come back to the shade.
+
+111
+00:06:53,860 --> 00:06:56,529
+And we will come back to whether he really said it.
+
+112
+00:06:57,029 --> 00:07:02,237
+On the first day, Xerxes sends in the Medes, with orders to bring the Greeks to him alive.
+
+113
+00:07:02,737 --> 00:07:03,674
+They try.
+
+114
+00:07:04,024 --> 00:07:06,016
+The Greeks have longer spears.
+
+115
+00:07:06,366 --> 00:07:11,691
+They have bronze armor and big round shields locked edge to edge, so there is no gap to reach through.
+
+116
+00:07:12,191 --> 00:07:21,280
+A Greek hoplite in full kit carries something like twenty-five kilos of metal and wood, which is a terrible thing to wear in a race and a very good thing to stand behind in a corridor.
+
+117
+00:07:21,780 --> 00:07:25,712
+The Persians have short spears, wicker shields, and plenty of courage.
+
+118
+00:07:26,062 --> 00:07:28,548
+Courage is not much use in a corridor.
+
+119
+00:07:29,048 --> 00:07:31,040
+Look at it as a matter of reach.
+
+120
+00:07:31,390 --> 00:07:35,505
+A longer spear means a Greek can hit his enemy before the enemy can hit him.
+
+121
+00:07:35,855 --> 00:07:40,386
+A big shield that overlaps with his neighbor's means there is no gap to hit back through.
+
+122
+00:07:40,886 --> 00:07:47,031
+A Persian soldier coming up to that line does not get to use his speed, or his skill with a bow, or his numbers.
+
+123
+00:07:47,381 --> 00:07:48,800
+He gets to be stabbed.
+
+124
+00:07:49,300 --> 00:07:52,165
+Wave after wave goes in and comes back in pieces.
+
+125
+00:07:52,515 --> 00:07:59,207
+Herodotus says Xerxes, watching from a throne set up to see the battle, leaped to his feet three times in fear for his army.
+
+126
+00:07:59,707 --> 00:08:01,478
+Then he sends in his best.
+
+127
+00:08:01,828 --> 00:08:05,109
+The Immortals, ten thousand strong, the royal guard.
+
+128
+00:08:05,459 --> 00:08:06,813
+They do no better.
+
+129
+00:08:07,313 --> 00:08:08,810
+Day two is the same.
+
+130
+00:08:09,160 --> 00:08:14,590
+The Greeks fight in rotation, each contingent taking its turn at the front and then pulling back to rest.
+
+131
+00:08:14,940 --> 00:08:17,127
+This is more important than it sounds.
+
+132
+00:08:17,477 --> 00:08:20,159
+A man fighting in a shield wall tires fast.
+
+133
+00:08:20,659 --> 00:08:28,094
+Rotating the front rank means the Greek line is always fresh, and the Persians, who also rotate, are always walking into the same fresh line.
+
+134
+00:08:28,594 --> 00:08:33,671
+Some ancient writers add that the Spartans pretended to run, then turned on the men chasing them.
+
+135
+00:08:34,021 --> 00:08:36,886
+A corridor punishes anyone who rushes into it.
+
+136
+00:08:37,386 --> 00:08:42,789
+Speaking of things that cost nothing, a like and a subscribe are free, and they keep this channel going.
+
+137
+00:08:43,139 --> 00:08:46,485
+Ephialtes, as we are about to see, charged a fee.
+
+138
+00:08:46,985 --> 00:08:52,037
+By the end of the second day, Xerxes has the biggest army in history and no way forward.
+
+139
+00:08:52,537 --> 00:08:55,258
+And now ask the question a commander would ask.
+
+140
+00:08:55,608 --> 00:08:56,780
+What does he do?
+
+141
+00:08:57,280 --> 00:08:58,491
+He cannot wait.
+
+142
+00:08:58,841 --> 00:09:02,356
+The Greeks can hold this road for as long as they have food and men.
+
+143
+00:09:02,706 --> 00:09:10,831
+The Persians cannot hold their position forever, because they also have a fleet that is fighting at Artemisium, and an army that eats and drinks in vast amounts.
+
+144
+00:09:11,331 --> 00:09:15,055
+Every day at the Hot Gates costs him something, and brings him nothing.
+
+145
+00:09:15,555 --> 00:09:17,208
+He cannot force the front.
+
+146
+00:09:17,558 --> 00:09:19,589
+Two days of attacks have shown that.
+
+147
+00:09:20,089 --> 00:09:23,670
+So the only way to beat the Greeks is to take the pass away from them.
+
+148
+00:09:24,020 --> 00:09:27,288
+And to do that, he needs to get men behind the Greek line.
+
+149
+00:09:27,788 --> 00:09:29,558
+Which means he needs a path.
+
+150
+00:09:30,058 --> 00:09:32,870
+And then a local man walks into the Persian camp.
+
+151
+00:09:33,370 --> 00:09:35,128
+His name is Ephialtes.
+
+152
+00:09:35,478 --> 00:09:38,798
+He comes from Trachis, the region right behind the pass.
+
+153
+00:09:39,148 --> 00:09:42,690
+Herodotus does not describe him as a soldier or as a villain.
+
+154
+00:09:43,040 --> 00:09:47,193
+He is a man who knows something, and who sees that somebody will pay for it.
+
+155
+00:09:47,693 --> 00:09:49,724
+What he knows is the mountain track.
+
+156
+00:09:50,074 --> 00:09:55,269
+A path winds over Mount Kallidromon, behind the Greek position, and comes down at their rear.
+
+157
+00:09:55,619 --> 00:09:57,364
+It is called the Anopaia.
+
+158
+00:09:57,714 --> 00:10:02,466
+It is on no Persian map, and it does not need to be once somebody has been paid to walk it.
+
+159
+00:10:02,966 --> 00:10:05,778
+Herodotus says Ephialtes did it for money.
+
+160
+00:10:06,128 --> 00:10:09,279
+He does not say how much, or whether it was ever paid.
+
+161
+00:10:09,779 --> 00:10:12,279
+Now here is the part most tellings leave out.
+
+162
+00:10:12,629 --> 00:10:14,452
+The Greeks knew about the path.
+
+163
+00:10:14,802 --> 00:10:18,825
+Local people from the region had told them about it when they first arrived.
+
+164
+00:10:19,175 --> 00:10:23,237
+Leonidas had posted a thousand men from Phocis on the track to guard it.
+
+165
+00:10:23,587 --> 00:10:26,751
+And Herodotus says the Phocians volunteered for the job.
+
+166
+00:10:27,251 --> 00:10:29,191
+So this was not carelessness.
+
+167
+00:10:29,541 --> 00:10:32,470
+It was a decision, and a reasonable-sounding one.
+
+168
+00:10:32,820 --> 00:10:34,903
+The path was long and difficult.
+
+169
+00:10:35,253 --> 00:10:38,079
+It would take a large force many hours to climb it.
+
+170
+00:10:38,429 --> 00:10:44,848
+A thousand local men who knew the mountain, in the dark, in an oak forest where every step makes noise, looked like enough.
+
+171
+00:10:45,348 --> 00:10:48,655
+It was not enough, and the reason is not complicated.
+
+172
+00:10:49,005 --> 00:10:51,257
+A thousand men can stop a patrol.
+
+173
+00:10:51,607 --> 00:10:57,805
+They cannot stop ten thousand of the best soldiers in the Persian army, led by a commander who has been given a guide.
+
+174
+00:10:58,305 --> 00:11:02,771
+That night, Hydarnes, commander of the Immortals, leads his men up the track.
+
+175
+00:11:03,121 --> 00:11:06,571
+It runs through an oak forest, and the leaves crunch underfoot.
+
+176
+00:11:06,921 --> 00:11:09,785
+The Phocians hear them long before they see anything.
+
+177
+00:11:10,285 --> 00:11:13,540
+They grab their weapons and run to a hilltop to make a stand.
+
+178
+00:11:13,890 --> 00:11:16,898
+Herodotus says they thought the Persians had come for them.
+
+179
+00:11:17,248 --> 00:11:19,058
+The Persians do not bother.
+
+180
+00:11:19,408 --> 00:11:22,129
+They fire some arrows, and then they keep walking.
+
+181
+00:11:22,629 --> 00:11:25,298
+The Phocians have just saved the enemy a fight.
+
+182
+00:11:25,648 --> 00:11:29,267
+And down in the pass, the Greeks are about to get the bad news.
+
+183
+00:11:29,767 --> 00:11:34,298
+Step back for a moment, because this is the real answer to the question we started with.
+
+184
+00:11:34,798 --> 00:11:36,882
+The Greek plan had one assumption.
+
+185
+00:11:37,232 --> 00:11:40,083
+The plan said: the pass is the only way through.
+
+186
+00:11:40,433 --> 00:11:43,870
+If that is true, a small force can hold it indefinitely.
+
+187
+00:11:44,370 --> 00:11:45,828
+But it was not true.
+
+188
+00:11:46,178 --> 00:11:49,472
+There was another way, narrow and slow and long, but a way.
+
+189
+00:11:49,822 --> 00:11:57,934
+The whole defense depended on it staying closed, and it was defended by a small force that had to guard a long, dark mountain path against an army with a guide.
+
+190
+00:11:58,434 --> 00:12:00,426
+Engineers have a name for this.
+
+191
+00:12:00,776 --> 00:12:02,560
+A single point of failure.
+
+192
+00:12:02,910 --> 00:12:07,532
+A system that works perfectly until one part fails, and then does not work at all.
+
+193
+00:12:08,032 --> 00:12:10,467
+Notice what this means for Ephialtes.
+
+194
+00:12:10,817 --> 00:12:14,319
+We have been taught to see him as the man who destroyed Thermopylae.
+
+195
+00:12:14,669 --> 00:12:20,033
+But a plan that can be destroyed by one man walking into a camp was a plan with a hole in it already.
+
+196
+00:12:20,533 --> 00:12:22,994
+Ephialtes did not create the weakness.
+
+197
+00:12:23,344 --> 00:12:25,388
+He sold the Persians a map of it.
+
+198
+00:12:25,888 --> 00:12:28,258
+That is not an excuse for what he did.
+
+199
+00:12:28,608 --> 00:12:30,287
+But it changes the lesson.
+
+200
+00:12:30,637 --> 00:12:35,899
+The lesson is not "beware of traitors." Every army has men who can be bought.
+
+201
+00:12:36,249 --> 00:12:39,843
+The lesson is: do not build a plan where one of them is enough.
+
+202
+00:12:40,343 --> 00:12:42,960
+At dawn, a scout runs in with the news.
+
+203
+00:12:43,310 --> 00:12:46,304
+Soon men are coming down from the mountain to confirm it.
+
+204
+00:12:46,804 --> 00:12:48,640
+The Greek commanders argue.
+
+205
+00:12:48,990 --> 00:12:50,292
+Some want to stay.
+
+206
+00:12:50,642 --> 00:12:51,983
+Some want to leave.
+
+207
+00:12:52,333 --> 00:12:56,057
+In the end, Leonidas sends the allied contingents away.
+
+208
+00:12:56,407 --> 00:12:59,427
+They still have an army worth saving and a war to fight.
+
+209
+00:12:59,927 --> 00:13:01,177
+Why does he stay?
+
+210
+00:13:01,527 --> 00:13:03,519
+Herodotus gives two reasons.
+
+211
+00:13:03,869 --> 00:13:09,207
+The first is an oracle that told Sparta either the city would be destroyed or a Spartan king would die.
+
+212
+00:13:09,557 --> 00:13:11,133
+The second is simpler.
+
+213
+00:13:11,483 --> 00:13:13,344
+Spartans do not retreat.
+
+214
+00:13:13,694 --> 00:13:16,910
+They are trained from boyhood to hold their ground or die on it.
+
+215
+00:13:17,410 --> 00:13:20,926
+Historians are suspicious of the oracle, and with reason.
+
+216
+00:13:21,276 --> 00:13:24,869
+Prophecies that fit the outcome tend to be written after the outcome.
+
+217
+00:13:25,219 --> 00:13:28,045
+A cleaner military explanation exists.
+
+218
+00:13:28,395 --> 00:13:36,038
+If the whole Greek army had tried to retreat in daylight with the Persian cavalry about to arrive, it could have been caught on open ground and destroyed.
+
+219
+00:13:36,538 --> 00:13:40,105
+A rearguard that holds the pass long enough lets the rest slip away.
+
+220
+00:13:40,455 --> 00:13:43,541
+Leonidas may not have been choosing to die for honor.
+
+221
+00:13:43,891 --> 00:13:47,133
+He may have been choosing to die so that the others could live.
+
+222
+00:13:47,633 --> 00:13:50,015
+Whatever the reason, the Spartans stay.
+
+223
+00:13:50,365 --> 00:13:56,107
+So do seven hundred men from the small city of Thespiae, who refuse to leave a fight their allies are staying for.
+
+224
+00:13:56,457 --> 00:14:02,746
+Four hundred Thebans stay too, though Herodotus says Leonidas kept them as hostages and that they surrendered at the end.
+
+225
+00:14:03,246 --> 00:14:07,569
+That is about fourteen hundred men against an army of a hundred thousand or more.
+
+226
+00:14:08,069 --> 00:14:10,621
+Leonidas does not wait to be surrounded.
+
+227
+00:14:10,971 --> 00:14:16,700
+In the morning, he leads his men out of the narrow pass, onto the wider ground in front of it, and fights there.
+
+228
+00:14:17,200 --> 00:14:18,358
+Not to win.
+
+229
+00:14:18,708 --> 00:14:23,161
+To kill as many as they can, and to buy time for the rest of the army to get away.
+
+230
+00:14:23,661 --> 00:14:25,497
+Think about what that means.
+
+231
+00:14:25,847 --> 00:14:31,107
+Everything that made the pass work for the Greeks, the narrow front, is gone the moment they step out of it.
+
+232
+00:14:31,457 --> 00:14:34,829
+They do it anyway, because the pass is no longer holding.
+
+233
+00:14:35,329 --> 00:14:36,800
+It has been turned.
+
+234
+00:14:37,150 --> 00:14:42,359
+The only thing left to do is to hurt the enemy as badly as possible, for as long as possible.
+
+235
+00:14:42,859 --> 00:14:45,371
+They fight with spears until the spears break.
+
+236
+00:14:45,721 --> 00:14:46,880
+Then swords.
+
+237
+00:14:47,230 --> 00:14:51,201
+Leonidas falls, and the battle turns into a fight over his body.
+
+238
+00:14:51,551 --> 00:14:56,290
+Herodotus says the Greeks drove the Persians back four times and finally dragged it away.
+
+239
+00:14:56,790 --> 00:14:59,108
+Then the Immortals arrive from behind.
+
+240
+00:14:59,458 --> 00:15:02,986
+The Greeks fall back to a small hill and make their last stand there.
+
+241
+00:15:03,336 --> 00:15:06,448
+Men with no swords left fight with their hands and teeth.
+
+242
+00:15:06,798 --> 00:15:10,561
+Persian archers and javelin throwers finish the job from a distance.
+
+243
+00:15:11,061 --> 00:15:12,363
+Remember the shade?
+
+244
+00:15:12,713 --> 00:15:14,171
+Dienekes was right.
+
+245
+00:15:14,521 --> 00:15:17,294
+That day, the sky does go dark with arrows.
+
+246
+00:15:17,644 --> 00:15:20,443
+Whether Dienekes ever said it, we do not know.
+
+247
+00:15:20,943 --> 00:15:28,951
+The line comes from Herodotus, who was writing a generation later, and it sounds a lot like the kind of thing people say about a battle once they know how it ended.
+
+248
+00:15:29,451 --> 00:15:34,529
+But archaeologists have found Persian arrowheads on the hill, so the arrows at least are real.
+
+249
+00:15:35,029 --> 00:15:39,404
+Afterward, Xerxes has Leonidas's head cut off and fixed on a stake.
+
+250
+00:15:39,754 --> 00:15:45,691
+Herodotus notes this was a strange thing for a Persian king to do, because Persians honored brave enemies.
+
+251
+00:15:46,041 --> 00:15:49,660
+He takes it as a sign of how badly Thermopylae shook Xerxes.
+
+252
+00:15:50,160 --> 00:15:54,158
+Herodotus also tells a story that, if true, says even more.
+
+253
+00:15:54,508 --> 00:16:03,205
+Xerxes, he says, buried most of his own dead and left only a thousand bodies lying out, so that visitors would see how many Greeks had died and how few Persians.
+
+254
+00:16:03,705 --> 00:16:06,713
+Herodotus did not believe the trick fooled anyone.
+
+255
+00:16:07,063 --> 00:16:08,313
+Neither should we.
+
+256
+00:16:08,663 --> 00:16:12,425
+A man who hides his casualties is a man who knows what they look like.
+
+257
+00:16:12,925 --> 00:16:17,014
+Here is where most tellings stop, with a poem and a moment of silence.
+
+258
+00:16:17,364 --> 00:16:19,239
+But there is a harder question.
+
+259
+00:16:19,589 --> 00:16:21,138
+Did Thermopylae work?
+
+260
+00:16:21,638 --> 00:16:24,085
+Look at it as a military operation.
+
+261
+00:16:24,435 --> 00:16:26,675
+The Greek plan was to hold the pass.
+
+262
+00:16:27,025 --> 00:16:28,782
+They did not hold the pass.
+
+263
+00:16:29,132 --> 00:16:30,994
+In that sense, it failed.
+
+264
+00:16:31,494 --> 00:16:33,564
+Look at what it cost the Persians.
+
+265
+00:16:33,914 --> 00:16:34,982
+A few days.
+
+266
+00:16:35,332 --> 00:16:38,235
+A good number of dead, though nobody knows how many.
+
+267
+00:16:38,585 --> 00:16:46,970
+And one more thing: the Greek fleet at Artemisium, which had fought the Persian navy to a bruising draw over the same three days, now heard that the pass had fallen.
+
+268
+00:16:47,470 --> 00:16:52,145
+With the land route open, there was nothing left to protect, and the fleet withdrew south.
+
+269
+00:16:52,645 --> 00:16:55,379
+So the Persians went on, and they burned Athens.
+
+270
+00:16:55,879 --> 00:16:59,876
+If that were the end of the story, Thermopylae would be a brave failure.
+
+271
+00:17:00,226 --> 00:17:01,801
+But it is not the end.
+
+272
+00:17:02,301 --> 00:17:06,181
+The Greek fleet withdrew to the narrow waters off the island of Salamis.
+
+273
+00:17:06,531 --> 00:17:10,997
+And there, a few weeks later, the same thing happened that had happened at the Hot Gates.
+
+274
+00:17:11,347 --> 00:17:18,079
+The Persian fleet, far larger, was lured into a narrow channel, where its numbers were no use, and the Greeks destroyed it.
+
+275
+00:17:18,579 --> 00:17:21,782
+Xerxes had watched the battle from a throne on the shore.
+
+276
+00:17:22,132 --> 00:17:25,595
+He went home soon after, leaving part of his army behind.
+
+277
+00:17:25,945 --> 00:17:28,927
+That army was beaten at Plataea the following year.
+
+278
+00:17:29,427 --> 00:17:30,546
+Do you see it?
+
+279
+00:17:30,896 --> 00:17:33,031
+Thermopylae did not win the war.
+
+280
+00:17:33,381 --> 00:17:36,259
+But it taught the Greeks the shape of the war they could win.
+
+281
+00:17:36,609 --> 00:17:41,035
+Not a battle on open ground, but a battle where the ground did the fighting for them.
+
+282
+00:17:41,535 --> 00:17:44,217
+They tried it at the pass, and it nearly worked.
+
+283
+00:17:44,567 --> 00:17:47,184
+They tried it again at Salamis, and it did.
+
+284
+00:17:47,684 --> 00:17:50,406
+There was a second gift, harder to measure.
+
+285
+00:17:50,756 --> 00:17:54,935
+Before Thermopylae, many Greeks believed the Persians could not be stopped.
+
+286
+00:17:55,285 --> 00:17:58,722
+After it, they had seen a few thousand men do it for two days.
+
+287
+00:17:59,072 --> 00:18:02,471
+That is the kind of thing an army carries into its next fight.
+
+288
+00:18:02,971 --> 00:18:04,390
+So was it worth it?
+
+289
+00:18:04,740 --> 00:18:06,497
+You can argue both ways.
+
+290
+00:18:06,847 --> 00:18:09,581
+The men who died did not get to see Salamis.
+
+291
+00:18:09,931 --> 00:18:13,850
+But the Greeks who did see it had been told, by those men, what to do.
+
+292
+00:18:14,350 --> 00:18:19,689
+Before the end, the Spartans had sent three men away, two with an eye disease and one on a message.
+
+293
+00:18:20,039 --> 00:18:23,736
+Herodotus says one of the sick men went back into the fight and died.
+
+294
+00:18:24,086 --> 00:18:27,458
+The other two lived, and were treated as outcasts at home.
+
+295
+00:18:27,958 --> 00:18:36,825
+One of them, Aristodemus, is said to have redeemed himself a year later at Plataea, fighting with a kind of fury that his fellow Spartans did not recognize as courage.
+
+296
+00:18:37,325 --> 00:18:41,492
+Later, the Greeks put up a stone at the pass with a poem by Simonides:
+
+297
+00:18:41,992 --> 00:18:47,330
+Go tell the Spartans, stranger passing by, that here, obedient to their laws, we lie.
+
+298
+00:18:47,830 --> 00:18:49,249
+And Ephialtes?
+
+299
+00:18:49,599 --> 00:18:52,750
+He fled when the news got out, with a price on his head.
+
+300
+00:18:53,100 --> 00:18:57,449
+Herodotus says he was eventually killed, though over something else entirely.
+
+301
+00:18:57,799 --> 00:19:01,054
+The Spartans paid the reward to the man who killed him anyway.
+
+302
+00:19:01,554 --> 00:19:04,600
+Thermopylae is not really a story about bravery.
+
+303
+00:19:04,950 --> 00:19:07,164
+The Persians had plenty of that too.
+
+304
+00:19:07,664 --> 00:19:11,335
+It is a story about a place, and what a place can do to an army.
+
+305
+00:19:11,685 --> 00:19:15,110
+A narrow road made three hundred as strong as three hundred thousand.
+
+306
+00:19:15,460 --> 00:19:18,350
+Then a narrow path made them as weak as three hundred.
+
+307
+00:19:18,850 --> 00:19:21,636
+The Greeks never lost the pass in a fair fight.
+
+308
+00:19:21,986 --> 00:19:25,163
+They lost it when somebody showed the enemy a way around.
+
+309
+00:19:25,663 --> 00:19:28,566
+If you take one thing from the Hot Gates, take this.
+
+310
+00:19:28,916 --> 00:19:31,651
+Counting the men in a fight will often mislead you.
+
+311
+00:19:32,001 --> 00:19:34,266
+Count how many of them can reach each other.
+
+312
+00:19:34,766 --> 00:19:37,070
+And count the paths nobody is watching.

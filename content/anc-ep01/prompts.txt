@@ -1,0 +1,100 @@
+mo:in | (no picture needed: act ('walk',))
+mo:in | (no picture needed: pilot (2,))
+mo:in | (no picture needed: act ('wall',))
+mo:in | (no picture needed: pilot (5,))
+mo:in | (no picture needed: pilot (6,))
+mo:in | (no picture needed: pilot (8,))
+mo:in | (no picture needed: act ('march',))
+mo:in | (no picture needed: pilot (11,))
+mo:in-right dust | A huge construction site on a Greek headland: workers digging a long canal through the narrow neck of a mountain peninsula, wooden carts full of earth, a line of Persian supply wagons loaded with sacks of grain and stacked amphorae, a Persian overseer pointing, ships waiting in the sea beyond. Bright morning.
+mo:in | (no picture needed: pilot (12,))
+mo:in | (no picture needed: pilot (13,))
+mo:in-left | Comic scene: a long column of thirsty Persian soldiers kneeling at a river drinking, the river almost empty with a dry muddy bed and a few fish flapping, camels and horses queuing behind, one soldier showing his empty water skin to the viewer with big round eyes. Hot afternoon.
+mo:in | (no picture needed: pilot (14,))
+mo:in | (no picture needed: pilot (15,))
+mo:in | (no picture needed: diag ('D1', 0))
+mo:in | (no picture needed: diag ('D1', 1))
+mo:in | (no picture needed: diag ('D1', 2))
+mo:in wind | The narrow pass of Thermopylae seen from the middle of the road: steep grey cliffs close on the left, the sea right beside the road on the right, the road barely wide enough for a single wooden cart which stands in the middle with a donkey. Golden evening light, nobody else in sight except the donkey.
+mo:out | The same place today: a wide flat green plain where the sea used to be, a distant thin coastline, a modern small statue of a Spartan warrior on a stone base, cypress trees, a faded dashed outline in the air showing where the old coast and cliff were. Soft calm light, a few tiny tourists with big round eyes.
+mo:in-down flicker | Hot springs at the foot of a cliff: steaming pools of milky water between rocks, steam clouds rising, a Spartan soldier dipping his sore foot in the water with a relieved face, bronze helmet and shield resting on a rock. Cool dawn light, mist.
+mo:in | (no picture needed: diag ('D2', 0))
+mo:in | (no picture needed: diag ('D2', 0))
+mo:in | (no picture needed: diag ('D2', 1))
+mo:in | (no picture needed: diag ('D2', 2))
+mo:in-up flicker | Leonidas: big-headed bearded Spartan king, bronze Corinthian helmet with tall red crest, red cloak. He stands before three hundred Spartan soldiers in two neat rows at the pass; in the foreground a small boy with a toy wooden spear waves goodbye to a soldier, the soldier smiles, a woman in a white dress watching behind. Sunset light, serious but warm mood.
+mo:in-left | Greek allied contingents gathering behind a low stone wall in the pass: soldiers from different cities with different coloured shields and crests (blue, green, white, black), standing in groups and chatting, pennants, spears stacked, the Spartans in red at the front. Morning light.
+mo:in-right flicker | Split mood scene: in the background a big religious festival in Sparta with torches, dancing and tables of food; in the foreground Leonidas and a small band of three hundred Spartan soldiers marching away from the feast toward the north looking back at it. Leonidas: big-headed bearded Spartan king, bronze Corinthian helmet with tall red crest, red cloak. Dusk.
+mo:in | (no picture needed: pilot (1,))
+mo:in wind | Xerxes: big-headed Persian king, curly dark beard, tall golden crown cap, blue and gold embroidered robe. He sits on a golden throne in front of a huge Persian camp, bored, chin in hand, yawning, tapping his fingers; servants waving fans; the narrow pass visible far in the distance; four tally marks scratched on a post beside him. Midday.
+mo:in | (no picture needed: pilot (14,))
+mo:in-down rain | A stormy sea: Persian war ships smashed on rocks, broken masts and floating planks, a few sailors clinging to wreckage, dark clouds and lightning, a Persian officer on the shore holding his head in shock. Dramatic but cartoonish.
+mo:in-left | A Persian scout hiding behind a bush at the edge of the pass, peeking with huge round eyes at a group of relaxed Spartans: one doing stretches, another sitting on a rock combing his long hair carefully, others polishing shields. The scout looks totally confused. Morning light.
+mo:in-right flicker | Xerxes: big-headed Persian king, curly dark beard, tall golden crown cap, blue and gold embroidered robe. He sits in a tent, listening to Demaratus, an old Spartan exile with a grey beard in simple Greek clothes, who is calmly explaining something, one finger raised. Xerxes frowns, unconvinced, resting his chin on his hand. Lamp light.
+mo:in-up wind | A Persian herald and a Spartan soldier (Dienekes) face to face at the pass; behind the Persian a huge cloud of arrows is rising so thick it darkens the sky, while the Spartan grins calmly and thumbs toward a patch of shade. Dramatic orange sky.
+mo:in | (no picture needed: same (34,))
+mo:in | (no picture needed: act ('wall',))
+mo:in | Cartoon equipment display on a wooden table, each piece labelled by its shape only: a Greek hoplite's full kit laid out neatly: bronze helmet, round bronze shield, breastplate, greaves, long spear, short sword, and a cloak; a tiny Spartan soldier for scale sits beside the pile looking proud. Warm lamp light.
+mo:in-left | Cartoon equipment display on a table: a Persian soldier's kit laid out: tall soft felt cap, patterned tunic, wicker shield, short spear, small bow and quiver; a tiny Persian soldier beside it shrugs with a hopeful smile. Warm light, matching the Greek kit display style.
+mo:in-right | Close action scene at the pass: a Spartan thrusts a long spear that has already hit the Persian soldier's shield while the Persian's short spear is still far short, both faces tense with big round eyes, reach distance dramatically emphasised, dust in the air.
+mo:in | (no picture needed: act ('wall',))
+mo:in-down | Xerxes: big-headed Persian king, curly dark beard, tall golden crown cap, blue and gold embroidered robe. He leaps up from his golden throne on a hill overlooking the battle, arms flung up, throne toppled behind him, courtiers startled; far below the narrow pass with a red Greek line holding. Bright harsh daylight.
+mo:out wind | Ten thousand Persian Immortals marching in perfect rows: identical soldiers in embroidered robes with gold apple-shaped spear butts, tall caps, wicker shields, banners with winged symbols, a golden royal standard, shot from a low angle. Orange afternoon.
+mo:in-up | Greek soldiers rotating at the shield wall: the front rank pushing forward while a tired soldier slips out at the back to rest and drink water from a skin, fresh soldier stepping in at the front; shields locked, arrows stuck in them; calm organised mood.
+mo:in | (no picture needed: same (43,))
+mo:in-left dust | Spartans pretending to run away: a line of Spartan soldiers with their backs turned running, looking back with sly grins, while excited Persian soldiers chase them in a disorderly crowd; in the next moment a few Spartans are already turning around with raised spears. Dusty road, bright light.
+mo:in | (no picture needed: pilot (6,))
+mo:in | Xerxes: big-headed Persian king, curly dark beard, tall golden crown cap, blue and gold embroidered robe. He sits on his throne with arms crossed and a deep frown, gritting his teeth; behind him the huge Persian army piled up in front of the narrow pass and unable to move forward; a bird sits on his crown. Late afternoon, gloomy.
+mo:in-right | Xerxes: big-headed Persian king, curly dark beard, tall golden crown cap, blue and gold embroidered robe. He stands among tall stacks of supply carts and grain sacks, a worried Persian quartermaster pointing at the depleted pile; hungry soldiers in the background; an empty water barrel being tipped; looking pensive. Overcast light.
+mo:in | (no picture needed: same (47,))
+mo:in | (no picture needed: pilot (7,))
+mo:in-up flicker | Ephialtes: ordinary local man, short dark hair, stubble, plain brown tunic, nervous worried eyes. He walks alone into the glowing Persian camp at dusk, hands open, guards turning to look, tents and campfires, a tall Persian officer waiting with arms crossed; his shadow stretches long. Moody orange light.
+mo:in | (no picture needed: diag ('D3', 0))
+mo:in-left flicker | Ephialtes: ordinary local man, short dark hair, stubble, plain brown tunic, nervous worried eyes. He holds out a small leather purse of gold coins that a Persian officer drops into his hand, eyes darting guiltily, a lamp burning on a table, a shadow behind him. Close shot, warm lamp light, tense mood.
+mo:in | (no picture needed: diag ('D3', 1))
+mo:in-down wind | One thousand Phocian soldiers in simple armour standing guard at the top of a dark mountain path in an oak forest at night, holding torches and spears, a few of them sleepy, one yawning, leaves on the ground, stars above. Cool blue night light.
+mo:in | (no picture needed: pilot (3,))
+mo:in-up wind | Persian Immortals climbing a narrow mountain path through an oak forest at night in a long single file, leaves and twigs underfoot; a soldier with a finger to his lips shushing the others; their golden armour glimmering faintly in the moonlight. Blue night.
+mo:in-right flicker | The Phocian guards at the top of the hill, startled, running to a rocky hilltop and raising their shields; at the same time the Persians in the foreground simply keep walking past them with a few arrows flying, the Phocians staring with huge round eyes. Pre-dawn light.
+mo:in | (no picture needed: same (58,))
+mo:in | (no picture needed: diag ('D3', 2))
+mo:in | (no picture needed: diag ('D3', 3))
+mo:in-left | Funny engineering cartoon: a stone bridge standing on a single thin pillar with a tiny crack, a worried engineer with a scroll and a mallet standing underneath looking up at it, a donkey carrying a sack crossing the bridge. Warm afternoon light, clear and clean composition.
+mo:in-right | Ephialtes: ordinary local man, short dark hair, stubble, plain brown tunic, nervous worried eyes. He stands alone on a hilltop road looking back over his shoulder with a guilty face at the pass far below, a heavy purse of gold hanging from his belt, long evening shadows, a lone crow on a post. Sad atmosphere.
+mo:in | (no picture needed: diag ('D3', 3))
+mo:in-up | A Greek scout runs breathlessly into the camp at dawn, helmet askew, waving his arms, sleepy Greek soldiers sitting up from their blankets around smouldering fires, the commanders turning toward him in alarm. Cool grey dawn.
+mo:in-left | Leonidas: big-headed bearded Spartan king, bronze Corinthian helmet with tall red crest, red cloak. He stands calmly in the middle of an argument among Greek commanders in a circle, who gesture angrily; he raises one hand and points south, telling the allied contingents to leave. Tense faces, morning light, camp tents.
+mo:in-right flicker | The oracle at Delphi: a priestess in a white robe sitting on a tall tripod stool in a cave temple, smoke rising, her eyes wide and rolling, a worried Spartan messenger kneeling in front of her. Mysterious golden light and incense smoke.
+mo:in | (no picture needed: same (67,))
+mo:in | (no picture needed: diag ('D4', 0))
+mo:in-down | Seven hundred Thespians and four hundred Thebans stand at the wall: Thespian soldiers in light armour stepping forward bravely next to the Spartans, Thebans a few steps behind looking uneasy; banners of different colours. Grey dawn.
+mo:in | (no picture needed: diag ('D4', 1))
+mo:in | (no picture needed: pilot (2,))
+mo:in | (no picture needed: diag ('D4', 2))
+mo:in | (no picture needed: same (73,))
+mo:in dust | Brutal-but-cartoonish last stand: Spartans fighting around the fallen body of their king, spears broken in half on the ground, swords out, shields smashed, Persian soldiers swarming; a Spartan holding the king's cloak; dust and sparks. Orange evening light.
+mo:in-up dust | A small hill where the last Spartans make their stand: surrounded, back to back, one fighting with fists and another with his teeth bared, arrows falling from the sky, Persian archers on the ridges all around, a red cloak on the ground. Dramatic sunset.
+mo:in | (no picture needed: same (34,))
+mo:in | (no picture needed: pilot (13,))
+mo:in-left | An archaeologist with big round glasses and a tiny brush, kneeling on a hillside and carefully brushing the dirt from a small bronze arrowhead, a few more arrowheads laid on a cloth, a notebook, excavation grid ropes, warm afternoon sun; the pass visible behind.
+mo:in | Xerxes: big-headed Persian king, curly dark beard, tall golden crown cap, blue and gold embroidered robe. He stands staring at a wooden stake planted in the ground with Leonidas's crested bronze helmet on top, hands trembling slightly at his sides, courtiers murmuring behind, a hush; grey sky, stern mood but cartoonish and not gory.
+mo:in-right | Xerxes: big-headed Persian king, curly dark beard, tall golden crown cap, blue and gold embroidered robe. He stands on a rise watching Persian soldiers burying a huge number of bodies in long trenches while only a small neat row of a thousand bodies is left on the ground for display; a Greek visitor in the distance peeks at the scene with raised eyebrows.
+mo:in | (no picture needed: same (81,))
+mo:out flicker | A single lone Spartan helmet with a red crest resting on a rock at the empty pass at sunset, a red cloak folded beside it, wind moving the grass, fading light and silence, a cypress in the background. Quiet, respectful mood.
+mo:in | (no picture needed: diag ('D1', 2))
+mo:in | (no picture needed: diag ('D1', 3))
+mo:in-up | Athens burning: the Acropolis and its temple columns glowing orange with flames, smoke rising into a dark sky, Persian soldiers marching in the foreground, the sea and distant ships behind. Dramatic orange and charcoal tones, cartoon style.
+mo:in | (no picture needed: same (86,))
+mo:in | (no picture needed: diag ('D5', 0))
+mo:in-left | Xerxes: big-headed Persian king, curly dark beard, tall golden crown cap, blue and gold embroidered robe. He sits on a throne placed on a rocky shore at Salamis watching ships clash far below in a narrow channel, a scribe next to him writing, his face slowly turning from confident to shocked; sunny sky, ships reflected in blue water.
+mo:in | (no picture needed: diag ('D5', 1))
+mo:in | (no picture needed: diag ('D5', 2))
+mo:in-down flicker | Greek soldiers around a campfire at night, a young soldier listening wide-eyed as an older veteran tells the story, gesturing with a stick toward a drawing in the sand of the narrow pass, stars above, shields leaning on rocks. Warm firelight.
+mo:in-right | A big bronze balance scale standing on a rock at the pass at sunset: on one side a heap of Greek helmets and shields, on the other side a small marble statue of victory and a miniature ship, the scale nearly balanced; calm golden light.
+mo:in-up | A Spartan survivor with an eye bandage, Aristodemus, standing alone at the gate of Sparta while the townsfolk and soldiers turn their backs on him, a child peeking from behind a pillar; heavy grey light, sad mood.
+mo:in-left dust | Aristodemus at the battle of Plataea charging alone ahead of the line with an intense furious face, spear raised, red cloak flying, dust and Persians scattering, Spartans behind him watching with unsure faces. Midday light.
+mo:out wind | A weathered stone monument on the hill at Thermopylae with an unreadable carved inscription (just scratch marks), a laurel wreath leaning against it, cypress trees, sunset sea in the distance, grass blowing in the wind. Respectful and calm.
+mo:in-right | Ephialtes: ordinary local man, short dark hair, stubble, plain brown tunic, nervous worried eyes. He flees along a night road with a bundle on his back, looking over his shoulder in panic; a wanted poster showing only a crude drawing of his face and a bag of coins nailed to a tree; torch-bearing pursuers in the far distance. Dark blue night with orange torch glow.
+mo:in | (no picture needed: pilot (1,))
+mo:in | (no picture needed: diag ('D2', 2))
+mo:in | (no picture needed: pilot (5,))

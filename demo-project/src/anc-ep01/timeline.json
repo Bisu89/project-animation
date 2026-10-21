@@ -1,0 +1,2816 @@
+{
+ "fps": 30,
+ "durationInFrames": 35358,
+ "seconds": 1178.6,
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.6,
+   "end": 5.574,
+   "startFrame": 18,
+   "endFrame": 167,
+   "words": 19,
+   "text": "On the morning of the third day, a Greek army of thousands picks up its shields and walks away."
+  },
+  {
+   "i": 1,
+   "start": 6.074,
+   "end": 8.326,
+   "startFrame": 182,
+   "endFrame": 250,
+   "words": 7,
+   "text": "It leaves a few hundred men behind."
+  },
+  {
+   "i": 2,
+   "start": 8.826,
+   "end": 11.104,
+   "startFrame": 265,
+   "endFrame": 333,
+   "words": 8,
+   "text": "Their king has ordered the rest to go."
+  },
+  {
+   "i": 3,
+   "start": 11.454,
+   "end": 14.084,
+   "startFrame": 344,
+   "endFrame": 423,
+   "words": 11,
+   "text": "He stays, and so do the men who came with him."
+  },
+  {
+   "i": 4,
+   "start": 14.584,
+   "end": 18.998,
+   "startFrame": 438,
+   "endFrame": 570,
+   "words": 14,
+   "text": "Behind them, high on a mountain, Persian soldiers have found a path nobody guarded."
+  },
+  {
+   "i": 5,
+   "start": 19.498,
+   "end": 21.855,
+   "startFrame": 585,
+   "endFrame": 656,
+   "words": 7,
+   "text": "By midday the pass will be surrounded."
+  },
+  {
+   "i": 6,
+   "start": 22.355,
+   "end": 26.261,
+   "startFrame": 671,
+   "endFrame": 788,
+   "words": 15,
+   "text": "For two days, these Greeks have been the hardest thing in the world to move."
+  },
+  {
+   "i": 7,
+   "start": 26.611,
+   "end": 28.863,
+   "startFrame": 798,
+   "endFrame": 866,
+   "words": 9,
+   "text": "By the end of the third, they are dead."
+  },
+  {
+   "i": 8,
+   "start": 29.363,
+   "end": 33.491,
+   "startFrame": 881,
+   "endFrame": 1005,
+   "words": 14,
+   "text": "So how does a small force stop the largest army anyone has ever seen?"
+  },
+  {
+   "i": 9,
+   "start": 33.991,
+   "end": 37.259,
+   "startFrame": 1020,
+   "endFrame": 1118,
+   "words": 12,
+   "text": "And how does it lose, after all that, to a goat track?"
+  },
+  {
+   "i": 10,
+   "start": 37.759,
+   "end": 41.495,
+   "startFrame": 1133,
+   "endFrame": 1245,
+   "words": 14,
+   "text": "Most people will tell you it was courage, and then it was a traitor."
+  },
+  {
+   "i": 11,
+   "start": 41.845,
+   "end": 42.965,
+   "startFrame": 1255,
+   "endFrame": 1289,
+   "words": 3,
+   "text": "Both are true."
+  },
+  {
+   "i": 12,
+   "start": 43.315,
+   "end": 45.112,
+   "startFrame": 1299,
+   "endFrame": 1353,
+   "words": 5,
+   "text": "Neither is the real answer."
+  },
+  {
+   "i": 13,
+   "start": 45.612,
+   "end": 47.63,
+   "startFrame": 1368,
+   "endFrame": 1429,
+   "words": 5,
+   "text": "The real answer is geometry."
+  },
+  {
+   "i": 14,
+   "start": 47.98,
+   "end": 50.362,
+   "startFrame": 1439,
+   "endFrame": 1511,
+   "words": 8,
+   "text": "And a plan with exactly one weak point."
+  },
+  {
+   "i": 15,
+   "start": 50.862,
+   "end": 52.49,
+   "startFrame": 1526,
+   "endFrame": 1575,
+   "words": 6,
+   "text": "Let's go back to the start."
+  },
+  {
+   "i": 16,
+   "start": 52.99,
+   "end": 55.463,
+   "startFrame": 1590,
+   "endFrame": 1664,
+   "words": 7,
+   "text": "It is the summer of 480 BC."
+  },
+  {
+   "i": 17,
+   "start": 55.813,
+   "end": 59.029,
+   "startFrame": 1674,
+   "endFrame": 1771,
+   "words": 8,
+   "text": "Xerxes, king of Persia, is marching on Greece."
+  },
+  {
+   "i": 18,
+   "start": 59.529,
+   "end": 63.162,
+   "startFrame": 1786,
+   "endFrame": 1895,
+   "words": 11,
+   "text": "His father tried this ten years earlier and lost at Marathon."
+  },
+  {
+   "i": 19,
+   "start": 63.662,
+   "end": 67.242,
+   "startFrame": 1910,
+   "endFrame": 2017,
+   "words": 11,
+   "text": "Xerxes means to finish the job, and he has brought everything."
+  },
+  {
+   "i": 20,
+   "start": 67.592,
+   "end": 71.98,
+   "startFrame": 2028,
+   "endFrame": 2159,
+   "words": 13,
+   "text": "Soldiers from every corner of an empire that stretches from Egypt to India."
+  },
+  {
+   "i": 21,
+   "start": 72.48,
+   "end": 73.73,
+   "startFrame": 2174,
+   "endFrame": 2212,
+   "words": 4,
+   "text": "A fleet to match."
+  },
+  {
+   "i": 22,
+   "start": 74.08,
+   "end": 78.715,
+   "startFrame": 2222,
+   "endFrame": 2361,
+   "words": 17,
+   "text": "A bridge of boats across the Hellespont, because he did not want to wait for a ferry."
+  },
+  {
+   "i": 23,
+   "start": 79.215,
+   "end": 81.78,
+   "startFrame": 2376,
+   "endFrame": 2453,
+   "words": 7,
+   "text": "He has also spent years on preparation."
+  },
+  {
+   "i": 24,
+   "start": 82.13,
+   "end": 87.937,
+   "startFrame": 2464,
+   "endFrame": 2638,
+   "words": 17,
+   "text": "Herodotus says food was stockpiled along the whole route, in depots built long before the army arrived."
+  },
+  {
+   "i": 25,
+   "start": 88.287,
+   "end": 95.188,
+   "startFrame": 2649,
+   "endFrame": 2856,
+   "words": 29,
+   "text": "A canal was dug through the headland at Mount Athos so the fleet would not have to sail around a cape where a storm had wrecked his father's ships."
+  },
+  {
+   "i": 26,
+   "start": 95.688,
+   "end": 97.094,
+   "startFrame": 2871,
+   "endFrame": 2913,
+   "words": 5,
+   "text": "This is not a raid."
+  },
+  {
+   "i": 27,
+   "start": 97.444,
+   "end": 99.319,
+   "startFrame": 2923,
+   "endFrame": 2980,
+   "words": 6,
+   "text": "It is a state moving house."
+  },
+  {
+   "i": 28,
+   "start": 99.819,
+   "end": 100.938,
+   "startFrame": 2995,
+   "endFrame": 3028,
+   "words": 3,
+   "text": "How many men?"
+  },
+  {
+   "i": 29,
+   "start": 101.288,
+   "end": 103.99600000000001,
+   "startFrame": 3039,
+   "endFrame": 3120,
+   "words": 9,
+   "text": "Herodotus says more than two and a half million."
+  },
+  {
+   "i": 30,
+   "start": 104.49600000000001,
+   "end": 108.181,
+   "startFrame": 3135,
+   "endFrame": 3245,
+   "words": 9,
+   "text": "Herodotus was a wonderful storyteller and a poor accountant."
+  },
+  {
+   "i": 31,
+   "start": 108.531,
+   "end": 113.14,
+   "startFrame": 3256,
+   "endFrame": 3394,
+   "words": 13,
+   "text": "Modern historians say somewhere between one hundred thousand and a few hundred thousand."
+  },
+  {
+   "i": 32,
+   "start": 113.64,
+   "end": 117.37700000000001,
+   "startFrame": 3409,
+   "endFrame": 3521,
+   "words": 14,
+   "text": "Even the low end is the largest force the Greek world has ever faced."
+  },
+  {
+   "i": 33,
+   "start": 117.87700000000001,
+   "end": 119.92099999999999,
+   "startFrame": 3536,
+   "endFrame": 3598,
+   "words": 7,
+   "text": "And here is the part that matters."
+  },
+  {
+   "i": 34,
+   "start": 120.271,
+   "end": 123.93,
+   "startFrame": 3608,
+   "endFrame": 3718,
+   "words": 14,
+   "text": "An army that size has a problem that has nothing to do with fighting."
+  },
+  {
+   "i": 35,
+   "start": 124.28,
+   "end": 126.714,
+   "startFrame": 3728,
+   "endFrame": 3801,
+   "words": 9,
+   "text": "It has to eat and drink every single day."
+  },
+  {
+   "i": 36,
+   "start": 127.064,
+   "end": 130.541,
+   "startFrame": 3812,
+   "endFrame": 3916,
+   "words": 10,
+   "text": "Herodotus claims some rivers were drunk dry as it passed."
+  },
+  {
+   "i": 37,
+   "start": 131.041,
+   "end": 138.332,
+   "startFrame": 3931,
+   "endFrame": 4150,
+   "words": 26,
+   "text": "That is an exaggeration, but it points at something true: a force this large cannot sit still for long, and it cannot spread out too thin."
+  },
+  {
+   "i": 38,
+   "start": 138.682,
+   "end": 142.549,
+   "startFrame": 4160,
+   "endFrame": 4276,
+   "words": 14,
+   "text": "It has to keep moving along roads, and it has to keep winning quickly."
+  },
+  {
+   "i": 39,
+   "start": 143.049,
+   "end": 145.523,
+   "startFrame": 4291,
+   "endFrame": 4366,
+   "words": 8,
+   "text": "The Greeks cannot beat it on open ground."
+  },
+  {
+   "i": 40,
+   "start": 145.873,
+   "end": 147.057,
+   "startFrame": 4376,
+   "endFrame": 4412,
+   "words": 3,
+   "text": "They know that."
+  },
+  {
+   "i": 41,
+   "start": 147.557,
+   "end": 150.695,
+   "startFrame": 4427,
+   "endFrame": 4521,
+   "words": 12,
+   "text": "So they look for a place where open ground does not exist."
+  },
+  {
+   "i": 42,
+   "start": 151.195,
+   "end": 153.487,
+   "startFrame": 4536,
+   "endFrame": 4605,
+   "words": 8,
+   "text": "The Greek plan is not just one battle."
+  },
+  {
+   "i": 43,
+   "start": 153.837,
+   "end": 155.84199999999998,
+   "startFrame": 4615,
+   "endFrame": 4675,
+   "words": 7,
+   "text": "It is two, at the same time."
+  },
+  {
+   "i": 44,
+   "start": 156.34199999999998,
+   "end": 161.35399999999998,
+   "startFrame": 4690,
+   "endFrame": 4841,
+   "words": 17,
+   "text": "On land, they will block the road south at a narrow pass called Thermopylae, the Hot Gates."
+  },
+  {
+   "i": 45,
+   "start": 161.704,
+   "end": 171.808,
+   "startFrame": 4851,
+   "endFrame": 5154,
+   "words": 36,
+   "text": "At sea, a few miles away off the northern tip of the island of Euboea, a Greek fleet, with the Athenians providing most of the ships, will fight the Persian navy at a place called Artemisium."
+  },
+  {
+   "i": 46,
+   "start": 172.308,
+   "end": 174.483,
+   "startFrame": 5169,
+   "endFrame": 5234,
+   "words": 6,
+   "text": "The two positions protect each other."
+  },
+  {
+   "i": 47,
+   "start": 174.833,
+   "end": 180.835,
+   "startFrame": 5245,
+   "endFrame": 5425,
+   "words": 21,
+   "text": "The Persian fleet cannot simply sail past and land troops behind the pass, because the Greek ships are in the way."
+  },
+  {
+   "i": 48,
+   "start": 181.185,
+   "end": 185.156,
+   "startFrame": 5436,
+   "endFrame": 5555,
+   "words": 12,
+   "text": "The Persian army cannot simply march through, because the pass is blocked."
+  },
+  {
+   "i": 49,
+   "start": 185.506,
+   "end": 188.449,
+   "startFrame": 5565,
+   "endFrame": 5653,
+   "words": 10,
+   "text": "If either front breaks, the other has to fall back."
+  },
+  {
+   "i": 50,
+   "start": 188.949,
+   "end": 190.237,
+   "startFrame": 5668,
+   "endFrame": 5707,
+   "words": 2,
+   "text": "Remember that."
+  },
+  {
+   "i": 51,
+   "start": 190.587,
+   "end": 192.293,
+   "startFrame": 5718,
+   "endFrame": 5769,
+   "words": 6,
+   "text": "It will matter at the end."
+  },
+  {
+   "i": 52,
+   "start": 192.793,
+   "end": 195.527,
+   "startFrame": 5784,
+   "endFrame": 5866,
+   "words": 9,
+   "text": "Here the mountains come down almost to the sea."
+  },
+  {
+   "i": 53,
+   "start": 195.877,
+   "end": 200.59,
+   "startFrame": 5876,
+   "endFrame": 6018,
+   "words": 16,
+   "text": "In places, the road between cliff and water is barely wide enough for a single cart."
+  },
+  {
+   "i": 54,
+   "start": 200.94,
+   "end": 203.05,
+   "startFrame": 6028,
+   "endFrame": 6092,
+   "words": 4,
+   "text": "Herodotus says exactly that."
+  },
+  {
+   "i": 55,
+   "start": 203.55,
+   "end": 209.747,
+   "startFrame": 6106,
+   "endFrame": 6292,
+   "words": 23,
+   "text": "One thing to know about the ground today: the sea has long since retreated, and the pass is now a wide, flat plain."
+  },
+  {
+   "i": 56,
+   "start": 210.097,
+   "end": 213.09199999999998,
+   "startFrame": 6303,
+   "endFrame": 6393,
+   "words": 12,
+   "text": "If you visit, you will not see the place the Greeks saw."
+  },
+  {
+   "i": 57,
+   "start": 213.59199999999998,
+   "end": 221.196,
+   "startFrame": 6408,
+   "endFrame": 6636,
+   "words": 27,
+   "text": "The Greek coastline was far closer to the cliff, and the road squeezed through between them, past hot springs, which is how the place got its name."
+  },
+  {
+   "i": 58,
+   "start": 221.696,
+   "end": 223.427,
+   "startFrame": 6651,
+   "endFrame": 6703,
+   "words": 6,
+   "text": "Now look at what that does."
+  },
+  {
+   "i": 59,
+   "start": 223.777,
+   "end": 231.928,
+   "startFrame": 6713,
+   "endFrame": 6958,
+   "words": 30,
+   "text": "Imagine the Greek line packed shoulder to shoulder in the narrowest part, and say, for the sake of the picture, that each man takes up about a meter of frontage."
+  },
+  {
+   "i": 60,
+   "start": 232.428,
+   "end": 237.78,
+   "startFrame": 6973,
+   "endFrame": 7133,
+   "words": 19,
+   "text": "In a gap of fifteen or twenty meters, that means perhaps fifteen or twenty men in the front rank."
+  },
+  {
+   "i": 61,
+   "start": 238.13,
+   "end": 241.45,
+   "startFrame": 7144,
+   "endFrame": 7244,
+   "words": 10,
+   "text": "Behind them, more ranks, each one ready to step forward."
+  },
+  {
+   "i": 62,
+   "start": 241.95,
+   "end": 243.291,
+   "startFrame": 7258,
+   "endFrame": 7299,
+   "words": 3,
+   "text": "Now the Persians."
+  },
+  {
+   "i": 63,
+   "start": 243.641,
+   "end": 246.323,
+   "startFrame": 7309,
+   "endFrame": 7390,
+   "words": 9,
+   "text": "A hundred thousand men can march toward that line."
+  },
+  {
+   "i": 64,
+   "start": 246.673,
+   "end": 250.748,
+   "startFrame": 7400,
+   "endFrame": 7522,
+   "words": 14,
+   "text": "But only fifteen or twenty of them can actually fight at any given moment."
+  },
+  {
+   "i": 65,
+   "start": 251.098,
+   "end": 254.717,
+   "startFrame": 7533,
+   "endFrame": 7642,
+   "words": 11,
+   "text": "The rest are standing behind them, watching, with nothing to do."
+  },
+  {
+   "i": 66,
+   "start": 255.067,
+   "end": 256.578,
+   "startFrame": 7652,
+   "endFrame": 7697,
+   "words": 4,
+   "text": "They cannot go around."
+  },
+  {
+   "i": 67,
+   "start": 256.928,
+   "end": 258.868,
+   "startFrame": 7708,
+   "endFrame": 7766,
+   "words": 6,
+   "text": "They cannot go over the mountain."
+  },
+  {
+   "i": 68,
+   "start": 259.218,
+   "end": 261.066,
+   "startFrame": 7777,
+   "endFrame": 7832,
+   "words": 7,
+   "text": "They have to come through the door."
+  },
+  {
+   "i": 69,
+   "start": 261.566,
+   "end": 263.168,
+   "startFrame": 7847,
+   "endFrame": 7895,
+   "words": 5,
+   "text": "That is the whole trick."
+  },
+  {
+   "i": 70,
+   "start": 263.51800000000003,
+   "end": 265.991,
+   "startFrame": 7906,
+   "endFrame": 7980,
+   "words": 8,
+   "text": "The pass does not make the Greeks stronger."
+  },
+  {
+   "i": 71,
+   "start": 266.341,
+   "end": 268.216,
+   "startFrame": 7990,
+   "endFrame": 8046,
+   "words": 5,
+   "text": "It makes the Persians smaller."
+  },
+  {
+   "i": 72,
+   "start": 268.566,
+   "end": 274.712,
+   "startFrame": 8057,
+   "endFrame": 8241,
+   "words": 25,
+   "text": "A hundred thousand men, squeezed through a space the width of a cart, are only a few dozen men at the point of the spear."
+  },
+  {
+   "i": 73,
+   "start": 275.212,
+   "end": 278.805,
+   "startFrame": 8256,
+   "endFrame": 8364,
+   "words": 10,
+   "text": "This is where Leonidas, king of Sparta, takes his stand."
+  },
+  {
+   "i": 74,
+   "start": 279.155,
+   "end": 284.55899999999997,
+   "startFrame": 8375,
+   "endFrame": 8537,
+   "words": 19,
+   "text": "He brings three hundred Spartan soldiers, chosen for the job, and every one of them has a living son."
+  },
+  {
+   "i": 75,
+   "start": 284.909,
+   "end": 287.552,
+   "startFrame": 8547,
+   "endFrame": 8627,
+   "words": 8,
+   "text": "Sparta does not expect them to come back."
+  },
+  {
+   "i": 76,
+   "start": 287.902,
+   "end": 290.558,
+   "startFrame": 8637,
+   "endFrame": 8717,
+   "words": 9,
+   "text": "It makes sure their family names will survive them."
+  },
+  {
+   "i": 77,
+   "start": 291.058,
+   "end": 293.844,
+   "startFrame": 8732,
+   "endFrame": 8815,
+   "words": 7,
+   "text": "Around those three hundred gather thousands more."
+  },
+  {
+   "i": 78,
+   "start": 294.194,
+   "end": 298.81600000000003,
+   "startFrame": 8826,
+   "endFrame": 8964,
+   "words": 10,
+   "text": "Men from Tegea and Corinth, Arcadia, Thespiae, Phocis and Locris."
+  },
+  {
+   "i": 79,
+   "start": 299.166,
+   "end": 301.992,
+   "startFrame": 8975,
+   "endFrame": 9060,
+   "words": 7,
+   "text": "Herodotus counts about seven thousand in all."
+  },
+  {
+   "i": 80,
+   "start": 302.342,
+   "end": 307.459,
+   "startFrame": 9070,
+   "endFrame": 9224,
+   "words": 22,
+   "text": "The Spartans are the most famous of them, and they are fewer than one in twenty of the men in the pass."
+  },
+  {
+   "i": 81,
+   "start": 307.959,
+   "end": 310.094,
+   "startFrame": 9239,
+   "endFrame": 9303,
+   "words": 5,
+   "text": "Why only three hundred Spartans?"
+  },
+  {
+   "i": 82,
+   "start": 310.444,
+   "end": 321.225,
+   "startFrame": 9313,
+   "endFrame": 9637,
+   "words": 37,
+   "text": "Because Sparta was in the middle of a religious festival, and Herodotus says the Spartans sent Leonidas and his bodyguard as an advance force, planning to send the rest of the army after the festival was over."
+  },
+  {
+   "i": 83,
+   "start": 321.725,
+   "end": 324.068,
+   "startFrame": 9652,
+   "endFrame": 9722,
+   "words": 9,
+   "text": "It was a dangerous way to fight a war."
+  },
+  {
+   "i": 84,
+   "start": 324.418,
+   "end": 330.889,
+   "startFrame": 9733,
+   "endFrame": 9927,
+   "words": 22,
+   "text": "It tells you something about how seriously Sparta took the threat, and how little it expected the first battle to be decisive."
+  },
+  {
+   "i": 85,
+   "start": 331.389,
+   "end": 334.28,
+   "startFrame": 9942,
+   "endFrame": 10028,
+   "words": 9,
+   "text": "They repair an old wall across the narrowest point."
+  },
+  {
+   "i": 86,
+   "start": 334.63,
+   "end": 335.788,
+   "startFrame": 10039,
+   "endFrame": 10074,
+   "words": 3,
+   "text": "Then they wait."
+  },
+  {
+   "i": 87,
+   "start": 336.288,
+   "end": 339.726,
+   "startFrame": 10089,
+   "endFrame": 10192,
+   "words": 9,
+   "text": "Xerxes arrives, camps, and does nothing for four days."
+  },
+  {
+   "i": 88,
+   "start": 340.226,
+   "end": 343.28499999999997,
+   "startFrame": 10207,
+   "endFrame": 10299,
+   "words": 10,
+   "text": "Herodotus says he was waiting for the Greeks to leave."
+  },
+  {
+   "i": 89,
+   "start": 343.635,
+   "end": 344.989,
+   "startFrame": 10309,
+   "endFrame": 10350,
+   "words": 4,
+   "text": "That may be true."
+  },
+  {
+   "i": 90,
+   "start": 345.339,
+   "end": 352.058,
+   "startFrame": 10360,
+   "endFrame": 10562,
+   "words": 27,
+   "text": "A Persian king who has been told that the Greeks are weak, and who has brought an army that size, might well expect his enemy to run."
+  },
+  {
+   "i": 91,
+   "start": 352.408,
+   "end": 354.595,
+   "startFrame": 10572,
+   "endFrame": 10638,
+   "words": 9,
+   "text": "But look at it from his side as well."
+  },
+  {
+   "i": 92,
+   "start": 355.095,
+   "end": 357.699,
+   "startFrame": 10653,
+   "endFrame": 10731,
+   "words": 9,
+   "text": "His fleet has just lost ships to a storm."
+  },
+  {
+   "i": 93,
+   "start": 358.049,
+   "end": 361.031,
+   "startFrame": 10741,
+   "endFrame": 10831,
+   "words": 11,
+   "text": "His scouts have told him that the Greek army is small."
+  },
+  {
+   "i": 94,
+   "start": 361.381,
+   "end": 366.615,
+   "startFrame": 10841,
+   "endFrame": 10998,
+   "words": 20,
+   "text": "A few days of waiting costs him little, and if the Greeks leave without a fight, it costs him nothing."
+  },
+  {
+   "i": 95,
+   "start": 367.115,
+   "end": 368.781,
+   "startFrame": 11013,
+   "endFrame": 11063,
+   "words": 6,
+   "text": "He sends a scout to look."
+  },
+  {
+   "i": 96,
+   "start": 369.131,
+   "end": 371.162,
+   "startFrame": 11074,
+   "endFrame": 11135,
+   "words": 5,
+   "text": "The scout comes back confused."
+  },
+  {
+   "i": 97,
+   "start": 371.512,
+   "end": 374.22,
+   "startFrame": 11145,
+   "endFrame": 11227,
+   "words": 9,
+   "text": "The Spartans in front of the wall are exercising."
+  },
+  {
+   "i": 98,
+   "start": 374.57,
+   "end": 376.38,
+   "startFrame": 11237,
+   "endFrame": 11291,
+   "words": 5,
+   "text": "Others are combing their hair."
+  },
+  {
+   "i": 99,
+   "start": 376.88,
+   "end": 383.442,
+   "startFrame": 11306,
+   "endFrame": 11503,
+   "words": 20,
+   "text": "There is a Spartan exile in Xerxes' camp, a former king named Demaratus, and Xerxes asks him what this means."
+  },
+  {
+   "i": 100,
+   "start": 383.79200000000003,
+   "end": 385.771,
+   "startFrame": 11514,
+   "endFrame": 11573,
+   "words": 3,
+   "text": "Demaratus answers plainly."
+  },
+  {
+   "i": 101,
+   "start": 386.121,
+   "end": 388.959,
+   "startFrame": 11584,
+   "endFrame": 11669,
+   "words": 10,
+   "text": "Spartans comb their hair before a fight to the death."
+  },
+  {
+   "i": 102,
+   "start": 389.309,
+   "end": 391.484,
+   "startFrame": 11679,
+   "endFrame": 11745,
+   "words": 8,
+   "text": "These men are getting ready to kill you."
+  },
+  {
+   "i": 103,
+   "start": 391.984,
+   "end": 393.871,
+   "startFrame": 11760,
+   "endFrame": 11816,
+   "words": 5,
+   "text": "Xerxes does not believe him."
+  },
+  {
+   "i": 104,
+   "start": 394.221,
+   "end": 396.825,
+   "startFrame": 11827,
+   "endFrame": 11905,
+   "words": 9,
+   "text": "On the fifth day, he sends his army in."
+  },
+  {
+   "i": 105,
+   "start": 397.325,
+   "end": 403.64,
+   "startFrame": 11920,
+   "endFrame": 12109,
+   "words": 22,
+   "text": "Before the fighting starts, someone warns a Spartan named Dienekes that the Persian arrows are so many they will hide the sun."
+  },
+  {
+   "i": 106,
+   "start": 403.99,
+   "end": 407.297,
+   "startFrame": 12120,
+   "endFrame": 12219,
+   "words": 6,
+   "text": "Dienekes replies, according to Herodotus, \"Good."
+  },
+  {
+   "i": 107,
+   "start": 407.647,
+   "end": 409.496,
+   "startFrame": 12229,
+   "endFrame": 12285,
+   "words": 7,
+   "text": "Then we will fight in the shade.\""
+  },
+  {
+   "i": 108,
+   "start": 409.996,
+   "end": 411.272,
+   "startFrame": 12300,
+   "endFrame": 12338,
+   "words": 4,
+   "text": "Hold on to that."
+  },
+  {
+   "i": 109,
+   "start": 411.622,
+   "end": 413.51,
+   "startFrame": 12349,
+   "endFrame": 12405,
+   "words": 7,
+   "text": "We will come back to the shade."
+  },
+  {
+   "i": 110,
+   "start": 413.86,
+   "end": 416.529,
+   "startFrame": 12416,
+   "endFrame": 12496,
+   "words": 11,
+   "text": "And we will come back to whether he really said it."
+  },
+  {
+   "i": 111,
+   "start": 417.029,
+   "end": 422.237,
+   "startFrame": 12511,
+   "endFrame": 12667,
+   "words": 18,
+   "text": "On the first day, Xerxes sends in the Medes, with orders to bring the Greeks to him alive."
+  },
+  {
+   "i": 112,
+   "start": 422.737,
+   "end": 423.674,
+   "startFrame": 12682,
+   "endFrame": 12710,
+   "words": 2,
+   "text": "They try."
+  },
+  {
+   "i": 113,
+   "start": 424.024,
+   "end": 426.016,
+   "startFrame": 12721,
+   "endFrame": 12780,
+   "words": 5,
+   "text": "The Greeks have longer spears."
+  },
+  {
+   "i": 114,
+   "start": 426.366,
+   "end": 431.691,
+   "startFrame": 12791,
+   "endFrame": 12951,
+   "words": 20,
+   "text": "They have bronze armor and big round shields locked edge to edge, so there is no gap to reach through."
+  },
+  {
+   "i": 115,
+   "start": 432.191,
+   "end": 441.28,
+   "startFrame": 12966,
+   "endFrame": 13238,
+   "words": 36,
+   "text": "A Greek hoplite in full kit carries something like twenty-five kilos of metal and wood, which is a terrible thing to wear in a race and a very good thing to stand behind in a corridor."
+  },
+  {
+   "i": 116,
+   "start": 441.78,
+   "end": 445.712,
+   "startFrame": 13253,
+   "endFrame": 13371,
+   "words": 11,
+   "text": "The Persians have short spears, wicker shields, and plenty of courage."
+  },
+  {
+   "i": 117,
+   "start": 446.062,
+   "end": 448.548,
+   "startFrame": 13382,
+   "endFrame": 13456,
+   "words": 8,
+   "text": "Courage is not much use in a corridor."
+  },
+  {
+   "i": 118,
+   "start": 449.048,
+   "end": 451.04,
+   "startFrame": 13471,
+   "endFrame": 13531,
+   "words": 8,
+   "text": "Look at it as a matter of reach."
+  },
+  {
+   "i": 119,
+   "start": 451.39,
+   "end": 455.505,
+   "startFrame": 13542,
+   "endFrame": 13665,
+   "words": 16,
+   "text": "A longer spear means a Greek can hit his enemy before the enemy can hit him."
+  },
+  {
+   "i": 120,
+   "start": 455.855,
+   "end": 460.386,
+   "startFrame": 13676,
+   "endFrame": 13812,
+   "words": 17,
+   "text": "A big shield that overlaps with his neighbor's means there is no gap to hit back through."
+  },
+  {
+   "i": 121,
+   "start": 460.886,
+   "end": 467.031,
+   "startFrame": 13827,
+   "endFrame": 14011,
+   "words": 24,
+   "text": "A Persian soldier coming up to that line does not get to use his speed, or his skill with a bow, or his numbers."
+  },
+  {
+   "i": 122,
+   "start": 467.381,
+   "end": 468.8,
+   "startFrame": 14021,
+   "endFrame": 14064,
+   "words": 5,
+   "text": "He gets to be stabbed."
+  },
+  {
+   "i": 123,
+   "start": 469.3,
+   "end": 472.165,
+   "startFrame": 14079,
+   "endFrame": 14165,
+   "words": 10,
+   "text": "Wave after wave goes in and comes back in pieces."
+  },
+  {
+   "i": 124,
+   "start": 472.515,
+   "end": 479.207,
+   "startFrame": 14175,
+   "endFrame": 14376,
+   "words": 24,
+   "text": "Herodotus says Xerxes, watching from a throne set up to see the battle, leaped to his feet three times in fear for his army."
+  },
+  {
+   "i": 125,
+   "start": 479.707,
+   "end": 481.478,
+   "startFrame": 14391,
+   "endFrame": 14444,
+   "words": 6,
+   "text": "Then he sends in his best."
+  },
+  {
+   "i": 126,
+   "start": 481.828,
+   "end": 485.109,
+   "startFrame": 14455,
+   "endFrame": 14553,
+   "words": 8,
+   "text": "The Immortals, ten thousand strong, the royal guard."
+  },
+  {
+   "i": 127,
+   "start": 485.459,
+   "end": 486.813,
+   "startFrame": 14564,
+   "endFrame": 14604,
+   "words": 4,
+   "text": "They do no better."
+  },
+  {
+   "i": 128,
+   "start": 487.313,
+   "end": 488.81,
+   "startFrame": 14619,
+   "endFrame": 14664,
+   "words": 5,
+   "text": "Day two is the same."
+  },
+  {
+   "i": 129,
+   "start": 489.16,
+   "end": 494.59,
+   "startFrame": 14675,
+   "endFrame": 14838,
+   "words": 19,
+   "text": "The Greeks fight in rotation, each contingent taking its turn at the front and then pulling back to rest."
+  },
+  {
+   "i": 130,
+   "start": 494.94,
+   "end": 497.127,
+   "startFrame": 14848,
+   "endFrame": 14914,
+   "words": 7,
+   "text": "This is more important than it sounds."
+  },
+  {
+   "i": 131,
+   "start": 497.477,
+   "end": 500.159,
+   "startFrame": 14924,
+   "endFrame": 15005,
+   "words": 9,
+   "text": "A man fighting in a shield wall tires fast."
+  },
+  {
+   "i": 132,
+   "start": 500.659,
+   "end": 508.094,
+   "startFrame": 15020,
+   "endFrame": 15243,
+   "words": 25,
+   "text": "Rotating the front rank means the Greek line is always fresh, and the Persians, who also rotate, are always walking into the same fresh line."
+  },
+  {
+   "i": 133,
+   "start": 508.594,
+   "end": 513.671,
+   "startFrame": 15258,
+   "endFrame": 15410,
+   "words": 17,
+   "text": "Some ancient writers add that the Spartans pretended to run, then turned on the men chasing them."
+  },
+  {
+   "i": 134,
+   "start": 514.021,
+   "end": 516.886,
+   "startFrame": 15421,
+   "endFrame": 15507,
+   "words": 8,
+   "text": "A corridor punishes anyone who rushes into it."
+  },
+  {
+   "i": 135,
+   "start": 517.386,
+   "end": 522.789,
+   "startFrame": 15522,
+   "endFrame": 15684,
+   "words": 19,
+   "text": "Speaking of things that cost nothing, a like and a subscribe are free, and they keep this channel going."
+  },
+  {
+   "i": 136,
+   "start": 523.139,
+   "end": 526.485,
+   "startFrame": 15694,
+   "endFrame": 15795,
+   "words": 10,
+   "text": "Ephialtes, as we are about to see, charged a fee."
+  },
+  {
+   "i": 137,
+   "start": 526.985,
+   "end": 532.037,
+   "startFrame": 15810,
+   "endFrame": 15961,
+   "words": 18,
+   "text": "By the end of the second day, Xerxes has the biggest army in history and no way forward."
+  },
+  {
+   "i": 138,
+   "start": 532.537,
+   "end": 535.258,
+   "startFrame": 15976,
+   "endFrame": 16058,
+   "words": 9,
+   "text": "And now ask the question a commander would ask."
+  },
+  {
+   "i": 139,
+   "start": 535.608,
+   "end": 536.78,
+   "startFrame": 16068,
+   "endFrame": 16103,
+   "words": 4,
+   "text": "What does he do?"
+  },
+  {
+   "i": 140,
+   "start": 537.28,
+   "end": 538.491,
+   "startFrame": 16118,
+   "endFrame": 16155,
+   "words": 3,
+   "text": "He cannot wait."
+  },
+  {
+   "i": 141,
+   "start": 538.841,
+   "end": 542.356,
+   "startFrame": 16165,
+   "endFrame": 16271,
+   "words": 15,
+   "text": "The Greeks can hold this road for as long as they have food and men."
+  },
+  {
+   "i": 142,
+   "start": 542.706,
+   "end": 550.831,
+   "startFrame": 16281,
+   "endFrame": 16525,
+   "words": 28,
+   "text": "The Persians cannot hold their position forever, because they also have a fleet that is fighting at Artemisium, and an army that eats and drinks in vast amounts."
+  },
+  {
+   "i": 143,
+   "start": 551.331,
+   "end": 555.055,
+   "startFrame": 16540,
+   "endFrame": 16652,
+   "words": 13,
+   "text": "Every day at the Hot Gates costs him something, and brings him nothing."
+  },
+  {
+   "i": 144,
+   "start": 555.555,
+   "end": 557.208,
+   "startFrame": 16667,
+   "endFrame": 16716,
+   "words": 5,
+   "text": "He cannot force the front."
+  },
+  {
+   "i": 145,
+   "start": 557.558,
+   "end": 559.5889999999999,
+   "startFrame": 16727,
+   "endFrame": 16788,
+   "words": 7,
+   "text": "Two days of attacks have shown that."
+  },
+  {
+   "i": 146,
+   "start": 560.0889999999999,
+   "end": 563.67,
+   "startFrame": 16803,
+   "endFrame": 16910,
+   "words": 16,
+   "text": "So the only way to beat the Greeks is to take the pass away from them."
+  },
+  {
+   "i": 147,
+   "start": 564.02,
+   "end": 567.288,
+   "startFrame": 16921,
+   "endFrame": 17019,
+   "words": 13,
+   "text": "And to do that, he needs to get men behind the Greek line."
+  },
+  {
+   "i": 148,
+   "start": 567.788,
+   "end": 569.558,
+   "startFrame": 17034,
+   "endFrame": 17087,
+   "words": 6,
+   "text": "Which means he needs a path."
+  },
+  {
+   "i": 149,
+   "start": 570.058,
+   "end": 572.87,
+   "startFrame": 17102,
+   "endFrame": 17186,
+   "words": 10,
+   "text": "And then a local man walks into the Persian camp."
+  },
+  {
+   "i": 150,
+   "start": 573.37,
+   "end": 575.128,
+   "startFrame": 17201,
+   "endFrame": 17254,
+   "words": 4,
+   "text": "His name is Ephialtes."
+  },
+  {
+   "i": 151,
+   "start": 575.478,
+   "end": 578.798,
+   "startFrame": 17264,
+   "endFrame": 17364,
+   "words": 10,
+   "text": "He comes from Trachis, the region right behind the pass."
+  },
+  {
+   "i": 152,
+   "start": 579.148,
+   "end": 582.69,
+   "startFrame": 17374,
+   "endFrame": 17481,
+   "words": 12,
+   "text": "Herodotus does not describe him as a soldier or as a villain."
+  },
+  {
+   "i": 153,
+   "start": 583.04,
+   "end": 587.193,
+   "startFrame": 17491,
+   "endFrame": 17616,
+   "words": 16,
+   "text": "He is a man who knows something, and who sees that somebody will pay for it."
+  },
+  {
+   "i": 154,
+   "start": 587.693,
+   "end": 589.724,
+   "startFrame": 17631,
+   "endFrame": 17692,
+   "words": 7,
+   "text": "What he knows is the mountain track."
+  },
+  {
+   "i": 155,
+   "start": 590.074,
+   "end": 595.269,
+   "startFrame": 17702,
+   "endFrame": 17858,
+   "words": 16,
+   "text": "A path winds over Mount Kallidromon, behind the Greek position, and comes down at their rear."
+  },
+  {
+   "i": 156,
+   "start": 595.619,
+   "end": 597.364,
+   "startFrame": 17869,
+   "endFrame": 17921,
+   "words": 5,
+   "text": "It is called the Anopaia."
+  },
+  {
+   "i": 157,
+   "start": 597.7139999999999,
+   "end": 602.466,
+   "startFrame": 17931,
+   "endFrame": 18074,
+   "words": 21,
+   "text": "It is on no Persian map, and it does not need to be once somebody has been paid to walk it."
+  },
+  {
+   "i": 158,
+   "start": 602.966,
+   "end": 605.778,
+   "startFrame": 18089,
+   "endFrame": 18173,
+   "words": 7,
+   "text": "Herodotus says Ephialtes did it for money."
+  },
+  {
+   "i": 159,
+   "start": 606.128,
+   "end": 609.279,
+   "startFrame": 18184,
+   "endFrame": 18278,
+   "words": 12,
+   "text": "He does not say how much, or whether it was ever paid."
+  },
+  {
+   "i": 160,
+   "start": 609.779,
+   "end": 612.279,
+   "startFrame": 18293,
+   "endFrame": 18368,
+   "words": 9,
+   "text": "Now here is the part most tellings leave out."
+  },
+  {
+   "i": 161,
+   "start": 612.629,
+   "end": 614.452,
+   "startFrame": 18379,
+   "endFrame": 18434,
+   "words": 6,
+   "text": "The Greeks knew about the path."
+  },
+  {
+   "i": 162,
+   "start": 614.802,
+   "end": 618.825,
+   "startFrame": 18444,
+   "endFrame": 18565,
+   "words": 14,
+   "text": "Local people from the region had told them about it when they first arrived."
+  },
+  {
+   "i": 163,
+   "start": 619.175,
+   "end": 623.237,
+   "startFrame": 18575,
+   "endFrame": 18697,
+   "words": 14,
+   "text": "Leonidas had posted a thousand men from Phocis on the track to guard it."
+  },
+  {
+   "i": 164,
+   "start": 623.587,
+   "end": 626.751,
+   "startFrame": 18708,
+   "endFrame": 18803,
+   "words": 9,
+   "text": "And Herodotus says the Phocians volunteered for the job."
+  },
+  {
+   "i": 165,
+   "start": 627.251,
+   "end": 629.191,
+   "startFrame": 18818,
+   "endFrame": 18876,
+   "words": 5,
+   "text": "So this was not carelessness."
+  },
+  {
+   "i": 166,
+   "start": 629.541,
+   "end": 632.47,
+   "startFrame": 18886,
+   "endFrame": 18974,
+   "words": 8,
+   "text": "It was a decision, and a reasonable-sounding one."
+  },
+  {
+   "i": 167,
+   "start": 632.82,
+   "end": 634.903,
+   "startFrame": 18985,
+   "endFrame": 19047,
+   "words": 6,
+   "text": "The path was long and difficult."
+  },
+  {
+   "i": 168,
+   "start": 635.253,
+   "end": 638.079,
+   "startFrame": 19058,
+   "endFrame": 19142,
+   "words": 11,
+   "text": "It would take a large force many hours to climb it."
+  },
+  {
+   "i": 169,
+   "start": 638.429,
+   "end": 644.848,
+   "startFrame": 19153,
+   "endFrame": 19345,
+   "words": 23,
+   "text": "A thousand local men who knew the mountain, in the dark, in an oak forest where every step makes noise, looked like enough."
+  },
+  {
+   "i": 170,
+   "start": 645.348,
+   "end": 648.655,
+   "startFrame": 19360,
+   "endFrame": 19460,
+   "words": 10,
+   "text": "It was not enough, and the reason is not complicated."
+  },
+  {
+   "i": 171,
+   "start": 649.005,
+   "end": 651.257,
+   "startFrame": 19470,
+   "endFrame": 19538,
+   "words": 7,
+   "text": "A thousand men can stop a patrol."
+  },
+  {
+   "i": 172,
+   "start": 651.607,
+   "end": 657.805,
+   "startFrame": 19548,
+   "endFrame": 19734,
+   "words": 23,
+   "text": "They cannot stop ten thousand of the best soldiers in the Persian army, led by a commander who has been given a guide."
+  },
+  {
+   "i": 173,
+   "start": 658.305,
+   "end": 662.771,
+   "startFrame": 19749,
+   "endFrame": 19883,
+   "words": 13,
+   "text": "That night, Hydarnes, commander of the Immortals, leads his men up the track."
+  },
+  {
+   "i": 174,
+   "start": 663.121,
+   "end": 666.571,
+   "startFrame": 19894,
+   "endFrame": 19997,
+   "words": 11,
+   "text": "It runs through an oak forest, and the leaves crunch underfoot."
+  },
+  {
+   "i": 175,
+   "start": 666.921,
+   "end": 669.785,
+   "startFrame": 20008,
+   "endFrame": 20094,
+   "words": 9,
+   "text": "The Phocians hear them long before they see anything."
+  },
+  {
+   "i": 176,
+   "start": 670.285,
+   "end": 673.54,
+   "startFrame": 20109,
+   "endFrame": 20206,
+   "words": 13,
+   "text": "They grab their weapons and run to a hilltop to make a stand."
+  },
+  {
+   "i": 177,
+   "start": 673.89,
+   "end": 676.898,
+   "startFrame": 20217,
+   "endFrame": 20307,
+   "words": 10,
+   "text": "Herodotus says they thought the Persians had come for them."
+  },
+  {
+   "i": 178,
+   "start": 677.248,
+   "end": 679.058,
+   "startFrame": 20317,
+   "endFrame": 20372,
+   "words": 5,
+   "text": "The Persians do not bother."
+  },
+  {
+   "i": 179,
+   "start": 679.408,
+   "end": 682.129,
+   "startFrame": 20382,
+   "endFrame": 20464,
+   "words": 9,
+   "text": "They fire some arrows, and then they keep walking."
+  },
+  {
+   "i": 180,
+   "start": 682.629,
+   "end": 685.298,
+   "startFrame": 20479,
+   "endFrame": 20559,
+   "words": 9,
+   "text": "The Phocians have just saved the enemy a fight."
+  },
+  {
+   "i": 181,
+   "start": 685.648,
+   "end": 689.267,
+   "startFrame": 20569,
+   "endFrame": 20678,
+   "words": 14,
+   "text": "And down in the pass, the Greeks are about to get the bad news."
+  },
+  {
+   "i": 182,
+   "start": 689.767,
+   "end": 694.298,
+   "startFrame": 20693,
+   "endFrame": 20829,
+   "words": 17,
+   "text": "Step back for a moment, because this is the real answer to the question we started with."
+  },
+  {
+   "i": 183,
+   "start": 694.798,
+   "end": 696.882,
+   "startFrame": 20844,
+   "endFrame": 20906,
+   "words": 6,
+   "text": "The Greek plan had one assumption."
+  },
+  {
+   "i": 184,
+   "start": 697.232,
+   "end": 700.083,
+   "startFrame": 20917,
+   "endFrame": 21002,
+   "words": 10,
+   "text": "The plan said: the pass is the only way through."
+  },
+  {
+   "i": 185,
+   "start": 700.433,
+   "end": 703.87,
+   "startFrame": 21013,
+   "endFrame": 21116,
+   "words": 11,
+   "text": "If that is true, a small force can hold it indefinitely."
+  },
+  {
+   "i": 186,
+   "start": 704.37,
+   "end": 705.828,
+   "startFrame": 21131,
+   "endFrame": 21175,
+   "words": 5,
+   "text": "But it was not true."
+  },
+  {
+   "i": 187,
+   "start": 706.178,
+   "end": 709.472,
+   "startFrame": 21185,
+   "endFrame": 21284,
+   "words": 12,
+   "text": "There was another way, narrow and slow and long, but a way."
+  },
+  {
+   "i": 188,
+   "start": 709.822,
+   "end": 717.934,
+   "startFrame": 21295,
+   "endFrame": 21538,
+   "words": 31,
+   "text": "The whole defense depended on it staying closed, and it was defended by a small force that had to guard a long, dark mountain path against an army with a guide."
+  },
+  {
+   "i": 189,
+   "start": 718.434,
+   "end": 720.426,
+   "startFrame": 21553,
+   "endFrame": 21613,
+   "words": 6,
+   "text": "Engineers have a name for this."
+  },
+  {
+   "i": 190,
+   "start": 720.776,
+   "end": 722.56,
+   "startFrame": 21623,
+   "endFrame": 21677,
+   "words": 5,
+   "text": "A single point of failure."
+  },
+  {
+   "i": 191,
+   "start": 722.91,
+   "end": 727.532,
+   "startFrame": 21687,
+   "endFrame": 21826,
+   "words": 16,
+   "text": "A system that works perfectly until one part fails, and then does not work at all."
+  },
+  {
+   "i": 192,
+   "start": 728.032,
+   "end": 730.467,
+   "startFrame": 21841,
+   "endFrame": 21914,
+   "words": 6,
+   "text": "Notice what this means for Ephialtes."
+  },
+  {
+   "i": 193,
+   "start": 730.817,
+   "end": 734.319,
+   "startFrame": 21925,
+   "endFrame": 22030,
+   "words": 13,
+   "text": "We have been taught to see him as the man who destroyed Thermopylae."
+  },
+  {
+   "i": 194,
+   "start": 734.669,
+   "end": 740.033,
+   "startFrame": 22040,
+   "endFrame": 22201,
+   "words": 23,
+   "text": "But a plan that can be destroyed by one man walking into a camp was a plan with a hole in it already."
+  },
+  {
+   "i": 195,
+   "start": 740.533,
+   "end": 742.994,
+   "startFrame": 22216,
+   "endFrame": 22290,
+   "words": 6,
+   "text": "Ephialtes did not create the weakness."
+  },
+  {
+   "i": 196,
+   "start": 743.344,
+   "end": 745.388,
+   "startFrame": 22300,
+   "endFrame": 22362,
+   "words": 8,
+   "text": "He sold the Persians a map of it."
+  },
+  {
+   "i": 197,
+   "start": 745.888,
+   "end": 748.258,
+   "startFrame": 22377,
+   "endFrame": 22448,
+   "words": 9,
+   "text": "That is not an excuse for what he did."
+  },
+  {
+   "i": 198,
+   "start": 748.608,
+   "end": 750.287,
+   "startFrame": 22458,
+   "endFrame": 22509,
+   "words": 5,
+   "text": "But it changes the lesson."
+  },
+  {
+   "i": 199,
+   "start": 750.637,
+   "end": 755.899,
+   "startFrame": 22519,
+   "endFrame": 22677,
+   "words": 15,
+   "text": "The lesson is not \"beware of traitors.\" Every army has men who can be bought."
+  },
+  {
+   "i": 200,
+   "start": 756.249,
+   "end": 759.843,
+   "startFrame": 22687,
+   "endFrame": 22795,
+   "words": 14,
+   "text": "The lesson is: do not build a plan where one of them is enough."
+  },
+  {
+   "i": 201,
+   "start": 760.343,
+   "end": 762.96,
+   "startFrame": 22810,
+   "endFrame": 22889,
+   "words": 9,
+   "text": "At dawn, a scout runs in with the news."
+  },
+  {
+   "i": 202,
+   "start": 763.31,
+   "end": 766.304,
+   "startFrame": 22899,
+   "endFrame": 22989,
+   "words": 11,
+   "text": "Soon men are coming down from the mountain to confirm it."
+  },
+  {
+   "i": 203,
+   "start": 766.804,
+   "end": 768.64,
+   "startFrame": 23004,
+   "endFrame": 23059,
+   "words": 4,
+   "text": "The Greek commanders argue."
+  },
+  {
+   "i": 204,
+   "start": 768.99,
+   "end": 770.292,
+   "startFrame": 23070,
+   "endFrame": 23109,
+   "words": 4,
+   "text": "Some want to stay."
+  },
+  {
+   "i": 205,
+   "start": 770.642,
+   "end": 771.983,
+   "startFrame": 23119,
+   "endFrame": 23159,
+   "words": 4,
+   "text": "Some want to leave."
+  },
+  {
+   "i": 206,
+   "start": 772.333,
+   "end": 776.057,
+   "startFrame": 23170,
+   "endFrame": 23282,
+   "words": 9,
+   "text": "In the end, Leonidas sends the allied contingents away."
+  },
+  {
+   "i": 207,
+   "start": 776.407,
+   "end": 779.427,
+   "startFrame": 23292,
+   "endFrame": 23383,
+   "words": 12,
+   "text": "They still have an army worth saving and a war to fight."
+  },
+  {
+   "i": 208,
+   "start": 779.927,
+   "end": 781.177,
+   "startFrame": 23398,
+   "endFrame": 23435,
+   "words": 4,
+   "text": "Why does he stay?"
+  },
+  {
+   "i": 209,
+   "start": 781.527,
+   "end": 783.519,
+   "startFrame": 23446,
+   "endFrame": 23506,
+   "words": 4,
+   "text": "Herodotus gives two reasons."
+  },
+  {
+   "i": 210,
+   "start": 783.869,
+   "end": 789.207,
+   "startFrame": 23516,
+   "endFrame": 23676,
+   "words": 20,
+   "text": "The first is an oracle that told Sparta either the city would be destroyed or a Spartan king would die."
+  },
+  {
+   "i": 211,
+   "start": 789.557,
+   "end": 791.133,
+   "startFrame": 23687,
+   "endFrame": 23734,
+   "words": 4,
+   "text": "The second is simpler."
+  },
+  {
+   "i": 212,
+   "start": 791.483,
+   "end": 793.344,
+   "startFrame": 23744,
+   "endFrame": 23800,
+   "words": 4,
+   "text": "Spartans do not retreat."
+  },
+  {
+   "i": 213,
+   "start": 793.694,
+   "end": 796.91,
+   "startFrame": 23811,
+   "endFrame": 23907,
+   "words": 13,
+   "text": "They are trained from boyhood to hold their ground or die on it."
+  },
+  {
+   "i": 214,
+   "start": 797.41,
+   "end": 800.926,
+   "startFrame": 23922,
+   "endFrame": 24028,
+   "words": 9,
+   "text": "Historians are suspicious of the oracle, and with reason."
+  },
+  {
+   "i": 215,
+   "start": 801.276,
+   "end": 804.869,
+   "startFrame": 24038,
+   "endFrame": 24146,
+   "words": 12,
+   "text": "Prophecies that fit the outcome tend to be written after the outcome."
+  },
+  {
+   "i": 216,
+   "start": 805.219,
+   "end": 808.045,
+   "startFrame": 24157,
+   "endFrame": 24241,
+   "words": 5,
+   "text": "A cleaner military explanation exists."
+  },
+  {
+   "i": 217,
+   "start": 808.395,
+   "end": 816.038,
+   "startFrame": 24252,
+   "endFrame": 24481,
+   "words": 28,
+   "text": "If the whole Greek army had tried to retreat in daylight with the Persian cavalry about to arrive, it could have been caught on open ground and destroyed."
+  },
+  {
+   "i": 218,
+   "start": 816.538,
+   "end": 820.105,
+   "startFrame": 24496,
+   "endFrame": 24603,
+   "words": 13,
+   "text": "A rearguard that holds the pass long enough lets the rest slip away."
+  },
+  {
+   "i": 219,
+   "start": 820.455,
+   "end": 823.5409999999999,
+   "startFrame": 24614,
+   "endFrame": 24706,
+   "words": 10,
+   "text": "Leonidas may not have been choosing to die for honor."
+  },
+  {
+   "i": 220,
+   "start": 823.891,
+   "end": 827.133,
+   "startFrame": 24717,
+   "endFrame": 24814,
+   "words": 13,
+   "text": "He may have been choosing to die so that the others could live."
+  },
+  {
+   "i": 221,
+   "start": 827.633,
+   "end": 830.015,
+   "startFrame": 24829,
+   "endFrame": 24900,
+   "words": 6,
+   "text": "Whatever the reason, the Spartans stay."
+  },
+  {
+   "i": 222,
+   "start": 830.365,
+   "end": 836.107,
+   "startFrame": 24911,
+   "endFrame": 25083,
+   "words": 22,
+   "text": "So do seven hundred men from the small city of Thespiae, who refuse to leave a fight their allies are staying for."
+  },
+  {
+   "i": 223,
+   "start": 836.457,
+   "end": 842.746,
+   "startFrame": 25094,
+   "endFrame": 25282,
+   "words": 20,
+   "text": "Four hundred Thebans stay too, though Herodotus says Leonidas kept them as hostages and that they surrendered at the end."
+  },
+  {
+   "i": 224,
+   "start": 843.246,
+   "end": 847.569,
+   "startFrame": 25297,
+   "endFrame": 25427,
+   "words": 15,
+   "text": "That is about fourteen hundred men against an army of a hundred thousand or more."
+  },
+  {
+   "i": 225,
+   "start": 848.069,
+   "end": 850.621,
+   "startFrame": 25442,
+   "endFrame": 25519,
+   "words": 7,
+   "text": "Leonidas does not wait to be surrounded."
+  },
+  {
+   "i": 226,
+   "start": 850.971,
+   "end": 856.7,
+   "startFrame": 25529,
+   "endFrame": 25701,
+   "words": 23,
+   "text": "In the morning, he leads his men out of the narrow pass, onto the wider ground in front of it, and fights there."
+  },
+  {
+   "i": 227,
+   "start": 857.2,
+   "end": 858.358,
+   "startFrame": 25716,
+   "endFrame": 25751,
+   "words": 3,
+   "text": "Not to win."
+  },
+  {
+   "i": 228,
+   "start": 858.708,
+   "end": 863.1610000000001,
+   "startFrame": 25761,
+   "endFrame": 25895,
+   "words": 20,
+   "text": "To kill as many as they can, and to buy time for the rest of the army to get away."
+  },
+  {
+   "i": 229,
+   "start": 863.6610000000001,
+   "end": 865.497,
+   "startFrame": 25910,
+   "endFrame": 25965,
+   "words": 5,
+   "text": "Think about what that means."
+  },
+  {
+   "i": 230,
+   "start": 865.847,
+   "end": 871.107,
+   "startFrame": 25975,
+   "endFrame": 26133,
+   "words": 21,
+   "text": "Everything that made the pass work for the Greeks, the narrow front, is gone the moment they step out of it."
+  },
+  {
+   "i": 231,
+   "start": 871.457,
+   "end": 874.829,
+   "startFrame": 26144,
+   "endFrame": 26245,
+   "words": 11,
+   "text": "They do it anyway, because the pass is no longer holding."
+  },
+  {
+   "i": 232,
+   "start": 875.329,
+   "end": 876.8,
+   "startFrame": 26260,
+   "endFrame": 26304,
+   "words": 4,
+   "text": "It has been turned."
+  },
+  {
+   "i": 233,
+   "start": 877.15,
+   "end": 882.359,
+   "startFrame": 26314,
+   "endFrame": 26471,
+   "words": 20,
+   "text": "The only thing left to do is to hurt the enemy as badly as possible, for as long as possible."
+  },
+  {
+   "i": 234,
+   "start": 882.859,
+   "end": 885.371,
+   "startFrame": 26486,
+   "endFrame": 26561,
+   "words": 8,
+   "text": "They fight with spears until the spears break."
+  },
+  {
+   "i": 235,
+   "start": 885.721,
+   "end": 886.88,
+   "startFrame": 26572,
+   "endFrame": 26606,
+   "words": 2,
+   "text": "Then swords."
+  },
+  {
+   "i": 236,
+   "start": 887.23,
+   "end": 891.201,
+   "startFrame": 26617,
+   "endFrame": 26736,
+   "words": 12,
+   "text": "Leonidas falls, and the battle turns into a fight over his body."
+  },
+  {
+   "i": 237,
+   "start": 891.551,
+   "end": 896.29,
+   "startFrame": 26747,
+   "endFrame": 26889,
+   "words": 15,
+   "text": "Herodotus says the Greeks drove the Persians back four times and finally dragged it away."
+  },
+  {
+   "i": 238,
+   "start": 896.79,
+   "end": 899.108,
+   "startFrame": 26904,
+   "endFrame": 26973,
+   "words": 6,
+   "text": "Then the Immortals arrive from behind."
+  },
+  {
+   "i": 239,
+   "start": 899.458,
+   "end": 902.986,
+   "startFrame": 26984,
+   "endFrame": 27090,
+   "words": 14,
+   "text": "The Greeks fall back to a small hill and make their last stand there."
+  },
+  {
+   "i": 240,
+   "start": 903.336,
+   "end": 906.448,
+   "startFrame": 27100,
+   "endFrame": 27193,
+   "words": 11,
+   "text": "Men with no swords left fight with their hands and teeth."
+  },
+  {
+   "i": 241,
+   "start": 906.798,
+   "end": 910.561,
+   "startFrame": 27204,
+   "endFrame": 27317,
+   "words": 11,
+   "text": "Persian archers and javelin throwers finish the job from a distance."
+  },
+  {
+   "i": 242,
+   "start": 911.061,
+   "end": 912.363,
+   "startFrame": 27332,
+   "endFrame": 27371,
+   "words": 3,
+   "text": "Remember the shade?"
+  },
+  {
+   "i": 243,
+   "start": 912.713,
+   "end": 914.171,
+   "startFrame": 27381,
+   "endFrame": 27425,
+   "words": 3,
+   "text": "Dienekes was right."
+  },
+  {
+   "i": 244,
+   "start": 914.521,
+   "end": 917.294,
+   "startFrame": 27436,
+   "endFrame": 27519,
+   "words": 9,
+   "text": "That day, the sky does go dark with arrows."
+  },
+  {
+   "i": 245,
+   "start": 917.644,
+   "end": 920.443,
+   "startFrame": 27529,
+   "endFrame": 27613,
+   "words": 9,
+   "text": "Whether Dienekes ever said it, we do not know."
+  },
+  {
+   "i": 246,
+   "start": 920.943,
+   "end": 928.951,
+   "startFrame": 27628,
+   "endFrame": 27869,
+   "words": 32,
+   "text": "The line comes from Herodotus, who was writing a generation later, and it sounds a lot like the kind of thing people say about a battle once they know how it ended."
+  },
+  {
+   "i": 247,
+   "start": 929.451,
+   "end": 934.529,
+   "startFrame": 27884,
+   "endFrame": 28036,
+   "words": 16,
+   "text": "But archaeologists have found Persian arrowheads on the hill, so the arrows at least are real."
+  },
+  {
+   "i": 248,
+   "start": 935.029,
+   "end": 939.404,
+   "startFrame": 28051,
+   "endFrame": 28182,
+   "words": 12,
+   "text": "Afterward, Xerxes has Leonidas's head cut off and fixed on a stake."
+  },
+  {
+   "i": 249,
+   "start": 939.754,
+   "end": 945.691,
+   "startFrame": 28193,
+   "endFrame": 28371,
+   "words": 18,
+   "text": "Herodotus notes this was a strange thing for a Persian king to do, because Persians honored brave enemies."
+  },
+  {
+   "i": 250,
+   "start": 946.0409999999999,
+   "end": 949.66,
+   "startFrame": 28381,
+   "endFrame": 28490,
+   "words": 12,
+   "text": "He takes it as a sign of how badly Thermopylae shook Xerxes."
+  },
+  {
+   "i": 251,
+   "start": 950.16,
+   "end": 954.158,
+   "startFrame": 28505,
+   "endFrame": 28625,
+   "words": 11,
+   "text": "Herodotus also tells a story that, if true, says even more."
+  },
+  {
+   "i": 252,
+   "start": 954.508,
+   "end": 963.205,
+   "startFrame": 28635,
+   "endFrame": 28896,
+   "words": 31,
+   "text": "Xerxes, he says, buried most of his own dead and left only a thousand bodies lying out, so that visitors would see how many Greeks had died and how few Persians."
+  },
+  {
+   "i": 253,
+   "start": 963.705,
+   "end": 966.713,
+   "startFrame": 28911,
+   "endFrame": 29001,
+   "words": 8,
+   "text": "Herodotus did not believe the trick fooled anyone."
+  },
+  {
+   "i": 254,
+   "start": 967.063,
+   "end": 968.313,
+   "startFrame": 29012,
+   "endFrame": 29049,
+   "words": 3,
+   "text": "Neither should we."
+  },
+  {
+   "i": 255,
+   "start": 968.663,
+   "end": 972.425,
+   "startFrame": 29060,
+   "endFrame": 29173,
+   "words": 15,
+   "text": "A man who hides his casualties is a man who knows what they look like."
+  },
+  {
+   "i": 256,
+   "start": 972.925,
+   "end": 977.014,
+   "startFrame": 29188,
+   "endFrame": 29310,
+   "words": 14,
+   "text": "Here is where most tellings stop, with a poem and a moment of silence."
+  },
+  {
+   "i": 257,
+   "start": 977.364,
+   "end": 979.239,
+   "startFrame": 29321,
+   "endFrame": 29377,
+   "words": 6,
+   "text": "But there is a harder question."
+  },
+  {
+   "i": 258,
+   "start": 979.5889999999999,
+   "end": 981.138,
+   "startFrame": 29388,
+   "endFrame": 29434,
+   "words": 3,
+   "text": "Did Thermopylae work?"
+  },
+  {
+   "i": 259,
+   "start": 981.638,
+   "end": 984.085,
+   "startFrame": 29449,
+   "endFrame": 29523,
+   "words": 7,
+   "text": "Look at it as a military operation."
+  },
+  {
+   "i": 260,
+   "start": 984.435,
+   "end": 986.675,
+   "startFrame": 29533,
+   "endFrame": 29600,
+   "words": 8,
+   "text": "The Greek plan was to hold the pass."
+  },
+  {
+   "i": 261,
+   "start": 987.025,
+   "end": 988.782,
+   "startFrame": 29611,
+   "endFrame": 29663,
+   "words": 6,
+   "text": "They did not hold the pass."
+  },
+  {
+   "i": 262,
+   "start": 989.132,
+   "end": 990.994,
+   "startFrame": 29674,
+   "endFrame": 29730,
+   "words": 5,
+   "text": "In that sense, it failed."
+  },
+  {
+   "i": 263,
+   "start": 991.494,
+   "end": 993.564,
+   "startFrame": 29745,
+   "endFrame": 29807,
+   "words": 7,
+   "text": "Look at what it cost the Persians."
+  },
+  {
+   "i": 264,
+   "start": 993.914,
+   "end": 994.982,
+   "startFrame": 29817,
+   "endFrame": 29849,
+   "words": 3,
+   "text": "A few days."
+  },
+  {
+   "i": 265,
+   "start": 995.332,
+   "end": 998.235,
+   "startFrame": 29860,
+   "endFrame": 29947,
+   "words": 10,
+   "text": "A good number of dead, though nobody knows how many."
+  },
+  {
+   "i": 266,
+   "start": 998.585,
+   "end": 1006.97,
+   "startFrame": 29958,
+   "endFrame": 30209,
+   "words": 31,
+   "text": "And one more thing: the Greek fleet at Artemisium, which had fought the Persian navy to a bruising draw over the same three days, now heard that the pass had fallen."
+  },
+  {
+   "i": 267,
+   "start": 1007.47,
+   "end": 1012.145,
+   "startFrame": 30224,
+   "endFrame": 30364,
+   "words": 16,
+   "text": "With the land route open, there was nothing left to protect, and the fleet withdrew south."
+  },
+  {
+   "i": 268,
+   "start": 1012.645,
+   "end": 1015.379,
+   "startFrame": 30379,
+   "endFrame": 30461,
+   "words": 9,
+   "text": "So the Persians went on, and they burned Athens."
+  },
+  {
+   "i": 269,
+   "start": 1015.879,
+   "end": 1019.876,
+   "startFrame": 30476,
+   "endFrame": 30596,
+   "words": 14,
+   "text": "If that were the end of the story, Thermopylae would be a brave failure."
+  },
+  {
+   "i": 270,
+   "start": 1020.226,
+   "end": 1021.801,
+   "startFrame": 30607,
+   "endFrame": 30654,
+   "words": 6,
+   "text": "But it is not the end."
+  },
+  {
+   "i": 271,
+   "start": 1022.301,
+   "end": 1026.181,
+   "startFrame": 30669,
+   "endFrame": 30785,
+   "words": 13,
+   "text": "The Greek fleet withdrew to the narrow waters off the island of Salamis."
+  },
+  {
+   "i": 272,
+   "start": 1026.531,
+   "end": 1030.997,
+   "startFrame": 30796,
+   "endFrame": 30930,
+   "words": 17,
+   "text": "And there, a few weeks later, the same thing happened that had happened at the Hot Gates."
+  },
+  {
+   "i": 273,
+   "start": 1031.347,
+   "end": 1038.079,
+   "startFrame": 30940,
+   "endFrame": 31142,
+   "words": 22,
+   "text": "The Persian fleet, far larger, was lured into a narrow channel, where its numbers were no use, and the Greeks destroyed it."
+  },
+  {
+   "i": 274,
+   "start": 1038.579,
+   "end": 1041.782,
+   "startFrame": 31157,
+   "endFrame": 31253,
+   "words": 11,
+   "text": "Xerxes had watched the battle from a throne on the shore."
+  },
+  {
+   "i": 275,
+   "start": 1042.132,
+   "end": 1045.595,
+   "startFrame": 31264,
+   "endFrame": 31368,
+   "words": 11,
+   "text": "He went home soon after, leaving part of his army behind."
+  },
+  {
+   "i": 276,
+   "start": 1045.945,
+   "end": 1048.927,
+   "startFrame": 31378,
+   "endFrame": 31468,
+   "words": 9,
+   "text": "That army was beaten at Plataea the following year."
+  },
+  {
+   "i": 277,
+   "start": 1049.427,
+   "end": 1050.546,
+   "startFrame": 31483,
+   "endFrame": 31516,
+   "words": 4,
+   "text": "Do you see it?"
+  },
+  {
+   "i": 278,
+   "start": 1050.896,
+   "end": 1053.031,
+   "startFrame": 31527,
+   "endFrame": 31591,
+   "words": 6,
+   "text": "Thermopylae did not win the war."
+  },
+  {
+   "i": 279,
+   "start": 1053.381,
+   "end": 1056.259,
+   "startFrame": 31601,
+   "endFrame": 31688,
+   "words": 13,
+   "text": "But it taught the Greeks the shape of the war they could win."
+  },
+  {
+   "i": 280,
+   "start": 1056.609,
+   "end": 1061.035,
+   "startFrame": 31698,
+   "endFrame": 31831,
+   "words": 17,
+   "text": "Not a battle on open ground, but a battle where the ground did the fighting for them."
+  },
+  {
+   "i": 281,
+   "start": 1061.535,
+   "end": 1064.217,
+   "startFrame": 31846,
+   "endFrame": 31927,
+   "words": 10,
+   "text": "They tried it at the pass, and it nearly worked."
+  },
+  {
+   "i": 282,
+   "start": 1064.567,
+   "end": 1067.184,
+   "startFrame": 31937,
+   "endFrame": 32016,
+   "words": 9,
+   "text": "They tried it again at Salamis, and it did."
+  },
+  {
+   "i": 283,
+   "start": 1067.684,
+   "end": 1070.406,
+   "startFrame": 32031,
+   "endFrame": 32112,
+   "words": 8,
+   "text": "There was a second gift, harder to measure."
+  },
+  {
+   "i": 284,
+   "start": 1070.756,
+   "end": 1074.935,
+   "startFrame": 32123,
+   "endFrame": 32248,
+   "words": 11,
+   "text": "Before Thermopylae, many Greeks believed the Persians could not be stopped."
+  },
+  {
+   "i": 285,
+   "start": 1075.285,
+   "end": 1078.722,
+   "startFrame": 32259,
+   "endFrame": 32362,
+   "words": 14,
+   "text": "After it, they had seen a few thousand men do it for two days."
+  },
+  {
+   "i": 286,
+   "start": 1079.0720000000001,
+   "end": 1082.471,
+   "startFrame": 32372,
+   "endFrame": 32474,
+   "words": 13,
+   "text": "That is the kind of thing an army carries into its next fight."
+  },
+  {
+   "i": 287,
+   "start": 1082.971,
+   "end": 1084.39,
+   "startFrame": 32489,
+   "endFrame": 32532,
+   "words": 5,
+   "text": "So was it worth it?"
+  },
+  {
+   "i": 288,
+   "start": 1084.74,
+   "end": 1086.497,
+   "startFrame": 32542,
+   "endFrame": 32595,
+   "words": 5,
+   "text": "You can argue both ways."
+  },
+  {
+   "i": 289,
+   "start": 1086.847,
+   "end": 1089.581,
+   "startFrame": 32605,
+   "endFrame": 32687,
+   "words": 10,
+   "text": "The men who died did not get to see Salamis."
+  },
+  {
+   "i": 290,
+   "start": 1089.931,
+   "end": 1093.85,
+   "startFrame": 32698,
+   "endFrame": 32816,
+   "words": 16,
+   "text": "But the Greeks who did see it had been told, by those men, what to do."
+  },
+  {
+   "i": 291,
+   "start": 1094.35,
+   "end": 1099.689,
+   "startFrame": 32830,
+   "endFrame": 32991,
+   "words": 20,
+   "text": "Before the end, the Spartans had sent three men away, two with an eye disease and one on a message."
+  },
+  {
+   "i": 292,
+   "start": 1100.039,
+   "end": 1103.736,
+   "startFrame": 33001,
+   "endFrame": 33112,
+   "words": 14,
+   "text": "Herodotus says one of the sick men went back into the fight and died."
+  },
+  {
+   "i": 293,
+   "start": 1104.086,
+   "end": 1107.458,
+   "startFrame": 33123,
+   "endFrame": 33224,
+   "words": 11,
+   "text": "The other two lived, and were treated as outcasts at home."
+  },
+  {
+   "i": 294,
+   "start": 1107.958,
+   "end": 1116.825,
+   "startFrame": 33239,
+   "endFrame": 33505,
+   "words": 30,
+   "text": "One of them, Aristodemus, is said to have redeemed himself a year later at Plataea, fighting with a kind of fury that his fellow Spartans did not recognize as courage."
+  },
+  {
+   "i": 295,
+   "start": 1117.325,
+   "end": 1121.492,
+   "startFrame": 33520,
+   "endFrame": 33645,
+   "words": 15,
+   "text": "Later, the Greeks put up a stone at the pass with a poem by Simonides:"
+  },
+  {
+   "i": 296,
+   "start": 1121.992,
+   "end": 1127.33,
+   "startFrame": 33660,
+   "endFrame": 33820,
+   "words": 15,
+   "text": "Go tell the Spartans, stranger passing by, that here, obedient to their laws, we lie."
+  },
+  {
+   "i": 297,
+   "start": 1127.83,
+   "end": 1129.249,
+   "startFrame": 33835,
+   "endFrame": 33877,
+   "words": 2,
+   "text": "And Ephialtes?"
+  },
+  {
+   "i": 298,
+   "start": 1129.599,
+   "end": 1132.75,
+   "startFrame": 33888,
+   "endFrame": 33982,
+   "words": 13,
+   "text": "He fled when the news got out, with a price on his head."
+  },
+  {
+   "i": 299,
+   "start": 1133.1,
+   "end": 1137.449,
+   "startFrame": 33993,
+   "endFrame": 34123,
+   "words": 11,
+   "text": "Herodotus says he was eventually killed, though over something else entirely."
+  },
+  {
+   "i": 300,
+   "start": 1137.799,
+   "end": 1141.054,
+   "startFrame": 34134,
+   "endFrame": 34232,
+   "words": 12,
+   "text": "The Spartans paid the reward to the man who killed him anyway."
+  },
+  {
+   "i": 301,
+   "start": 1141.554,
+   "end": 1144.6,
+   "startFrame": 34247,
+   "endFrame": 34338,
+   "words": 8,
+   "text": "Thermopylae is not really a story about bravery."
+  },
+  {
+   "i": 302,
+   "start": 1144.95,
+   "end": 1147.164,
+   "startFrame": 34348,
+   "endFrame": 34415,
+   "words": 7,
+   "text": "The Persians had plenty of that too."
+  },
+  {
+   "i": 303,
+   "start": 1147.664,
+   "end": 1151.335,
+   "startFrame": 34430,
+   "endFrame": 34540,
+   "words": 16,
+   "text": "It is a story about a place, and what a place can do to an army."
+  },
+  {
+   "i": 304,
+   "start": 1151.685,
+   "end": 1155.11,
+   "startFrame": 34551,
+   "endFrame": 34653,
+   "words": 12,
+   "text": "A narrow road made three hundred as strong as three hundred thousand."
+  },
+  {
+   "i": 305,
+   "start": 1155.46,
+   "end": 1158.35,
+   "startFrame": 34664,
+   "endFrame": 34750,
+   "words": 11,
+   "text": "Then a narrow path made them as weak as three hundred."
+  },
+  {
+   "i": 306,
+   "start": 1158.85,
+   "end": 1161.636,
+   "startFrame": 34766,
+   "endFrame": 34849,
+   "words": 10,
+   "text": "The Greeks never lost the pass in a fair fight."
+  },
+  {
+   "i": 307,
+   "start": 1161.986,
+   "end": 1165.163,
+   "startFrame": 34860,
+   "endFrame": 34955,
+   "words": 11,
+   "text": "They lost it when somebody showed the enemy a way around."
+  },
+  {
+   "i": 308,
+   "start": 1165.663,
+   "end": 1168.566,
+   "startFrame": 34970,
+   "endFrame": 35057,
+   "words": 11,
+   "text": "If you take one thing from the Hot Gates, take this."
+  },
+  {
+   "i": 309,
+   "start": 1168.916,
+   "end": 1171.651,
+   "startFrame": 35067,
+   "endFrame": 35150,
+   "words": 10,
+   "text": "Counting the men in a fight will often mislead you."
+  },
+  {
+   "i": 310,
+   "start": 1172.001,
+   "end": 1174.266,
+   "startFrame": 35160,
+   "endFrame": 35228,
+   "words": 9,
+   "text": "Count how many of them can reach each other."
+  },
+  {
+   "i": 311,
+   "start": 1174.766,
+   "end": 1177.07,
+   "startFrame": 35243,
+   "endFrame": 35312,
+   "words": 7,
+   "text": "And count the paths nobody is watching."
+  }
+ ],
+ "chapters": []
+}
