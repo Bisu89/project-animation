@@ -1,0 +1,23 @@
+{
+  "_help": "Sound effects placed on Episode 2 narration sentences (regex, case-insensitive). Gentle on purpose: no camera shake. Check with: python scripts/check_sfx_rules.py zs-ep02. Sound files are shared from public/zs-ep01/sfx.",
+  "rules": [
+    {"re": "slid the bolt back across the door", "sfx": "bolt_slide", "vol": 0.5, "at": 0.6},
+    {"re": "I peeled it away slowly", "sfx": "scrape", "vol": 0.18, "at": 0.3},
+    {"re": "heard dragging footsteps just beyond a turn", "sfx": "footsteps", "vol": 0.3, "at": 0.8},
+    {"re": "Dozens of them were gathered around the car", "sfx": "car_alarm", "vol": 0.3, "at": 0.0},
+    {"re": "Dragging footsteps made me open them", "sfx": "footsteps", "vol": 0.4, "at": 0.2},
+    {"re": "my shoulder made the shutter click", "sfx": "door_rattle", "vol": 0.3, "at": 0.8},
+    {"re": "metal clattered onto the road", "sfx": "clang", "vol": 0.35, "at": 0.6},
+    {"re": "loudspeaker above me suddenly played a chime", "sfx": "notify", "vol": 0.7, "at": 1.6},
+    {"re": "I turned and ran back toward the entrance", "sfx": "run_steps", "vol": 0.45, "at": 0.8},
+    {"re": "I could still hear the speaker", "sfx": "notify", "vol": 0.12, "at": 0.6},
+    {"re": "My ankle rolled", "sfx": "step", "vol": 0.6, "at": 0.0},
+    {"re": "I slid the bolt across and sat on the floor", "sfx": "bolt_slide", "vol": 0.55, "at": 1.6}
+  ],
+  "beds": [
+    {"scenes": [1, 5], "sfx": "amb_room", "vol": 0.12},
+    {"scenes": [6, 43], "sfx": "amb_city", "vol": 0.1},
+    {"scenes": [19, 21], "sfx": "car_alarm", "vol": 0.1},
+    {"scenes": [44, 47], "sfx": "amb_room", "vol": 0.12}
+  ]
+}

@@ -13,6 +13,7 @@ import { Video as SpidermanDemo, DURATION as SpidermanDemo_DURATION } from "./sp
 import { Video as SurvivalTest, DURATION as SurvivalTest_DURATION } from "./survival-test/Video";
 import { Video as ZombieWalk, DURATION as ZombieWalk_DURATION } from "./zombie-walk/Video";
 import { Video as ZsEp01, DURATION as ZsEp01_DURATION } from "./zs-ep01/Video";
+import { Video as ZsEp02, DURATION as ZsEp02_DURATION } from "./zs-ep02/Video";
 // stickman-video:imports
 
 export const RemotionRoot: React.FC = () => {
@@ -114,6 +115,15 @@ export const RemotionRoot: React.FC = () => {
         id="ZsEp01"
         component={ZsEp01}
         durationInFrames={ZsEp01_DURATION}
+        fps={30}
+        width={1920}
+        height={1080}
+        defaultProps={{ music: 0.25, sfx: 0.8, voice: "voice.wav", captions: true }}
+      />
+      <Composition
+        id="ZsEp02"
+        component={ZsEp02}
+        durationInFrames={ZsEp02_DURATION}
         fps={30}
         width={1920}
         height={1080}

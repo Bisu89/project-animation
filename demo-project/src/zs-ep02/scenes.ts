@@ -17,7 +17,7 @@ export const SCENE_SPECS: SceneSpec[] = [
   "lastCue": 9,
   "image": "scene02.png",
   "motion": "in",
-  "fx": "glow:0.5,0.62,0.12,#8fb8ff,on,0.4 card:note1@4"
+  "fx": "glow:0.52,0.58,0.1,#8fb8ff,on,0.4 card:note1@4"
  },
  {
   "i": 3,
@@ -413,7 +413,7 @@ export const SCENE_SPECS: SceneSpec[] = [
   "lastCue": 216,
   "image": "scene46.png",
   "motion": "in",
-  "fx": "glow:0.5,0.62,0.1,#8fb8ff,on,0.35"
+  "fx": "glow:0.61,0.72,0.07,#8fb8ff,on,0.35"
  },
  {
   "i": 47,

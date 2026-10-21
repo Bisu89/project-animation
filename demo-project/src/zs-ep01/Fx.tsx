@@ -4,6 +4,9 @@ import { FONT } from "../stickman/fx";
 import { VOICE_ENV } from "./voiceenv";
 import { cueEnd, cueStart } from "./cues";
 
+// Cue lookup used by the mouth effect and the interface cards. Defaults to Episode 1; another episode wraps its video in <CueCtx.Provider>.
+export const CueCtx = React.createContext<{ start: (i: number) => number; end: (i: number) => number }>({ start: cueStart, end: cueEnd });
+
 // ---------------------------------------------------------------------------------------------
 // Effect tokens, written in content/zs-ep01/prompts.txt (before the "|") and stored in scenes.ts.
 // Coordinates are fractions of the picture (0..1, x right, y down); radii are fractions of the width.
@@ -128,8 +131,9 @@ const Region: React.FC<{ src: string; kind: string; x: number; y: number; w: num
 };
 
 const Mouth: React.FC<{ x: number; y: number; w: number; h: number; a: number; b: number; g: number; firstCue: number }> = ({ x, y, w, h, a, b, g, firstCue }) => {
-  const from = cueStart(firstCue + a);
-  const to = cueEnd(firstCue + b);
+  const cc = React.useContext(CueCtx);
+  const from = cc.start(firstCue + a);
+  const to = cc.end(firstCue + b);
   if (g < from || g > to) return null;
   const e = VOICE_ENV[g] ?? 0;
   const open = Math.min(1, e * 1.15);
@@ -358,7 +362,8 @@ const NoSignalCard: React.FC<{ f: number; start: number }> = ({ f, start }) => {
 };
 
 export const Cards: React.FC<{ toks: FxTok[]; f: number; sceneFrom: number; firstCue: number }> = ({ toks, f, sceneFrom, firstCue }) => {
-  const at = (k: number) => cueStart(firstCue + k) - sceneFrom;
+  const cc = React.useContext(CueCtx);
+  const at = (k: number) => cc.start(firstCue + k) - sceneFrom;
   const cards = has(toks, "card");
   return (
     <>
@@ -387,10 +392,10 @@ const HUD: Record<string, [string, string]> = {
   "8": ["05:50", "DAY 2"],
 };
 
-export const ChapterHud: React.FC<{ chapter: string }> = ({ chapter }) => {
+export const ChapterHud: React.FC<{ chapter: string; table?: Record<string, [string, string]> }> = ({ chapter, table }) => {
   const f = useCurrentFrame();
   const key = chapter.split(".")[0].trim();
-  const h = HUD[key];
+  const h = (table ?? HUD)[key];
   if (!h) return null;
   const title = chapter.replace(/^\d+\.\s*/, "").toUpperCase();
   const o = interpolate(f, [8, 24, 120, 144], [0, 1, 1, 0], clamp);

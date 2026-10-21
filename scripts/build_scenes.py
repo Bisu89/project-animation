@@ -39,6 +39,7 @@ def main():
     ap.add_argument("--target", type=float, default=11.0, help="aim for this many seconds per image")
     ap.add_argument("--min-s", type=float, default=7.0, help="fold scenes shorter than this into the previous one")
     ap.add_argument("--style-file", default="content/zs-style.txt")
+    ap.add_argument("--zombie-line", default="", help="appended to the prompt of every scene whose description mentions zombies")
     a = ap.parse_args()
     root = os.path.dirname(HERE)
     script = os.path.join(root, "content", a.slug, "script.md")
@@ -89,7 +90,8 @@ def main():
             if t.startswith("mo:"):
                 motion = t[3:]
         fx = " ".join(t for t in toks if not t.startswith("mo:")) or "none"
-        rows.append([i + 1, s["chapter"], round(start, 1), round(end, 1), text, name, motion, fx, f"{style} {desc}".strip()])
+        extra = (" " + a.zombie_line) if a.zombie_line and "zombie" in desc.lower() else ""
+        rows.append([i + 1, s["chapter"], round(start, 1), round(end, 1), text, name, motion, fx, f"{style} {desc}{extra}".strip()])
         ts.append({"i": i + 1, "chapter": s["chapter"], "firstCue": s["first"], "lastCue": s["last"], "image": name, "motion": motion, "fx": fx})
 
     csv_path = os.path.join(root, "content", a.slug, "scenes.csv")
