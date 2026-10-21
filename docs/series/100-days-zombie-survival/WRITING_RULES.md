@@ -32,7 +32,7 @@ Start: current state and today's goal. Middle: attempt, obstacle, adjustment. Cl
 1. Short Vietnamese review: logic and style problems. 2. Complete English script usable for voice. 3. Continuity points to confirm.
 
 ## Canon decisions made while applying these rules (2026-10-20)
-- Rule wording in the story: **Rule 1: "Noise attracts them."** **Rule 2: "Find another way out before going farther in."** Rule 3: "Do not stay anywhere you cannot leave in under a minute."
+- Rule wording in the story: **Rule 1: "Noise attracts them."** **Rule 2: "Find another way out before going farther in."** Rule 3: "Once you have what you need, leave." (owner wording in the Episode 3 draft, 2026-10-21; replaces "Don't stay anywhere you can't leave in under a minute")
 - The narrator calls them "them" / "figures"; "infected" first appears in Episode 2 (the narrator's own label, not an explanation of the cause).
 - Episode 2 loudspeaker at the bridge says "Evacuation transport is arriving..." at noon (automatic; leaves the evacuation question open).
 - Episode 2 finds: mints and a lighter (the lighter is a fire source but there is nothing to boil water in).

@@ -1,0 +1,1637 @@
+{
+ "fps": 30,
+ "durationInFrames": 16506,
+ "seconds": 550.2,
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.6,
+   "end": 3.766,
+   "startFrame": 18,
+   "endFrame": 113,
+   "words": 11,
+   "text": "On the morning of day three, my water bottle was empty."
+  },
+  {
+   "i": 1,
+   "start": 4.316,
+   "end": 6.155,
+   "startFrame": 129,
+   "endFrame": 185,
+   "words": 6,
+   "text": "I'd finished it during the night."
+  },
+  {
+   "i": 2,
+   "start": 6.705,
+   "end": 9.131,
+   "startFrame": 201,
+   "endFrame": 274,
+   "words": 9,
+   "text": "My mouth was dry, and I had a headache."
+  },
+  {
+   "i": 3,
+   "start": 9.481,
+   "end": 13.004,
+   "startFrame": 284,
+   "endFrame": 390,
+   "words": 14,
+   "text": "When I stood up, I felt dizzy and held the wall until it passed."
+  },
+  {
+   "i": 4,
+   "start": 13.554,
+   "end": 15.393,
+   "startFrame": 407,
+   "endFrame": 462,
+   "words": 5,
+   "text": "My ankle was still swollen."
+  },
+  {
+   "i": 5,
+   "start": 15.743,
+   "end": 17.544,
+   "startFrame": 472,
+   "endFrame": 526,
+   "words": 7,
+   "text": "My hand hurt when I closed it."
+  },
+  {
+   "i": 6,
+   "start": 18.094,
+   "end": 21.706,
+   "startFrame": 543,
+   "endFrame": 651,
+   "words": 11,
+   "text": "Yesterday, I'd walked to the evacuation point and back for nothing."
+  },
+  {
+   "i": 7,
+   "start": 22.056,
+   "end": 24.928,
+   "startFrame": 662,
+   "endFrame": 748,
+   "words": 10,
+   "text": "Today, I needed to find water close to the room."
+  },
+  {
+   "i": 8,
+   "start": 25.478,
+   "end": 27.623,
+   "startFrame": 764,
+   "endFrame": 829,
+   "words": 6,
+   "text": "I couldn't manage another long trip."
+  },
+  {
+   "i": 9,
+   "start": 28.173,
+   "end": 31.211,
+   "startFrame": 845,
+   "endFrame": 936,
+   "words": 11,
+   "text": "I put the empty bottle in my bag and went outside."
+  },
+  {
+   "i": 10,
+   "start": 31.761,
+   "end": 34.034,
+   "startFrame": 953,
+   "endFrame": 1021,
+   "words": 8,
+   "text": "There was a small sink behind the shops."
+  },
+  {
+   "i": 11,
+   "start": 34.584,
+   "end": 35.913,
+   "startFrame": 1038,
+   "endFrame": 1077,
+   "words": 4,
+   "text": "I turned the tap."
+  },
+  {
+   "i": 12,
+   "start": 36.463,
+   "end": 39.552,
+   "startFrame": 1094,
+   "endFrame": 1187,
+   "words": 11,
+   "text": "A little air came out, followed by a few brown drops."
+  },
+  {
+   "i": 13,
+   "start": 39.902,
+   "end": 40.989,
+   "startFrame": 1197,
+   "endFrame": 1230,
+   "words": 2,
+   "text": "Then nothing."
+  },
+  {
+   "i": 14,
+   "start": 41.539,
+   "end": 43.85,
+   "startFrame": 1246,
+   "endFrame": 1316,
+   "words": 8,
+   "text": "I tried another tap on a nearby house."
+  },
+  {
+   "i": 15,
+   "start": 44.2,
+   "end": 45.848,
+   "startFrame": 1326,
+   "endFrame": 1375,
+   "words": 5,
+   "text": "That one was dry too."
+  },
+  {
+   "i": 16,
+   "start": 46.398,
+   "end": 50.252,
+   "startFrame": 1392,
+   "endFrame": 1508,
+   "words": 15,
+   "text": "I didn't know whether the water had been shut off or something had stopped working."
+  },
+  {
+   "i": 17,
+   "start": 50.802,
+   "end": 53.7,
+   "startFrame": 1524,
+   "endFrame": 1611,
+   "words": 9,
+   "text": "Either way, I wasn't getting any from those taps."
+  },
+  {
+   "i": 18,
+   "start": 54.25,
+   "end": 56.918,
+   "startFrame": 1628,
+   "endFrame": 1708,
+   "words": 10,
+   "text": "There was water in the gutter, but it was dirty."
+  },
+  {
+   "i": 19,
+   "start": 57.268,
+   "end": 58.559,
+   "startFrame": 1718,
+   "endFrame": 1757,
+   "words": 4,
+   "text": "I left it alone."
+  },
+  {
+   "i": 20,
+   "start": 59.109,
+   "end": 61.828,
+   "startFrame": 1773,
+   "endFrame": 1855,
+   "words": 8,
+   "text": "I needed somewhere water might still be stored."
+  },
+  {
+   "i": 21,
+   "start": 62.378,
+   "end": 65.671,
+   "startFrame": 1871,
+   "endFrame": 1970,
+   "words": 11,
+   "text": "A small restaurant behind the shops had its back door open."
+  },
+  {
+   "i": 22,
+   "start": 66.221,
+   "end": 68.992,
+   "startFrame": 1987,
+   "endFrame": 2070,
+   "words": 8,
+   "text": "I listened outside, then stepped into the kitchen."
+  },
+  {
+   "i": 23,
+   "start": 69.542,
+   "end": 72.529,
+   "startFrame": 2086,
+   "endFrame": 2176,
+   "words": 11,
+   "text": "There were pans on the stove and plates beside the sink."
+  },
+  {
+   "i": 24,
+   "start": 73.07900000000001,
+   "end": 74.42,
+   "startFrame": 2192,
+   "endFrame": 2233,
+   "words": 4,
+   "text": "I tried the stove."
+  },
+  {
+   "i": 25,
+   "start": 74.77,
+   "end": 77.26,
+   "startFrame": 2243,
+   "endFrame": 2318,
+   "words": 8,
+   "text": "The knob clicked, but no gas came out."
+  },
+  {
+   "i": 26,
+   "start": 77.81,
+   "end": 79.101,
+   "startFrame": 2334,
+   "endFrame": 2373,
+   "words": 4,
+   "text": "I checked the tap."
+  },
+  {
+   "i": 27,
+   "start": 79.451,
+   "end": 80.257,
+   "startFrame": 2384,
+   "endFrame": 2408,
+   "words": 1,
+   "text": "Nothing."
+  },
+  {
+   "i": 28,
+   "start": 80.807,
+   "end": 84.457,
+   "startFrame": 2424,
+   "endFrame": 2534,
+   "words": 11,
+   "text": "The cupboards held cleaning products and a few empty food containers."
+  },
+  {
+   "i": 29,
+   "start": 84.807,
+   "end": 86.684,
+   "startFrame": 2544,
+   "endFrame": 2601,
+   "words": 5,
+   "text": "I found no bottled drinks."
+  },
+  {
+   "i": 30,
+   "start": 87.23400000000001,
+   "end": 89.864,
+   "startFrame": 2617,
+   "endFrame": 2696,
+   "words": 10,
+   "text": "At the end of a short corridor was a toilet."
+  },
+  {
+   "i": 31,
+   "start": 90.414,
+   "end": 94.345,
+   "startFrame": 2712,
+   "endFrame": 2830,
+   "words": 13,
+   "text": "I remembered that the tank behind it held water separately from the bowl."
+  },
+  {
+   "i": 32,
+   "start": 94.695,
+   "end": 95.922,
+   "startFrame": 2841,
+   "endFrame": 2878,
+   "words": 4,
+   "text": "I went to check."
+  },
+  {
+   "i": 33,
+   "start": 96.47200000000001,
+   "end": 99.791,
+   "startFrame": 2894,
+   "endFrame": 2994,
+   "words": 11,
+   "text": "As I lifted the lid, the ceramic scraped against the edge."
+  },
+  {
+   "i": 34,
+   "start": 100.34100000000001,
+   "end": 101.313,
+   "startFrame": 3010,
+   "endFrame": 3039,
+   "words": 2,
+   "text": "I stopped."
+  },
+  {
+   "i": 35,
+   "start": 101.863,
+   "end": 106.304,
+   "startFrame": 3056,
+   "endFrame": 3189,
+   "words": 16,
+   "text": "After listening for a while, I wrapped some cloth around the lid and lifted it carefully."
+  },
+  {
+   "i": 36,
+   "start": 106.854,
+   "end": 108.936,
+   "startFrame": 3206,
+   "endFrame": 3268,
+   "words": 6,
+   "text": "The water inside was bright blue."
+  },
+  {
+   "i": 37,
+   "start": 109.48599999999999,
+   "end": 111.72,
+   "startFrame": 3285,
+   "endFrame": 3352,
+   "words": 8,
+   "text": "There was a cleaning tablet at the bottom."
+  },
+  {
+   "i": 38,
+   "start": 112.27000000000001,
+   "end": 113.663,
+   "startFrame": 3368,
+   "endFrame": 3410,
+   "words": 5,
+   "text": "I put the lid back."
+  },
+  {
+   "i": 39,
+   "start": 114.213,
+   "end": 115.822,
+   "startFrame": 3426,
+   "endFrame": 3475,
+   "words": 4,
+   "text": "I wasn't drinking that."
+  },
+  {
+   "i": 40,
+   "start": 116.372,
+   "end": 118.926,
+   "startFrame": 3491,
+   "endFrame": 3568,
+   "words": 9,
+   "text": "I checked the remaining cupboard on my way out."
+  },
+  {
+   "i": 41,
+   "start": 119.27600000000001,
+   "end": 120.77,
+   "startFrame": 3578,
+   "endFrame": 3623,
+   "words": 3,
+   "text": "Still nothing useful."
+  },
+  {
+   "i": 42,
+   "start": 121.32,
+   "end": 124.397,
+   "startFrame": 3640,
+   "endFrame": 3732,
+   "words": 12,
+   "text": "I'd spent time searching and had no water to show for it."
+  },
+  {
+   "i": 43,
+   "start": 124.947,
+   "end": 127.092,
+   "startFrame": 3748,
+   "endFrame": 3813,
+   "words": 7,
+   "text": "Across the lane was a small clinic."
+  },
+  {
+   "i": 44,
+   "start": 127.642,
+   "end": 129.188,
+   "startFrame": 3829,
+   "endFrame": 3876,
+   "words": 4,
+   "text": "I'd passed it before."
+  },
+  {
+   "i": 45,
+   "start": 129.538,
+   "end": 133.813,
+   "startFrame": 3886,
+   "endFrame": 4014,
+   "words": 17,
+   "text": "A clinic would have a staff room and bathrooms, and it was small enough to check quickly."
+  },
+  {
+   "i": 46,
+   "start": 134.163,
+   "end": 136.398,
+   "startFrame": 4025,
+   "endFrame": 4092,
+   "words": 7,
+   "text": "This time, I walked around the outside."
+  },
+  {
+   "i": 47,
+   "start": 136.948,
+   "end": 138.762,
+   "startFrame": 4108,
+   "endFrame": 4163,
+   "words": 5,
+   "text": "The front entrance was glass."
+  },
+  {
+   "i": 48,
+   "start": 139.112,
+   "end": 141.652,
+   "startFrame": 4173,
+   "endFrame": 4250,
+   "words": 8,
+   "text": "A metal side door opened onto the lane."
+  },
+  {
+   "i": 49,
+   "start": 142.202,
+   "end": 145.547,
+   "startFrame": 4266,
+   "endFrame": 4366,
+   "words": 9,
+   "text": "At the back, three infected stood between parked cars."
+  },
+  {
+   "i": 50,
+   "start": 146.097,
+   "end": 148.344,
+   "startFrame": 4383,
+   "endFrame": 4450,
+   "words": 7,
+   "text": "I stayed behind a dumpster and watched."
+  },
+  {
+   "i": 51,
+   "start": 148.894,
+   "end": 150.503,
+   "startFrame": 4467,
+   "endFrame": 4515,
+   "words": 5,
+   "text": "They weren't coming toward me."
+  },
+  {
+   "i": 52,
+   "start": 150.853,
+   "end": 153.95499999999998,
+   "startFrame": 4526,
+   "endFrame": 4619,
+   "words": 12,
+   "text": "The corner of the building blocked their view of the side door."
+  },
+  {
+   "i": 53,
+   "start": 154.505,
+   "end": 156.88,
+   "startFrame": 4635,
+   "endFrame": 4706,
+   "words": 9,
+   "text": "I could leave them alone if I stayed quiet."
+  },
+  {
+   "i": 54,
+   "start": 157.43,
+   "end": 159.231,
+   "startFrame": 4723,
+   "endFrame": 4777,
+   "words": 5,
+   "text": "I tried the side-door handle."
+  },
+  {
+   "i": 55,
+   "start": 159.781,
+   "end": 160.753,
+   "startFrame": 4793,
+   "endFrame": 4823,
+   "words": 1,
+   "text": "Unlocked."
+  },
+  {
+   "i": 56,
+   "start": 161.303,
+   "end": 164.45600000000002,
+   "startFrame": 4839,
+   "endFrame": 4934,
+   "words": 8,
+   "text": "Inside was a short corridor leading toward reception."
+  },
+  {
+   "i": 57,
+   "start": 165.006,
+   "end": 168.197,
+   "startFrame": 4950,
+   "endFrame": 5046,
+   "words": 11,
+   "text": "Before searching, I went to the front entrance and checked it."
+  },
+  {
+   "i": 58,
+   "start": 168.547,
+   "end": 170.055,
+   "startFrame": 5056,
+   "endFrame": 5102,
+   "words": 4,
+   "text": "That door opened too."
+  },
+  {
+   "i": 59,
+   "start": 170.605,
+   "end": 175.403,
+   "startFrame": 5118,
+   "endFrame": 5262,
+   "words": 19,
+   "text": "I closed it again and locked it from the inside, so nothing could push it open from the street."
+  },
+  {
+   "i": 60,
+   "start": 175.953,
+   "end": 177.93200000000002,
+   "startFrame": 5279,
+   "endFrame": 5338,
+   "words": 6,
+   "text": "Now I knew both exits worked."
+  },
+  {
+   "i": 61,
+   "start": 178.482,
+   "end": 182.337,
+   "startFrame": 5354,
+   "endFrame": 5470,
+   "words": 13,
+   "text": "I returned to the side door and wedged it open with folded cardboard."
+  },
+  {
+   "i": 62,
+   "start": 182.687,
+   "end": 185.023,
+   "startFrame": 5481,
+   "endFrame": 5551,
+   "words": 7,
+   "text": "Then I started checking the rooms nearby."
+  },
+  {
+   "i": 63,
+   "start": 185.573,
+   "end": 188.28,
+   "startFrame": 5567,
+   "endFrame": 5648,
+   "words": 9,
+   "text": "There was enough daylight to see without the flashlight."
+  },
+  {
+   "i": 64,
+   "start": 188.83,
+   "end": 191.167,
+   "startFrame": 5665,
+   "endFrame": 5735,
+   "words": 6,
+   "text": "The first room held cleaning supplies."
+  },
+  {
+   "i": 65,
+   "start": 191.517,
+   "end": 194.504,
+   "startFrame": 5746,
+   "endFrame": 5835,
+   "words": 11,
+   "text": "The next was a staff room with an empty water cooler."
+  },
+  {
+   "i": 66,
+   "start": 195.054,
+   "end": 198.245,
+   "startFrame": 5852,
+   "endFrame": 5947,
+   "words": 10,
+   "text": "Beside it were three empty plastic bottles with their caps."
+  },
+  {
+   "i": 67,
+   "start": 198.79500000000002,
+   "end": 199.843,
+   "startFrame": 5964,
+   "endFrame": 5995,
+   "words": 3,
+   "text": "I took them."
+  },
+  {
+   "i": 68,
+   "start": 200.393,
+   "end": 203.34199999999998,
+   "startFrame": 6012,
+   "endFrame": 6100,
+   "words": 10,
+   "text": "In a drawer, I found a box of sugar sachets."
+  },
+  {
+   "i": 69,
+   "start": 203.692,
+   "end": 205.531,
+   "startFrame": 6111,
+   "endFrame": 6166,
+   "words": 7,
+   "text": "I put those in my bag too."
+  },
+  {
+   "i": 70,
+   "start": 206.081,
+   "end": 207.755,
+   "startFrame": 6182,
+   "endFrame": 6233,
+   "words": 5,
+   "text": "There was no proper food."
+  },
+  {
+   "i": 71,
+   "start": 208.305,
+   "end": 211.368,
+   "startFrame": 6249,
+   "endFrame": 6341,
+   "words": 9,
+   "text": "Farther along the corridor, I found a utility room."
+  },
+  {
+   "i": 72,
+   "start": 211.918,
+   "end": 214.344,
+   "startFrame": 6358,
+   "endFrame": 6430,
+   "words": 6,
+   "text": "Inside stood a large hot-water tank."
+  },
+  {
+   "i": 73,
+   "start": 214.894,
+   "end": 218.022,
+   "startFrame": 6447,
+   "endFrame": 6541,
+   "words": 13,
+   "text": "I'd seen a similar one drained in a place I used to rent."
+  },
+  {
+   "i": 74,
+   "start": 218.372,
+   "end": 223.017,
+   "startFrame": 6551,
+   "endFrame": 6691,
+   "words": 17,
+   "text": "I hadn't done the job myself, but I remembered there had been a lot of water inside."
+  },
+  {
+   "i": 75,
+   "start": 223.567,
+   "end": 225.368,
+   "startFrame": 6707,
+   "endFrame": 6761,
+   "words": 6,
+   "text": "This one might still hold some."
+  },
+  {
+   "i": 76,
+   "start": 225.918,
+   "end": 229.466,
+   "startFrame": 6778,
+   "endFrame": 6884,
+   "words": 13,
+   "text": "I found the drain near the bottom and positioned my bottle beneath it."
+  },
+  {
+   "i": 77,
+   "start": 229.816,
+   "end": 231.63,
+   "startFrame": 6894,
+   "endFrame": 6949,
+   "words": 6,
+   "text": "I turned the valve by hand."
+  },
+  {
+   "i": 78,
+   "start": 232.18,
+   "end": 235.052,
+   "startFrame": 6965,
+   "endFrame": 7052,
+   "words": 10,
+   "text": "When I tried it, the pipe gave several loud knocks."
+  },
+  {
+   "i": 79,
+   "start": 235.602,
+   "end": 237.148,
+   "startFrame": 7068,
+   "endFrame": 7114,
+   "words": 3,
+   "text": "I stopped immediately."
+  },
+  {
+   "i": 80,
+   "start": 237.698,
+   "end": 240.863,
+   "startFrame": 7131,
+   "endFrame": 7226,
+   "words": 10,
+   "text": "I could still picture the three infected behind the building."
+  },
+  {
+   "i": 81,
+   "start": 241.413,
+   "end": 242.73,
+   "startFrame": 7242,
+   "endFrame": 7282,
+   "words": 3,
+   "text": "I stood listening."
+  },
+  {
+   "i": 82,
+   "start": 243.28,
+   "end": 245.336,
+   "startFrame": 7298,
+   "endFrame": 7360,
+   "words": 5,
+   "text": "No footsteps in the corridor."
+  },
+  {
+   "i": 83,
+   "start": 245.686,
+   "end": 247.589,
+   "startFrame": 7371,
+   "endFrame": 7428,
+   "words": 5,
+   "text": "No noise from either entrance."
+  },
+  {
+   "i": 84,
+   "start": 248.139,
+   "end": 251.52100000000002,
+   "startFrame": 7444,
+   "endFrame": 7546,
+   "words": 10,
+   "text": "After a while, I tried again, opening it only slightly."
+  },
+  {
+   "i": 85,
+   "start": 252.071,
+   "end": 255.543,
+   "startFrame": 7562,
+   "endFrame": 7666,
+   "words": 10,
+   "text": "This time, water trickled into the bottle without more knocking."
+  },
+  {
+   "i": 86,
+   "start": 256.093,
+   "end": 257.983,
+   "startFrame": 7683,
+   "endFrame": 7739,
+   "words": 5,
+   "text": "The first water looked cloudy."
+  },
+  {
+   "i": 87,
+   "start": 258.33299999999997,
+   "end": 261.269,
+   "startFrame": 7750,
+   "endFrame": 7838,
+   "words": 11,
+   "text": "I let that run into a bucket already on the floor."
+  },
+  {
+   "i": 88,
+   "start": 261.819,
+   "end": 263.875,
+   "startFrame": 7855,
+   "endFrame": 7916,
+   "words": 6,
+   "text": "The water after it looked clearer."
+  },
+  {
+   "i": 89,
+   "start": 264.425,
+   "end": 267.093,
+   "startFrame": 7933,
+   "endFrame": 8013,
+   "words": 10,
+   "text": "That didn't tell me whether it was safe to drink."
+  },
+  {
+   "i": 90,
+   "start": 267.64300000000003,
+   "end": 269.304,
+   "startFrame": 8029,
+   "endFrame": 8079,
+   "words": 7,
+   "text": "I had no way to check it."
+  },
+  {
+   "i": 91,
+   "start": 269.654,
+   "end": 275.358,
+   "startFrame": 8090,
+   "endFrame": 8261,
+   "words": 23,
+   "text": "I had a lighter, but the restaurant stove didn't work, and a fire would mean smoke and light I didn't want to risk."
+  },
+  {
+   "i": 92,
+   "start": 275.908,
+   "end": 277.989,
+   "startFrame": 8277,
+   "endFrame": 8340,
+   "words": 6,
+   "text": "I thought about looking somewhere else."
+  },
+  {
+   "i": 93,
+   "start": 278.539,
+   "end": 283.21,
+   "startFrame": 8356,
+   "endFrame": 8496,
+   "words": 17,
+   "text": "But I'd found nothing at the shops or the restaurant, and my ankle was already hurting more."
+  },
+  {
+   "i": 94,
+   "start": 283.76,
+   "end": 284.872,
+   "startFrame": 8513,
+   "endFrame": 8546,
+   "words": 3,
+   "text": "I drank some."
+  },
+  {
+   "i": 95,
+   "start": 285.422,
+   "end": 288.486,
+   "startFrame": 8563,
+   "endFrame": 8655,
+   "words": 14,
+   "text": "Then I filled my bottle and the three I'd found in the staff room."
+  },
+  {
+   "i": 96,
+   "start": 289.036,
+   "end": 290.709,
+   "startFrame": 8671,
+   "endFrame": 8721,
+   "words": 5,
+   "text": "I kept stopping to listen."
+  },
+  {
+   "i": 97,
+   "start": 291.259,
+   "end": 292.805,
+   "startFrame": 8738,
+   "endFrame": 8784,
+   "words": 4,
+   "text": "The water ran slowly."
+  },
+  {
+   "i": 98,
+   "start": 293.155,
+   "end": 296.639,
+   "startFrame": 8795,
+   "endFrame": 8899,
+   "words": 12,
+   "text": "By the time I finished, I'd been inside much longer than planned."
+  },
+  {
+   "i": 99,
+   "start": 297.189,
+   "end": 299.016,
+   "startFrame": 8916,
+   "endFrame": 8970,
+   "words": 5,
+   "text": "I had four full bottles."
+  },
+  {
+   "i": 100,
+   "start": 299.56600000000003,
+   "end": 301.354,
+   "startFrame": 8987,
+   "endFrame": 9041,
+   "words": 7,
+   "text": "I should have packed them and left."
+  },
+  {
+   "i": 101,
+   "start": 301.904,
+   "end": 303.488,
+   "startFrame": 9057,
+   "endFrame": 9105,
+   "words": 3,
+   "text": "Instead, I stayed."
+  },
+  {
+   "i": 102,
+   "start": 304.038,
+   "end": 308.619,
+   "startFrame": 9121,
+   "endFrame": 9259,
+   "words": 18,
+   "text": "I was tired, and I didn't want to leave water behind when I might struggle to find more."
+  },
+  {
+   "i": 103,
+   "start": 309.169,
+   "end": 311.532,
+   "startFrame": 9275,
+   "endFrame": 9346,
+   "words": 8,
+   "text": "I sat beside the tank and drank again."
+  },
+  {
+   "i": 104,
+   "start": 312.082,
+   "end": 313.717,
+   "startFrame": 9362,
+   "endFrame": 9412,
+   "words": 5,
+   "text": "Then I rested my ankle."
+  },
+  {
+   "i": 105,
+   "start": 314.267,
+   "end": 316.45,
+   "startFrame": 9428,
+   "endFrame": 9494,
+   "words": 8,
+   "text": "I told myself I'd leave in a minute."
+  },
+  {
+   "i": 106,
+   "start": 317.0,
+   "end": 319.413,
+   "startFrame": 9510,
+   "endFrame": 9582,
+   "words": 7,
+   "text": "Nothing had happened since the pipes knocked."
+  },
+  {
+   "i": 107,
+   "start": 319.763,
+   "end": 321.909,
+   "startFrame": 9593,
+   "endFrame": 9657,
+   "words": 7,
+   "text": "That made it easier to keep waiting."
+  },
+  {
+   "i": 108,
+   "start": 322.459,
+   "end": 324.068,
+   "startFrame": 9674,
+   "endFrame": 9722,
+   "words": 5,
+   "text": "My bag was still open."
+  },
+  {
+   "i": 109,
+   "start": 324.418,
+   "end": 326.245,
+   "startFrame": 9733,
+   "endFrame": 9787,
+   "words": 6,
+   "text": "The bottles were on the floor."
+  },
+  {
+   "i": 110,
+   "start": 326.795,
+   "end": 330.203,
+   "startFrame": 9804,
+   "endFrame": 9906,
+   "words": 11,
+   "text": "When I finally started packing, I heard a thump from reception."
+  },
+  {
+   "i": 111,
+   "start": 330.753,
+   "end": 331.826,
+   "startFrame": 9923,
+   "endFrame": 9955,
+   "words": 2,
+   "text": "Then another."
+  },
+  {
+   "i": 112,
+   "start": 332.376,
+   "end": 334.445,
+   "startFrame": 9971,
+   "endFrame": 10033,
+   "words": 6,
+   "text": "Something was hitting the front door."
+  },
+  {
+   "i": 113,
+   "start": 334.995,
+   "end": 336.745,
+   "startFrame": 10050,
+   "endFrame": 10102,
+   "words": 5,
+   "text": "I looked down the corridor."
+  },
+  {
+   "i": 114,
+   "start": 337.295,
+   "end": 340.576,
+   "startFrame": 10119,
+   "endFrame": 10217,
+   "words": 9,
+   "text": "Through reception, I could see figures against the glass."
+  },
+  {
+   "i": 115,
+   "start": 341.126,
+   "end": 344.1,
+   "startFrame": 10234,
+   "endFrame": 10323,
+   "words": 12,
+   "text": "I couldn't tell whether they were the ones from the car park."
+  },
+  {
+   "i": 116,
+   "start": 344.65,
+   "end": 346.196,
+   "startFrame": 10340,
+   "endFrame": 10386,
+   "words": 5,
+   "text": "I didn't wait to count."
+  },
+  {
+   "i": 117,
+   "start": 346.746,
+   "end": 348.712,
+   "startFrame": 10402,
+   "endFrame": 10461,
+   "words": 7,
+   "text": "I put three bottles in my bag."
+  },
+  {
+   "i": 118,
+   "start": 349.062,
+   "end": 351.616,
+   "startFrame": 10472,
+   "endFrame": 10548,
+   "words": 9,
+   "text": "That was all I could carry without slowing down."
+  },
+  {
+   "i": 119,
+   "start": 351.966,
+   "end": 354.149,
+   "startFrame": 10559,
+   "endFrame": 10624,
+   "words": 7,
+   "text": "The fourth was still beside the tank."
+  },
+  {
+   "i": 120,
+   "start": 354.699,
+   "end": 356.985,
+   "startFrame": 10641,
+   "endFrame": 10710,
+   "words": 6,
+   "text": "Another impact shook the front door."
+  },
+  {
+   "i": 121,
+   "start": 357.53499999999997,
+   "end": 362.027,
+   "startFrame": 10726,
+   "endFrame": 10861,
+   "words": 16,
+   "text": "I left the bottle, pulled the bag onto my shoulder, and headed for the side exit."
+  },
+  {
+   "i": 122,
+   "start": 362.577,
+   "end": 364.914,
+   "startFrame": 10877,
+   "endFrame": 10947,
+   "words": 7,
+   "text": "The cardboard was still holding it open."
+  },
+  {
+   "i": 123,
+   "start": 365.464,
+   "end": 368.387,
+   "startFrame": 10964,
+   "endFrame": 11052,
+   "words": 11,
+   "text": "As I reached the door, I heard glass break behind me."
+  },
+  {
+   "i": 124,
+   "start": 368.937,
+   "end": 372.536,
+   "startFrame": 11068,
+   "endFrame": 11176,
+   "words": 11,
+   "text": "I stepped outside, pulled out the cardboard, and closed the door."
+  },
+  {
+   "i": 125,
+   "start": 373.086,
+   "end": 375.244,
+   "startFrame": 11193,
+   "endFrame": 11257,
+   "words": 8,
+   "text": "Then I moved away from the car park."
+  },
+  {
+   "i": 126,
+   "start": 375.794,
+   "end": 378.08,
+   "startFrame": 11274,
+   "endFrame": 11342,
+   "words": 7,
+   "text": "The bottles knocked together in my bag."
+  },
+  {
+   "i": 127,
+   "start": 378.63,
+   "end": 382.115,
+   "startFrame": 11359,
+   "endFrame": 11463,
+   "words": 13,
+   "text": "I stopped behind a parked van and pushed my spare shirt between them."
+  },
+  {
+   "i": 128,
+   "start": 382.665,
+   "end": 383.611,
+   "startFrame": 11480,
+   "endFrame": 11508,
+   "words": 2,
+   "text": "I listened."
+  },
+  {
+   "i": 129,
+   "start": 384.161,
+   "end": 388.015,
+   "startFrame": 11525,
+   "endFrame": 11640,
+   "words": 13,
+   "text": "There were noises from the clinic, but no footsteps coming along the lane."
+  },
+  {
+   "i": 130,
+   "start": 388.565,
+   "end": 389.741,
+   "startFrame": 11657,
+   "endFrame": 11692,
+   "words": 3,
+   "text": "I kept moving."
+  },
+  {
+   "i": 131,
+   "start": 390.291,
+   "end": 393.087,
+   "startFrame": 11709,
+   "endFrame": 11793,
+   "words": 9,
+   "text": "At the next corner, I stopped behind a wall."
+  },
+  {
+   "i": 132,
+   "start": 393.637,
+   "end": 396.267,
+   "startFrame": 11809,
+   "endFrame": 11888,
+   "words": 9,
+   "text": "I'd got out through the second exit I'd checked."
+  },
+  {
+   "i": 133,
+   "start": 396.817,
+   "end": 398.248,
+   "startFrame": 11905,
+   "endFrame": 11947,
+   "words": 4,
+   "text": "That part had worked."
+  },
+  {
+   "i": 134,
+   "start": 398.798,
+   "end": 402.627,
+   "startFrame": 11964,
+   "endFrame": 12079,
+   "words": 14,
+   "text": "But I'd wasted time sitting beside the water when I could already have left."
+  },
+  {
+   "i": 135,
+   "start": 403.177,
+   "end": 404.633,
+   "startFrame": 12095,
+   "endFrame": 12139,
+   "words": 4,
+   "text": "I opened my notes."
+  },
+  {
+   "i": 136,
+   "start": 405.183,
+   "end": 407.966,
+   "startFrame": 12155,
+   "endFrame": 12239,
+   "words": 9,
+   "text": "Rule three: Once you have what you need, leave."
+  },
+  {
+   "i": 137,
+   "start": 408.516,
+   "end": 410.687,
+   "startFrame": 12255,
+   "endFrame": 12321,
+   "words": 7,
+   "text": "I hadn't needed to empty the tank."
+  },
+  {
+   "i": 138,
+   "start": 411.237,
+   "end": 413.765,
+   "startFrame": 12337,
+   "endFrame": 12413,
+   "words": 8,
+   "text": "I hadn't needed to rest inside that building."
+  },
+  {
+   "i": 139,
+   "start": 414.315,
+   "end": 417.289,
+   "startFrame": 12429,
+   "endFrame": 12519,
+   "words": 10,
+   "text": "I'd needed water, and I'd had it packed within reach."
+  },
+  {
+   "i": 140,
+   "start": 417.839,
+   "end": 421.043,
+   "startFrame": 12535,
+   "endFrame": 12631,
+   "words": 11,
+   "text": "Staying longer had cost me a bottle and nearly trapped me."
+  },
+  {
+   "i": 141,
+   "start": 421.593,
+   "end": 425.32,
+   "startFrame": 12648,
+   "endFrame": 12760,
+   "words": 14,
+   "text": "From behind a van on the route home, I could see the clinic entrance."
+  },
+  {
+   "i": 142,
+   "start": 425.87,
+   "end": 427.595,
+   "startFrame": 12776,
+   "endFrame": 12828,
+   "words": 5,
+   "text": "The front glass was broken."
+  },
+  {
+   "i": 143,
+   "start": 428.145,
+   "end": 432.127,
+   "startFrame": 12844,
+   "endFrame": 12964,
+   "words": 9,
+   "text": "Several infected were inside reception, with more standing outside."
+  },
+  {
+   "i": 144,
+   "start": 432.677,
+   "end": 436.633,
+   "startFrame": 12980,
+   "endFrame": 13099,
+   "words": 14,
+   "text": "I didn't know whether the pipes had attracted them or they'd simply wandered over."
+  },
+  {
+   "i": 145,
+   "start": 437.183,
+   "end": 439.009,
+   "startFrame": 13115,
+   "endFrame": 13170,
+   "words": 6,
+   "text": "I wasn't going back to check."
+  },
+  {
+   "i": 146,
+   "start": 439.559,
+   "end": 444.473,
+   "startFrame": 13187,
+   "endFrame": 13334,
+   "words": 18,
+   "text": "There was still water in the tank, but reaching it now meant entering a building occupied by them."
+  },
+  {
+   "i": 147,
+   "start": 445.023,
+   "end": 448.188,
+   "startFrame": 13351,
+   "endFrame": 13446,
+   "words": 11,
+   "text": "I'd have to find another source before these bottles ran out."
+  },
+  {
+   "i": 148,
+   "start": 448.738,
+   "end": 451.228,
+   "startFrame": 13462,
+   "endFrame": 13537,
+   "words": 9,
+   "text": "I took the quieter streets back to the room."
+  },
+  {
+   "i": 149,
+   "start": 451.778,
+   "end": 455.658,
+   "startFrame": 13553,
+   "endFrame": 13670,
+   "words": 15,
+   "text": "My ankle hurt, so I walked slowly and kept the bag close to my back."
+  },
+  {
+   "i": 150,
+   "start": 456.20799999999997,
+   "end": 459.845,
+   "startFrame": 13686,
+   "endFrame": 13795,
+   "words": 12,
+   "text": "I checked outside the room, went in, and slid the bolt across."
+  },
+  {
+   "i": 151,
+   "start": 460.395,
+   "end": 462.515,
+   "startFrame": 13812,
+   "endFrame": 13875,
+   "words": 8,
+   "text": "Then I set the bottles on the floor."
+  },
+  {
+   "i": 152,
+   "start": 463.065,
+   "end": 465.606,
+   "startFrame": 13892,
+   "endFrame": 13968,
+   "words": 7,
+   "text": "Three bottles, about half a liter each."
+  },
+  {
+   "i": 153,
+   "start": 466.156,
+   "end": 468.301,
+   "startFrame": 13985,
+   "endFrame": 14049,
+   "words": 8,
+   "text": "I'd also had a drink at the clinic."
+  },
+  {
+   "i": 154,
+   "start": 468.851,
+   "end": 473.764,
+   "startFrame": 14066,
+   "endFrame": 14213,
+   "words": 17,
+   "text": "It was the first time that morning I could sit down without immediately thinking about getting water."
+  },
+  {
+   "i": 155,
+   "start": 474.314,
+   "end": 477.352,
+   "startFrame": 14229,
+   "endFrame": 14321,
+   "words": 11,
+   "text": "I still didn't know whether drinking it would make me sick."
+  },
+  {
+   "i": 156,
+   "start": 477.902,
+   "end": 480.252,
+   "startFrame": 14337,
+   "endFrame": 14408,
+   "words": 9,
+   "text": "There was nothing I could do about that now."
+  },
+  {
+   "i": 157,
+   "start": 480.802,
+   "end": 482.832,
+   "startFrame": 14424,
+   "endFrame": 14485,
+   "words": 5,
+   "text": "I counted the sugar sachets."
+  },
+  {
+   "i": 158,
+   "start": 483.182,
+   "end": 484.371,
+   "startFrame": 14495,
+   "endFrame": 14531,
+   "words": 2,
+   "text": "Around thirty."
+  },
+  {
+   "i": 159,
+   "start": 484.921,
+   "end": 487.27,
+   "startFrame": 14548,
+   "endFrame": 14618,
+   "words": 8,
+   "text": "I ate one, then put the rest away."
+  },
+  {
+   "i": 160,
+   "start": 487.82,
+   "end": 489.315,
+   "startFrame": 14635,
+   "endFrame": 14679,
+   "words": 4,
+   "text": "I still needed food."
+  },
+  {
+   "i": 161,
+   "start": 489.665,
+   "end": 491.963,
+   "startFrame": 14690,
+   "endFrame": 14759,
+   "words": 6,
+   "text": "Sugar wasn't going to replace meals."
+  },
+  {
+   "i": 162,
+   "start": 492.513,
+   "end": 494.99,
+   "startFrame": 14775,
+   "endFrame": 14850,
+   "words": 8,
+   "text": "My ankle was more swollen after the walk."
+  },
+  {
+   "i": 163,
+   "start": 495.34,
+   "end": 497.677,
+   "startFrame": 14860,
+   "endFrame": 14930,
+   "words": 9,
+   "text": "I took off my shoe and rested my foot."
+  },
+  {
+   "i": 164,
+   "start": 498.227,
+   "end": 500.85699999999997,
+   "startFrame": 14947,
+   "endFrame": 15026,
+   "words": 9,
+   "text": "Tomorrow, I would have to keep any trip short."
+  },
+  {
+   "i": 165,
+   "start": 501.407,
+   "end": 505.08299999999997,
+   "startFrame": 15042,
+   "endFrame": 15152,
+   "words": 12,
+   "text": "Before lying down, I packed the bottles so they couldn't knock together."
+  },
+  {
+   "i": 166,
+   "start": 505.433,
+   "end": 508.152,
+   "startFrame": 15163,
+   "endFrame": 15245,
+   "words": 11,
+   "text": "I put the lighter and flashlight where I could reach them."
+  },
+  {
+   "i": 167,
+   "start": 508.702,
+   "end": 510.73199999999997,
+   "startFrame": 15261,
+   "endFrame": 15322,
+   "words": 4,
+   "text": "Today hadn't fixed everything."
+  },
+  {
+   "i": 168,
+   "start": 511.282,
+   "end": 515.851,
+   "startFrame": 15338,
+   "endFrame": 15476,
+   "words": 16,
+   "text": "But I'd brought water back, and I'd used the second exit instead of getting stuck inside."
+  },
+  {
+   "i": 169,
+   "start": 516.401,
+   "end": 518.9159999999999,
+   "startFrame": 15492,
+   "endFrame": 15567,
+   "words": 9,
+   "text": "For now, that was enough to let me rest."
+  },
+  {
+   "i": 170,
+   "start": 519.466,
+   "end": 522.338,
+   "startFrame": 15584,
+   "endFrame": 15670,
+   "words": 7,
+   "text": "That night, footsteps passed outside the door."
+  },
+  {
+   "i": 171,
+   "start": 522.888,
+   "end": 524.332,
+   "startFrame": 15687,
+   "endFrame": 15730,
+   "words": 5,
+   "text": "They stopped for a while."
+  },
+  {
+   "i": 172,
+   "start": 524.882,
+   "end": 526.173,
+   "startFrame": 15746,
+   "endFrame": 15785,
+   "words": 3,
+   "text": "I stayed quiet."
+  },
+  {
+   "i": 173,
+   "start": 526.723,
+   "end": 528.97,
+   "startFrame": 15802,
+   "endFrame": 15869,
+   "words": 7,
+   "text": "After a few moments, they moved on."
+  },
+  {
+   "i": 174,
+   "start": 529.52,
+   "end": 531.41,
+   "startFrame": 15886,
+   "endFrame": 15942,
+   "words": 4,
+   "text": "Later, my stomach cramped."
+  },
+  {
+   "i": 175,
+   "start": 531.96,
+   "end": 533.621,
+   "startFrame": 15959,
+   "endFrame": 16009,
+   "words": 6,
+   "text": "It could have been the water."
+  },
+  {
+   "i": 176,
+   "start": 533.971,
+   "end": 536.384,
+   "startFrame": 16019,
+   "endFrame": 16092,
+   "words": 8,
+   "text": "It could just as easily have been hunger."
+  },
+  {
+   "i": 177,
+   "start": 536.734,
+   "end": 538.165,
+   "startFrame": 16102,
+   "endFrame": 16145,
+   "words": 4,
+   "text": "I couldn't tell which."
+  },
+  {
+   "i": 178,
+   "start": 538.715,
+   "end": 541.944,
+   "startFrame": 16161,
+   "endFrame": 16258,
+   "words": 10,
+   "text": "I lay still on the cardboard, listening to the door."
+  },
+  {
+   "i": 179,
+   "start": 542.494,
+   "end": 545.099,
+   "startFrame": 16275,
+   "endFrame": 16353,
+   "words": 10,
+   "text": "If it was the water, I would know by morning."
+  },
+  {
+   "i": 180,
+   "start": 545.449,
+   "end": 548.678,
+   "startFrame": 16363,
+   "endFrame": 16460,
+   "words": 11,
+   "text": "And if I was sick, I wouldn't be going anywhere tomorrow."
+  }
+ ],
+ "chapters": []
+}

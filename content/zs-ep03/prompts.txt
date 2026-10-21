@@ -1,0 +1,43 @@
+# one line per image scene, in order:  fx tokens | picture description
+# Gentle effects only (owner: natural and smooth, no red flashing, no shaking, nothing fussy). Style prefix: content/zs-style-day.txt (daylight, no zombies unless the scene mentions them).
+# Character continuity (Day 3): hand wrapped in dirty cloth, swollen ankle (no splint), small brown backpack, spare shirt; items: lighter, mints, sugar sachets, 3-4 plastic bottles, folded cardboard.
+mo:out dust | The survivor lying on a flattened cardboard sheet in a small bare concrete utility room (steel door, a metal shelf), sitting up slowly with one hand on the wall, pale and dizzy, an empty plastic water bottle on the floor beside him, soft grey dawn light from a small high window.
+mo:in | Close-up of the survivor's swollen ankle with a purple bruise beside his shoe, and his other hand wrapped in a strip of dirty cloth held half closed, his tired face at the top of the frame, dim room, soft daylight.
+mo:in-right | The survivor at a small outdoor sink with a tap on a wall behind a row of shops, turning the tap with a puzzled expression, only a few brown drops falling, overcast daylight.
+mo:in | The survivor turning a tap on the side wall of a house, the tap dry, a coiled garden hose beside it, a quiet empty street, overcast daylight.
+mo:out-left wind | The survivor looking down at a dirty grey trickle of water in a street gutter and deciding not to drink it, a narrow lane behind the shops, overcast daylight.
+mo:in-right | A small restaurant's back door standing open behind a row of shops; the survivor stepping into a kitchen with pans on a stove and plates beside the sink, turning a knob on the gas stove, grey light through a window.
+mo:in-left | The survivor in a restaurant kitchen opening a cupboard that holds cleaning products and a few empty plastic food containers, a dry tap over the sink, a short corridor leading away behind him.
+mo:in | The survivor in a small restaurant bathroom lifting the ceramic lid of a toilet tank carefully with cloth wrapped around the lid, his head tilted to listen, dim light.
+mo:in | Close-up of the open toilet tank full of bright blue water with a cleaning tablet at the bottom, the survivor looking at it with disappointment, the ceramic lid in his cloth-wrapped hand.
+mo:out wind | A small two-storey brick clinic across a lane from the back of the shops, a glass front door and a grey metal side door, the survivor standing at the end of the lane looking at it, overcast daylight.
+mo:in-right | The survivor crouched behind a dumpster peering around the corner of the clinic at a car park where three grey-green zombies stand motionless between parked cars with their backs to him, overcast daylight.
+mo:in | The survivor beside the clinic's grey metal side door with his hand reaching for the handle, the corner of the building hiding him from the car park, quiet tense mood, nobody else in the picture.
+mo:in-left | The survivor inside the clinic's front reception turning the lock on the glass front door from the inside, empty waiting-room chairs, daylight through the glass, quiet and careful.
+mo:in | The survivor wedging a folded piece of cardboard under the open grey metal side door, daylight along a short corridor, the lane visible outside, calm careful mood.
+mo:in-right | The survivor in a clinic staff room with an empty water cooler, three empty plastic bottles with caps standing on the counter beside it, soft daylight from a window, tidy room.
+mo:in-up | Close-up of the survivor's hand pulling open a drawer to show a box of small paper sugar sachets, his backpack held open in the other hand, staff room.
+mo:out | A utility room in the clinic: a large hot-water tank (a tall steel cylinder) with pipes along the wall and a drain valve near the bottom, the survivor standing in the doorway looking at it, dim light.
+mo:in | The survivor crouching with a plastic bottle held under the drain valve at the bottom of the hot-water tank, one hand turning the valve, a worried listening expression as if he has just heard loud pipe knocks.
+mo:in-left | The survivor standing very still in the utility room listening toward the empty corridor, then in the same picture a thin trickle of water falling from the drain into a bottle.
+mo:in-right | Close-up of cloudy water running from the drain into a bucket on the floor and clearer water filling a plastic bottle, the survivor's doubtful face above it, a lighter showing in his pocket.
+mo:in | The survivor sitting on the utility room floor drinking from a plastic bottle, three more empty bottles lined up beside him, the tank behind him, tired but relieved.
+mo:in-up | Four full plastic bottles lined up on the floor beside the hot-water tank, the survivor glancing toward the corridor with a worried look, his backpack open beside them.
+mo:out | The survivor sitting on the floor beside the hot-water tank drinking again and resting his swollen ankle, leaning back against the wall, tired and relaxed, bottles beside him.
+mo:in | The survivor sitting beside the tank with the backpack still open and bottles on the floor, glancing at his phone clock and telling himself it is fine, quiet tension.
+mo:in | A view down a clinic corridor toward the reception area where several zombies press against the front glass door, their shadows on the glass, the survivor in the foreground looking back down the corridor, alarmed.
+mo:in-left | The survivor quickly putting three bottles into his backpack while a fourth bottle stands beside the tank, looking toward the corridor, urgent.
+mo:in | The survivor hurrying down the clinic corridor with the bag on one shoulder toward the open side door held by the cardboard wedge, daylight at the end of the corridor, cracks spreading across the far front door glass behind him.
+mo:out-right | The survivor stepping out of the side door into the lane, pulling the cardboard wedge out and closing the door behind him, moving away, overcast daylight.
+mo:in | The survivor stopped between two parked vans pushing a spare shirt between the bottles in his backpack, his head turned to listen, an empty lane behind him.
+mo:in-up | The survivor standing behind a wall at a street corner catching his breath, looking back with a thoughtful self-critical expression, overcast daylight.
+mo:in card:note3@1 | The survivor sitting against a wall writing in his notes app on his phone, a soft glow on his face, his backpack beside him, serious thoughtful mood, daylight.
+mo:in-left | The survivor behind a parked van looking across the lane at the clinic entrance where the glass front door is smashed and several grey-green zombies stand inside reception and on the pavement outside, overcast daylight.
+mo:out | The survivor walking slowly down a quiet back street with his bag held close to his back and a slight limp, the clinic small in the distance behind him, overcast daylight.
+mo:in dust | The survivor in the small utility room sliding the bolt across the steel door, three plastic bottles standing on the concrete floor beside a cardboard sheet, evening light from the small high window.
+mo:in | The survivor sitting on the floor looking at three plastic bottles in front of him with a small relief and a worry on his face, dim evening light, bare concrete room.
+mo:in-up | The survivor taking off his shoe and resting his swollen ankle, a few paper sugar sachets in his hand, a lighter and mints on the cardboard beside him, dim room.
+mo:in-left | The survivor arranging the bottles wrapped in a shirt so they cannot knock together, the flashlight and lighter placed within reach, the steel door bolted, calm dim room.
+mo:in | The survivor lying on the cardboard in the dark room with his eyes open, listening, a thin line of grey light at the bottom of the steel door and the shadow of feet passing across it.
+mo:in | The survivor lying curled on his side with one hand on his stomach, eyes open and worried, the bolted steel door visible, a dark room with a faint grey line at the bottom of the door.
+mo:out | The survivor lying awake in the dark room staring at the steel door with its bolt, very dark and quiet, a faint pale light from the high window.

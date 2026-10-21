@@ -332,7 +332,7 @@ const EvacCard: React.FC<{ f: number; start: number }> = ({ f, start }) => {
   );
 };
 
-const NOTES: Record<string, string> = { note1: "Rule one: Noise attracts them.", note2: "Rule two: Find another way out before going farther in.", note3: "Rule three: Don't stay anywhere you can't leave in under a minute." };
+const NOTES: Record<string, string> = { note1: "Rule one: Noise attracts them.", note2: "Rule two: Find another way out before going farther in.", note3: "Rule three: Once you have what you need, leave." };
 
 // a plain note typed into the phone (Episode 2 onward: the survivor writes his rules down)
 const NoteCard: React.FC<{ f: number; start: number; text: string }> = ({ f, start, text }) => {

@@ -1,83 +1,168 @@
 # Tập 3 — Bản dịch tiếng Việt (dịch sát ý để duyệt; bản đọc là `script.md` tiếng Anh)
 
 ## 1. Không có nước
-Tôi tỉnh dậy lúc rạng sáng với cơn đau đầu và cái miệng khô.
-Chai nước đã hết. Tôi uống nốt phần cuối trong đêm.
-Mắt cá chân tôi cứng và sưng, và tay đau khi tôi cố nắm lại. Khi đứng dậy, căn phòng quay một lúc, và tôi bám vào tường cho tới khi nó dừng.
-Hôm qua tôi chỉ ăn vài viên kẹo bạc hà và không có gì khác. Thức ăn cũng là vấn đề, nhưng nước thì không thể chờ. Tôi từng đọc rằng một người có thể sống khoảng ba ngày không có nước, nhưng tôi không biết điều đó đúng đến đâu, và tôi không muốn thử. Sau một ngày chỉ uống rất ít, tôi đã đau đầu và thấy choáng váng.
-Tôi mở ghi chú và đọc các quy tắc. Một: Tiếng động thu hút chúng. Hai: Tìm một lối ra khác trước khi đi sâu hơn.
-Rồi tôi thêm một dòng ở cuối: Hôm nay phải tìm nước.
-Nó phải ở gần căn phòng. Với cái mắt cá chân này, tôi không đi xa được.
-Trước khi ra ngoài, tôi xem kỹ mắt cá chân. Nó sưng quanh xương và chuyển sang màu tím xỉn. Tôi đặt chân xuống được, nhưng không thoải mái. Tôi gấp một dải bìa các-tông tôi nằm thành một miếng đệm cứng, áp vào mặt ngoài mắt cá chân, và quấn chặt bằng một dải vải xé từ tay áo chiếc áo dự phòng. Nó không phải băng đúng nghĩa, và tôi không biết nó có giúp được gì không, nhưng khi đi, mắt cá chân thấy vững hơn.
+Sáng ngày thứ ba, chai nước của tôi đã hết.
+Tôi uống nốt trong đêm.
+Miệng tôi khô, và tôi bị đau đầu. Khi đứng dậy, tôi thấy chóng mặt và bám vào tường cho tới khi hết.
+Mắt cá chân vẫn sưng. Bàn tay đau khi tôi nắm lại.
+Hôm qua tôi đã đi tới điểm sơ tán rồi quay về mà chẳng được gì. Hôm nay tôi cần tìm nước gần căn phòng.
+Tôi không đi thêm một chuyến dài nữa được.
 
-## 2. Những vòi nước
-Tôi bắt đầu từ các vòi nước. Sau dãy cửa hàng có một bồn rửa nhỏ, với một vòi trên tường ngoài. Tôi vặn. Gió rít ra, vài giọt nâu rơi xuống, rồi không còn gì.
-Tôi thử một vòi ở bên hông một ngôi nhà, và một vòi trên tường một trạm xăng. Không cái nào ra nước.
-Tôi đoán là máy bơm đã ngừng khi mất điện, nhưng đó chỉ là đoán. Dù lý do là gì, các đường ống đều trống.
-Trên đường có những vũng nước và một dòng nước xám nhỏ trong rãnh. Tôi không muốn uống thứ nào. Tôi không có cách nào đun hay lọc, và tôi không thể để bị bệnh khi đã yếu sẵn.
+## 2. Kiểm tra các vòi nước
+Tôi cho cái chai rỗng vào túi và đi ra ngoài.
+Phía sau dãy cửa hàng có một bồn rửa nhỏ.
+Tôi vặn vòi.
+Một chút khí ra, rồi vài giọt nâu. Sau đó không còn gì.
+Tôi thử một vòi khác ở một ngôi nhà gần đó. Vòi đó cũng khô.
+Tôi không biết nước bị ngắt hay có thứ gì đó hỏng.
+Dù sao thì tôi cũng không lấy được nước từ những vòi này.
+Có nước trong rãnh, nhưng bẩn. Tôi để yên.
+Tôi cần một nơi nào đó nước có thể vẫn còn được chứa.
 
-## 3. Két nước bồn cầu
-Tôi nhớ ra bồn cầu có một két nước phía sau, và nước đó thường lấy thẳng từ đường ống.
-Sau dãy cửa hàng có một nhà hàng nhỏ với cửa sau đang mở. Tôi lắng nghe một lúc rồi đi vào qua gian bếp. Đĩa và chảo vẫn còn bày trên bàn bếp, như thể mọi người bỏ đi giữa ca làm.
-Tôi thử cái bếp ga trước. Núm vặn kêu cách và không có gì thoát ra. Hoặc là ga đã bị ngắt hoặc đã hết, và tôi không có cách nào biết là cái nào. Không có bếp thì chỉ một chiếc bật lửa không đun sôi nổi một chảo nước. Lửa ngoài trời thì được, nhưng nó cũng tạo khói và ánh sáng, và tôi không biết hai thứ đó sẽ gọi tới thứ gì. Tôi để ý định đó lại sau. Các kệ trong kho gần như trống, và hai chiếc tủ lạnh lớn hôi đến mức tôi không mở.
+## 3. Nhà hàng
+Một nhà hàng nhỏ sau dãy cửa hàng có cửa sau đang mở.
+Tôi lắng nghe bên ngoài, rồi bước vào bếp.
+Có chảo trên bếp và đĩa cạnh bồn rửa.
+Tôi thử cái bếp. Núm vặn kêu cách, nhưng không có ga ra.
+Tôi kiểm tra vòi nước. Không có gì.
+Các tủ có đồ tẩy rửa và vài hộp đựng thức ăn rỗng. Tôi không thấy đồ uống đóng chai nào.
 Cuối một hành lang ngắn là nhà vệ sinh.
-Khi tôi nhấc nắp két, gốm cạ vào vành. Tôi dừng lại và lắng nghe một phút. Không có gì tới. Tôi quấn tay áo quanh mép và nhấc nắp lên hết.
-Bên trong có nhiều nước, nhưng màu xanh sáng. Ai đó đã bỏ một viên tẩy rửa vào két. Tôi không biết chính xác trong đó có gì, chỉ biết nó không dành để uống. Tôi đặt nắp lại từ từ và đi ra.
-Việc đó mất gần một tiếng, và tôi chỉ có thêm là biết thêm một chỗ không dùng được.
+Tôi nhớ rằng két nước phía sau bồn cầu chứa nước tách biệt với bồn. Tôi đi kiểm tra.
+Khi tôi nhấc nắp, gốm cạ vào mép.
+Tôi dừng lại.
+Lắng nghe một lúc, tôi quấn một ít vải quanh nắp và nhấc lên cẩn thận.
+Nước bên trong màu xanh sáng.
+Có một viên tẩy rửa ở đáy.
+Tôi đặt nắp lại.
+Tôi không uống thứ đó.
+Trên đường ra, tôi kiểm tra nốt cái tủ còn lại. Vẫn không có gì dùng được.
+Tôi đã mất thời gian tìm kiếm mà không có nước.
 
-## 4. Chọn một tòa nhà
-Tôi ngồi xuống bên ngoài để suy nghĩ.
-Nước không biến mất khi máy bơm ngừng. Nó nằm nguyên nơi nó được chứa. Két bồn cầu là một chỗ. Chỗ duy nhất khác tôi nghĩ ra là bình nước nóng. Hồi còn thuê nhà, chủ nhà từng xả bình nhà tôi và than rằng nó chứa khoảng một trăm năm mươi lít. Tôi không có cách kiểm tra con số đó, nhưng nhớ là nó rất nhiều.
-Tôi cần một tòa nhà đủ nhỏ để kiểm tra nhanh, có bình nước nóng tôi với tới được. Không phải tòa nhà lớn nhiều tầng.
-Bên kia con ngõ đối diện dãy cửa hàng có một phòng khám. Gạch, hai tầng, có cửa kính phía trước và một cửa kim loại bên hông. Tôi đã đi ngang qua vài lần mà không thật sự nhìn.
+## 4. Phòng khám
+Bên kia con ngõ có một phòng khám nhỏ.
+Tôi đã đi ngang qua nó trước đây. Một phòng khám sẽ có phòng nhân viên và nhà vệ sinh, và nó đủ nhỏ để kiểm tra nhanh. Lần này tôi đi vòng quanh bên ngoài.
+Lối vào phía trước là kính. Một cửa kim loại bên hông mở ra con ngõ.
+Ở phía sau, ba con bị nhiễm đứng giữa các xe đậu.
+Tôi nấp sau một thùng rác và quan sát.
+Chúng không đi về phía tôi. Góc tòa nhà che tầm nhìn của chúng tới cửa hông.
+Tôi có thể để mặc chúng nếu giữ im lặng.
+Tôi thử tay nắm cửa hông.
+Không khóa.
+Bên trong là một hành lang ngắn dẫn về phía lễ tân.
+Trước khi tìm kiếm, tôi ra lối vào phía trước và kiểm tra nó. Cánh cửa đó cũng mở được.
+Tôi đóng lại và khóa từ bên trong, để không gì đẩy vào từ ngoài phố được.
+Giờ tôi biết cả hai lối ra đều dùng được.
+Tôi quay lại cửa hông và chèn nó mở bằng miếng bìa gấp. Rồi tôi bắt đầu kiểm tra các phòng gần đó.
 
-## 5. Kiểm tra phòng khám
-Tôi đi vòng quanh nó trước khi vào. Mặt trước là kính. Cửa hông là kim loại xám, không có cửa sổ. Tôi áp tai vào nghe khoảng một phút và không nghe thấy gì.
-Phía sau tòa nhà là một bãi đỗ xe, và ba con đang đứng giữa các xe đậu. Chúng không di chuyển. Chúng quay mặt vào bức tường sau, xa con ngõ nơi cửa hông mở ra. Tôi không biết điều gì giữ sự chú ý của chúng, và tôi không muốn tìm hiểu.
-Tôi núp sau một thùng rác và quan sát chúng khoảng mười phút. Không con nào cử động. Cửa hông ở sau góc so với chỗ chúng đứng, và theo những gì tôi thấy thì chúng không nhìn được tới đó.
-Tôi lập một kế hoạch. Tôi sẽ vào bằng cửa hông và giữ bước chân khẽ. Cửa kính phía trước là lối ra thứ hai. Nếu có gì tới từ phía bãi đỗ xe, tôi sẽ ra bằng cửa trước. Nếu có gì tới từ phía trước, tôi sẽ ra bằng cửa hông.
-Tôi thử tay nắm. Nó không khóa. Tôi mở từ từ, và khi bước qua, tôi gấp một miếng bìa các-tông và chèn dưới cánh cửa để nó không đóng sập lại sau lưng.
+## 5. Bình nước nóng
+Có đủ ánh sáng ban ngày để nhìn mà không cần đèn pin.
+Phòng đầu tiên chứa đồ vệ sinh. Phòng tiếp theo là phòng nhân viên với một máy nước rỗng.
+Bên cạnh là ba chai nhựa rỗng có nắp.
+Tôi lấy chúng.
+Trong một ngăn kéo, tôi tìm thấy một hộp các gói đường. Tôi cũng bỏ chúng vào túi.
+Không có thức ăn thật sự.
+Xa hơn dọc hành lang, tôi tìm thấy một phòng kỹ thuật.
+Bên trong có một bình nước nóng lớn.
+Tôi từng thấy một cái tương tự bị xả nước ở nơi tôi từng thuê nhà. Tôi không tự làm việc đó, nhưng nhớ là bên trong có rất nhiều nước.
+Cái này có thể vẫn còn một ít.
+Tôi tìm thấy chỗ xả gần đáy và đặt chai của mình bên dưới. Tôi vặn van bằng tay.
+Khi tôi thử, đường ống phát ra vài tiếng gõ lớn.
+Tôi dừng ngay lập tức.
+Tôi vẫn hình dung ra ba con bị nhiễm phía sau tòa nhà.
+Tôi đứng nghe.
+Không có bước chân nào trong hành lang. Không có tiếng động từ hai lối vào.
+Một lúc sau, tôi thử lại, chỉ mở hé một chút.
+Lần này, nước nhỏ vào chai mà không có thêm tiếng gõ.
 
-## 6. Bình nước nóng
-Bên trong, phòng khám có mùi bụi và thuốc sát trùng. Có những chiếc ghế phòng chờ, một quầy lễ tân với các ngăn kéo bị rút ra, và một hành lang chạy từ sảnh vào phía sau. Ánh sáng ban ngày lọt qua cửa sổ phía trước đủ để nhìn, nên tôi để đèn pin tắt. Tôi không biết ánh sáng có thu hút chúng không, và tôi không muốn tìm hiểu.
-Trên quầy lễ tân có một túi giấy đựng nửa chiếc bánh mì kẹp, phủ đầy mốc xanh. Tôi nhìn nó lâu hơn mức tôi muốn thừa nhận, rồi đi tiếp.
-Khoảng giữa hành lang có một cánh cửa với chữ Kỹ thuật sơn trên đó. Bên trong, trong một căn phòng nhỏ, là bình nước nóng, một thùng thép cao với một ống chạy vào tường và một van đồng ở đáy. Trên kệ phía trên là hộp đồ nghề. Tôi mở nó từ từ. Kìm, tua vít và một cờ lê điều chỉnh.
-Tôi đặt cờ lê lên van và vặn một phần tư vòng. Các đường ống bắt đầu đập, một tiếng gõ trầm vang suốt chiều dài tòa nhà. Tôi đóng van ngay và đứng yên, lắng nghe phía sảnh. Tôi đếm tới một trăm. Không có gì xảy ra.
-Tôi quấn chặt áo khoác quanh van và ống để làm giảm tiếng, rồi mở van lại, từng chút một, cho tới khi một dòng nước mảnh chảy vào chai. Nó ấm và có vị kim loại, nhưng đó là nước.
+## 6. Rót đầy các chai
+Nước đầu tiên trông đục. Tôi để nó chảy vào một cái xô có sẵn trên sàn.
+Nước sau đó trông trong hơn.
+Điều đó không cho tôi biết nó có an toàn để uống không.
+Tôi không có cách nào kiểm tra. Tôi có một chiếc bật lửa, nhưng cái bếp ở nhà hàng không dùng được, và lửa nghĩa là khói và ánh sáng mà tôi không muốn liều.
+Tôi nghĩ tới việc tìm chỗ khác.
+Nhưng tôi đã chẳng tìm được gì ở các cửa hàng hay nhà hàng, và mắt cá chân đã bắt đầu đau hơn.
+Tôi uống một ít.
+Rồi tôi rót đầy chai của mình và ba chai tôi tìm thấy ở phòng nhân viên.
+Tôi cứ dừng lại để nghe.
+Nước chảy chậm. Khi xong, tôi đã ở trong đó lâu hơn nhiều so với dự định.
+Tôi có bốn chai đầy.
+Lẽ ra tôi nên đóng gói và đi.
 
-## 7. Uống và rót đầy
-Tôi uống chậm, từng ngụm một, chờ giữa các ngụm, vì sợ làm mình bị bệnh. Bụng tôi co thắt, rồi dịu lại.
-Tôi không chắc nước này an toàn. Nó đến từ đường ống chính trước khi mọi thứ ngừng, và nằm trong một thùng kín, nghe có vẻ tốt hơn nước vũng. Lúc đầu nó đục, nên tôi để chai đứng yên và rót phần nước trong ở trên sang chai khác, để lại cặn. Tôi có bật lửa, nhưng cái bếp trong nhà hàng không dùng được, và lửa nghĩa là khói và ánh sáng mà tôi không muốn liều. Cuối cùng tôi vẫn uống. Khát là một vấn đề chắc chắn, còn đau bụng chỉ là một vấn đề có thể xảy ra. Nếu tôi sai, tôi sẽ biết sau một hai ngày.
-Trong phòng nghỉ cạnh hành lang, tôi tìm thấy ba chai rỗng bên một máy nước đã chết. Trong ngăn kéo có một hộp các gói đường bằng giấy, chừng ba mươi gói. Đó không phải thức ăn, nhưng vẫn là thứ gì đó, nên tôi bỏ vào túi.
-Rót đầy các chai rất chậm, vì tôi giữ dòng nước mảnh để ống không kêu. Khi rót đầy bốn chai, điện thoại cho biết tôi đã ở trong phòng khám hơn hai mươi phút. Bốn chai đã nhiều hơn mức tôi có thể mang thoải mái với cái mắt cá chân và bàn tay này.
+## 7. Thêm vài phút
+Thay vào đó, tôi ở lại.
+Tôi mệt, và tôi không muốn bỏ lại nước khi có thể khó tìm thêm.
+Tôi ngồi cạnh bình và uống tiếp.
+Rồi tôi cho mắt cá chân nghỉ.
+Tôi tự nhủ tôi sẽ đi sau một phút nữa.
+Kể từ lúc các đường ống kêu, không có chuyện gì xảy ra. Điều đó làm tôi dễ tiếp tục chờ hơn.
+Túi của tôi vẫn mở. Các chai nằm trên sàn.
+Khi tôi cuối cùng bắt đầu đóng gói, tôi nghe một tiếng thịch từ khu lễ tân.
+Rồi một tiếng nữa.
+Có thứ gì đang đập vào cửa trước.
 
-## 8. Ở lại quá lâu
-Lẽ ra tôi phải đi ngay lúc đó. Nhưng bình vẫn gần đầy, và tôi vẫn còn khát. Tôi mới uống chừng một chai, và tôi không biết khi nào mình lại tìm được nước. Tôi quyết định uống thêm khi còn ở đó, để khỏi phải mang theo.
-Tôi ngồi xuống sàn căn phòng nhỏ và uống chậm thêm khoảng mười phút. Đầu tôi đã hết đau. Lần đầu trong ngày, tôi suy nghĩ được rõ ràng.
-Tôi biết mình đang mạo hiểm. Căn phòng cách cửa hông khoảng mười mét, với hành lang ở giữa, và tôi có một cái túi, một mắt cá chân đau, và một bàn tay không nắm lại được. Nhưng cho tới lúc đó chưa có chuyện gì, và tôi tự nhủ ở thêm vài phút nữa cũng được.
+## 8. Lối ra bên hông
+Tôi nhìn xuống hành lang.
+Qua khu lễ tân, tôi thấy những bóng người áp vào tấm kính.
+Tôi không biết đó có phải những con ở bãi đỗ xe không.
+Tôi không chờ để đếm.
+Tôi cho ba chai vào túi. Chừng đó là tất cả những gì tôi mang được mà không bị chậm. Chai thứ tư vẫn ở cạnh bình.
+Một cú va nữa làm rung cửa trước.
+Tôi bỏ lại chai đó, quàng túi lên vai, và đi về phía lối ra bên hông.
+Miếng bìa vẫn đang giữ cửa mở.
+Khi tôi tới cửa, tôi nghe kính vỡ sau lưng.
+Tôi bước ra ngoài, rút miếng bìa ra, và đóng cửa lại.
+Rồi tôi đi ra xa khỏi bãi đỗ xe.
+Các chai va vào nhau trong túi.
+Tôi dừng lại sau một chiếc xe tải đậu và nhét chiếc áo dự phòng vào giữa chúng.
+Tôi lắng nghe.
+Có tiếng động từ phòng khám, nhưng không có bước chân nào đi dọc con ngõ.
+Tôi tiếp tục đi.
 
-## 9. Ra ngoài
-Rồi tôi nghe thấy tiếng gõ từ phía sảnh, một tiếng đập chậm vào kính.
-Tôi không biết ba con ở bãi đỗ xe đã nghe tiếng ống nước từ trước và vòng ra phía trước, hay chỉ tình cờ đi lang thang về hướng đó. Tôi không chờ để biết.
-Tôi cho ba chai đầy vào túi và bỏ lại chai thứ tư, chỉ đầy một nửa. Tôi đi nhanh dọc hành lang, giữ bước chân khẽ hết mức. Miếng bìa vẫn còn dưới cánh cửa hông.
-Khi bước ra ngoài, tôi nghe tiếng kính nứt sau lưng, rồi một âm thanh như vật gì rơi xuống sàn. Tôi đóng cửa lại phía sau nhẹ hết mức có thể và đi theo hướng ngược lại dọc con ngõ, xa bãi đỗ xe.
-Các chai va vào nhau trong túi ở mỗi bước chân. Tôi dừng giữa hai chiếc xe tải đậu, tháo túi xuống, và nhét phần còn lại của chiếc áo dự phòng vào giữa các chai để chúng không chạm nhau. Rồi tôi lắng nghe. Tôi không nghe thấy bước chân nào phía sau. Tôi đi tiếp, và không dừng lại cho tới khi cách xa ba dãy phố.
+## 9. Quy tắc ba
+Ở góc phố tiếp theo, tôi dừng lại sau một bức tường.
+Tôi đã ra được bằng lối ra thứ hai mà tôi đã kiểm tra.
+Phần đó đã có tác dụng.
+Nhưng tôi đã phí thời gian ngồi cạnh chỗ nước trong khi đã có thể rời đi.
+Tôi mở ghi chú.
+Quy tắc ba: Khi đã có thứ mình cần, hãy rời đi.
+Tôi không cần xả cạn cái bình.
+Tôi không cần nghỉ bên trong tòa nhà đó.
+Tôi cần nước, và tôi đã có nó đóng gói sẵn trong tầm tay.
+Ở lại lâu hơn đã làm tôi mất một chai và suýt bị kẹt.
 
-## 10. Quy tắc ba
-Tôi dừng ở một ô cửa và mở ghi chú.
-Quy tắc ba: Đừng ở lại bất cứ nơi nào mà bạn không thể rời đi trong chưa đầy một phút.
-Tôi đã làm theo quy tắc hai. Tôi đã kiểm tra lối ra thứ hai trước khi vào. Nhưng tôi đã ở hơn nửa tiếng trong một tòa nhà mà từ cuối hành lang, tôi cần lâu hơn nhiều so với một phút để ra ngoài với cái túi. Tôi biết đó là rủi ro, và vẫn ở lại, vì tôi khát và nước ở ngay đó.
-Tôi ra về với ba chai. Nếu tôi đi ngay khi vừa có bốn chai, có lẽ tôi đã mang ra được cả bốn.
+## 10. Đường về
+Từ sau một chiếc xe tải trên đường về, tôi nhìn thấy lối vào phòng khám.
+Kính phía trước đã vỡ.
+Vài con bị nhiễm ở trong khu lễ tân, và nhiều con nữa đứng bên ngoài.
+Tôi không biết các đường ống có thu hút chúng không hay chúng chỉ tình cờ đi lại.
+Tôi sẽ không quay lại kiểm tra.
+Vẫn còn nước trong bình, nhưng muốn lấy bây giờ thì phải vào một tòa nhà do chúng chiếm.
+Tôi sẽ phải tìm một nguồn khác trước khi những chai này hết.
+Tôi đi các con phố yên tĩnh hơn về phòng.
+Mắt cá chân đau, nên tôi đi chậm và giữ cái túi sát vào lưng.
 
-## 11. Nhìn từ xa
-Trước khi về phòng, tôi đi đường vòng để nhìn phòng khám từ xa. Tôi cần biết nó còn là một lựa chọn hay không.
-Từ cuối con ngõ, sau một chiếc xe tải đậu, tôi nhìn được mặt trước tòa nhà. Cánh cửa kính đã sập. Bảy tám con đang đứng trong sảnh và trên vỉa hè bên ngoài, chen chúc quanh khung cửa. Tôi không biết vì sao chúng tụ lại đó. Có thể vì tiếng kính, hoặc tiếng ống nước lúc trước, hoặc chỉ vì những con đầu tiên dừng lại rồi những con khác đi theo.
-Bình nước nóng vẫn gần đầy, và tôi biết mình sẽ lại cần chỗ nước đó. Nhưng cửa hông dẫn vào một hành lang có sảnh ở một đầu. Quay lại nghĩa là đi vào chính tòa nhà nơi chúng đang đứng. Tôi quyết định không thử. Nếu cần nước đó lần nữa, nó phải chờ cho tới khi chúng đi chỗ khác.
-
-## 12. Về lại căn phòng
-Tôi về căn phòng bằng các ngõ sau, đi chậm, vì mắt cá chân tệ hơn sau quãng đi thêm.
-Tôi cài chốt rồi ngồi xuống sàn. Tôi có ba chai. Mỗi chai khoảng nửa lít theo tôi đoán, tổng cộng khoảng một lít rưỡi. Tôi cũng đã uống nhiều ở phòng khám, nên lần đầu tiên sau hai ngày, tôi không còn khát.
-Tôi ăn một gói đường, đổ vào lưỡi. Đó là thứ ngọt đầu tiên kể từ mấy viên kẹo bạc hà. Tôi không có thức ăn thật. Bữa ăn tử tế cuối cùng là hai đêm trước.
-Tôi xem mình có gì. Nước đủ cho khoảng ba ngày nếu giữ mỗi ngày một chai, nghĩa là sẽ vẫn khát. Một chiếc bật lửa, kẹo bạc hà, và chừng ba mươi gói đường. Một mắt cá chân sưng, một bàn tay đau khi nắm, và một chiếc điện thoại còn pin nhưng không có sóng.
-Tôi không đi xa được với cái mắt cá chân đó, và tôi không đủ sức để liều thêm một chuyến như hôm nay. Tôi quyết định ngày mai ở trong phòng nghỉ cho nó đỡ. Tôi sẽ dùng thời gian đó để nghĩ xem gần đây có thể tìm thức ăn ở đâu.
-Đêm đó, tôi nằm trên tấm bìa với chốt cửa đã cài. Hai lần tôi nghe thấy thứ gì đó đi qua bên ngoài, những bước chân chậm, dừng lại một lúc rồi đi tiếp. Cả hai lần tôi nằm yên cho tới khi chúng đi hết. Tôi không biết chúng có biết tôi ở đó hay chỉ đi ngang qua, và tôi không muốn là người đi tìm câu trả lời.
+## 11. Trở vào phòng
+Tôi kiểm tra bên ngoài căn phòng, bước vào, và cài chốt.
+Rồi tôi đặt các chai xuống sàn.
+Ba chai, mỗi chai khoảng nửa lít.
+Tôi cũng đã uống một ít ở phòng khám.
+Đó là lần đầu tiên sáng nay tôi ngồi xuống mà không phải nghĩ ngay tới chuyện kiếm nước.
+Tôi vẫn không biết uống nó có làm mình bị bệnh không.
+Bây giờ tôi không làm gì được về chuyện đó.
+Tôi đếm các gói đường. Khoảng ba mươi.
+Tôi ăn một gói, rồi cất phần còn lại.
+Tôi vẫn cần thức ăn. Đường sẽ không thay được bữa ăn.
+Mắt cá chân sưng hơn sau quãng đi. Tôi cởi giày và cho chân nghỉ.
+Ngày mai, tôi sẽ phải giữ cho mọi chuyến đi thật ngắn.
+Trước khi nằm xuống, tôi sắp các chai để chúng không va vào nhau. Tôi để chiếc bật lửa và đèn pin ở chỗ tôi với tới được.
+Hôm nay chưa giải quyết được mọi thứ.
+Nhưng tôi đã mang nước về, và tôi đã dùng lối ra thứ hai thay vì bị kẹt bên trong.
+Lúc này, thế là đủ để tôi nghỉ.
+Đêm đó, có bước chân đi qua ngoài cửa.
+Chúng dừng lại một lúc.
+Tôi giữ im lặng.
+Một lúc sau, chúng đi tiếp.
+Sau đó, bụng tôi quặn lên.
+Có thể là do nước. Cũng có thể chỉ là do đói. Tôi không phân biệt được.
+Tôi nằm yên trên tấm bìa, lắng nghe cánh cửa.
+Nếu là do nước, sáng mai tôi sẽ biết. Và nếu tôi bị bệnh, ngày mai tôi sẽ không đi đâu được.
