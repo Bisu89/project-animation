@@ -166,7 +166,7 @@ export const E3: React.FC<{ stage: number }> = ({ stage }) => {
         ))}
       </g>
       {stage === 1 && <Card x={660} y={110} text="DEEP, PACKED INFANTRY" at={20} f={f} size={30} />}
-      {stage === 1 && <Card x={1150} y={440} text="THE AIM: PUNCH THROUGH THE CENTRE" at={50} f={f} size={28} />}
+      {stage === 1 && <Card x={1150} y={560} text="THE AIM: PUNCH THROUGH THE CENTRE" at={50} f={f} size={28} />}
       {stage === 1 && <Arrow x1={800} y1={480} x2={1180} y2={480} color={RED} p={ease(f, 50, 100)} w={14} />}
       {/* Carthaginians */}
       <g opacity={oC}>
