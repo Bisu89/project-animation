@@ -16,6 +16,7 @@ import { Video as ZsEp01, DURATION as ZsEp01_DURATION } from "./zs-ep01/Video";
 import { Video as ZsEp02, DURATION as ZsEp02_DURATION } from "./zs-ep02/Video";
 import { Video as AncPilot1, DURATION as AncPilot1_DURATION } from "./anc-pilot1/Video";
 import { Video as AncEp01, DURATION as AncEp01_DURATION } from "./anc-ep01/Video";
+import { Video as AncEp02, DURATION as AncEp02_DURATION } from "./anc-ep02/Video";
 // stickman-video:imports
 
 export const RemotionRoot: React.FC = () => {
@@ -148,6 +149,15 @@ export const RemotionRoot: React.FC = () => {
         width={1920}
         height={1080}
         defaultProps={{ music: 0.18, sfx: 0, voice: "voice.wav", captions: true }}
+      />
+      <Composition
+        id="AncEp02"
+        component={AncEp02}
+        durationInFrames={AncEp02_DURATION}
+        fps={30}
+        width={1920}
+        height={1080}
+        defaultProps={{ music: 0, sfx: 0, voice: "voice.wav", captions: true }}
       />
       {/* stickman-video:compositions */}
     </>

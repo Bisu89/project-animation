@@ -1,0 +1,89 @@
+mo:in dust | A packed mass of Roman legionaries pressed shoulder to shoulder on a dusty plain, shields crushed against each other, arms pinned, helmets knocked sideways, faces squeezed and panicked with big round eyes, nobody able to swing a sword, afternoon haze. Roman legionary: bronze helmet with a brim, chain mail, big curved rectangular red shield, short sword, red tunic. 
+mo:in | (no picture needed: diag ('E4', 4))
+mo:in | (no picture needed: diag ('E4', 3))
+mo:in-up wind | Hannibal: big-headed Carthaginian general, dark curly beard, bronze helmet with a white plume, dark red cloak with white trim, calm intelligent eyes. He stands on a low hill in the evening light looking down at a huge Roman army far below on a flat plain, arms crossed, small Carthaginian camp behind him, tired but confident expression.
+mo:in | (no picture needed: same (4,))
+mo:in-right wind | Hannibal: big-headed Carthaginian general, dark curly beard, bronze helmet with a white plume, dark red cloak with white trim, calm intelligent eyes. He rides at the head of a long column crossing a snowy mountain pass in the Alps, war elephants with towers plodding behind him, soldiers wrapped in cloaks, a few elephants slipping on the ice, bright cold sunrise.
+mo:in | (no picture needed: diag ('E1', 0))
+mo:in-down rain | The battle of the Trebia: Roman soldiers wading through an icy winter river up to their chests, shivering and hungry, helmets dripping, while Carthaginian soldiers and cavalry charge out of the mist along the bank. Roman legionary: bronze helmet with a brim, chain mail, big curved rectangular red shield, short sword, red tunic. 
+mo:in-left | The ambush at Lake Trasimene: a Roman column marching in a narrow strip of road between hills and a misty lake, looking up in shock as Carthaginian soldiers pour down the slopes from the fog; dawn mist on the water. Roman legionary: bronze helmet with a brim, chain mail, big curved rectangular red shield, short sword, red tunic. 
+mo:in-right | Fabius: very old Roman senator, thin white hair, white toga with a purple border, patient half-smile. He rides on a quiet hill behind Hannibal's marching army at a safe distance, with a few Roman scouts, watching them pass like a tour guide; autumn light, dust from the distant column.
+mo:in-left dust | Roman cavalry raiding a Carthaginian foraging party in a farm field: foragers dropping sacks of grain and running, an overturned supply cart, Roman riders swinging spears, golden harvest field, morning light.
+mo:in | Angry Roman soldiers jeering and pointing at Fabius as he calmly leads the army along a road, tour-guide style with a raised hand; a few soldiers rolling their eyes and mimicking him; dusty road, afternoon sun, comic mood. Fabius: very old Roman senator, thin white hair, white toga with a purple border, patient half-smile. 
+mo:in-up | Election day in the Roman Forum: a crowd of voters in togas casting wooden tablets into baskets in front of a platform where Varro grins and waves at the crowd while Paullus stands stiffly beside him arms folded. Varro: broad loud Roman consul, red face, red cloak over bronze cuirass, big gestures. Paullus: stern grey-bearded Roman consul, bronze cuirass, crested helmet, worried frown. 
+mo:in-right dust | A huge Roman recruitment field: long lines of farmers and townsmen being handed shields, helmets and swords by officers with ledgers, stacks of equipment, banners, a clerk with a scroll, ambitious mood, warm summer light.
+mo:in | (no picture needed: diag ('E2', 0))
+mo:in | (no picture needed: diag ('E2', 0))
+mo:in | (no picture needed: diag ('E2', 0))
+mo:in | (no picture needed: diag ('E2', 1))
+mo:in | (no picture needed: act ('march2',))
+mo:in-left | Libyan soldiers in a Carthaginian camp proudly wearing captured Roman armour that does not quite fit: one with an oversized Roman helmet down over his eyes, another with a short mail shirt, a third inspecting a Roman shield; a comic scene, bright campfire.
+mo:in-up dust | Carthaginian soldiers swarming into the town of Cannae on a hill and carrying out heavy sacks of grain from a Roman storehouse, a few Roman guards raising hands, sacks piled on carts, dry golden summer landscape.
+mo:out | A wide flat plain beside a winding river in southern Italy with two Roman camps laid out in neat rectangles with tents and palisades, banners, distant Carthaginian fires on the other side, hot summer light, view from a low hill.
+mo:in-left | Varro: broad loud Roman consul, red face, red cloak over bronze cuirass, big gestures. Paullus: stern grey-bearded Roman consul, bronze cuirass, crested helmet, worried frown. They sit at a table in a command tent with a big water clock and a calendar of days, handing a wooden command baton back and forth across the table, Paullus handing it reluctantly and Varro grabbing it eagerly.
+mo:in-right | Paullus: stern grey-bearded Roman consul, bronze cuirass, crested helmet, worried frown. He stands on a rise looking down at a wide flat open plain, a few Carthaginian horsemen on the far horizon, hand on his chin, deeply worried.
+mo:in-up | Varro: broad loud Roman consul, red face, red cloak over bronze cuirass, big gestures. He stands on a platform in front of cheering Roman legionaries, one fist raised and the other pointing forward, grinning confidently, banners and eagles behind him.
+mo:in-down | Livy the historian: an old Roman writer in a toga at a desk covered in scrolls, scribbling angrily, with a small comic doodle of Varro as a clown on the scroll in front of him, a bust of a stern Roman on a shelf, lamp light.
+mo:in | (no picture needed: act ('march',))
+mo:in | (no picture needed: diag ('E3', 0))
+mo:in | (no picture needed: diag ('E3', 0))
+mo:in | (no picture needed: diag ('E3', 0))
+mo:in | (no picture needed: diag ('E3', 1))
+mo:in | (no picture needed: diag ('E3', 1))
+mo:in | (no picture needed: diag ('E3', 1))
+mo:in | (no picture needed: diag ('E3', 2))
+mo:in | (no picture needed: diag ('E3', 2))
+mo:in | (no picture needed: diag ('E3', 2))
+mo:in | (no picture needed: diag ('E3', 2))
+mo:in-right | A Roman legionary on a hill looking out at the enemy line, eyes lighting up with a hungry grin as he sees that the Carthaginian centre bulges forward and looks weak; fellow soldiers pointing, a Roman officer rubbing his hands. Roman legionary: bronze helmet with a brim, chain mail, big curved rectangular red shield, short sword, red tunic. 
+mo:in | (no picture needed: diag ('E3', 3))
+mo:in | (no picture needed: diag ('E3', 4))
+mo:in | Gallic and Spanish infantry retreating step by step in good order under pressure: warriors with long moustaches and blue-patterned cloaks beside Spanish soldiers in white tunics with purple edges, keeping their line, shields up, looking over their shoulders with calm faces.
+mo:in-left dust | Cavalry clash on a river bank: Gallic and Spanish heavy cavalry crashing into smaller Roman cavalry, horses rearing, spears breaking, river on one side, dust rising, dramatic afternoon light, cartoon style, no gore.
+mo:in | (no picture needed: diag ('E4', 0))
+mo:in-down | Roman cavalrymen who have dismounted fighting desperately on foot at the river bank, horses running loose, a trampled standard, shields up, a Carthaginian horseman closing in; heavy dust.
+mo:in | (no picture needed: diag ('E4', 1))
+mo:in | (no picture needed: act ('advance',))
+mo:in | (no picture needed: diag ('E4', 2))
+mo:in | (no picture needed: act ('flank',))
+mo:in | (no picture needed: diag ('E4', 3))
+mo:in | (no picture needed: diag ('E4', 4))
+mo:out flicker | A stunned Roman centurion sitting on the ground at dusk with his helmet in his hands, staring blankly ahead, shields and standards scattered across the plain behind him, a thin line of smoke from the camp, sad grey and orange light.
+mo:in-right dust | Carthaginian heavy cavalry charging across the plain at full gallop led by Hasdrubal with a standard, riders with spears levelled, dust trails, sun low behind them, strong sense of speed, cartoon style.
+mo:in-up | A giant blacksmith's anvil and hammer on a stone table, with tiny toy armies: a small blue-and-gold army forming the hammer and a mass of red Roman toy soldiers squeezed against the anvil, a pair of hands with chalk marks, workshop light.
+mo:in | (no picture needed: same (41,))
+mo:in-left | Comic scene: a cheerful Roman officer marching with his column straight toward a giant mousetrap on the plain that has a bulging wedge of cheese as bait, soldiers behind him pushing him forward, Hannibal's army hidden behind hills smiling. Warm light.
+mo:in | (no picture needed: same (55,))
+mo:in-right | A Roman senator in the Senate house holding an enormous bill, a scroll that unrolls all the way across the marble floor, other senators staring at it in dismay, a clerk adding tally marks, grey dramatic light.
+mo:in | Two-panel comparison: on the left a narrow mountain pass where a small Greek line stops a huge Persian horde; on the right a wide plain where a huge Roman mass is squeezed into a crescent by a smaller army; divided by a thin line. Same illustrated style, calm light.
+mo:in | (no picture needed: diag ('E4', 4))
+mo:in | (no picture needed: diag ('E4', 4))
+mo:in-left | Two ancient historians at facing desks: Polybius (Greek, older) and Livy (Roman, younger), each with a scroll covered in tally marks showing different totals, both glaring at each other with raised eyebrows; a lamp and an abacus between them.
+mo:in | (no picture needed: same (61,))
+mo:in-right | A modern historian with glasses and a cardigan scratching his head over a messy desk covered in notes, maps and calculators, ancient scrolls leaning on the shelves behind him, mild comic mood, warm lamp light.
+mo:out wind | A battlefield at dusk after the fight, tasteful and quiet: rows of abandoned Roman shields and helmets on the grass, a toppled standard, ravens circling, long shadows, orange sunset, no bodies shown.
+mo:in | Paullus: stern grey-bearded Roman consul, bronze cuirass, crested helmet, worried frown. He sits on a rock wounded and exhausted, helmet off, refusing a horse that a young officer is holding out for him, the officer pleading, battle smoke far behind them, dusk.
+mo:in-up flicker | Hannibal: big-headed Carthaginian general, dark curly beard, bronze helmet with a white plume, dark red cloak with white trim, calm intelligent eyes. He stands at night outside his tent looking toward the distant glow of a city on the horizon, soldiers asleep around campfires, tired and thoughtful.
+mo:in-right | Maharbal, a Numidian cavalry commander in a leopard-skin cloak, urging Hannibal with a pointing arm toward a distant walled city on the horizon, while Hannibal stands with his arms crossed, hesitating; banquet table sketched faintly in a thought cloud above Maharbal. Hannibal: big-headed Carthaginian general, dark curly beard, bronze helmet with a white plume, dark red cloak with white trim, calm intelligent eyes. 
+mo:in | (no picture needed: same (67,))
+mo:in-left | The huge walls and gates of Rome in the distance, defenders on the ramparts, in the foreground tired Carthaginian soldiers resting with no siege ladders or towers, a lone wagon, a worried Carthaginian engineer shrugging.
+mo:in | (no picture needed: diag ('E1', 4))
+mo:in-down | The Roman Senate refusing to ransom prisoners: stern senators with arms crossed, one pointing at the door, while a Carthaginian envoy in dark robes and a few Roman prisoners' relatives plead at the entrance; marble hall, hard light.
+mo:in-right dust | Slaves being freed and handed swords and shields by Roman officers, one holding his sword awkwardly with wide-eyed disbelief, others lining up behind him, a stamp-like seal in the officer's hand, public square, hurried urgent mood.
+mo:in-left | Varro: broad loud Roman consul, red face, red cloak over bronze cuirass, big gestures. He rides back to Rome on a tired horse, head bowed, while a long line of senators in togas walks out through the city gate to meet him with solemn faces; dusk, quiet street.
+mo:in-up wind | Survivors of Cannae in exile on the island of Sicily: tired Roman soldiers building a rough camp under guard, patched cloaks, a sad officer watching the sea, gulls, grey morning.
+mo:in | (no picture needed: diag ('E1', 4))
+mo:in-right | Farmers in a field dropping their tools and picking up shields, with a long line of more farmers marching in from every direction along dusty roads toward a recruiting banner, beautiful Italian countryside, determined mood.
+mo:in | (no picture needed: diag ('E6', 0))
+mo:in | Generals in a classroom around a large sand table that models the plain of Cannae with tiny blocks, an instructor with a pointer explaining the crescent and the encirclement, other officers taking notes, warm lamp light.
+mo:in-left | Alfred von Schlieffen, a stern German general with a moustache and spiked helmet on the desk, bent over a huge map of France with pencil lines, a book titled with only a drawing of a crescent beside him, 1900s office, lamp light.
+mo:in | (no picture needed: diag ('E6', 1))
+mo:in | (no picture needed: same (76,))
+mo:in-down | Fabius: very old Roman senator, thin white hair, white toga with a purple border, patient half-smile. He smiles smugly in the Senate with his hands tucked into his toga, while embarrassed senators look at their feet, a small crowd of Romans listening to him; warm marble hall light.
+mo:in-up flicker | Young Scipio as a Roman military tribune at dusk, cloak torn, helmet under one arm, looking out over the battlefield with a determined face, a few survivors behind him, orange sunset.
+mo:in-right dust | The battle of Zama: Scipio's cavalry sweeping round to charge the rear of Hannibal's army, a few war elephants stumbling in confusion at the centre, dusty North African plain, dramatic afternoon light.
+mo:in | A giant dense mass of Roman soldiers seen from above squeezed into a bulge, with a smaller Carthaginian crescent closing around it, a few Romans at the edges fighting and the rest unable to move, painterly aerial view.
+mo:in | (no picture needed: diag ('E4', 4))
+mo:in-up | Hannibal: big-headed Carthaginian general, dark curly beard, bronze helmet with a white plume, dark red cloak with white trim, calm intelligent eyes. He leans over a tabletop model of a plain with tiny red and blue figures and a crescent shape, finger on his lips, quietly smiling with an intelligent, calm face, lamp light.
+mo:in | (no picture needed: same (4,))
+mo:out flicker | A single bronze Roman helmet with a crest resting on a grassy plain at sunset with a broken red shield beside it, a silhouette of distant hills, a long shadow, quiet and respectful.

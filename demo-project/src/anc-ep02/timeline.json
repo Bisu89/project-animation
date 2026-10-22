@@ -1,0 +1,2303 @@
+{
+ "fps": 30,
+ "durationInFrames": 31949,
+ "seconds": 1064.97,
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.6,
+   "end": 8.308,
+   "startFrame": 18,
+   "endFrame": 249,
+   "words": 28,
+   "text": "By the middle of the afternoon on the second of August, 216 BC, the Roman soldiers in the center of the line can no longer lift their arms."
+  },
+  {
+   "i": 1,
+   "start": 8.808,
+   "end": 10.774,
+   "startFrame": 264,
+   "endFrame": 323,
+   "words": 7,
+   "text": "There are tens of thousands of them."
+  },
+  {
+   "i": 2,
+   "start": 11.124,
+   "end": 13.624,
+   "startFrame": 334,
+   "endFrame": 409,
+   "words": 9,
+   "text": "Most have not been touched by a weapon yet."
+  },
+  {
+   "i": 3,
+   "start": 13.974,
+   "end": 17.867,
+   "startFrame": 419,
+   "endFrame": 536,
+   "words": 15,
+   "text": "They are packed so tightly that they cannot swing a sword and can barely turn."
+  },
+  {
+   "i": 4,
+   "start": 18.367,
+   "end": 22.429,
+   "startFrame": 551,
+   "endFrame": 673,
+   "words": 13,
+   "text": "Around them, on three sides, a smaller army is closing like a hand."
+  },
+  {
+   "i": 5,
+   "start": 22.929,
+   "end": 27.734,
+   "startFrame": 688,
+   "endFrame": 832,
+   "words": 13,
+   "text": "By sunset, somewhere between forty-eight thousand and seventy thousand Romans will be dead."
+  },
+  {
+   "i": 6,
+   "start": 28.084,
+   "end": 31.417,
+   "startFrame": 843,
+   "endFrame": 943,
+   "words": 13,
+   "text": "It is the worst single day in the history of the Roman army."
+  },
+  {
+   "i": 7,
+   "start": 31.917,
+   "end": 36.044,
+   "startFrame": 958,
+   "endFrame": 1081,
+   "words": 15,
+   "text": "And the man who did it was outnumbered, far from home, and short of food."
+  },
+  {
+   "i": 8,
+   "start": 36.544,
+   "end": 42.234,
+   "startFrame": 1096,
+   "endFrame": 1267,
+   "words": 21,
+   "text": "So how does a general with half the soldiers destroy the largest army his enemy has ever put in the field?"
+  },
+  {
+   "i": 9,
+   "start": 42.734,
+   "end": 44.518,
+   "startFrame": 1282,
+   "endFrame": 1336,
+   "words": 6,
+   "text": "He does it with one idea."
+  },
+  {
+   "i": 10,
+   "start": 44.868,
+   "end": 47.393,
+   "startFrame": 1346,
+   "endFrame": 1422,
+   "words": 8,
+   "text": "He makes the other side's strength the weapon."
+  },
+  {
+   "i": 11,
+   "start": 47.893,
+   "end": 49.924,
+   "startFrame": 1437,
+   "endFrame": 1498,
+   "words": 8,
+   "text": "Let's go back to how Rome got here."
+  },
+  {
+   "i": 12,
+   "start": 50.424,
+   "end": 57.586,
+   "startFrame": 1513,
+   "endFrame": 1728,
+   "words": 21,
+   "text": "Two years earlier, a Carthaginian general named Hannibal had marched an army, and some elephants, over the Alps and into Italy."
+  },
+  {
+   "i": 13,
+   "start": 58.086,
+   "end": 61.354,
+   "startFrame": 1743,
+   "endFrame": 1841,
+   "words": 11,
+   "text": "Rome had expected to fight him in Spain or in Africa."
+  },
+  {
+   "i": 14,
+   "start": 61.704,
+   "end": 67.82300000000001,
+   "startFrame": 1851,
+   "endFrame": 2035,
+   "words": 22,
+   "text": "Instead, he turned up in the Roman heartland, and in his first two battles he showed what kind of general he was."
+  },
+  {
+   "i": 15,
+   "start": 68.32300000000001,
+   "end": 74.651,
+   "startFrame": 2050,
+   "endFrame": 2240,
+   "words": 20,
+   "text": "At the river Trebia, in the winter of 218, he lured a Roman army into freezing water and ambushed it."
+  },
+  {
+   "i": 16,
+   "start": 75.001,
+   "end": 84.05,
+   "startFrame": 2250,
+   "endFrame": 2522,
+   "words": 33,
+   "text": "At Lake Trasimene, in the summer of 217, he hid his army in the hills beside the road and caught a Roman column in a narrow strip between the mountains and the lake."
+  },
+  {
+   "i": 17,
+   "start": 84.55,
+   "end": 88.157,
+   "startFrame": 2536,
+   "endFrame": 2645,
+   "words": 11,
+   "text": "Ancient writers put the Roman dead there at around fifteen thousand."
+  },
+  {
+   "i": 18,
+   "start": 88.657,
+   "end": 90.128,
+   "startFrame": 2660,
+   "endFrame": 2704,
+   "words": 4,
+   "text": "Rome was in shock."
+  },
+  {
+   "i": 19,
+   "start": 90.47800000000001,
+   "end": 93.251,
+   "startFrame": 2714,
+   "endFrame": 2798,
+   "words": 8,
+   "text": "It did something it only did in emergencies."
+  },
+  {
+   "i": 20,
+   "start": 93.601,
+   "end": 98.874,
+   "startFrame": 2808,
+   "endFrame": 2966,
+   "words": 15,
+   "text": "It appointed a dictator, a man named Fabius Maximus, with full power for six months."
+  },
+  {
+   "i": 21,
+   "start": 99.374,
+   "end": 102.499,
+   "startFrame": 2981,
+   "endFrame": 3075,
+   "words": 11,
+   "text": "Fabius had a plan, and the plan was not to fight."
+  },
+  {
+   "i": 22,
+   "start": 102.84899999999999,
+   "end": 107.888,
+   "startFrame": 3085,
+   "endFrame": 3237,
+   "words": 12,
+   "text": "He shadowed Hannibal's army, cut off foragers, harassed stragglers, and refused battle."
+  },
+  {
+   "i": 23,
+   "start": 108.238,
+   "end": 109.892,
+   "startFrame": 3247,
+   "endFrame": 3297,
+   "words": 4,
+   "text": "His idea was simple."
+  },
+  {
+   "i": 24,
+   "start": 110.241,
+   "end": 113.679,
+   "startFrame": 3307,
+   "endFrame": 3410,
+   "words": 10,
+   "text": "Hannibal was a long way from home with no reinforcements."
+  },
+  {
+   "i": 25,
+   "start": 114.179,
+   "end": 116.366,
+   "startFrame": 3425,
+   "endFrame": 3491,
+   "words": 8,
+   "text": "Rome had far more men than he did."
+  },
+  {
+   "i": 26,
+   "start": 116.71600000000001,
+   "end": 121.143,
+   "startFrame": 3501,
+   "endFrame": 3634,
+   "words": 16,
+   "text": "If Rome simply refused to give him a decisive battle, time would be on its side."
+  },
+  {
+   "i": 27,
+   "start": 121.643,
+   "end": 123.492,
+   "startFrame": 3649,
+   "endFrame": 3705,
+   "words": 5,
+   "text": "It was a sound strategy."
+  },
+  {
+   "i": 28,
+   "start": 123.842,
+   "end": 125.339,
+   "startFrame": 3715,
+   "endFrame": 3760,
+   "words": 4,
+   "text": "The Romans hated it."
+  },
+  {
+   "i": 29,
+   "start": 125.839,
+   "end": 129.797,
+   "startFrame": 3775,
+   "endFrame": 3894,
+   "words": 13,
+   "text": "They called him Cunctator, the Delayer, and they did not mean it kindly."
+  },
+  {
+   "i": 30,
+   "start": 130.147,
+   "end": 131.931,
+   "startFrame": 3904,
+   "endFrame": 3958,
+   "words": 4,
+   "text": "Soldiers wanted to fight."
+  },
+  {
+   "i": 31,
+   "start": 132.281,
+   "end": 134.11599999999999,
+   "startFrame": 3968,
+   "endFrame": 4023,
+   "words": 4,
+   "text": "Senators wanted to win."
+  },
+  {
+   "i": 32,
+   "start": 134.466,
+   "end": 140.169,
+   "startFrame": 4034,
+   "endFrame": 4205,
+   "words": 18,
+   "text": "Hannibal was burning farms in Roman territory, and the dictator was following him around like a tour guide."
+  },
+  {
+   "i": 33,
+   "start": 140.669,
+   "end": 147.075,
+   "startFrame": 4220,
+   "endFrame": 4412,
+   "words": 18,
+   "text": "When Fabius's six months ended, Rome voted for new consuls, the two elected generals who commanded Rome's armies."
+  },
+  {
+   "i": 34,
+   "start": 147.425,
+   "end": 154.17000000000002,
+   "startFrame": 4423,
+   "endFrame": 4625,
+   "words": 23,
+   "text": "The voters chose a man named Gaius Terentius Varro, who wanted to fight, and a man named Lucius Aemilius Paullus, who did not."
+  },
+  {
+   "i": 35,
+   "start": 154.67000000000002,
+   "end": 158.159,
+   "startFrame": 4640,
+   "endFrame": 4745,
+   "words": 12,
+   "text": "And then Rome did something that no Roman army had ever done."
+  },
+  {
+   "i": 36,
+   "start": 158.50900000000001,
+   "end": 161.452,
+   "startFrame": 4755,
+   "endFrame": 4844,
+   "words": 10,
+   "text": "It decided to settle the question once and for all."
+  },
+  {
+   "i": 37,
+   "start": 161.952,
+   "end": 164.243,
+   "startFrame": 4859,
+   "endFrame": 4927,
+   "words": 6,
+   "text": "The plan for 216 was simple."
+  },
+  {
+   "i": 38,
+   "start": 164.59300000000002,
+   "end": 168.121,
+   "startFrame": 4938,
+   "endFrame": 5044,
+   "words": 11,
+   "text": "Raise an army so big that Hannibal could not possibly win."
+  },
+  {
+   "i": 39,
+   "start": 168.621,
+   "end": 178.947,
+   "startFrame": 5059,
+   "endFrame": 5368,
+   "words": 33,
+   "text": "According to the Greek historian Polybius, who is our best source, Rome put eight legions in the field, each stronger than usual, together with an equal number of infantry from its Italian allies."
+  },
+  {
+   "i": 40,
+   "start": 179.297,
+   "end": 183.424,
+   "startFrame": 5379,
+   "endFrame": 5503,
+   "words": 11,
+   "text": "That is about eighty thousand foot soldiers, plus six thousand cavalry."
+  },
+  {
+   "i": 41,
+   "start": 183.774,
+   "end": 187.797,
+   "startFrame": 5513,
+   "endFrame": 5634,
+   "words": 8,
+   "text": "Another ancient historian, Livy, gives slightly different figures."
+  },
+  {
+   "i": 42,
+   "start": 188.297,
+   "end": 192.828,
+   "startFrame": 5649,
+   "endFrame": 5785,
+   "words": 13,
+   "text": "Modern historians argue about them, and some think the real numbers were lower."
+  },
+  {
+   "i": 43,
+   "start": 193.178,
+   "end": 198.855,
+   "startFrame": 5795,
+   "endFrame": 5966,
+   "words": 21,
+   "text": "Some of those men were also left behind to guard the Roman camps, so the number on the field was smaller."
+  },
+  {
+   "i": 44,
+   "start": 199.20499999999998,
+   "end": 203.306,
+   "startFrame": 5976,
+   "endFrame": 6099,
+   "words": 13,
+   "text": "But nobody doubts that this was the largest army Rome had ever assembled."
+  },
+  {
+   "i": 45,
+   "start": 203.806,
+   "end": 207.686,
+   "startFrame": 6114,
+   "endFrame": 6231,
+   "words": 10,
+   "text": "Hannibal had about forty thousand infantry and ten thousand cavalry."
+  },
+  {
+   "i": 46,
+   "start": 208.186,
+   "end": 209.814,
+   "startFrame": 6246,
+   "endFrame": 6294,
+   "words": 4,
+   "text": "Notice what that means."
+  },
+  {
+   "i": 47,
+   "start": 210.164,
+   "end": 212.195,
+   "startFrame": 6305,
+   "endFrame": 6366,
+   "words": 6,
+   "text": "He had half as many infantry."
+  },
+  {
+   "i": 48,
+   "start": 212.54500000000002,
+   "end": 217.636,
+   "startFrame": 6376,
+   "endFrame": 6529,
+   "words": 16,
+   "text": "But he had considerably more cavalry, and that detail is the key to everything that follows."
+  },
+  {
+   "i": 49,
+   "start": 218.136,
+   "end": 220.31,
+   "startFrame": 6544,
+   "endFrame": 6609,
+   "words": 7,
+   "text": "His army was also a strange one."
+  },
+  {
+   "i": 50,
+   "start": 220.66,
+   "end": 229.084,
+   "startFrame": 6620,
+   "endFrame": 6873,
+   "words": 24,
+   "text": "It was made up of Libyans, Spaniards, Gauls, and Numidian horsemen from North Africa, soldiers who spoke different languages and fought in different ways."
+  },
+  {
+   "i": 51,
+   "start": 229.584,
+   "end": 234.975,
+   "startFrame": 6888,
+   "endFrame": 7049,
+   "words": 15,
+   "text": "Many of his Libyan infantry were armed with Roman equipment, captured at Trebia and Trasimene."
+  },
+  {
+   "i": 52,
+   "start": 235.325,
+   "end": 238.801,
+   "startFrame": 7060,
+   "endFrame": 7164,
+   "words": 10,
+   "text": "It is the ancient version of buying your opponent's merchandise."
+  },
+  {
+   "i": 53,
+   "start": 239.301,
+   "end": 241.059,
+   "startFrame": 7179,
+   "endFrame": 7232,
+   "words": 5,
+   "text": "And Hannibal had a problem."
+  },
+  {
+   "i": 54,
+   "start": 241.409,
+   "end": 242.567,
+   "startFrame": 7242,
+   "endFrame": 7277,
+   "words": 3,
+   "text": "It was summer."
+  },
+  {
+   "i": 55,
+   "start": 242.917,
+   "end": 244.48,
+   "startFrame": 7288,
+   "endFrame": 7334,
+   "words": 4,
+   "text": "His army was hungry."
+  },
+  {
+   "i": 56,
+   "start": 244.98,
+   "end": 251.64600000000002,
+   "startFrame": 7349,
+   "endFrame": 7549,
+   "words": 24,
+   "text": "He solved it by marching south into Apulia and seizing a town called Cannae, where the Romans had stored a large supply of grain."
+  },
+  {
+   "i": 57,
+   "start": 251.996,
+   "end": 253.962,
+   "startFrame": 7560,
+   "endFrame": 7619,
+   "words": 6,
+   "text": "The Roman army had to follow."
+  },
+  {
+   "i": 58,
+   "start": 254.462,
+   "end": 258.628,
+   "startFrame": 7634,
+   "endFrame": 7759,
+   "words": 13,
+   "text": "A Roman general could not let a Carthaginian army sit on his granary."
+  },
+  {
+   "i": 59,
+   "start": 258.978,
+   "end": 263.431,
+   "startFrame": 7769,
+   "endFrame": 7903,
+   "words": 16,
+   "text": "The Romans arrived and camped a few miles away on the plain beside the river Aufidus."
+  },
+  {
+   "i": 60,
+   "start": 263.931,
+   "end": 265.884,
+   "startFrame": 7918,
+   "endFrame": 7977,
+   "words": 6,
+   "text": "Both sides knew what was coming."
+  },
+  {
+   "i": 61,
+   "start": 266.234,
+   "end": 268.851,
+   "startFrame": 7987,
+   "endFrame": 8066,
+   "words": 9,
+   "text": "The only question was who would choose the ground."
+  },
+  {
+   "i": 62,
+   "start": 269.351,
+   "end": 275.679,
+   "startFrame": 8081,
+   "endFrame": 8270,
+   "words": 21,
+   "text": "There is a detail about Roman command that matters here, and it is one of the strangest facts in military history."
+  },
+  {
+   "i": 63,
+   "start": 276.029,
+   "end": 279.206,
+   "startFrame": 8281,
+   "endFrame": 8376,
+   "words": 10,
+   "text": "When two consuls led the same army, they took turns."
+  },
+  {
+   "i": 64,
+   "start": 279.556,
+   "end": 281.287,
+   "startFrame": 8387,
+   "endFrame": 8439,
+   "words": 4,
+   "text": "One commanded one day."
+  },
+  {
+   "i": 65,
+   "start": 281.637,
+   "end": 283.551,
+   "startFrame": 8449,
+   "endFrame": 8507,
+   "words": 5,
+   "text": "The other commanded the next."
+  },
+  {
+   "i": 66,
+   "start": 284.051,
+   "end": 285.522,
+   "startFrame": 8522,
+   "endFrame": 8566,
+   "words": 3,
+   "text": "Paullus was cautious."
+  },
+  {
+   "i": 67,
+   "start": 285.872,
+   "end": 287.474,
+   "startFrame": 8576,
+   "endFrame": 8624,
+   "words": 6,
+   "text": "He did not like the plain."
+  },
+  {
+   "i": 68,
+   "start": 287.824,
+   "end": 292.836,
+   "startFrame": 8635,
+   "endFrame": 8785,
+   "words": 18,
+   "text": "It was flat, open ground, and he knew that was where Hannibal's cavalry would be at its best."
+  },
+  {
+   "i": 69,
+   "start": 293.186,
+   "end": 294.56600000000003,
+   "startFrame": 8796,
+   "endFrame": 8837,
+   "words": 4,
+   "text": "He wanted to wait."
+  },
+  {
+   "i": 70,
+   "start": 295.06600000000003,
+   "end": 296.629,
+   "startFrame": 8852,
+   "endFrame": 8899,
+   "words": 3,
+   "text": "Varro was aggressive."
+  },
+  {
+   "i": 71,
+   "start": 296.979,
+   "end": 300.781,
+   "startFrame": 8909,
+   "endFrame": 9023,
+   "words": 13,
+   "text": "He wanted to fight, and he believed the huge Roman army would win."
+  },
+  {
+   "i": 72,
+   "start": 301.281,
+   "end": 305.421,
+   "startFrame": 9038,
+   "endFrame": 9163,
+   "words": 13,
+   "text": "Livy, who wrote two hundred years later, paints Varro as a reckless fool."
+  },
+  {
+   "i": 73,
+   "start": 305.771,
+   "end": 308.648,
+   "startFrame": 9173,
+   "endFrame": 9259,
+   "words": 7,
+   "text": "Modern historians are cautious about that picture."
+  },
+  {
+   "i": 74,
+   "start": 308.998,
+   "end": 318.1,
+   "startFrame": 9270,
+   "endFrame": 9543,
+   "words": 32,
+   "text": "Livy was writing for a Roman audience that needed someone to blame for the disaster, and a consul who was a man of the people, not an aristocrat, made a convenient target."
+  },
+  {
+   "i": 75,
+   "start": 318.6,
+   "end": 322.154,
+   "startFrame": 9558,
+   "endFrame": 9665,
+   "words": 10,
+   "text": "Whatever the truth, the arithmetic of command did the rest."
+  },
+  {
+   "i": 76,
+   "start": 322.504,
+   "end": 325.915,
+   "startFrame": 9675,
+   "endFrame": 9777,
+   "words": 14,
+   "text": "On the day it was Varro's turn, he led the army out of camp."
+  },
+  {
+   "i": 77,
+   "start": 326.265,
+   "end": 329.625,
+   "startFrame": 9788,
+   "endFrame": 9889,
+   "words": 7,
+   "text": "Paullus, Polybius says, disagreed, but he followed."
+  },
+  {
+   "i": 78,
+   "start": 330.125,
+   "end": 332.221,
+   "startFrame": 9904,
+   "endFrame": 9967,
+   "words": 7,
+   "text": "The date was the second of August."
+  },
+  {
+   "i": 79,
+   "start": 332.571,
+   "end": 334.146,
+   "startFrame": 9977,
+   "endFrame": 10024,
+   "words": 4,
+   "text": "And Hannibal was ready."
+  },
+  {
+   "i": 80,
+   "start": 334.646,
+   "end": 337.10699999999997,
+   "startFrame": 10039,
+   "endFrame": 10113,
+   "words": 7,
+   "text": "Hannibal had chosen his spot with care."
+  },
+  {
+   "i": 81,
+   "start": 337.60699999999997,
+   "end": 340.354,
+   "startFrame": 10128,
+   "endFrame": 10211,
+   "words": 9,
+   "text": "The two armies met on a wide, flat plain."
+  },
+  {
+   "i": 82,
+   "start": 340.704,
+   "end": 345.665,
+   "startFrame": 10221,
+   "endFrame": 10370,
+   "words": 18,
+   "text": "The river Aufidus ran along one side, and the Romans formed up with the river on their right."
+  },
+  {
+   "i": 83,
+   "start": 346.015,
+   "end": 351.978,
+   "startFrame": 10380,
+   "endFrame": 10559,
+   "words": 23,
+   "text": "That meant the Roman right flank was protected by water, and it also meant that on that side they could not move away."
+  },
+  {
+   "i": 84,
+   "start": 352.478,
+   "end": 354.06600000000003,
+   "startFrame": 10574,
+   "endFrame": 10622,
+   "words": 5,
+   "text": "There was also the wind."
+  },
+  {
+   "i": 85,
+   "start": 354.416,
+   "end": 359.20799999999997,
+   "startFrame": 10632,
+   "endFrame": 10776,
+   "words": 16,
+   "text": "Polybius says that a hot wind blew across the plain that morning, raising clouds of dust."
+  },
+  {
+   "i": 86,
+   "start": 359.558,
+   "end": 363.62,
+   "startFrame": 10787,
+   "endFrame": 10909,
+   "words": 13,
+   "text": "Hannibal had arranged his army so that the dust blew into Roman faces."
+  },
+  {
+   "i": 87,
+   "start": 364.12,
+   "end": 368.013,
+   "startFrame": 10924,
+   "endFrame": 11040,
+   "words": 14,
+   "text": "Now look at the Roman deployment, because that is where the trap is hidden."
+  },
+  {
+   "i": 88,
+   "start": 368.513,
+   "end": 371.807,
+   "startFrame": 11055,
+   "endFrame": 11154,
+   "words": 14,
+   "text": "The Romans knew they had more men, and they knew how to use them."
+  },
+  {
+   "i": 89,
+   "start": 372.157,
+   "end": 380.334,
+   "startFrame": 11165,
+   "endFrame": 11410,
+   "words": 29,
+   "text": "In a normal Roman battle line, the infantry formed in three rows with gaps between the small units, so that each unit could move and fight on its own."
+  },
+  {
+   "i": 90,
+   "start": 380.834,
+   "end": 382.305,
+   "startFrame": 11425,
+   "endFrame": 11469,
+   "words": 3,
+   "text": "Varro changed that."
+  },
+  {
+   "i": 91,
+   "start": 382.655,
+   "end": 391.209,
+   "startFrame": 11480,
+   "endFrame": 11736,
+   "words": 30,
+   "text": "He packed the units closer together, and he made the formation much deeper than usual, with the aim of punching through the center of the Carthaginian line by sheer weight."
+  },
+  {
+   "i": 92,
+   "start": 391.709,
+   "end": 395.85,
+   "startFrame": 11751,
+   "endFrame": 11876,
+   "words": 13,
+   "text": "It was a sensible plan, if you believe that Hannibal's center was weak."
+  },
+  {
+   "i": 93,
+   "start": 396.2,
+   "end": 397.515,
+   "startFrame": 11886,
+   "endFrame": 11925,
+   "words": 4,
+   "text": "And it looked weak."
+  },
+  {
+   "i": 94,
+   "start": 397.865,
+   "end": 399.258,
+   "startFrame": 11936,
+   "endFrame": 11978,
+   "words": 4,
+   "text": "That was the point."
+  },
+  {
+   "i": 95,
+   "start": 399.758,
+   "end": 403.76800000000003,
+   "startFrame": 11993,
+   "endFrame": 12113,
+   "words": 14,
+   "text": "Hannibal placed his army in a shape that makes no sense at first glance."
+  },
+  {
+   "i": 96,
+   "start": 404.26800000000003,
+   "end": 408.70799999999997,
+   "startFrame": 12128,
+   "endFrame": 12261,
+   "words": 15,
+   "text": "In the center he put his Gauls and Spaniards, the least reliable troops he had."
+  },
+  {
+   "i": 97,
+   "start": 409.058,
+   "end": 411.323,
+   "startFrame": 12272,
+   "endFrame": 12340,
+   "words": 10,
+   "text": "But he did not put them in a straight line."
+  },
+  {
+   "i": 98,
+   "start": 411.673,
+   "end": 416.178,
+   "startFrame": 12350,
+   "endFrame": 12485,
+   "words": 15,
+   "text": "He pushed them forward, so that the middle bulged toward the Romans like a crescent."
+  },
+  {
+   "i": 99,
+   "start": 416.678,
+   "end": 423.722,
+   "startFrame": 12500,
+   "endFrame": 12712,
+   "words": 25,
+   "text": "On either side of this bulge, set back and out of the main line, he placed his best infantry, the Libyans, in two heavy blocks."
+  },
+  {
+   "i": 100,
+   "start": 424.072,
+   "end": 426.403,
+   "startFrame": 12722,
+   "endFrame": 12792,
+   "words": 7,
+   "text": "On the wings, he put his cavalry."
+  },
+  {
+   "i": 101,
+   "start": 426.903,
+   "end": 432.541,
+   "startFrame": 12807,
+   "endFrame": 12976,
+   "words": 17,
+   "text": "On the river side, facing the Roman citizen cavalry, were the heavy horsemen of Spain and Gaul."
+  },
+  {
+   "i": 102,
+   "start": 432.891,
+   "end": 435.534,
+   "startFrame": 12987,
+   "endFrame": 13066,
+   "words": 9,
+   "text": "On the other wing were the light Numidian horse."
+  },
+  {
+   "i": 103,
+   "start": 436.034,
+   "end": 438.859,
+   "startFrame": 13081,
+   "endFrame": 13166,
+   "words": 10,
+   "text": "Think about what the Romans see from the other side."
+  },
+  {
+   "i": 104,
+   "start": 439.209,
+   "end": 441.826,
+   "startFrame": 13176,
+   "endFrame": 13255,
+   "words": 6,
+   "text": "A bulging center of unreliable troops."
+  },
+  {
+   "i": 105,
+   "start": 442.176,
+   "end": 446.72,
+   "startFrame": 13265,
+   "endFrame": 13402,
+   "words": 17,
+   "text": "Exactly the kind of target that a general who wants to break the line is looking for."
+  },
+  {
+   "i": 106,
+   "start": 447.22,
+   "end": 451.035,
+   "startFrame": 13417,
+   "endFrame": 13531,
+   "words": 13,
+   "text": "Most accounts say the plan for that center was to give ground, slowly."
+  },
+  {
+   "i": 107,
+   "start": 451.535,
+   "end": 455.363,
+   "startFrame": 13546,
+   "endFrame": 13661,
+   "words": 14,
+   "text": "The idea was that the Gauls and Spaniards would fall back step by step."
+  },
+  {
+   "i": 108,
+   "start": 455.713,
+   "end": 459.944,
+   "startFrame": 13671,
+   "endFrame": 13798,
+   "words": 12,
+   "text": "As they did, the crescent would straighten, then flatten, then curve inward."
+  },
+  {
+   "i": 109,
+   "start": 460.294,
+   "end": 468.224,
+   "startFrame": 13809,
+   "endFrame": 14047,
+   "words": 29,
+   "text": "The Romans, following the retreating center, would be drawn into a pocket that had the Libyans on both sides of it and the cavalry free to close the back."
+  },
+  {
+   "i": 110,
+   "start": 468.724,
+   "end": 471.51,
+   "startFrame": 14062,
+   "endFrame": 14145,
+   "words": 9,
+   "text": "We cannot know how much of this Hannibal controlled."
+  },
+  {
+   "i": 111,
+   "start": 471.86,
+   "end": 478.552,
+   "startFrame": 14156,
+   "endFrame": 14357,
+   "words": 24,
+   "text": "His soldiers were under real pressure, and a center that collapsed too quickly would have let the Romans break through before the trap closed."
+  },
+  {
+   "i": 112,
+   "start": 478.902,
+   "end": 481.845,
+   "startFrame": 14367,
+   "endFrame": 14455,
+   "words": 10,
+   "text": "The plan only worked if the middle bent without breaking."
+  },
+  {
+   "i": 113,
+   "start": 482.345,
+   "end": 485.118,
+   "startFrame": 14470,
+   "endFrame": 14554,
+   "words": 9,
+   "text": "Ask yourself what is required for that to work."
+  },
+  {
+   "i": 114,
+   "start": 485.468,
+   "end": 489.661,
+   "startFrame": 14564,
+   "endFrame": 14690,
+   "words": 12,
+   "text": "It needs troops who can retreat in order, under pressure, without breaking."
+  },
+  {
+   "i": 115,
+   "start": 490.011,
+   "end": 492.276,
+   "startFrame": 14700,
+   "endFrame": 14768,
+   "words": 6,
+   "text": "A routed center would ruin everything."
+  },
+  {
+   "i": 116,
+   "start": 492.626,
+   "end": 497.639,
+   "startFrame": 14779,
+   "endFrame": 14929,
+   "words": 15,
+   "text": "And Hannibal had somehow built an army of mixed nationalities that could do exactly that."
+  },
+  {
+   "i": 117,
+   "start": 498.139,
+   "end": 502.865,
+   "startFrame": 14944,
+   "endFrame": 15086,
+   "words": 12,
+   "text": "The battle begins in the usual way, with skirmishers, javelins and slings."
+  },
+  {
+   "i": 118,
+   "start": 503.215,
+   "end": 505.715,
+   "startFrame": 15096,
+   "endFrame": 15171,
+   "words": 8,
+   "text": "Then the cavalry on the river side charge."
+  },
+  {
+   "i": 119,
+   "start": 506.215,
+   "end": 508.532,
+   "startFrame": 15186,
+   "endFrame": 15256,
+   "words": 6,
+   "text": "This is the first decisive moment."
+  },
+  {
+   "i": 120,
+   "start": 508.882,
+   "end": 515.523,
+   "startFrame": 15266,
+   "endFrame": 15466,
+   "words": 22,
+   "text": "On the Roman right, a couple of thousand Roman citizen cavalry meet a much larger force of Spanish and Gallic heavy horse."
+  },
+  {
+   "i": 121,
+   "start": 515.873,
+   "end": 520.586,
+   "startFrame": 15476,
+   "endFrame": 15618,
+   "words": 15,
+   "text": "The Romans are badly outnumbered, and the river beside them leaves them nowhere to go."
+  },
+  {
+   "i": 122,
+   "start": 521.086,
+   "end": 524.758,
+   "startFrame": 15633,
+   "endFrame": 15743,
+   "words": 12,
+   "text": "Polybius says that many of the horsemen dismount and fight on foot."
+  },
+  {
+   "i": 123,
+   "start": 525.108,
+   "end": 526.384,
+   "startFrame": 15753,
+   "endFrame": 15792,
+   "words": 4,
+   "text": "It does not help."
+  },
+  {
+   "i": 124,
+   "start": 526.734,
+   "end": 527.996,
+   "startFrame": 15802,
+   "endFrame": 15840,
+   "words": 3,
+   "text": "They are destroyed."
+  },
+  {
+   "i": 125,
+   "start": 528.496,
+   "end": 533.171,
+   "startFrame": 15855,
+   "endFrame": 15995,
+   "words": 10,
+   "text": "The Carthaginian cavalry commander, Hasdrubal, does not stop to celebrate."
+  },
+  {
+   "i": 126,
+   "start": 533.521,
+   "end": 540.851,
+   "startFrame": 16006,
+   "endFrame": 16226,
+   "words": 26,
+   "text": "He leads his horsemen around the back of the whole Roman army to the other wing, where the Numidians are keeping the Roman allied cavalry busy."
+  },
+  {
+   "i": 127,
+   "start": 541.201,
+   "end": 544.43,
+   "startFrame": 16236,
+   "endFrame": 16333,
+   "words": 11,
+   "text": "His heavy horse fall on them from behind, and they run."
+  },
+  {
+   "i": 128,
+   "start": 544.93,
+   "end": 547.912,
+   "startFrame": 16348,
+   "endFrame": 16437,
+   "words": 7,
+   "text": "Meanwhile, in the center, the infantry clash."
+  },
+  {
+   "i": 129,
+   "start": 548.262,
+   "end": 553.574,
+   "startFrame": 16448,
+   "endFrame": 16607,
+   "words": 16,
+   "text": "The Romans push forward, as planned, and the Gallic and Spanish center gives way, as planned."
+  },
+  {
+   "i": 130,
+   "start": 553.924,
+   "end": 556.189,
+   "startFrame": 16618,
+   "endFrame": 16686,
+   "words": 6,
+   "text": "Step by step the crescent flattens."
+  },
+  {
+   "i": 131,
+   "start": 556.539,
+   "end": 558.101,
+   "startFrame": 16696,
+   "endFrame": 16743,
+   "words": 4,
+   "text": "Then it goes concave."
+  },
+  {
+   "i": 132,
+   "start": 558.451,
+   "end": 564.154,
+   "startFrame": 16754,
+   "endFrame": 16925,
+   "words": 16,
+   "text": "The Romans, delighted, pour forward into the gap, deeper and deeper, packing together as they go."
+  },
+  {
+   "i": 133,
+   "start": 564.654,
+   "end": 567.141,
+   "startFrame": 16940,
+   "endFrame": 17014,
+   "words": 8,
+   "text": "Look at what is happening to their formation."
+  },
+  {
+   "i": 134,
+   "start": 567.491,
+   "end": 570.981,
+   "startFrame": 17025,
+   "endFrame": 17129,
+   "words": 11,
+   "text": "The deeper they advance, the narrower the space on either side."
+  },
+  {
+   "i": 135,
+   "start": 571.331,
+   "end": 574.39,
+   "startFrame": 17140,
+   "endFrame": 17232,
+   "words": 11,
+   "text": "The units on the edges are being squeezed toward the middle."
+  },
+  {
+   "i": 136,
+   "start": 574.74,
+   "end": 578.256,
+   "startFrame": 17242,
+   "endFrame": 17348,
+   "words": 12,
+   "text": "Within a short time, the Roman army is not a line anymore."
+  },
+  {
+   "i": 137,
+   "start": 578.606,
+   "end": 581.288,
+   "startFrame": 17358,
+   "endFrame": 17439,
+   "words": 10,
+   "text": "It is a dense crowd with its edges bent inward."
+  },
+  {
+   "i": 138,
+   "start": 581.788,
+   "end": 583.871,
+   "startFrame": 17454,
+   "endFrame": 17516,
+   "words": 6,
+   "text": "And now Hannibal gives the signal."
+  },
+  {
+   "i": 139,
+   "start": 584.371,
+   "end": 587.613,
+   "startFrame": 17531,
+   "endFrame": 17628,
+   "words": 8,
+   "text": "The Libyans, standing on either side, wheel inward."
+  },
+  {
+   "i": 140,
+   "start": 587.963,
+   "end": 589.72,
+   "startFrame": 17639,
+   "endFrame": 17692,
+   "words": 5,
+   "text": "They hit the Roman flanks."
+  },
+  {
+   "i": 141,
+   "start": 590.07,
+   "end": 595.279,
+   "startFrame": 17702,
+   "endFrame": 17858,
+   "words": 15,
+   "text": "At the same moment Hasdrubal's cavalry arrives behind the Roman army and attacks the rear."
+  },
+  {
+   "i": 142,
+   "start": 595.629,
+   "end": 600.081,
+   "startFrame": 17869,
+   "endFrame": 18002,
+   "words": 15,
+   "text": "The Gauls and Spaniards in the center, who have been falling back, stop falling back."
+  },
+  {
+   "i": 143,
+   "start": 600.581,
+   "end": 602.508,
+   "startFrame": 18017,
+   "endFrame": 18075,
+   "words": 5,
+   "text": "It is a double envelopment."
+  },
+  {
+   "i": 144,
+   "start": 602.858,
+   "end": 605.332,
+   "startFrame": 18086,
+   "endFrame": 18160,
+   "words": 7,
+   "text": "The Romans are surrounded on four sides."
+  },
+  {
+   "i": 145,
+   "start": 605.832,
+   "end": 608.149,
+   "startFrame": 18175,
+   "endFrame": 18244,
+   "words": 7,
+   "text": "Most of the Roman army cannot fight."
+  },
+  {
+   "i": 146,
+   "start": 608.499,
+   "end": 611.533,
+   "startFrame": 18255,
+   "endFrame": 18346,
+   "words": 11,
+   "text": "Only the front rank on each side can reach an enemy."
+  },
+  {
+   "i": 147,
+   "start": 611.883,
+   "end": 617.26,
+   "startFrame": 18356,
+   "endFrame": 18518,
+   "words": 19,
+   "text": "Everyone else is a spectator, pushed forward by the men behind and held in place by the men beside."
+  },
+  {
+   "i": 148,
+   "start": 617.76,
+   "end": 623.112,
+   "startFrame": 18533,
+   "endFrame": 18693,
+   "words": 19,
+   "text": "The Romans in the middle, Polybius says, are packed so tight that they cannot use their weapons at all."
+  },
+  {
+   "i": 149,
+   "start": 623.612,
+   "end": 625.448,
+   "startFrame": 18708,
+   "endFrame": 18763,
+   "words": 6,
+   "text": "What follows is not a battle."
+  },
+  {
+   "i": 150,
+   "start": 625.798,
+   "end": 627.125,
+   "startFrame": 18774,
+   "endFrame": 18814,
+   "words": 4,
+   "text": "It is a slaughter."
+  },
+  {
+   "i": 151,
+   "start": 627.625,
+   "end": 632.534,
+   "startFrame": 18829,
+   "endFrame": 18976,
+   "words": 16,
+   "text": "Step back and ask the question that the Romans must have asked themselves for years afterward."
+  },
+  {
+   "i": 152,
+   "start": 632.884,
+   "end": 634.186,
+   "startFrame": 18987,
+   "endFrame": 19026,
+   "words": 4,
+   "text": "How did this happen?"
+  },
+  {
+   "i": 153,
+   "start": 634.686,
+   "end": 636.769,
+   "startFrame": 19041,
+   "endFrame": 19103,
+   "words": 6,
+   "text": "The first answer is the cavalry."
+  },
+  {
+   "i": 154,
+   "start": 637.119,
+   "end": 640.061,
+   "startFrame": 19114,
+   "endFrame": 19202,
+   "words": 11,
+   "text": "Hannibal had far more of it, and it was far better."
+  },
+  {
+   "i": 155,
+   "start": 640.4110000000001,
+   "end": 647.612,
+   "startFrame": 19212,
+   "endFrame": 19428,
+   "words": 26,
+   "text": "His heavy cavalry destroyed the Roman horse on one wing and then rode round to defeat the other, which freed them to attack the Roman rear."
+  },
+  {
+   "i": 156,
+   "start": 648.112,
+   "end": 651.5360000000001,
+   "startFrame": 19443,
+   "endFrame": 19546,
+   "words": 10,
+   "text": "Without that, the Libyan hammer would have had no anvil."
+  },
+  {
+   "i": 157,
+   "start": 651.886,
+   "end": 655.323,
+   "startFrame": 19557,
+   "endFrame": 19660,
+   "words": 12,
+   "text": "A Roman army with good cavalry would have kept the rear safe."
+  },
+  {
+   "i": 158,
+   "start": 655.823,
+   "end": 657.828,
+   "startFrame": 19675,
+   "endFrame": 19735,
+   "words": 5,
+   "text": "The second answer is discipline."
+  },
+  {
+   "i": 159,
+   "start": 658.178,
+   "end": 661.85,
+   "startFrame": 19745,
+   "endFrame": 19856,
+   "words": 11,
+   "text": "A retreating center is an extraordinary thing to ask of troops."
+  },
+  {
+   "i": 160,
+   "start": 662.2,
+   "end": 665.819,
+   "startFrame": 19866,
+   "endFrame": 19975,
+   "words": 9,
+   "text": "Most armies, once they start moving backward, keep going."
+  },
+  {
+   "i": 161,
+   "start": 666.169,
+   "end": 671.716,
+   "startFrame": 19985,
+   "endFrame": 20151,
+   "words": 16,
+   "text": "Hannibal's Gauls and Spaniards retreated under pressure, kept their formation, and then stopped when told to."
+  },
+  {
+   "i": 162,
+   "start": 672.216,
+   "end": 678.284,
+   "startFrame": 20166,
+   "endFrame": 20349,
+   "words": 24,
+   "text": "The third answer is that the Romans were walking into the trap with open eyes, and the trap used their own strengths against them."
+  },
+  {
+   "i": 163,
+   "start": 678.634,
+   "end": 680.86,
+   "startFrame": 20359,
+   "endFrame": 20426,
+   "words": 7,
+   "text": "They had more men, so they attacked."
+  },
+  {
+   "i": 164,
+   "start": 681.36,
+   "end": 683.925,
+   "startFrame": 20441,
+   "endFrame": 20518,
+   "words": 8,
+   "text": "They had heavy infantry, so they packed it."
+  },
+  {
+   "i": 165,
+   "start": 684.275,
+   "end": 687.204,
+   "startFrame": 20528,
+   "endFrame": 20616,
+   "words": 9,
+   "text": "They had a confident general, so he pushed hard."
+  },
+  {
+   "i": 166,
+   "start": 687.554,
+   "end": 690.093,
+   "startFrame": 20627,
+   "endFrame": 20703,
+   "words": 7,
+   "text": "Every one of those choices was reasonable."
+  },
+  {
+   "i": 167,
+   "start": 690.443,
+   "end": 692.11,
+   "startFrame": 20713,
+   "endFrame": 20763,
+   "words": 4,
+   "text": "Together they were fatal."
+  },
+  {
+   "i": 168,
+   "start": 692.61,
+   "end": 698.013,
+   "startFrame": 20778,
+   "endFrame": 20940,
+   "words": 19,
+   "text": "Speaking of things that cost nothing, a like and a subscribe are free, and they keep this channel going."
+  },
+  {
+   "i": 169,
+   "start": 698.363,
+   "end": 703.128,
+   "startFrame": 20951,
+   "endFrame": 21094,
+   "words": 12,
+   "text": "Rome, by comparison, was about to discover how expensive its lesson was."
+  },
+  {
+   "i": 170,
+   "start": 703.628,
+   "end": 705.933,
+   "startFrame": 21109,
+   "endFrame": 21178,
+   "words": 6,
+   "text": "But the deepest answer is geometry."
+  },
+  {
+   "i": 171,
+   "start": 706.433,
+   "end": 709.115,
+   "startFrame": 21193,
+   "endFrame": 21273,
+   "words": 9,
+   "text": "We talked about this in the story of Thermopylae."
+  },
+  {
+   "i": 172,
+   "start": 709.465,
+   "end": 712.173,
+   "startFrame": 21284,
+   "endFrame": 21365,
+   "words": 11,
+   "text": "The number of men in a fight is not what counts."
+  },
+  {
+   "i": 173,
+   "start": 712.523,
+   "end": 715.192,
+   "startFrame": 21376,
+   "endFrame": 21456,
+   "words": 11,
+   "text": "What counts is how many of them can reach each other."
+  },
+  {
+   "i": 174,
+   "start": 715.542,
+   "end": 719.865,
+   "startFrame": 21466,
+   "endFrame": 21596,
+   "words": 14,
+   "text": "At Thermopylae, the Greeks used a narrow pass to make a large army small."
+  },
+  {
+   "i": 175,
+   "start": 720.365,
+   "end": 722.721,
+   "startFrame": 21611,
+   "endFrame": 21682,
+   "words": 6,
+   "text": "At Cannae, Hannibal did the opposite."
+  },
+  {
+   "i": 176,
+   "start": 723.071,
+   "end": 725.181,
+   "startFrame": 21692,
+   "endFrame": 21755,
+   "words": 7,
+   "text": "He did not shrink the Roman army."
+  },
+  {
+   "i": 177,
+   "start": 725.531,
+   "end": 727.965,
+   "startFrame": 21766,
+   "endFrame": 21839,
+   "words": 6,
+   "text": "He let the Romans compress themselves."
+  },
+  {
+   "i": 178,
+   "start": 728.465,
+   "end": 733.126,
+   "startFrame": 21854,
+   "endFrame": 21994,
+   "words": 15,
+   "text": "By the end, eighty thousand Romans were fighting with the hands of perhaps ten thousand."
+  },
+  {
+   "i": 179,
+   "start": 733.476,
+   "end": 735.052,
+   "startFrame": 22004,
+   "endFrame": 22052,
+   "words": 5,
+   "text": "The rest were just weight."
+  },
+  {
+   "i": 180,
+   "start": 735.552,
+   "end": 738.078,
+   "startFrame": 22067,
+   "endFrame": 22142,
+   "words": 7,
+   "text": "How many Romans actually died at Cannae?"
+  },
+  {
+   "i": 181,
+   "start": 738.578,
+   "end": 740.674,
+   "startFrame": 22157,
+   "endFrame": 22220,
+   "words": 4,
+   "text": "Polybius says seventy thousand."
+  },
+  {
+   "i": 182,
+   "start": 741.024,
+   "end": 744.708,
+   "startFrame": 22231,
+   "endFrame": 22341,
+   "words": 9,
+   "text": "Livy, who had different sources, says about forty-eight thousand."
+  },
+  {
+   "i": 183,
+   "start": 745.058,
+   "end": 750.579,
+   "startFrame": 22352,
+   "endFrame": 22517,
+   "words": 19,
+   "text": "A few thousand were captured in the battle, and several thousand more were taken in the Roman camp afterward."
+  },
+  {
+   "i": 184,
+   "start": 750.929,
+   "end": 752.804,
+   "startFrame": 22528,
+   "endFrame": 22584,
+   "words": 5,
+   "text": "Only a few thousand escaped."
+  },
+  {
+   "i": 185,
+   "start": 753.304,
+   "end": 757.926,
+   "startFrame": 22599,
+   "endFrame": 22738,
+   "words": 14,
+   "text": "Hannibal lost about six thousand men, perhaps a little more, most of them Gauls."
+  },
+  {
+   "i": 186,
+   "start": 758.426,
+   "end": 761.394,
+   "startFrame": 22753,
+   "endFrame": 22842,
+   "words": 7,
+   "text": "Modern historians treat these figures with care."
+  },
+  {
+   "i": 187,
+   "start": 761.744,
+   "end": 769.14,
+   "startFrame": 22852,
+   "endFrame": 23074,
+   "words": 24,
+   "text": "Ancient writers loved round numbers and dramatic contrasts, and it is not certain that the Roman army was quite as large as Polybius says."
+  },
+  {
+   "i": 188,
+   "start": 769.49,
+   "end": 776.274,
+   "startFrame": 23085,
+   "endFrame": 23288,
+   "words": 22,
+   "text": "But even the lowest serious estimates mean that something like forty thousand Roman and allied soldiers were killed in a single afternoon."
+  },
+  {
+   "i": 189,
+   "start": 776.774,
+   "end": 783.57,
+   "startFrame": 23303,
+   "endFrame": 23507,
+   "words": 23,
+   "text": "Some historians count it among the bloodiest single days in the history of Western warfare, and it was done with swords and spears."
+  },
+  {
+   "i": 190,
+   "start": 783.92,
+   "end": 790.469,
+   "startFrame": 23518,
+   "endFrame": 23714,
+   "words": 21,
+   "text": "Among the dead were the consul Paullus, a large number of senators and men of senatorial rank, and a former consul."
+  },
+  {
+   "i": 191,
+   "start": 790.969,
+   "end": 797.245,
+   "startFrame": 23729,
+   "endFrame": 23917,
+   "words": 21,
+   "text": "Livy describes Paullus refusing a horse to escape, sitting down on a rock instead, and being cut down where he sat."
+  },
+  {
+   "i": 192,
+   "start": 797.595,
+   "end": 800.004,
+   "startFrame": 23928,
+   "endFrame": 24000,
+   "words": 7,
+   "text": "Varro escaped with a few dozen horsemen."
+  },
+  {
+   "i": 193,
+   "start": 800.504,
+   "end": 803.056,
+   "startFrame": 24015,
+   "endFrame": 24092,
+   "words": 10,
+   "text": "Now we come to the strange part of the story."
+  },
+  {
+   "i": 194,
+   "start": 803.556,
+   "end": 805.652,
+   "startFrame": 24107,
+   "endFrame": 24170,
+   "words": 4,
+   "text": "After Cannae, nothing happened."
+  },
+  {
+   "i": 195,
+   "start": 806.152,
+   "end": 810.54,
+   "startFrame": 24185,
+   "endFrame": 24316,
+   "words": 12,
+   "text": "Hannibal's cavalry commander, Maharbal, urged him to march on Rome at once."
+  },
+  {
+   "i": 196,
+   "start": 810.89,
+   "end": 815.655,
+   "startFrame": 24327,
+   "endFrame": 24470,
+   "words": 16,
+   "text": "According to Livy, he said that within five days Hannibal would be dining on the Capitol."
+  },
+  {
+   "i": 197,
+   "start": 816.005,
+   "end": 818.283,
+   "startFrame": 24480,
+   "endFrame": 24548,
+   "words": 7,
+   "text": "Hannibal said he needed time to think."
+  },
+  {
+   "i": 198,
+   "start": 818.783,
+   "end": 825.971,
+   "startFrame": 24563,
+   "endFrame": 24779,
+   "words": 29,
+   "text": "And Maharbal replied, in the most famous line of the whole war: \"You know how to win a victory, Hannibal, but you do not know how to use one.\""
+  },
+  {
+   "i": 199,
+   "start": 826.471,
+   "end": 830.208,
+   "startFrame": 24794,
+   "endFrame": 24906,
+   "words": 11,
+   "text": "It is a wonderful line, and historians doubt it ever happened."
+  },
+  {
+   "i": 200,
+   "start": 830.558,
+   "end": 832.875,
+   "startFrame": 24917,
+   "endFrame": 24986,
+   "words": 6,
+   "text": "The truth is probably more practical."
+  },
+  {
+   "i": 201,
+   "start": 833.225,
+   "end": 836.298,
+   "startFrame": 24997,
+   "endFrame": 25089,
+   "words": 9,
+   "text": "Hannibal's army had just fought a long, brutal day."
+  },
+  {
+   "i": 202,
+   "start": 836.648,
+   "end": 838.47,
+   "startFrame": 25099,
+   "endFrame": 25154,
+   "words": 5,
+   "text": "He had no siege equipment."
+  },
+  {
+   "i": 203,
+   "start": 838.82,
+   "end": 843.482,
+   "startFrame": 25165,
+   "endFrame": 25304,
+   "words": 17,
+   "text": "Rome was a huge fortified city with strong walls and a lot of men still under arms."
+  },
+  {
+   "i": 204,
+   "start": 843.982,
+   "end": 848.487,
+   "startFrame": 25319,
+   "endFrame": 25455,
+   "words": 13,
+   "text": "And most historians think Hannibal never believed he could conquer Rome by force."
+  },
+  {
+   "i": 205,
+   "start": 848.837,
+   "end": 854.396,
+   "startFrame": 25465,
+   "endFrame": 25632,
+   "words": 21,
+   "text": "His aim was to break up the alliance that held the Roman world together, and to make Rome sue for peace."
+  },
+  {
+   "i": 206,
+   "start": 854.896,
+   "end": 856.654,
+   "startFrame": 25647,
+   "endFrame": 25700,
+   "words": 4,
+   "text": "So he tried diplomacy."
+  },
+  {
+   "i": 207,
+   "start": 857.004,
+   "end": 859.582,
+   "startFrame": 25710,
+   "endFrame": 25787,
+   "words": 8,
+   "text": "He offered to let Rome ransom its prisoners."
+  },
+  {
+   "i": 208,
+   "start": 860.082,
+   "end": 861.514,
+   "startFrame": 25802,
+   "endFrame": 25845,
+   "words": 4,
+   "text": "And Rome said no."
+  },
+  {
+   "i": 209,
+   "start": 862.014,
+   "end": 864.592,
+   "startFrame": 25860,
+   "endFrame": 25938,
+   "words": 8,
+   "text": "Livy tells us the Senate refused to pay."
+  },
+  {
+   "i": 210,
+   "start": 864.942,
+   "end": 867.624,
+   "startFrame": 25948,
+   "endFrame": 26029,
+   "words": 7,
+   "text": "It banned public mourning beyond thirty days."
+  },
+  {
+   "i": 211,
+   "start": 867.974,
+   "end": 875.122,
+   "startFrame": 26039,
+   "endFrame": 26254,
+   "words": 25,
+   "text": "It raised new legions out of men who would never normally have served, including eight thousand slaves who were bought and armed at public expense."
+  },
+  {
+   "i": 212,
+   "start": 875.622,
+   "end": 883.07,
+   "startFrame": 26269,
+   "endFrame": 26492,
+   "words": 27,
+   "text": "When the defeated consul Varro came home, the Senate went out to meet him and thanked him, not for winning, but for not despairing of the Republic."
+  },
+  {
+   "i": 213,
+   "start": 883.57,
+   "end": 887.684,
+   "startFrame": 26507,
+   "endFrame": 26631,
+   "words": 12,
+   "text": "And the survivors of Cannae, the soldiers who had escaped, were punished."
+  },
+  {
+   "i": 214,
+   "start": 888.034,
+   "end": 893.307,
+   "startFrame": 26641,
+   "endFrame": 26799,
+   "words": 21,
+   "text": "They were sent to Sicily, kept there in a kind of exile, and not allowed home until the war was over."
+  },
+  {
+   "i": 215,
+   "start": 893.807,
+   "end": 897.831,
+   "startFrame": 26814,
+   "endFrame": 26935,
+   "words": 13,
+   "text": "This is the point where the Roman story and the Carthaginian story part."
+  },
+  {
+   "i": 216,
+   "start": 898.181,
+   "end": 900.446,
+   "startFrame": 26945,
+   "endFrame": 27013,
+   "words": 6,
+   "text": "Hannibal had destroyed a Roman army."
+  },
+  {
+   "i": 217,
+   "start": 900.796,
+   "end": 902.58,
+   "startFrame": 27024,
+   "endFrame": 27077,
+   "words": 5,
+   "text": "He had not destroyed Rome."
+  },
+  {
+   "i": 218,
+   "start": 902.93,
+   "end": 907.539,
+   "startFrame": 27088,
+   "endFrame": 27226,
+   "words": 15,
+   "text": "Some of its southern allies, including the great city of Capua, went over to him."
+  },
+  {
+   "i": 219,
+   "start": 908.039,
+   "end": 910.33,
+   "startFrame": 27241,
+   "endFrame": 27310,
+   "words": 7,
+   "text": "But most of the Roman alliance held."
+  },
+  {
+   "i": 220,
+   "start": 910.68,
+   "end": 918.948,
+   "startFrame": 27320,
+   "endFrame": 27568,
+   "words": 27,
+   "text": "Rome could lose forty thousand men and recruit another army, because it had a system for turning allies and citizens into soldiers that Hannibal could not match."
+  },
+  {
+   "i": 221,
+   "start": 919.448,
+   "end": 922.378,
+   "startFrame": 27583,
+   "endFrame": 27671,
+   "words": 8,
+   "text": "Hannibal stayed in Italy for another thirteen years."
+  },
+  {
+   "i": 222,
+   "start": 922.728,
+   "end": 923.951,
+   "startFrame": 27682,
+   "endFrame": 27719,
+   "words": 3,
+   "text": "He won battles."
+  },
+  {
+   "i": 223,
+   "start": 924.301,
+   "end": 925.707,
+   "startFrame": 27729,
+   "endFrame": 27771,
+   "words": 4,
+   "text": "He never took Rome."
+  },
+  {
+   "i": 224,
+   "start": 926.057,
+   "end": 930.198,
+   "startFrame": 27782,
+   "endFrame": 27906,
+   "words": 16,
+   "text": "He came to within a few miles of its walls in 211, and went away again."
+  },
+  {
+   "i": 225,
+   "start": 930.698,
+   "end": 933.002,
+   "startFrame": 27921,
+   "endFrame": 27990,
+   "words": 6,
+   "text": "So what did Cannae actually achieve?"
+  },
+  {
+   "i": 226,
+   "start": 933.502,
+   "end": 937.33,
+   "startFrame": 28005,
+   "endFrame": 28120,
+   "words": 13,
+   "text": "As a battle, it is the most perfect victory in the ancient world."
+  },
+  {
+   "i": 227,
+   "start": 937.68,
+   "end": 941.091,
+   "startFrame": 28130,
+   "endFrame": 28233,
+   "words": 9,
+   "text": "Military academies have taught it for two thousand years."
+  },
+  {
+   "i": 228,
+   "start": 941.591,
+   "end": 954.846,
+   "startFrame": 28248,
+   "endFrame": 28645,
+   "words": 47,
+   "text": "The German general Alfred von Schlieffen was so obsessed with the idea of a perfect encirclement that he wrote a book about it, and his famous plan for the invasion of France in 1914 is often described as an attempt to repeat Cannae on a continental scale."
+  },
+  {
+   "i": 229,
+   "start": 955.346,
+   "end": 956.349,
+   "startFrame": 28660,
+   "endFrame": 28690,
+   "words": 2,
+   "text": "It failed."
+  },
+  {
+   "i": 230,
+   "start": 956.849,
+   "end": 959.205,
+   "startFrame": 28705,
+   "endFrame": 28776,
+   "words": 7,
+   "text": "As a strategy, it did not work."
+  },
+  {
+   "i": 231,
+   "start": 959.555,
+   "end": 962.107,
+   "startFrame": 28787,
+   "endFrame": 28863,
+   "words": 8,
+   "text": "Hannibal won the battle and lost the war."
+  },
+  {
+   "i": 232,
+   "start": 962.607,
+   "end": 966.357,
+   "startFrame": 28878,
+   "endFrame": 28991,
+   "words": 15,
+   "text": "There is a lesson in that, and it is a harder one than the tactics."
+  },
+  {
+   "i": 233,
+   "start": 966.707,
+   "end": 970.925,
+   "startFrame": 29001,
+   "endFrame": 29128,
+   "words": 15,
+   "text": "A spectacular victory does not win a war if the other side can absorb it."
+  },
+  {
+   "i": 234,
+   "start": 971.275,
+   "end": 972.786,
+   "startFrame": 29138,
+   "endFrame": 29184,
+   "words": 4,
+   "text": "Rome could absorb it."
+  },
+  {
+   "i": 235,
+   "start": 973.136,
+   "end": 976.807,
+   "startFrame": 29194,
+   "endFrame": 29304,
+   "words": 9,
+   "text": "Carthage, which could not replace Hannibal's veterans, could not."
+  },
+  {
+   "i": 236,
+   "start": 977.307,
+   "end": 978.596,
+   "startFrame": 29319,
+   "endFrame": 29358,
+   "words": 3,
+   "text": "And Rome learned."
+  },
+  {
+   "i": 237,
+   "start": 978.946,
+   "end": 982.8,
+   "startFrame": 29368,
+   "endFrame": 29484,
+   "words": 15,
+   "text": "Fabius had been right in the first place, and it took Cannae to prove it."
+  },
+  {
+   "i": 238,
+   "start": 983.15,
+   "end": 991.705,
+   "startFrame": 29494,
+   "endFrame": 29751,
+   "words": 26,
+   "text": "After 216, Rome returned to the strategy of avoiding Hannibal in open battle while it won the war elsewhere, in Sicily, in Spain, and in Africa."
+  },
+  {
+   "i": 239,
+   "start": 992.205,
+   "end": 995.681,
+   "startFrame": 29766,
+   "endFrame": 29870,
+   "words": 11,
+   "text": "The man who finally beat Hannibal was a Roman named Scipio."
+  },
+  {
+   "i": 240,
+   "start": 996.031,
+   "end": 998.752,
+   "startFrame": 29881,
+   "endFrame": 29963,
+   "words": 8,
+   "text": "As a young officer, he had survived Cannae."
+  },
+  {
+   "i": 241,
+   "start": 999.252,
+   "end": 1011.348,
+   "startFrame": 29978,
+   "endFrame": 30340,
+   "words": 45,
+   "text": "In 202 BC, at a battle called Zama in North Africa, which ended the war with a peace the following year, he used the same weapon that Hannibal had used against his army, a cavalry charge that swept round to the back of the enemy."
+  },
+  {
+   "i": 242,
+   "start": 1011.848,
+   "end": 1014.686,
+   "startFrame": 30355,
+   "endFrame": 30441,
+   "words": 10,
+   "text": "He had studied the man who had destroyed his friends."
+  },
+  {
+   "i": 243,
+   "start": 1015.186,
+   "end": 1018.038,
+   "startFrame": 30456,
+   "endFrame": 30541,
+   "words": 10,
+   "text": "Cannae is not just a story about a clever plan."
+  },
+  {
+   "i": 244,
+   "start": 1018.388,
+   "end": 1022.906,
+   "startFrame": 30552,
+   "endFrame": 30687,
+   "words": 15,
+   "text": "It is a story about what happens when a larger force mistakes numbers for strength."
+  },
+  {
+   "i": 245,
+   "start": 1023.406,
+   "end": 1026.583,
+   "startFrame": 30702,
+   "endFrame": 30797,
+   "words": 8,
+   "text": "At Thermopylae, space made a small army strong."
+  },
+  {
+   "i": 246,
+   "start": 1026.933,
+   "end": 1029.797,
+   "startFrame": 30808,
+   "endFrame": 30894,
+   "words": 8,
+   "text": "At Cannae, space made a big army helpless."
+  },
+  {
+   "i": 247,
+   "start": 1030.297,
+   "end": 1035.349,
+   "startFrame": 30909,
+   "endFrame": 31060,
+   "words": 18,
+   "text": "The Romans did not lose because they were afraid or badly led, although they were both a little."
+  },
+  {
+   "i": 248,
+   "start": 1035.699,
+   "end": 1041.792,
+   "startFrame": 31071,
+   "endFrame": 31254,
+   "words": 26,
+   "text": "They lost because they walked into a shape that had been built for them, and they walked in with every man pushing the man in front."
+  },
+  {
+   "i": 249,
+   "start": 1042.292,
+   "end": 1047.396,
+   "startFrame": 31269,
+   "endFrame": 31422,
+   "words": 16,
+   "text": "Hannibal's real weapon at Cannae was not the cavalry, or the Libyans, or even the crescent."
+  },
+  {
+   "i": 250,
+   "start": 1047.746,
+   "end": 1051.197,
+   "startFrame": 31432,
+   "endFrame": 31536,
+   "words": 12,
+   "text": "It was his understanding of what the other side wanted to do."
+  },
+  {
+   "i": 251,
+   "start": 1051.697,
+   "end": 1054.548,
+   "startFrame": 31551,
+   "endFrame": 31636,
+   "words": 10,
+   "text": "If you take one thing from this story, take this."
+  },
+  {
+   "i": 252,
+   "start": 1054.898,
+   "end": 1058.257,
+   "startFrame": 31647,
+   "endFrame": 31748,
+   "words": 11,
+   "text": "The most dangerous trap is one that looks like an opportunity."
+  },
+  {
+   "i": 253,
+   "start": 1058.757,
+   "end": 1061.114,
+   "startFrame": 31763,
+   "endFrame": 31833,
+   "words": 9,
+   "text": "And count the people who can reach each other."
+  },
+  {
+   "i": 254,
+   "start": 1061.464,
+   "end": 1063.443,
+   "startFrame": 31844,
+   "endFrame": 31903,
+   "words": 5,
+   "text": "Not the people standing there."
+  }
+ ],
+ "chapters": []
+}
