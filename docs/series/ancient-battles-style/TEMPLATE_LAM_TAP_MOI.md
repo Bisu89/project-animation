@@ -82,6 +82,7 @@ Prompt nền: "Wide 16:9 EMPTY background plate... ABSOLUTELY NO people... large
 - Chạy `build_scenes.py` riêng ghi đè prompt sai: luôn dùng `anc_plan.py`.
 - Đổi kịch bản sau khi có giọng: phải chạy lại `gen_voice.py` rồi `anc_plan.py`; số cảnh dịch chuyển, `plan.py` phải sửa lại.
 - Lính ngã trong cảnh sprite chồng một chỗ: tách vị trí `xc` mỗi đợt.
+- Phụ đề chiếm dải đáy khung (từ y≈890 trở xuống): mọi nhãn và hình trong sơ đồ phải nằm trên y≈860, nếu không bị che.
 - Chữ trong thẻ sơ đồ tràn khung: rộng thẻ tính theo số ký tự, giảm cỡ chữ cho chuỗi dài.
 - Hình trong video dùng "Herodotus" nên nghe thử phát âm tên riêng trước khi duyệt (danh sách trong `sources.md`).
 
