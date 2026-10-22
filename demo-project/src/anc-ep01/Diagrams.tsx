@@ -69,8 +69,8 @@ export const D2: React.FC<{ stage: number }> = ({ stage }) => {
       {Array.from({ length: 14 }, (_, i) => (
         <path key={i} d={`M${60 + (i % 5) * 110},${80 + i * 70} l60,-20 l30,30`} stroke="#4d4033" strokeWidth={4} fill="none" strokeLinecap="round" />
       ))}
-      <text x={340} y={980} textAnchor="middle" fontFamily={SERIF} fontSize={38} fill="#d8c9a8" letterSpacing={8}>CLIFF</text>
-      <text x={1600} y={980} textAnchor="middle" fontFamily={SERIF} fontSize={38} fill="#eaf3f7" letterSpacing={8}>SEA</text>
+      <text x={340} y={850} textAnchor="middle" fontFamily={SERIF} fontSize={38} fill="#d8c9a8" letterSpacing={8}>CLIFF</text>
+      <text x={1600} y={850} textAnchor="middle" fontFamily={SERIF} fontSize={38} fill="#eaf3f7" letterSpacing={8}>SEA</text>
       {/* Persians packed behind the line */}
       {cols.map((x, ci) =>
         Array.from({ length: rows }, (_, r) => {
@@ -145,7 +145,7 @@ export const D3: React.FC<{ stage: number }> = ({ stage }) => {
       {stage === 0 && (
         <g>
           {trail.map((s, i) => (s <= draw ? <circle key={i} cx={pathPoint(s)[0]} cy={pathPoint(s)[1]} r={3} fill={GOLD} /> : null))}
-          <Card x={560} y={850} text="THE ANOPAIA PATH" at={40} f={f} size={34} to={pathPoint(0.78) as [number, number]} />
+          <Card x={700} y={790} text="THE ANOPAIA PATH" at={40} f={f} size={34} to={pathPoint(0.78) as [number, number]} />
           <Card x={600} y={330} text="MOUNT KALLIDROMON" at={16} f={f} size={32} />
         </g>
       )}
@@ -153,7 +153,7 @@ export const D3: React.FC<{ stage: number }> = ({ stage }) => {
         Array.from({ length: 34 }, (_, i) => (
           <rect key={i} x={440 + (random("px" + i) - 0.5) * 80} y={600 + (random("py" + i) - 0.5) * 80} width={14} height={18} rx={3} fill="#c9a063" stroke={INK} strokeWidth={2} opacity={stage >= 1 ? ease(f, i, i + 8) : 0} />
         ))}
-      {stage === 1 && <Card x={300} y={720} text="1,000 PHOCIANS GUARD IT" at={20} f={f} size={32} to={[440, 650]} />}
+      {stage === 1 && <Card x={250} y={640} text="1,000 PHOCIANS GUARD IT" at={20} f={f} size={32} to={[440, 650]} />}
       {stage === 2 && (
         <g>
           <Card x={1500} y={150} text="THE PLAN: THE PASS IS THE ONLY WAY" at={8} f={f} size={32} />
@@ -273,7 +273,7 @@ export const D5: React.FC<{ stage: number }> = ({ stage }) => {
               </g>
             );
           })}
-          {stage === 2 && <Card x={960} y={860} text="THE GROUND DOES THE FIGHTING" at={20} f={f} size={44} />}
+          {stage === 2 && <Card x={960} y={800} text="THE GROUND DOES THE FIGHTING" at={20} f={f} size={44} />}
         </g>
       )}
     </Paper>
