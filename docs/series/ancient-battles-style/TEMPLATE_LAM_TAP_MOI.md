@@ -86,7 +86,11 @@ Prompt nền: "Wide 16:9 EMPTY background plate... ABSOLUTELY NO people... large
 - Chữ trong thẻ sơ đồ tràn khung: rộng thẻ tính theo số ký tự, giảm cỡ chữ cho chuỗi dài.
 - Hình trong video dùng "Herodotus" nên nghe thử phát âm tên riêng trước khi duyệt (danh sách trong `sources.md`).
 
+## 5b. Âm thanh (nhạc + hiệu ứng)
+- Hiệu ứng dùng chung: `python scripts/gen_anc_sfx.py` (một lần cho cả series). Nhạc từng tập: `python scripts/gen_anc_music.py --slug <slug> --intensity <số chương giá trị 0..1>` (căng ở chương giao tranh).
+- Mỗi tập có `src/<slug>/sfxrules.json`: `rules` (regex trên câu lời kể, tên hiệu ứng, âm lượng, độ trễ) và `beds` (dải cảnh + âm nền). Kiểm tra `python scripts/check_sfx_rules.py <slug>`: không dòng nào được `NO MATCH`. `new_anc_episode.py` chưa tạo sẵn sfxrules.json/sfxplan.ts, copy từ tập 3.
+- Render với `{"music":0.16,"sfx":1,"voice":"voice.wav","captions":true}`.
+
 ## 6. Việc chưa làm (cho các tập sau)
-- Nhạc nền và SFX (chủ dự án chọn bỏ qua ở tập 1).
 - Nhãn chữ trên hình kiểu "thẻ giấy" đã có cho sơ đồ, chưa có cho ảnh AI.
 - Đặt tên series, kênh, thumbnail.

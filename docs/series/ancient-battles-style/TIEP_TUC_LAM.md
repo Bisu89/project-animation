@@ -21,3 +21,9 @@ Cập nhật 2026-10-21. Phong cách tham chiếu: xem PHAN_TICH_VIDEO_THAM_CHIE
 - Tập 3 Alesia: kịch bản đã hợp nhất bản duyệt (`content/anc-ep03/script.md`, 3.080 từ, 17:00), giọng đọc xong, plan.py xong (83 cảnh: 46 ảnh mới, 27 cảnh sơ đồ F1-F4, 3 cảnh sprite dùng lại sprite tập 2, 7 cảnh lặp ảnh). CHỜ: chủ dự án gen 46 ảnh theo `content/anc-ep03/scenes.csv` (style `content/anc-style-gaul.txt`) và 2 nền `content/anc-ep03/assets_action.csv`, rồi chạy `python -W ignore scripts/prep_sprites.py --slug anc-ep03 --no-placeholders` và render `AncEp03`.
 - Thư mục tải lên YouTube: `publish/upload_batch_2026-10-22/` (4 tập kèm file title/mô tả; bị git bỏ qua). Series cổ đại chưa đặt tên.
 - Lệnh sinh scenes.csv riêng cho mỗi tập: `python scripts/anc_plan.py --slug <slug> --style-file content/anc-style-<phe>.txt` (anc-style.txt: Hy Lạp/Ba Tư; anc-style-punic.txt: La Mã/Carthage; anc-style-gaul.txt: La Mã/Gaul).
+
+## Âm thanh (2026-10-24)
+- Cả 3 tập cổ đại đã render lại CÓ nhạc nền + hiệu ứng (`out/anc-ep01.mp4`, `anc-ep02.mp4`, `anc-ep03.mp4`; tập 2 đã hết lỗi thẻ chữ). Bản đã đưa vào `publish/upload_batch_2026-10-22/`.
+- Hiệu ứng: `python scripts/gen_anc_sfx.py` -> `demo-project/public/anc-sfx/sfx/*.wav` (39 file, dùng chung mọi tập). Nhạc: `python scripts/gen_anc_music.py --slug <tập> --intensity <một giá trị 0..1 cho mỗi chương>`. Hai thứ này git bỏ qua, máy mới phải tạo lại.
+- Gắn âm thanh: `src/<slug>/sfxrules.json` (quy tắc regex theo câu lời kể + lớp nền theo dải cảnh), kiểm tra bằng `python scripts/check_sfx_rules.py <slug>`; thành phần dùng chung `src/anc-lib/Soundtrack.tsx` và `sfxplan.ts`. Props render: `{"music":0.16,"sfx":1,...}`.
+- Chưa nghe bằng tai: độ cân bằng giọng/nhạc/hiệu ứng. Chỉnh bằng `music` và `sfx`.
