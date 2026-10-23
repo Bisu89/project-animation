@@ -1,0 +1,265 @@
+{
+ "_help": "Sound effects placed on narration sentences (regex, case-insensitive). Check with: python scripts/check_sfx_rules.py <slug>. Sound files: public/anc-sfx/sfx (python scripts/gen_anc_sfx.py).",
+ "rules": [
+  {
+   "re": "picks up its shields and walks away",
+   "sfx": "footsteps",
+   "vol": 0.3,
+   "at": 0.8
+  },
+  {
+   "re": "A bridge of boats across the Hellespont",
+   "sfx": "wood_creak",
+   "vol": 0.25,
+   "at": 1.2
+  },
+  {
+   "re": "A canal was dug through the headland",
+   "sfx": "scrape",
+   "vol": 0.25,
+   "at": 0.4
+  },
+  {
+   "re": "a narrow pass called Thermopylae",
+   "sfx": "gong",
+   "vol": 0.3,
+   "at": 0.2
+  },
+  {
+   "re": "They repair an old wall across the narrowest point",
+   "sfx": "thud",
+   "vol": 0.35,
+   "at": 1.0
+  },
+  {
+   "re": "On the fifth day, he sends his army in",
+   "sfx": "war_horn",
+   "vol": 0.5,
+   "at": 0.5
+  },
+  {
+   "re": "arrows are so many they will hide the sun",
+   "sfx": "arrow_volley",
+   "vol": 0.3,
+   "at": 2.0
+  },
+  {
+   "re": "Wave after wave goes in and comes back in pieces",
+   "sfx": "shield_wall",
+   "vol": 0.6,
+   "at": 0.8
+  },
+  {
+   "re": "The Immortals, ten thousand strong",
+   "sfx": "war_drum",
+   "vol": 0.5,
+   "at": 0.5
+  },
+  {
+   "re": "pretended to run, then turned on",
+   "sfx": "run_steps",
+   "vol": 0.3,
+   "at": 1.2
+  },
+  {
+   "re": "a local man walks into the Persian camp",
+   "sfx": "footsteps",
+   "vol": 0.35,
+   "at": 0.8
+  },
+  {
+   "re": "the leaves crunch underfoot",
+   "sfx": "footsteps",
+   "vol": 0.35,
+   "at": 0.2
+  },
+  {
+   "re": "They grab their weapons and run to a hilltop",
+   "sfx": "run_steps",
+   "vol": 0.4,
+   "at": 0.6
+  },
+  {
+   "re": "They fire some arrows",
+   "sfx": "arrow_volley",
+   "vol": 0.3,
+   "at": 0.1
+  },
+  {
+   "re": "a scout runs in with the news",
+   "sfx": "run_steps",
+   "vol": 0.4,
+   "at": 0.8
+  },
+  {
+   "re": "he leads his men out of the narrow pass",
+   "sfx": "battle_cry",
+   "vol": 0.4,
+   "at": 1.4
+  },
+  {
+   "re": "They fight with spears until the spears break",
+   "sfx": "shield_wall",
+   "vol": 0.5,
+   "at": 1.6
+  },
+  {
+   "re": "^Then swords",
+   "sfx": "sword_clash",
+   "vol": 0.6,
+   "at": 0.0
+  },
+  {
+   "re": "fight over his body",
+   "sfx": "sword_clash",
+   "vol": 0.45,
+   "at": 1.2
+  },
+  {
+   "re": "Then the Immortals arrive from behind",
+   "sfx": "war_horn",
+   "vol": 0.5,
+   "at": 0.6
+  },
+  {
+   "re": "the sky does go dark with arrows",
+   "sfx": "arrow_volley",
+   "vol": 0.6,
+   "at": 1.0
+  },
+  {
+   "re": "put up a stone at the pass",
+   "sfx": "gong",
+   "vol": 0.35,
+   "at": 1.0
+  },
+  {
+   "re": "stranger passing by",
+   "sfx": "gong",
+   "vol": 0.4,
+   "at": 0.2
+  }
+ ],
+ "beds": [
+  {
+   "scenes": [
+    1,
+    6
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.12
+  },
+  {
+   "scenes": [
+    7,
+    7
+   ],
+   "sfx": "amb_march",
+   "vol": 0.2
+  },
+  {
+   "scenes": [
+    8,
+    14
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.06
+  },
+  {
+   "scenes": [
+    18,
+    24
+   ],
+   "sfx": "amb_sea",
+   "vol": 0.14
+  },
+  {
+   "scenes": [
+    25,
+    28
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.08
+  },
+  {
+   "scenes": [
+    29,
+    35
+   ],
+   "sfx": "amb_camp",
+   "vol": 0.13
+  },
+  {
+   "scenes": [
+    36,
+    45
+   ],
+   "sfx": "amb_battle",
+   "vol": 0.18
+  },
+  {
+   "scenes": [
+    46,
+    54
+   ],
+   "sfx": "amb_camp",
+   "vol": 0.1
+  },
+  {
+   "scenes": [
+    55,
+    59
+   ],
+   "sfx": "amb_night",
+   "vol": 0.18
+  },
+  {
+   "scenes": [
+    60,
+    64
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.05
+  },
+  {
+   "scenes": [
+    65,
+    70
+   ],
+   "sfx": "amb_camp",
+   "vol": 0.1
+  },
+  {
+   "scenes": [
+    71,
+    77
+   ],
+   "sfx": "amb_battle",
+   "vol": 0.22
+  },
+  {
+   "scenes": [
+    78,
+    85
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.1
+  },
+  {
+   "scenes": [
+    86,
+    93
+   ],
+   "sfx": "amb_sea",
+   "vol": 0.12
+  },
+  {
+   "scenes": [
+    94,
+    100
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.08
+  }
+ ]
+}

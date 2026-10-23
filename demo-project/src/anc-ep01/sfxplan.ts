@@ -1,3 +1,8 @@
-export const BEDS: { scenes: number[]; sfx: string; vol: number }[] = [];
+import { TIMELINE } from "./timeline";
+import RULES from "./sfxrules.json";
+import { buildPlan } from "../anc-lib/sfxplan";
+
+const plan = buildPlan(TIMELINE, RULES);
+export const SFX_EVENTS = plan.events;
+export const BEDS = plan.beds;
 export const HITS: [number, number][] = [];
-export const SFX_EVENTS: { frame: number; name: string; vol: number; shake: number }[] = [];

@@ -141,7 +141,7 @@ export const RemotionRoot: React.FC = () => {
         fps={30}
         width={1920}
         height={1080}
-        defaultProps={{ music: 0, sfx: 0, voice: "voice.wav", captions: true }}
+        defaultProps={{ music: 0.16, sfx: 1, voice: "voice.wav", captions: true }}
       />
       <Composition
         id="AncPilot1"
@@ -159,7 +159,7 @@ export const RemotionRoot: React.FC = () => {
         fps={30}
         width={1920}
         height={1080}
-        defaultProps={{ music: 0, sfx: 0, voice: "voice.wav", captions: true }}
+        defaultProps={{ music: 0.16, sfx: 1, voice: "voice.wav", captions: true }}
       />
       <Composition
         id="AncEp03"
@@ -168,7 +168,7 @@ export const RemotionRoot: React.FC = () => {
         fps={30}
         width={1920}
         height={1080}
-        defaultProps={{ music: 0, sfx: 0, voice: "voice.wav", captions: true }}
+        defaultProps={{ music: 0.16, sfx: 1, voice: "voice.wav", captions: true }}
       />
       <Composition
         id="CookEp01"

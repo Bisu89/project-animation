@@ -1,0 +1,237 @@
+{
+ "_help": "Sound effects placed on narration sentences (regex, case-insensitive). Check with: python scripts/check_sfx_rules.py <slug>. Sound files: public/anc-sfx/sfx (python scripts/gen_anc_sfx.py).",
+ "rules": [
+  {
+   "re": "Around them, on three sides, a smaller army",
+   "sfx": "drum_roll",
+   "vol": 0.35,
+   "at": 0.3
+  },
+  {
+   "re": "Rome voted for new consuls",
+   "sfx": "crowd_cheer",
+   "vol": 0.3,
+   "at": 1.0
+  },
+  {
+   "re": "It decided to settle the question once and for all",
+   "sfx": "war_drum",
+   "vol": 0.45,
+   "at": 1.2
+  },
+  {
+   "re": "The battle begins in the usual way",
+   "sfx": "war_horn",
+   "vol": 0.5,
+   "at": 0.6
+  },
+  {
+   "re": "Then the cavalry on the river side charge",
+   "sfx": "cavalry_charge",
+   "vol": 0.5,
+   "at": 0.3
+  },
+  {
+   "re": "leads his horsemen around the back",
+   "sfx": "horse_gallop",
+   "vol": 0.45,
+   "at": 0.8
+  },
+  {
+   "re": "Meanwhile, in the center, the infantry clash",
+   "sfx": "shield_wall",
+   "vol": 0.6,
+   "at": 0.8
+  },
+  {
+   "re": "The Libyans, standing on either side, wheel inward",
+   "sfx": "war_horn",
+   "vol": 0.45,
+   "at": 0.2
+  },
+  {
+   "re": "stop falling back",
+   "sfx": "sword_clash",
+   "vol": 0.45,
+   "at": 0.3
+  },
+  {
+   "re": "It is a slaughter",
+   "sfx": "gong",
+   "vol": 0.3,
+   "at": 0.5
+  },
+  {
+   "re": "Rome said no",
+   "sfx": "gong",
+   "vol": 0.4,
+   "at": 0.2
+  },
+  {
+   "re": "a cavalry charge that swept round to the back",
+   "sfx": "horse_gallop",
+   "vol": 0.35,
+   "at": 0.8
+  },
+  {
+   "re": "looks like an opportunity",
+   "sfx": "gong",
+   "vol": 0.35,
+   "at": 0.2
+  }
+ ],
+ "beds": [
+  {
+   "scenes": [
+    1,
+    5
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.08
+  },
+  {
+   "scenes": [
+    6,
+    6
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.14
+  },
+  {
+   "scenes": [
+    7,
+    7
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.06
+  },
+  {
+   "scenes": [
+    8,
+    8
+   ],
+   "sfx": "amb_rain",
+   "vol": 0.14
+  },
+  {
+   "scenes": [
+    9,
+    12
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.07
+  },
+  {
+   "scenes": [
+    13,
+    14
+   ],
+   "sfx": "amb_crowd",
+   "vol": 0.12
+  },
+  {
+   "scenes": [
+    19,
+    19
+   ],
+   "sfx": "amb_march",
+   "vol": 0.2
+  },
+  {
+   "scenes": [
+    20,
+    22
+   ],
+   "sfx": "amb_camp",
+   "vol": 0.1
+  },
+  {
+   "scenes": [
+    27,
+    27
+   ],
+   "sfx": "amb_march",
+   "vol": 0.2
+  },
+  {
+   "scenes": [
+    28,
+    41
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.07
+  },
+  {
+   "scenes": [
+    42,
+    50
+   ],
+   "sfx": "amb_battle",
+   "vol": 0.22
+  },
+  {
+   "scenes": [
+    51,
+    60
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.05
+  },
+  {
+   "scenes": [
+    61,
+    65
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.08
+  },
+  {
+   "scenes": [
+    66,
+    69
+   ],
+   "sfx": "amb_camp",
+   "vol": 0.1
+  },
+  {
+   "scenes": [
+    71,
+    73
+   ],
+   "sfx": "amb_crowd",
+   "vol": 0.08
+  },
+  {
+   "scenes": [
+    74,
+    74
+   ],
+   "sfx": "amb_sea",
+   "vol": 0.12
+  },
+  {
+   "scenes": [
+    76,
+    76
+   ],
+   "sfx": "amb_march",
+   "vol": 0.12
+  },
+  {
+   "scenes": [
+    84,
+    84
+   ],
+   "sfx": "amb_battle",
+   "vol": 0.12
+  },
+  {
+   "scenes": [
+    85,
+    89
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.06
+  }
+ ]
+}

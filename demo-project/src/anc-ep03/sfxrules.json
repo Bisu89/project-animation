@@ -1,0 +1,311 @@
+{
+ "_help": "Sound effects placed on narration sentences (regex, case-insensitive). Check with: python scripts/check_sfx_rules.py <slug>. Sound files: public/anc-sfx/sfx (python scripts/gen_anc_sfx.py).",
+ "rules": [
+  {
+   "re": "walks out onto a wall",
+   "sfx": "footsteps",
+   "vol": 0.3,
+   "at": 0.6
+  },
+  {
+   "re": "thrown back with heavy losses",
+   "sfx": "shield_wall",
+   "vol": 0.4,
+   "at": 0.8
+  },
+  {
+   "re": "German mercenary horsemen beat the Gauls",
+   "sfx": "cavalry_charge",
+   "vol": 0.45,
+   "at": 0.3
+  },
+  {
+   "re": "sends his cavalry out of Alesia at night",
+   "sfx": "horse_gallop",
+   "vol": 0.25,
+   "at": 0.4
+  },
+  {
+   "re": "Caesar's soldiers dig a trench",
+   "sfx": "scrape",
+   "vol": 0.35,
+   "at": 0.5
+  },
+  {
+   "re": "Napoleon III ordered archaeologists",
+   "sfx": "scrape",
+   "vol": 0.2,
+   "at": 1.0
+  },
+  {
+   "re": "He builds a second wall",
+   "sfx": "impact",
+   "vol": 0.35,
+   "at": 0.8
+  },
+  {
+   "re": "walk toward the Roman lines, begging",
+   "sfx": "footsteps",
+   "vol": 0.3,
+   "at": 0.5
+  },
+  {
+   "re": "A cheer goes up from the starving men inside",
+   "sfx": "crowd_cheer",
+   "vol": 0.45,
+   "at": 0.5
+  },
+  {
+   "re": "Caesar's German horsemen charge together",
+   "sfx": "cavalry_charge",
+   "vol": 0.5,
+   "at": 0.3
+  },
+  {
+   "re": "At midnight, they attack the outer wall",
+   "sfx": "battle_cry",
+   "vol": 0.45,
+   "at": 0.8
+  },
+  {
+   "re": "shower the attackers with stones and darts",
+   "sfx": "arrow_volley",
+   "vol": 0.35,
+   "at": 0.3
+  },
+  {
+   "re": "comes down the slope against that camp",
+   "sfx": "battle_cry",
+   "vol": 0.5,
+   "at": 0.5
+  },
+  {
+   "re": "He sends a general, Labienus",
+   "sfx": "run_steps",
+   "vol": 0.35,
+   "at": 0.8
+  },
+  {
+   "re": "wearing the scarlet cloak",
+   "sfx": "war_horn",
+   "vol": 0.35,
+   "at": 0.6
+  },
+  {
+   "re": "sends his cavalry out of a gate, around the outside",
+   "sfx": "horse_gallop",
+   "vol": 0.45,
+   "at": 0.6
+  },
+  {
+   "re": "see horsemen behind them, and they break",
+   "sfx": "crowd_roar",
+   "vol": 0.3,
+   "at": 0.6
+  },
+  {
+   "re": "paraded in Caesar's triumph",
+   "sfx": "fanfare",
+   "vol": 0.4,
+   "at": 0.5
+  },
+  {
+   "re": "imprisoned in Rome",
+   "sfx": "chains",
+   "vol": 0.4,
+   "at": 0.2
+  },
+  {
+   "re": "in the same place at the same time",
+   "sfx": "gong",
+   "vol": 0.35,
+   "at": 0.8
+  }
+ ],
+ "beds": [
+  {
+   "scenes": [
+    1,
+    6
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.1
+  },
+  {
+   "scenes": [
+    7,
+    9
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.1
+  },
+  {
+   "scenes": [
+    10,
+    10
+   ],
+   "sfx": "amb_fire",
+   "vol": 0.22
+  },
+  {
+   "scenes": [
+    11,
+    12
+   ],
+   "sfx": "amb_battle",
+   "vol": 0.12
+  },
+  {
+   "scenes": [
+    13,
+    13
+   ],
+   "sfx": "amb_march",
+   "vol": 0.12
+  },
+  {
+   "scenes": [
+    18,
+    19
+   ],
+   "sfx": "amb_night",
+   "vol": 0.14
+  },
+  {
+   "scenes": [
+    20,
+    21
+   ],
+   "sfx": "amb_camp",
+   "vol": 0.08
+  },
+  {
+   "scenes": [
+    22,
+    29
+   ],
+   "sfx": "amb_dig",
+   "vol": 0.14
+  },
+  {
+   "scenes": [
+    30,
+    37
+   ],
+   "sfx": "amb_dig",
+   "vol": 0.1
+  },
+  {
+   "scenes": [
+    38,
+    39
+   ],
+   "sfx": "amb_fire",
+   "vol": 0.12
+  },
+  {
+   "scenes": [
+    40,
+    43
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.1
+  },
+  {
+   "scenes": [
+    44,
+    46
+   ],
+   "sfx": "amb_camp",
+   "vol": 0.1
+  },
+  {
+   "scenes": [
+    47,
+    47
+   ],
+   "sfx": "amb_crowd",
+   "vol": 0.12
+  },
+  {
+   "scenes": [
+    49,
+    55
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.05
+  },
+  {
+   "scenes": [
+    57,
+    58
+   ],
+   "sfx": "amb_battle",
+   "vol": 0.2
+  },
+  {
+   "scenes": [
+    59,
+    59
+   ],
+   "sfx": "amb_fire",
+   "vol": 0.14
+  },
+  {
+   "scenes": [
+    60,
+    61
+   ],
+   "sfx": "amb_battle",
+   "vol": 0.25
+  },
+  {
+   "scenes": [
+    62,
+    63
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.12
+  },
+  {
+   "scenes": [
+    64,
+    68
+   ],
+   "sfx": "amb_battle",
+   "vol": 0.25
+  },
+  {
+   "scenes": [
+    69,
+    72
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.1
+  },
+  {
+   "scenes": [
+    73,
+    73
+   ],
+   "sfx": "amb_crowd",
+   "vol": 0.2
+  },
+  {
+   "scenes": [
+    74,
+    77
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.07
+  },
+  {
+   "scenes": [
+    78,
+    83
+   ],
+   "sfx": "amb_wind",
+   "vol": 0.05
+  }
+ ]
+}

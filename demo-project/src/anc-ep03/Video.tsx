@@ -7,6 +7,8 @@ import { cueStart } from "./cues";
 import { SCENE_SPECS } from "./scenes";
 import { VISUALS } from "./visuals";
 import { KenBurns } from "./KenBurns";
+import { Soundtrack } from "../anc-lib/Soundtrack";
+import { BEDS, SFX_EVENTS } from "./sfxplan";
 import { DIAGRAMS } from "./Diagrams";
 import { EngineFade } from "../anc-pilot1/Action";
 import { ACTION } from "./ActionSprites";
@@ -35,10 +37,11 @@ const ChapterTitle: React.FC<{ text: string }> = ({ text }) => {
   );
 };
 
-export const Video: React.FC<VideoProps> = ({ voice, captions }) => {
+export const Video: React.FC<VideoProps> = ({ music, sfx, voice, captions }) => {
   return (
     <AbsoluteFill style={{ background: "#07090c" }}>
       {voice && <Audio src={staticFile(`${ASSETS}/${voice}`)} />}
+      <Soundtrack slug={ASSETS} music={music} sfx={sfx} duration={DURATION} cues={TIMELINE.cues} events={SFX_EVENTS} beds={BEDS} starts={starts} ends={SCENE_SPECS.map((_, i) => endOf(i))} voice={!!voice} />
 
       {SCENE_SPECS.map((s, i) => {
         const from = starts[i];
