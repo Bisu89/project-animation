@@ -63,9 +63,9 @@ export const F1: React.FC<{ stage: number }> = ({ stage }) => {
         <g>
           <Arrow x1={CX - 420} y1={CY + 20} x2={CX - 330} y2={CY - 190} color={GOLD} p={ease(f, 20, 70)} w={12} />
           <Arrow x1={CX + 420} y1={CY - 20} x2={CX + 330} y2={CY + 190} color={GOLD} p={ease(f, 40, 90)} w={12} />
-          <Card x={1650} y={110} text="ROMANS HOLD THE GROUND BETWEEN" at={10} f={f} size={24} />
-          <Card x={1650} y={180} text="RESERVES MOVE SHORT DISTANCES" at={36} f={f} size={24} />
-          <Card x={360} y={760} text="THE ENEMY OUTSIDE MUST MARCH AROUND" at={64} f={f} size={26} />
+          <Card x={1540} y={110} text="ROMANS HOLD THE GROUND BETWEEN" at={10} f={f} size={24} />
+          <Card x={1540} y={180} text="RESERVES MOVE SHORT DISTANCES" at={36} f={f} size={24} />
+          <Card x={480} y={760} text="THE ENEMY OUTSIDE MUST MARCH AROUND" at={64} f={f} size={26} />
         </g>
       )}
       {/* the relief army outside */}
@@ -82,8 +82,8 @@ export const F1: React.FC<{ stage: number }> = ({ stage }) => {
           <Arrow x1={1500} y1={440} x2={CX + 520} y2={CY} color={BLUE} p={ease(f, 30, 80)} w={12} />
           <Arrow x1={CX - 240} y1={CY} x2={CX - 340} y2={CY} color={BLUE} p={ease(f, 40, 80)} w={10} />
           <Arrow x1={CX + 240} y1={CY} x2={CX + 340} y2={CY} color={BLUE} p={ease(f, 40, 80)} w={10} />
-          <Card x={310} y={720} text="RELIEF ARMY" at={20} f={f} size={30} />
-          <Card x={1620} y={720} text="THE TOWN BREAKS OUT FROM INSIDE" at={50} f={f} size={26} />
+          <Card x={330} y={720} text="RELIEF ARMY" at={20} f={f} size={30} />
+          <Card x={1500} y={720} text="THE TOWN BREAKS OUT FROM INSIDE" at={50} f={f} size={24} />
         </g>
       )}
       {/* the northern hill */}
@@ -107,8 +107,8 @@ export const F1: React.FC<{ stage: number }> = ({ stage }) => {
         <g>
           <path d={`M${CX + 520},${CY + 120} Q${CX + 700},${CY - 120} ${CX + 420},${CY - 360} Q${CX + 150},${CY - 480} ${CX},${CY - 400}`} fill="none" stroke={GOLD} strokeWidth={12} strokeDasharray="20 14" strokeLinecap="round" strokeDashoffset={-f * 1.6} />
           <Arrow x1={CX + 300} y1={CY - 420} x2={CX + 40} y2={CY - 392} color={GOLD} p={ease(f, 20, 70)} w={12} />
-          <Card x={1650} y={110} text="CAVALRY RIDES AROUND THE OUTER LINE" at={10} f={f} size={24} />
-          <Card x={1650} y={180} text="AND HITS THE GAULS FROM BEHIND" at={36} f={f} size={24} />
+          <Card x={1540} y={110} text="CAVALRY RIDES AROUND THE OUTER LINE" at={10} f={f} size={24} />
+          <Card x={1540} y={180} text="AND HITS THE GAULS FROM BEHIND" at={36} f={f} size={24} />
         </g>
       )}
     </Paper>

@@ -100,17 +100,17 @@ export const VISUALS: Record<number, Visual> = {
  "23": {
   "kind": "diag",
   "key": "F2",
-  "stage": 0
+  "stage": 1
  },
  "24": {
   "kind": "diag",
   "key": "F2",
-  "stage": 1
+  "stage": 2
  },
  "25": {
   "kind": "diag",
   "key": "F2",
-  "stage": 2
+  "stage": 3
  },
  "26": {
   "kind": "diag",
