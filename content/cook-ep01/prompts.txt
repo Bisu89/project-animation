@@ -1,0 +1,39 @@
+# Paste into ONE ChatGPT conversation. First generate image 0 (master) and keep it; after ~8 images paste it again as reference.
+# Save images as demo-project/public/cook-ep01/images/s01.png ... s10.png (9:16, keep the default 1024x1536 or larger).
+
+=== STYLE (prepend to every prompt) ===
+Cozy hand-painted anime illustration in the style of a Studio Ghibli food scene: soft painterly shading, warm golden-hour light through a wooden window, gentle bokeh in the background, rich appetizing food colours, delicate steam, clean linework, slightly glossy highlights on food. Close-up cooking shot, only hands and ingredients visible (no faces). Same small wooden countryside kitchen in every image: light oak counter, black iron wok, cream ceramic bowls, clay pots and herbs by the window. Vertical 9:16 composition, subject centred with some empty space top and bottom. No text, no letters, no numbers, no watermark, no photorealism, no 3D render.
+
+=== s00 MASTER (generate first, do not use in the video) ===
+A calm establishing image of the kitchen described above, empty counter, wok on stove, window with garden. Use this as the style and layout reference for all following images.
+
+=== s01 Kitchen establishing shot ===
+Wide-ish view of the cozy kitchen counter at golden hour: ingredients laid out in small bowls (eggs, diced carrots, green peas, scallion, a bowl of white rice), a black wok on the stove, a sunlit window with a garden outside. Keep the same kitchen, same bowls, same wok and same colour palette as the master image.
+
+=== s02 Cracking and whisking eggs ===
+Close-up of two hands cracking an egg into a cream ceramic bowl, a second egg already in the bowl, a wooden chopstick ready, soft light from the window. Keep the same kitchen, same bowls, same wok and same colour palette as the master image.
+
+=== s03 Dicing carrots ===
+Close-up of hands dicing a bright orange carrot into small cubes on a wooden cutting board with a chef's knife, tiny cubes scattered, sunlight on the blade. Keep the same kitchen, same bowls, same wok and same colour palette as the master image.
+
+=== s04 Heating oil in wok ===
+Close-up of an empty black iron wok on a blue gas flame with a little shiny oil and faint rising steam, wooden spatula resting at the edge. Keep the same kitchen, same bowls, same wok and same colour palette as the master image.
+
+=== s05 Pouring egg into wok ===
+Close-up of beaten egg being poured from a bowl into the hot wok, the egg puffing and bubbling at the edges, steam rising, a wooden spatula touching it. Keep the same kitchen, same bowls, same wok and same colour palette as the master image.
+
+=== s06 Adding carrots and peas ===
+Close-up of the wok with fluffy scrambled egg, diced orange carrots and bright green peas being stirred with a wooden spatula, a bit of steam. Keep the same kitchen, same bowls, same wok and same colour palette as the master image.
+
+=== s07 Adding rice ===
+Close-up of white cooked rice being tipped from a ceramic bowl into the wok full of egg, carrots and peas, grains falling in the air, a wooden spatula coming in. Keep the same kitchen, same bowls, same wok and same colour palette as the master image.
+
+=== s08 Tossing and seasoning ===
+Close-up of the wok with rice, egg, carrots and peas being tossed with a wooden spatula, a few grains in the air, golden colour, steam and a little sauce drizzle. Keep the same kitchen, same bowls, same wok and same colour palette as the master image.
+
+=== s09 Scooping into bowl ===
+Close-up of a ladle scooping the finished fried rice from the wok into a cream ceramic bowl, steam rising, soft window light. Keep the same kitchen, same bowls, same wok and same colour palette as the master image.
+
+=== s10 Finished bowl with scallion ===
+Hero shot of a cream ceramic bowl of egg fried rice with carrots and peas, a hand sprinkling sliced green scallion on top, steam rising, window with a quiet garden in the soft background. Keep the same kitchen, same bowls, same wok and same colour palette as the master image.
+

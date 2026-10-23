@@ -1,0 +1,16 @@
+# Image-to-video prompts (English works best with LTX-Video / Wan). One per scene: feed image sNN.png + this prompt.
+# Generate ~5s (121 frames at 24fps for LTX, 81 frames for Wan), keep the camera STILL, motion only on the food/hands.
+# Save the result as demo-project/public/cook-ep01/clips/sNN.mp4, then run: python scripts/cook_clips.py
+#
+# Negative prompt (all scenes): camera shake, zoom, morphing, distorted hands, extra fingers, text, watermark, flicker, blur, new objects appearing
+
+s01: Static camera. Sunlight shimmers softly through the window, leaves outside sway gently in the breeze, faint steam drifts above the wok, dust motes float in the light beams.
+s02: Static camera. The egg yolk and white slide out of the cracked shell into the bowl, the shell halves separate, the yolk wobbles, then a wooden chopstick starts stirring the egg in a small circle.
+s03: Static camera. The chef's knife chops down through the carrot in smooth rhythmic strokes, small orange cubes tumble and spread across the wooden board.
+s04: Static camera. Blue gas flame flickers under the wok, the oil in the wok shimmers and ripples, thin steam curls upward, the wooden spatula slides slightly through the oil.
+s05: Static camera. Beaten egg pours from the bowl into the hot wok in a thin stream, it puffs up and bubbles at the edges, steam rises, the wooden spatula pushes the egg gently.
+s06: Static camera. The wooden spatula stirs and folds scrambled egg with diced carrots and green peas in the wok, pieces slide and tumble, gentle steam rises.
+s07: Static camera. White rice tumbles out of the tilted bowl in a falling stream into the wok, grains bounce and scatter on the egg, the wooden spatula starts to mix, steam rises.
+s08: Static camera. The spatula tosses and flips the fried rice in the wok, golden grains hop into the air and fall back, steam rises, flames flicker below the wok.
+s09: Static camera. A ladle lifts a heap of fried rice from the wok and tips it into the bowl, grains cascade down, steam rises from the rice, the bowl is held steady.
+s10: Static camera. A hand sprinkles sliced green scallion over the bowl of fried rice, the scallion pieces fall and settle on the rice, steam rises softly, sunlight glints on the bowl.

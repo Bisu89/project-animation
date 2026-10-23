@@ -18,6 +18,7 @@ import { Video as AncPilot1, DURATION as AncPilot1_DURATION } from "./anc-pilot1
 import { Video as AncEp01, DURATION as AncEp01_DURATION } from "./anc-ep01/Video";
 import { Video as AncEp02, DURATION as AncEp02_DURATION } from "./anc-ep02/Video";
 import { Video as AncEp03, DURATION as AncEp03_DURATION } from "./anc-ep03/Video";
+import { Video as CookEp01, DURATION as CookEp01_DURATION } from "./cook-ep01/Video";
 // stickman-video:imports
 
 export const RemotionRoot: React.FC = () => {
@@ -168,6 +169,15 @@ export const RemotionRoot: React.FC = () => {
         width={1920}
         height={1080}
         defaultProps={{ music: 0, sfx: 0, voice: "voice.wav", captions: true }}
+      />
+      <Composition
+        id="CookEp01"
+        component={CookEp01}
+        durationInFrames={CookEp01_DURATION}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ music: 0.3, sfx: 0.8 }}
       />
       {/* stickman-video:compositions */}
     </>

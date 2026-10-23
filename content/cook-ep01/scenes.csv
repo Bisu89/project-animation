@@ -1,0 +1,11 @@
+n,title,sec,camera,fx,sfx
+1,Kitchen establishing shot,1.8,zoom-in,dust+light,ambience
+2,Cracking and whisking eggs,1.6,zoom-in,dust,tap@0.1;whisk@0.5
+3,Dicing carrots,1.6,pan-right,dust,chop@0.1
+4,Heating oil in wok,1.6,zoom-in,flame+steam,flame@0
+5,Pouring egg into wok,1.6,zoom-out,steam+sparks,sizzle@0.1
+6,Adding carrots and peas,1.6,pan-left,steam+sparks,sizzle@0;stir@0.3
+7,Adding rice,1.6,zoom-in,steam+sparks,stir@0
+8,Tossing and seasoning,1.6,zoom-in,steam+sparks,sizzle@0;stir@0.2
+9,Scooping into bowl,1.6,pan-right,steam,scoop@0.2
+10,Finished bowl with scallion,2.2,zoom-out,steam+dust+light,ding@0.3
