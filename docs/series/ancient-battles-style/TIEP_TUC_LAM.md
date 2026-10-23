@@ -27,3 +27,8 @@ Cập nhật 2026-10-21. Phong cách tham chiếu: xem PHAN_TICH_VIDEO_THAM_CHIE
 - Hiệu ứng: `python scripts/gen_anc_sfx.py` -> `demo-project/public/anc-sfx/sfx/*.wav` (39 file, dùng chung mọi tập). Nhạc: `python scripts/gen_anc_music.py --slug <tập> --intensity <một giá trị 0..1 cho mỗi chương>`. Hai thứ này git bỏ qua, máy mới phải tạo lại.
 - Gắn âm thanh: `src/<slug>/sfxrules.json` (quy tắc regex theo câu lời kể + lớp nền theo dải cảnh), kiểm tra bằng `python scripts/check_sfx_rules.py <slug>`; thành phần dùng chung `src/anc-lib/Soundtrack.tsx` và `sfxplan.ts`. Props render: `{"music":0.16,"sfx":1,...}`.
 - Chưa nghe bằng tai: độ cân bằng giọng/nhạc/hiệu ứng. Chỉnh bằng `music` và `sfx`.
+
+## Tên series (2026-10-24)
+- Tên series cổ đại: **"The Ground Decides"** (tagline: "Ancient battles, explained by the ground they were fought on"). Đã đưa vào file mô tả của cả 3 tập và 3 short, thẻ cuối của short (`endBrand` trong `demo-project/src/zs-shorts/shorts_anc.ts`). Tiêu đề tập: `<Trận>: <câu hỏi> | The Ground Decides`. Đã kiểm tra nhanh: không thấy kênh/series trùng tên; không dùng "The Shape of Battle" vì là tên sách của Allan Mallinson (2021).
+- Short dọc cổ đại: `AncShort01..03` (cấu hình `shorts_anc.ts`, kịch bản `content/anc-short0N/script.md`). Mỗi tập một short ~45 giây.
+- `.gitignore` bỏ qua ảnh/sprite/cache giọng sinh tự động (`public/*/images`, `action`, `.voice_cache`...).

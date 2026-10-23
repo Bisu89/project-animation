@@ -58,3 +58,20 @@ demo-project/public/anc-*/action/
 demo-project/public/anc-*/.voice_cache/
 content/anc-*/images/
 content/anc-*/action/
+
+content/zs-ep*/action/
+demo-project/public/zs-ep*/action/
+
+# generated media kept next to the sources (pictures, sprites, layers, voice caches): large, made locally, not source
+demo-project/public/*/images/
+demo-project/public/*/action/
+demo-project/public/*/sprites/
+demo-project/public/*/layers/
+demo-project/public/*/.voice_cache/
+demo-project/public/anc-sfx/
+content/*/images/
+content/*/image/
+content/*/action/
+content/*/sprites/
+content/*/layers/
+content/*/crops/
