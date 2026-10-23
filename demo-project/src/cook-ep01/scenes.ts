@@ -21,7 +21,7 @@ export const SCENES: Scene[] = [
   S(4, 1.6, "zoom-in", ["flame", "steam"], [["flame", 0]]),
   S(5, 1.6, "zoom-out", ["steam", "sparks"], [["sizzle", 0.1]]),
   S(6, 1.6, "pan-left", ["steam", "sparks"], [["sizzle", 0], ["stir", 0.3]]),
-  S(7, 1.6, "zoom-in", ["steam", "sparks"], [["stir", 0]]),
+  S(7, 2.2, "zoom-in", ["steam", "sparks"], [["stir", 0.5]]),
   S(8, 1.6, "zoom-in", ["steam", "sparks"], [["sizzle", 0], ["stir", 0.2]]),
   S(9, 1.6, "pan-right", ["steam"], [["scoop", 0.2]]),
   S(10, 2.2, "zoom-out", ["steam", "dust", "light"], [["ding", 0.3]]),

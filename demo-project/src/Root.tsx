@@ -19,6 +19,7 @@ import { Video as AncEp01, DURATION as AncEp01_DURATION } from "./anc-ep01/Video
 import { Video as AncEp02, DURATION as AncEp02_DURATION } from "./anc-ep02/Video";
 import { Video as AncEp03, DURATION as AncEp03_DURATION } from "./anc-ep03/Video";
 import { Video as CookEp01, DURATION as CookEp01_DURATION } from "./cook-ep01/Video";
+import { Video as CampDemo, DURATION as CampDemo_DURATION } from "./camp-demo/Video";
 // stickman-video:imports
 
 export const RemotionRoot: React.FC = () => {
@@ -178,6 +179,15 @@ export const RemotionRoot: React.FC = () => {
         width={1080}
         height={1920}
         defaultProps={{ music: 0.3, sfx: 0.8 }}
+      />
+      <Composition
+        id="CampDemo"
+        component={CampDemo}
+        durationInFrames={CampDemo_DURATION}
+        fps={30}
+        width={1920}
+        height={1080}
+        defaultProps={{}}
       />
       {/* stickman-video:compositions */}
     </>

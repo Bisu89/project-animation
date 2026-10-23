@@ -1,5 +1,6 @@
 import React from "react";
 import { AbsoluteFill, Audio, Img, OffthreadVideo, Sequence, interpolate, random, staticFile, useCurrentFrame } from "remotion";
+import { Play07 } from "./Play07";
 import CLIPS from "./clips.json"; // written by scripts/cook_clips.py: which sNN.mp4 clips exist
 import { DURATION, FADE, FPS, SCENES, Scene, starts } from "./scenes";
 
@@ -100,6 +101,16 @@ const SceneView: React.FC<{ sc: Scene; idx: number; dur: number }> = ({ sc, idx,
     return (
       <AbsoluteFill style={{ opacity: o, background: "#120d08" }}>
         <OffthreadVideo src={staticFile(`cook-ep01/clips/${id}.mp4`)} muted style={{ position: "absolute", width: "100%", height: "100%", objectFit: "cover" }} />
+        <AbsoluteFill style={{ background: "radial-gradient(ellipse at 50% 50%, rgba(0,0,0,0) 55%, rgba(20,10,0,0.45) 100%)" }} />
+      </AbsoluteFill>
+    );
+  }
+  // Scenes built from cut-out sprites (see scripts/cook_sprites.py) draw themselves.
+  if (id === "s07") {
+    return (
+      <AbsoluteFill style={{ opacity: o, background: "#120d08" }}>
+        <Play07 dur={dur} />
+        <Steam seed={seed} />
         <AbsoluteFill style={{ background: "radial-gradient(ellipse at 50% 50%, rgba(0,0,0,0) 55%, rgba(20,10,0,0.45) 100%)" }} />
       </AbsoluteFill>
     );
