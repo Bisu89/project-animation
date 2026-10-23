@@ -1,0 +1,919 @@
+1
+00:00:00,600 --> 00:00:05,522
+On the third day of the battle, a Roman general in a bright red cloak walks out onto a wall.
+
+2
+00:00:06,022 --> 00:00:07,297
+The wall is long.
+
+3
+00:00:07,647 --> 00:00:13,936
+It runs for miles in a circle around a hilltop town, and then a second wall runs around that one, facing the other way.
+
+4
+00:00:14,286 --> 00:00:17,815
+Between the two walls stand tens of thousands of Roman soldiers.
+
+5
+00:00:18,315 --> 00:00:23,380
+On the inside of the first wall, there is an army of Gauls, starving and trying to break out.
+
+6
+00:00:23,730 --> 00:00:28,638
+On the outside of the second, there is another army, much larger, trying to break in.
+
+7
+00:00:29,138 --> 00:00:31,612
+The Romans are surrounded on both sides.
+
+8
+00:00:31,962 --> 00:00:37,196
+They have built a prison and a fortress at the same time, and they are standing in the gap between them.
+
+9
+00:00:37,696 --> 00:00:40,235
+The man in the red cloak is Julius Caesar.
+
+10
+00:00:40,585 --> 00:00:45,507
+If this wall fails, he loses an army, a war, and almost certainly his career.
+
+11
+00:00:46,007 --> 00:00:49,157
+So how do you win a siege when you are the one who is besieged?
+
+12
+00:00:49,507 --> 00:00:53,531
+And how does an army with a fraction of the numbers hold two enemies apart?
+
+13
+00:00:54,031 --> 00:00:57,963
+The answer begins with a hill, and with a very large amount of digging.
+
+14
+00:00:58,463 --> 00:01:03,189
+It is the year 52 BC, and Caesar has been fighting in Gaul for six years.
+
+15
+00:01:03,689 --> 00:01:07,934
+Most of the tribes have been beaten, or bought, or frightened into obedience.
+
+16
+00:01:08,284 --> 00:01:14,963
+Then, in the winter, a young nobleman of the Arverni tribe named Vercingetorix does something no Gaul had managed before.
+
+17
+00:01:15,313 --> 00:01:17,201
+He gets the tribes to agree.
+
+18
+00:01:17,701 --> 00:01:19,328
+Gaul is not a country.
+
+19
+00:01:19,678 --> 00:01:25,720
+It is dozens of peoples with dozens of grudges, and most of them dislike each other nearly as much as they dislike Rome.
+
+20
+00:01:26,070 --> 00:01:30,848
+But Vercingetorix persuades many of them to rise together, and he gives them a plan.
+
+21
+00:01:31,348 --> 00:01:33,770
+Do not meet the Romans in open battle.
+
+22
+00:01:34,120 --> 00:01:39,067
+Burn the villages, drive off the food, cut the supply lines, and make the legions starve.
+
+23
+00:01:39,567 --> 00:01:40,908
+It nearly works.
+
+24
+00:01:41,258 --> 00:01:46,414
+Caesar attacks the Arvernian stronghold of Gergovia and is thrown back with heavy losses.
+
+25
+00:01:46,764 --> 00:01:52,064
+It is a rare defeat for him, and it sets off a wave of rebellion among tribes that had been quiet.
+
+26
+00:01:52,414 --> 00:01:56,124
+Caesar has to retreat toward the Roman territory in the south.
+
+27
+00:01:56,624 --> 00:02:00,830
+On the road, Vercingetorix attacks the Roman column with his cavalry.
+
+28
+00:02:01,180 --> 00:02:03,015
+This time Caesar is ready.
+
+29
+00:02:03,365 --> 00:02:07,818
+His German mercenary horsemen beat the Gauls, and the Gallic army pulls back.
+
+30
+00:02:08,318 --> 00:02:12,888
+Vercingetorix makes a choice here, and it is the most important choice of his life.
+
+31
+00:02:13,238 --> 00:02:15,348
+He does not scatter his forces.
+
+32
+00:02:15,698 --> 00:02:25,411
+He leads a large army, about eighty thousand men by Caesar's count, to the hilltop town of Alesia, the stronghold of a small tribe called the Mandubii, and he shuts himself inside.
+
+33
+00:02:25,911 --> 00:02:30,832
+Caesar, who is often accused of many things but never of being slow, follows him there.
+
+34
+00:02:31,332 --> 00:02:33,689
+Look at Alesia from Caesar's side.
+
+35
+00:02:34,189 --> 00:02:40,816
+The town sits on top of a long hill, with steep slopes on nearly every side, and two small rivers running along the bottom.
+
+36
+00:02:41,166 --> 00:02:43,614
+In front of the town there is a flat plain.
+
+37
+00:02:43,964 --> 00:02:46,646
+Behind it and around it, there are more hills.
+
+38
+00:02:47,146 --> 00:02:52,458
+Inside are about eighty thousand Gallic infantry, according to Caesar, plus the townspeople.
+
+39
+00:02:52,808 --> 00:02:54,891
+Caesar's own army is smaller.
+
+40
+00:02:55,241 --> 00:03:04,434
+We do not know exactly how much smaller, because Caesar does not tell us, but modern historians think it was perhaps fifty or sixty thousand men, including auxiliaries.
+
+41
+00:03:04,934 --> 00:03:07,486
+It is a bad matchup for a direct assault.
+
+42
+00:03:07,836 --> 00:03:16,182
+Storming a steep, fortified hill against an enemy who outnumbers you would cost Caesar thousands of men, and he had just seen what that looked like at Gergovia.
+
+43
+00:03:16,682 --> 00:03:21,551
+So Caesar does something that looks, at first, like an admission that he is outnumbered.
+
+44
+00:03:21,901 --> 00:03:23,789
+He decides not to attack.
+
+45
+00:03:24,139 --> 00:03:25,845
+He decides to starve them.
+
+46
+00:03:26,345 --> 00:03:28,467
+Now notice the other side of this.
+
+47
+00:03:28,817 --> 00:03:33,647
+Vercingetorix has done something clever too, and it matters for the rest of the story.
+
+48
+00:03:34,147 --> 00:03:42,728
+Before the Romans close the ring, he sends his cavalry out of Alesia at night, with orders to ride to every tribe in Gaul and call up every man who can carry a weapon.
+
+49
+00:03:43,228 --> 00:03:45,962
+He tells them he has food for about thirty days.
+
+50
+00:03:46,462 --> 00:03:47,829
+So the race is on.
+
+51
+00:03:48,179 --> 00:03:51,786
+Caesar must finish a siege before a relief army can arrive.
+
+52
+00:03:52,136 --> 00:03:54,948
+Vercingetorix must hold out until it does.
+
+53
+00:03:55,448 --> 00:03:59,419
+And Caesar, writing about this himself, tells us what he did next.
+
+54
+00:03:59,769 --> 00:04:06,149
+It is worth remembering that he wrote the account, in the third person, which is the ancient equivalent of a press release.
+
+55
+00:04:06,649 --> 00:04:09,162
+The first line is the one around Alesia.
+
+56
+00:04:09,662 --> 00:04:14,284
+Caesar's soldiers dig a trench twenty feet wide, with straight, vertical sides.
+
+57
+00:04:14,634 --> 00:04:18,983
+Behind that, they dig two more trenches, each fifteen feet wide and fifteen deep.
+
+58
+00:04:19,333 --> 00:04:22,353
+They divert a river to fill the inner one with water.
+
+59
+00:04:22,853 --> 00:04:30,770
+Behind the trenches goes a rampart twelve feet high, with a wooden palisade on top, and towers at regular intervals, about every eighty feet.
+
+60
+00:04:31,270 --> 00:04:33,262
+That is the part you can picture.
+
+61
+00:04:33,612 --> 00:04:36,177
+The rest is what the Romans put in the ground.
+
+62
+00:04:36,677 --> 00:04:43,044
+In front of the trenches, they plant rows of tree trunks with the branches sharpened into spikes, like a forest of knives.
+
+63
+00:04:43,394 --> 00:04:49,448
+In front of those, they dig pits shaped like funnels, each with a sharpened stake at the bottom and covered with brushwood.
+
+64
+00:04:49,948 --> 00:04:54,779
+The soldiers, with the dry humor that soldiers have in every century, called them lilies.
+
+65
+00:04:55,129 --> 00:05:00,363
+And in front of those, they bury blocks of wood with iron hooks sticking up out of them, called goads.
+
+66
+00:05:00,863 --> 00:05:05,823
+Any army trying to reach the wall has to cross all of this, under fire, with no cover.
+
+67
+00:05:06,323 --> 00:05:08,797
+None of it stops an attack by itself.
+
+68
+00:05:09,147 --> 00:05:15,319
+What it does is slow the attackers while missiles fall on them, and that buys time for reserves to reach a threatened section.
+
+69
+00:05:15,819 --> 00:05:20,884
+The line around the town is about eleven Roman miles long, roughly sixteen kilometers.
+
+70
+00:05:21,234 --> 00:05:27,744
+It is built in a matter of weeks, by an army that is also fighting skirmishes, foraging for food, and cutting timber.
+
+71
+00:05:28,244 --> 00:05:30,340
+The scale of this is easy to miss.
+
+72
+00:05:30,690 --> 00:05:36,263
+In 1861, the emperor Napoleon III ordered archaeologists to dig at the site.
+
+73
+00:05:36,613 --> 00:05:42,836
+They found the ditches, and more digs in the 1990s found pits and stakes that matched Caesar's description closely.
+
+74
+00:05:43,186 --> 00:05:46,793
+Whatever else he exaggerated, he did not make up the ditches.
+
+75
+00:05:47,293 --> 00:05:51,407
+And then Caesar does something that no sensible commander would bother to do.
+
+76
+00:05:51,757 --> 00:05:53,463
+He builds a second wall.
+
+77
+00:05:53,963 --> 00:05:58,246
+The second line goes around the outside of the first, facing away from the town.
+
+78
+00:05:58,596 --> 00:06:00,549
+These are not two neat circles.
+
+79
+00:06:00,899 --> 00:06:05,209
+The works follow the terrain, and they link camps and strongpoints along the way.
+
+80
+00:06:05,709 --> 00:06:13,599
+It is fourteen miles long, roughly twenty-one kilometers, and it has the same trenches, the same ramparts, the same towers, the same pits.
+
+81
+00:06:14,099 --> 00:06:14,815
+Why?
+
+82
+00:06:15,165 --> 00:06:17,535
+Because Caesar knows about the cavalry.
+
+83
+00:06:17,885 --> 00:06:20,893
+He has heard what Vercingetorix told his horsemen.
+
+84
+00:06:21,243 --> 00:06:24,862
+He knows a relief army is coming, and he knows it will be large.
+
+85
+00:06:25,362 --> 00:06:32,094
+So he builds a wall to keep the enemy in, and then a wall to keep the other enemy out, and puts his army in the space between them.
+
+86
+00:06:32,444 --> 00:06:39,540
+Caesar also orders every soldier to collect thirty days of grain and fodder, so that his own men can sit inside their own wall and wait.
+
+87
+00:06:40,040 --> 00:06:41,901
+Think about what this means.
+
+88
+00:06:42,251 --> 00:06:46,704
+The Romans are about to be a besieging army and a besieged army at the same time.
+
+89
+00:06:47,054 --> 00:06:49,059
+They are the filling in a sandwich.
+
+90
+00:06:49,559 --> 00:06:58,166
+And they have done it by digging, because Roman legionaries were trained to be engineers as much as soldiers, and the shovel was as much part of their equipment as the sword.
+
+91
+00:06:58,666 --> 00:07:06,413
+Speaking of work, a like and a subscribe cost you a good deal less effort than digging a sixteen-kilometer ditch, and they keep this channel going.
+
+92
+00:07:06,913 --> 00:07:08,814
+Now go back inside the town.
+
+93
+00:07:09,164 --> 00:07:11,872
+Vercingetorix's thirty days are running out.
+
+94
+00:07:12,372 --> 00:07:15,731
+The day the relief army was supposed to arrive comes and goes.
+
+95
+00:07:16,081 --> 00:07:18,047
+Nothing appears on the horizon.
+
+96
+00:07:18,397 --> 00:07:19,959
+Rations are cut again.
+
+97
+00:07:20,459 --> 00:07:25,954
+At a council, one Gallic noble named Critognatus makes a speech that Caesar reports in full.
+
+98
+00:07:26,304 --> 00:07:32,788
+He says that their ancestors, in a time of siege, once survived by eating the people who were too old or too young to fight.
+
+99
+00:07:33,288 --> 00:07:36,165
+Nobody takes him up on it, according to Caesar.
+
+100
+00:07:36,515 --> 00:07:42,531
+But the fact that anyone suggested it, if Caesar reports him accurately, tells you how bad things had become.
+
+101
+00:07:43,031 --> 00:07:45,049
+The council chooses something else.
+
+102
+00:07:45,399 --> 00:07:51,128
+Vercingetorix orders the Mandubii, the people who actually live in Alesia, to leave the town.
+
+103
+00:07:51,478 --> 00:07:53,574
+Women, children, the old.
+
+104
+00:07:53,924 --> 00:07:56,853
+There is not enough food for them and the fighting men too.
+
+105
+00:07:57,353 --> 00:08:02,939
+They come out of the gates and walk toward the Roman lines, begging to be taken as slaves in exchange for food.
+
+106
+00:08:03,289 --> 00:08:05,763
+Caesar says he would not let them through.
+
+107
+00:08:06,113 --> 00:08:09,251
+They are left in the open ground between the two armies.
+
+108
+00:08:09,751 --> 00:08:12,407
+We have only Caesar's word for any of this.
+
+109
+00:08:12,757 --> 00:08:15,452
+He does not say what happened to them afterward.
+
+110
+00:08:15,952 --> 00:08:22,514
+Caesar says that the Gauls who came to relieve Alesia numbered two hundred and fifty thousand infantry and eight thousand cavalry.
+
+111
+00:08:22,864 --> 00:08:26,314
+Modern historians almost all think this is far too high.
+
+112
+00:08:26,664 --> 00:08:32,172
+A figure of around a hundred thousand, give or take, is more commonly accepted, but nobody knows.
+
+113
+00:08:32,672 --> 00:08:37,177
+Whatever the exact number, it is larger than the Roman army by a wide margin.
+
+114
+00:08:37,527 --> 00:08:39,232
+And it is led by four men.
+
+115
+00:08:39,732 --> 00:08:42,141
+That is the first problem for the Gauls.
+
+116
+00:08:42,491 --> 00:08:45,121
+The relief force has no single commander.
+
+117
+00:08:45,471 --> 00:08:51,591
+It has four leaders, chosen from different tribes, with Vercingetorix's cousin Vercassivellaunus among them.
+
+118
+00:08:51,941 --> 00:08:56,133
+Each leader has his own followers, his own ideas, and his own rivals.
+
+119
+00:08:56,633 --> 00:09:00,175
+The Gauls camp on a hill a mile outside the Roman outer wall.
+
+120
+00:09:00,525 --> 00:09:03,063
+Vercingetorix can see them from the town.
+
+121
+00:09:03,413 --> 00:09:05,978
+A cheer goes up from the starving men inside.
+
+122
+00:09:06,478 --> 00:09:08,470
+Now look at the Roman position.
+
+123
+00:09:08,820 --> 00:09:12,297
+The Romans are in a ring, with an army on both sides of it.
+
+124
+00:09:12,647 --> 00:09:19,391
+If the two Gallic armies attack together, one from each side, the Roman defenders will be pulled in two directions at once.
+
+125
+00:09:19,891 --> 00:09:22,573
+That is exactly what the Gauls intend to do.
+
+126
+00:09:22,923 --> 00:09:24,863
+The problem is making it happen.
+
+127
+00:09:25,363 --> 00:09:30,076
+Step back and think about the geometry, because that is where Caesar's advantage lies.
+
+128
+00:09:30,576 --> 00:09:32,881
+The inner wall is eleven miles long.
+
+129
+00:09:33,231 --> 00:09:35,001
+The outer wall is fourteen.
+
+130
+00:09:35,351 --> 00:09:37,396
+Caesar's men are in between.
+
+131
+00:09:37,746 --> 00:09:45,623
+If the Gauls attack the outer wall at one point, Caesar can send reinforcements along the inside of the ring, across the ground between the two walls.
+
+132
+00:09:45,973 --> 00:09:49,098
+They only have to travel a short distance, under cover.
+
+133
+00:09:49,598 --> 00:09:54,441
+The Gauls, by contrast, are split into two groups that cannot see each other's movements.
+
+134
+00:09:54,791 --> 00:09:59,101
+The army outside and the army inside are separated by the whole Roman camp.
+
+135
+00:09:59,451 --> 00:10:07,432
+To coordinate an attack on the same hour, they need signals, and timing, and trust between four commanders on one side and Vercingetorix on the other.
+
+136
+00:10:07,932 --> 00:10:11,487
+Modern military writers call this having interior lines.
+
+137
+00:10:11,837 --> 00:10:19,011
+The side in the middle can move reserves quickly from one threatened point to another, while the side on the outside has to march around the circle.
+
+138
+00:10:19,511 --> 00:10:23,235
+And there is a second advantage, which is one we saw at Cannae.
+
+139
+00:10:23,585 --> 00:10:25,681
+The Romans had one commander.
+
+140
+00:10:26,031 --> 00:10:30,562
+At Cannae, Rome had two consuls who took turns, and one of them lost the battle.
+
+141
+00:10:31,062 --> 00:10:37,455
+Here Caesar was alone, in command of everything, and he could make a decision in the time it took a rider to cross the camp.
+
+142
+00:10:37,955 --> 00:10:41,822
+At Thermopylae, we saw that the number of soldiers does not count.
+
+143
+00:10:42,172 --> 00:10:44,841
+What counts is how many of them can reach each other.
+
+144
+00:10:45,191 --> 00:10:48,745
+At Alesia, Caesar took that idea and turned it around.
+
+145
+00:10:49,095 --> 00:10:51,140
+The Gauls had enormous numbers.
+
+146
+00:10:51,490 --> 00:10:54,784
+He built a shape that made it hard for them to use them together.
+
+147
+00:10:55,284 --> 00:10:59,841
+The relief army arrives, and over the next three days the battle comes in three waves.
+
+148
+00:11:00,341 --> 00:11:07,176
+On the first day, the Gauls fill the plain in front of the town with their cavalry and put their archers and light infantry among the horsemen.
+
+149
+00:11:07,526 --> 00:11:13,750
+The Romans send out their own cavalry, and it is a long, close fight, with both sides pushing forward and back.
+
+150
+00:11:14,250 --> 00:11:18,989
+In the end, Caesar's German horsemen charge together and break the Gallic cavalry.
+
+151
+00:11:19,339 --> 00:11:23,063
+The relief army has lost its main strength in a single afternoon.
+
+152
+00:11:23,563 --> 00:11:29,904
+On the second day, the Gauls rest, and they make ladders, hooks, and bundles of brushwood to fill the Roman ditches.
+
+153
+00:11:30,254 --> 00:11:36,178
+At midnight, they attack the outer wall, shouting loudly enough that Vercingetorix can hear them from inside.
+
+154
+00:11:36,678 --> 00:11:39,634
+At the same moment, his men come out of the town.
+
+155
+00:11:39,984 --> 00:11:43,968
+It is the coordinated attack the Gauls have been waiting for, in the dark.
+
+156
+00:11:44,468 --> 00:11:45,509
+It fails.
+
+157
+00:11:45,859 --> 00:11:51,732
+Caesar's commanders, including a young officer called Mark Antony, send reserves to each threatened point.
+
+158
+00:11:52,082 --> 00:11:55,102
+The Romans shower the attackers with stones and darts.
+
+159
+00:11:55,452 --> 00:12:01,220
+In the darkness, many Gauls stumble into the pits and onto the goads, and are killed before they reach the wall.
+
+160
+00:12:01,720 --> 00:12:04,090
+When dawn comes, they have to retreat.
+
+161
+00:12:04,440 --> 00:12:08,984
+Inside the town, Vercingetorix's men have spent too long filling in the ditches.
+
+162
+00:12:09,334 --> 00:12:13,917
+By the time they reach the main defenses, the relief army has already pulled back.
+
+163
+00:12:14,417 --> 00:12:16,995
+Now the Gallic leaders do something clever.
+
+164
+00:12:17,345 --> 00:12:20,444
+They study the Roman lines and find the one weak spot.
+
+165
+00:12:20,794 --> 00:12:27,122
+To the north there is a hill, too big to be included inside the outer wall, and the Romans have built their camp on its slope.
+
+166
+00:12:27,472 --> 00:12:30,583
+It is the only place the Gauls can attack from above.
+
+167
+00:12:31,083 --> 00:12:41,487
+On the third day, a force of sixty thousand picked Gallic soldiers, led by Vercassivellaunus, marches out at night, hides behind the hill until noon, and comes down the slope against that camp.
+
+168
+00:12:41,837 --> 00:12:48,086
+At the same time, the rest of the relief army attacks the plain, and Vercingetorix leads his men out of the town.
+
+169
+00:12:48,586 --> 00:12:50,604
+This time it works, for a while.
+
+170
+00:12:50,954 --> 00:12:53,519
+The Roman line on the hill begins to bend.
+
+171
+00:12:54,019 --> 00:12:57,496
+Caesar is watching from a high point where he can see everything.
+
+172
+00:12:57,846 --> 00:13:02,247
+He sends a general, Labienus, with six cohorts to reinforce the hill.
+
+173
+00:13:02,597 --> 00:13:10,148
+When that is not enough, he goes himself, wearing the scarlet cloak that marks a Roman commander, so that every soldier on the wall can see him.
+
+174
+00:13:10,648 --> 00:13:13,929
+Caesar tells us the Romans recognized him by that cloak.
+
+175
+00:13:14,279 --> 00:13:16,506
+Be a little careful with that detail.
+
+176
+00:13:16,856 --> 00:13:20,202
+It makes a good picture, and he was the one writing the book.
+
+177
+00:13:20,552 --> 00:13:26,203
+What mattered more was the reserves he moved to the threatened section, and the cavalry he sent around the back.
+
+178
+00:13:26,703 --> 00:13:28,760
+And Caesar has one more move.
+
+179
+00:13:29,110 --> 00:13:34,813
+He sends his cavalry out of a gate, around the outside of the outer wall, to hit the Gauls from behind.
+
+180
+00:13:35,163 --> 00:13:38,652
+The Gauls on the hill see horsemen behind them, and they break.
+
+181
+00:13:39,002 --> 00:13:40,968
+Vercassivellaunus is captured.
+
+182
+00:13:41,468 --> 00:13:44,879
+When the army outside breaks, the army inside gives up.
+
+183
+00:13:45,229 --> 00:13:48,198
+Vercingetorix leads his men back into the town.
+
+184
+00:13:48,548 --> 00:13:49,667
+It is over.
+
+185
+00:13:50,167 --> 00:13:53,227
+The next morning, Vercingetorix calls a council.
+
+186
+00:13:53,577 --> 00:13:58,590
+He tells the Gallic chiefs that he did not fight for his own sake, but for the freedom of Gaul.
+
+187
+00:13:58,940 --> 00:14:03,119
+He says they can kill him or hand him over to Caesar, and let Caesar decide.
+
+188
+00:14:03,619 --> 00:14:06,041
+They send messengers to the Roman camp.
+
+189
+00:14:06,391 --> 00:14:12,029
+Caesar demands that the leaders and weapons be given up, and he sits in front of his camp to receive them.
+
+190
+00:14:12,529 --> 00:14:18,153
+Plutarch, writing about a hundred and fifty years later, gives us a famous picture of what happened next.
+
+191
+00:14:18,503 --> 00:14:25,079
+He says Vercingetorix put on his best armor, decorated his horse, rode out of the gate, and circled around Caesar.
+
+192
+00:14:25,429 --> 00:14:29,842
+Then he dismounted, threw down his weapons, and sat silently at Caesar's feet.
+
+193
+00:14:30,342 --> 00:14:32,308
+We do not know if that is true.
+
+194
+00:14:32,658 --> 00:14:34,299
+But it is a good story.
+
+195
+00:14:34,799 --> 00:14:38,106
+Caesar gave each of his soldiers one prisoner as booty.
+
+196
+00:14:38,456 --> 00:14:41,841
+He kept the prisoners of two tribes to win those tribes back.
+
+197
+00:14:42,341 --> 00:14:45,791
+Vercingetorix was imprisoned in Rome for about six years.
+
+198
+00:14:46,141 --> 00:14:51,467
+In 46 BC, he was paraded in Caesar's triumph through the city, and then executed.
+
+199
+00:14:51,967 --> 00:14:54,037
+Alesia broke the great revolt.
+
+200
+00:14:54,387 --> 00:14:58,410
+Fighting went on in Gaul afterward, but nothing came close to this again.
+
+201
+00:14:58,760 --> 00:15:04,307
+Gaul was Roman for the next five hundred years, and the language that grew out of it is still spoken today.
+
+202
+00:15:04,807 --> 00:15:08,413
+For Caesar, it was the foundation of everything that came next.
+
+203
+00:15:08,763 --> 00:15:14,258
+The Gallic conquest made him rich, famous, and the commander of a veteran army that was loyal to him.
+
+204
+00:15:14,608 --> 00:15:19,998
+Three years later, he would lead that army across a small river in northern Italy into a civil war.
+
+205
+00:15:20,498 --> 00:15:22,568
+For the Gauls, it was the end.
+
+206
+00:15:22,918 --> 00:15:27,163
+They had risen together, but the relief army never had a single command.
+
+207
+00:15:27,663 --> 00:15:30,722
+And remember the thing that Vercingetorix did right.
+
+208
+00:15:31,072 --> 00:15:34,106
+He found a strong position and drew the enemy to it.
+
+209
+00:15:34,456 --> 00:15:37,464
+What went wrong for the Gauls was not Vercingetorix.
+
+210
+00:15:37,814 --> 00:15:40,925
+It was the shape of the battle that Caesar built around him.
+
+211
+00:15:41,425 --> 00:15:44,277
+It also shows what the wall could and could not do.
+
+212
+00:15:44,627 --> 00:15:49,392
+The ditches and ramparts delayed the attacks and let smaller groups hold sections of the line.
+
+213
+00:15:49,742 --> 00:15:54,586
+But Caesar still needed reserves, local commanders and cavalry to stop a breakthrough.
+
+214
+00:15:54,936 --> 00:15:57,058
+The fortifications gave him time.
+
+215
+00:15:57,408 --> 00:15:59,699
+His army still had to fight to use it.
+
+216
+00:16:00,199 --> 00:16:02,543
+Alesia is a story about a wall.
+
+217
+00:16:02,893 --> 00:16:05,523
+But it is not the usual kind of wall story.
+
+218
+00:16:06,023 --> 00:16:10,280
+A wall, usually, protects the people behind it from the people in front.
+
+219
+00:16:10,630 --> 00:16:14,146
+At Alesia, the same earth and wood did two things at once.
+
+220
+00:16:14,496 --> 00:16:16,917
+For the Gauls inside, it was a prison.
+
+221
+00:16:17,267 --> 00:16:20,340
+For the Romans between the walls, it was a fortress.
+
+222
+00:16:20,690 --> 00:16:23,685
+The difference was which side of the ditch you were standing on.
+
+223
+00:16:24,185 --> 00:16:26,255
+Look at the three battles together.
+
+224
+00:16:26,605 --> 00:16:30,185
+At Thermopylae, a narrow place made a small army strong.
+
+225
+00:16:30,535 --> 00:16:33,907
+At Cannae, a crowded place made a large army helpless.
+
+226
+00:16:34,257 --> 00:16:39,973
+At Alesia, a built place made a small army safe from an army that outnumbered it several times over.
+
+227
+00:16:40,473 --> 00:16:46,619
+Each time, the winner was the one who understood the space, and made the other side fight in a shape they could not use.
+
+228
+00:16:47,119 --> 00:16:49,970
+If you take one thing from Alesia, take this.
+
+229
+00:16:50,320 --> 00:16:54,122
+Numbers decide nothing until they are in the same place at the same time.
+
+230
+00:16:54,472 --> 00:16:56,829
+Caesar made sure the Gauls never were.

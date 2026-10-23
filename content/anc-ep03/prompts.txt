@@ -1,0 +1,83 @@
+mo:in-up wind | Caesar: lean Roman general, aquiline face, thinning hair combed forward, bright red cloak over a bronze cuirass, calm confident eyes. He walks out onto a wooden rampart at dusk, hands on his hips, a vast ring of ditches, palisades and watchtowers stretching away behind him around a hilltop town, Roman soldiers on the wall below looking up at him.
+mo:in | (no picture needed: diag ('F1', 2))
+mo:in | (no picture needed: diag ('F1', 4))
+mo:in | (no picture needed: diag ('F1', 3))
+mo:in | Caesar: lean Roman general, aquiline face, thinning hair combed forward, bright red cloak over a bronze cuirass, calm confident eyes. Close shot of his tense face on the wall, jaw set, worried eyes, red cloak, a torch burning beside him, enemy campfires glowing far away on both sides.
+mo:in-right | A Roman legionary on the wall looking to the left at a hilltop town full of Gauls and to the right at a distant huge army, big round eyes of alarm, a comic sandwiched-between-two-armies feeling, dusk. Roman legionary: bronze helmet with a brim, chain mail, big curved rectangular red shield, red tunic. 
+mo:in-left flicker | Caesar: lean Roman general, aquiline face, thinning hair combed forward, bright red cloak over a bronze cuirass, calm confident eyes. He stands in a command tent studying a big map of Gaul with coloured tribes, a wooden post beside him with six notches carved in it, lamp light, officers behind him.
+mo:in-up | Vercingetorix: young Gallic leader, long reddish-blond hair, drooping moustache, gold torc at his neck, blue-patterned cloak, proud serious face. He stands on a rock before a gathering of Gallic chieftains in a snowy forest clearing, raising his sword, torches and breath clouds in the cold, tribal banners with animal signs.
+mo:in-down | Gallic chieftains in different coloured cloaks arguing at a long table in a timber hall, each pointing in a different direction, one sulking in a corner, comic scene, warm firelight. Gauls: long drooping moustaches, bare chests with blue tattoos, blue-patterned trousers, oval wooden shields. 
+mo:in dust | A Gallic farmer burning his own village and a barn of grain with a torch, black smoke rising, villagers loading carts and leaving, a Gallic warrior with a torc nodding grimly, orange evening light.
+mo:in-left dust | The attack on Gergovia: Roman soldiers being pushed back down a steep hillside by Gauls, a ladder falling, shields tumbling, Caesar far below with a deep frown watching from his horse. Roman legionary: bronze helmet with a brim, chain mail, big curved rectangular red shield, red tunic. 
+mo:in-right dust | German horsemen allied with Rome, wild long hair, fur cloaks, no armour, charging Gallic cavalry on a dusty road, horses rearing, spears flying, dust clouds, afternoon light.
+mo:in-up wind | Vercingetorix: young Gallic leader, long reddish-blond hair, drooping moustache, gold torc at his neck, blue-patterned cloak, proud serious face. He leads a column of Gallic warriors up a long road toward the gates of a fortified hilltop town on a steep hill with two small rivers below, banners flying, determined mood, late afternoon.
+mo:in | (no picture needed: diag ('F1', 0))
+mo:in | (no picture needed: diag ('F3', 0))
+mo:in-left | Caesar: lean Roman general, aquiline face, thinning hair combed forward, bright red cloak over a bronze cuirass, calm confident eyes. He stands with arms crossed shaking his head while a few Roman officers urge him to attack, pointing up at a steep fortified hill; in the background tiny Roman soldiers climbing a steep slope under arrows, comic and clear.
+mo:in | (no picture needed: diag ('F1', 1))
+mo:in-right flicker | Vercingetorix: young Gallic leader, long reddish-blond hair, drooping moustache, gold torc at his neck, blue-patterned cloak, proud serious face. At night by the town gate he whispers orders to a few Gallic horsemen who lead their horses quietly, hooves wrapped in cloth, torch glow, a distant Roman watchtower.
+mo:in | (no picture needed: same (18,))
+mo:in-down | Vercingetorix: young Gallic leader, long reddish-blond hair, drooping moustache, gold torc at his neck, blue-patterned cloak, proud serious face. He stands in a storehouse next to rows of grain sacks and a wall with thirty tally marks scratched on it, a small pile of bread on a table, worried but calm.
+mo:in-up | Caesar: lean Roman general, aquiline face, thinning hair combed forward, bright red cloak over a bronze cuirass, calm confident eyes. He dictates to a scribe at a campaign desk, hand on his chin, looking pleased with himself, a scroll showing a small drawing of Caesar as a hero beside the words trailing off, lamp light, comic.
+mo:in | (no picture needed: diag ('F2', 0))
+mo:in | (no picture needed: diag ('F2', 0))
+mo:in | (no picture needed: diag ('F2', 1))
+mo:in | (no picture needed: diag ('F2', 2))
+mo:in | (no picture needed: diag ('F2', 3))
+mo:in | (no picture needed: diag ('F2', 3))
+mo:in-right dust | Hundreds of Roman legionaries digging a huge ditch and piling earth into a rampart with shovels and baskets, carts of earth, wooden palisade stakes stacked, sweating soldiers in tunics with their shields stacked nearby, bright working-day light. Roman legionary: bronze helmet with a brim, chain mail, big curved rectangular red shield, red tunic. 
+mo:in-left | Victorian archaeologists in top hats and waistcoats measuring an old ditch on a hillside with surveying poles and a rope grid, a few villagers watching, the hilltop of Alesia behind them, bright afternoon, comic and charming.
+mo:in | (no picture needed: diag ('F1', 2))
+mo:in | (no picture needed: diag ('F1', 2))
+mo:in | (no picture needed: diag ('F1', 2))
+mo:in-up | Caesar: lean Roman general, aquiline face, thinning hair combed forward, bright red cloak over a bronze cuirass, calm confident eyes. He stands on the rampart looking toward a distant dust cloud on the horizon while a scout points excitedly, Roman soldiers on the wall turning to look, tense late-afternoon light.
+mo:in | (no picture needed: diag ('F1', 3))
+mo:in-down | Roman legionaries in a narrow strip of ground between two tall palisade walls, looking left and right in alarm, one calmly eating a piece of bread, comic sandwich feeling. Roman legionary: bronze helmet with a brim, chain mail, big curved rectangular red shield, red tunic. 
+mo:in-left | A Roman legionary holding a shovel in one hand and a sword in the other with a proud grin, a stack of baskets and tools beside him, a big ditch behind him. Roman legionary: bronze helmet with a brim, chain mail, big curved rectangular red shield, red tunic. 
+mo:in | (no picture needed: same (36,))
+mo:in flicker | Thin hungry Gallic warriors inside a town sharing one small piece of bread, an almost-empty granary, a wall scratched with tally marks, dim torch light, sunken but proud faces. Gauls: long drooping moustaches, bare chests with blue tattoos, blue-patterned trousers, oval wooden shields. 
+mo:in-right | Critognatus, an old Gallic noble with a long grey moustache, giving a fierce speech in a council hall, other warriors recoiling in horror, torch light, tense atmosphere.
+mo:in | (no picture needed: same (39,))
+mo:in-up | Women, children and elderly townspeople walking out through the gates of a hilltop town with bundles toward Roman lines at dusk, tasteful and sad, soldiers watching from the walls.
+mo:in-down | Mandubian townspeople pleading below a Roman rampart with their arms raised toward the Roman soldiers above who look down without moving, a tower and a torch, grey evening light, tasteful.
+mo:in-left | A quill hovering over a scroll with a blank gap in the middle of the text, a Roman hand holding the quill, a lamp, a map in the background, close macro shot, warm light, no readable letters.
+mo:in | (no picture needed: diag ('F3', 1))
+mo:in | (no picture needed: diag ('F3', 1))
+mo:in-right | Four Gallic leaders in four different coloured cloaks arguing over a map spread on the ground, each pointing at a different spot, one of them waving a banner, a clear sense of too many chiefs, outdoors camp, afternoon light. Gauls: long drooping moustaches, bare chests with blue tattoos, blue-patterned trousers, oval wooden shields. 
+mo:in-up | A huge Gallic relief army camped on a hill outside the Roman lines, warriors cheering and banging shields, the hilltop town in the distance where small figures on the wall cheer back, late afternoon light, dust.
+mo:in | (no picture needed: diag ('F1', 4))
+mo:in | (no picture needed: diag ('F1', 3))
+mo:in | (no picture needed: diag ('F1', 3))
+mo:in | (no picture needed: diag ('F1', 4))
+mo:in | (no picture needed: diag ('F1', 3))
+mo:in-left | Caesar: lean Roman general, aquiline face, thinning hair combed forward, bright red cloak over a bronze cuirass, calm confident eyes. He stands alone on a command platform giving quick orders to several messengers who gallop off in different directions, clear and decisive, a contrast with two consuls arguing in a small thought cloud above him.
+mo:in | (no picture needed: same (53,))
+mo:in | Three-panel illustration in one picture: a narrow mountain pass holding back a horde, a wide plain where a big army is squeezed by a crescent, and a hilltop town surrounded by two walls; thin dividing lines, calm light, no text.
+mo:in | (no picture needed: diag ('F4', 0))
+mo:in-right dust | A cavalry battle on a plain in front of a hilltop town: Gallic horsemen with archers and light infantry mixed among them clash with Roman and German horsemen, dust clouds, spears and shields, long afternoon light.
+mo:in-left dust | German horsemen charging together in a tight wave, breaking the Gallic cavalry, who turn and flee across the plain, Roman soldiers on the wall cheering, dust and golden light.
+mo:in-down flicker | Gallic warriors at night around campfires making wooden ladders, iron grappling hooks and bundles of brushwood, torch light on tattooed faces, shields stacked, tense quiet before an attack. Gauls: long drooping moustaches, bare chests with blue tattoos, blue-patterned trousers, oval wooden shields. 
+mo:in | (no picture needed: act ('assault',))
+mo:in | (no picture needed: act ('reserves',))
+mo:in-up | Dawn after the night attack: Gauls retreating from the wall across a field strewn with brushwood bundles and ladders, while inside the town other Gauls are still filling a ditch with brushwood and looking confused as the relief army withdraws, grey-pink light.
+mo:in-right | Gallic scouts crouched on a hillside studying the Roman works through the trees, one pointing at a large unfinished hill to the north where a Roman camp sits on a slope, a local guide beside them, morning light.
+mo:in | (no picture needed: act ('assault2',))
+mo:in | (no picture needed: diag ('F1', 5))
+mo:in | Caesar: lean Roman general, aquiline face, thinning hair combed forward, bright red cloak over a bronze cuirass, calm confident eyes. He stands on a rampart in his bright red cloak among soldiers in dull grey and brown cloaks, a soldier pointing at the red cloak, a swirling hill battle behind, smoke and dust, dramatic light.
+mo:in | (no picture needed: diag ('F1', 6))
+mo:in-left dust | Gallic warriors fleeing down a hillside while Roman cavalry charges at them from behind, a gate of the hilltop town in the distance where Gallic men are running back inside, dust and orange light.
+mo:in-down | Vercingetorix: young Gallic leader, long reddish-blond hair, drooping moustache, gold torc at his neck, blue-patterned cloak, proud serious face. He stands before a council of Gallic chiefs inside the town, calm and proud, a hand on his chest, the chiefs listening with bowed heads, hunger-thin faces, torch light.
+mo:in-right | Caesar: lean Roman general, aquiline face, thinning hair combed forward, bright red cloak over a bronze cuirass, calm confident eyes. He sits on a plain wooden chair in front of the Roman camp receiving surrender, piles of Gallic swords and shields on the ground in front of him, Roman soldiers standing in rows, bright cold daylight.
+mo:in-up | Vercingetorix: young Gallic leader, long reddish-blond hair, drooping moustache, gold torc at his neck, blue-patterned cloak, proud serious face. He rides out of the town gate on a decorated horse in his best armour with gold details, circling slowly around a seated Caesar, Roman soldiers watching in silence, dramatic late-afternoon light.
+mo:in-left | Vercingetorix: young Gallic leader, long reddish-blond hair, drooping moustache, gold torc at his neck, blue-patterned cloak, proud serious face. He sits silently on the ground at Caesar's feet with his armour and weapons laid down beside him, Caesar looking down thoughtfully from a chair, soldiers in a quiet circle, soft warm light.
+mo:in-right | A Roman triumph parade in the city of Rome: a golden chariot with Caesar, laurel wreath bearers, a long line of captives in chains with Vercingetorix proud among them, a cheering crowd on the street, marble columns, bright festival light.
+mo:out | A Gallic landscape changing under Rome: a paved Roman road, a stone aqueduct, vineyards and a Gallic farmer in a tunic selling wine to a Roman soldier, peaceful and prosperous, warm sunset light.
+mo:in-left | Caesar: lean Roman general, aquiline face, thinning hair combed forward, bright red cloak over a bronze cuirass, calm confident eyes. He stands at the bank of a small river in northern Italy with a legion marching behind him, looking at the water, a signal fire, dawn mist, historic tension.
+mo:in-down | Gallic relief-army leaders each leading their own tribe in different directions at the edge of a camp, no common banner, groups with different shield colours drifting apart, chaotic comic scene, afternoon light. Gauls: long drooping moustaches, bare chests with blue tattoos, blue-patterned trousers, oval wooden shields. 
+mo:in-up | Vercingetorix: young Gallic leader, long reddish-blond hair, drooping moustache, gold torc at his neck, blue-patterned cloak, proud serious face. He stands on the high wall of the hilltop town looking down at the double ring of Roman ditches and walls far below, quiet determination, wind in his hair, evening light.
+mo:in | (no picture needed: diag ('F1', 3))
+mo:in-right | A split image: on the left a Gaul inside a palisade looking out through the stakes like a prisoner; on the right Roman legionaries in the narrow strip between two walls looking safe behind the same stakes; same wall, two different sides, calm light.
+mo:in | (no picture needed: same (79,))
+mo:in | (no picture needed: same (55,))
+mo:in | (no picture needed: same (55,))
+mo:out | Two groups of tiny soldiers separated by a huge earthwork wall: a very big crowd stuck on one side and a small orderly group behind the wall, empty plain around them, calm dusk light, quiet and clear composition.

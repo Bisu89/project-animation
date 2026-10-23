@@ -1,0 +1,2078 @@
+{
+ "fps": 30,
+ "durationInFrames": 30550,
+ "seconds": 1018.33,
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.6,
+   "end": 5.522,
+   "startFrame": 18,
+   "endFrame": 166,
+   "words": 20,
+   "text": "On the third day of the battle, a Roman general in a bright red cloak walks out onto a wall."
+  },
+  {
+   "i": 1,
+   "start": 6.022,
+   "end": 7.297,
+   "startFrame": 181,
+   "endFrame": 219,
+   "words": 4,
+   "text": "The wall is long."
+  },
+  {
+   "i": 2,
+   "start": 7.647,
+   "end": 13.936,
+   "startFrame": 229,
+   "endFrame": 418,
+   "words": 24,
+   "text": "It runs for miles in a circle around a hilltop town, and then a second wall runs around that one, facing the other way."
+  },
+  {
+   "i": 3,
+   "start": 14.286,
+   "end": 17.815,
+   "startFrame": 429,
+   "endFrame": 534,
+   "words": 11,
+   "text": "Between the two walls stand tens of thousands of Roman soldiers."
+  },
+  {
+   "i": 4,
+   "start": 18.315,
+   "end": 23.38,
+   "startFrame": 549,
+   "endFrame": 701,
+   "words": 19,
+   "text": "On the inside of the first wall, there is an army of Gauls, starving and trying to break out."
+  },
+  {
+   "i": 5,
+   "start": 23.73,
+   "end": 28.638,
+   "startFrame": 712,
+   "endFrame": 859,
+   "words": 16,
+   "text": "On the outside of the second, there is another army, much larger, trying to break in."
+  },
+  {
+   "i": 6,
+   "start": 29.138,
+   "end": 31.612,
+   "startFrame": 874,
+   "endFrame": 948,
+   "words": 7,
+   "text": "The Romans are surrounded on both sides."
+  },
+  {
+   "i": 7,
+   "start": 31.962,
+   "end": 37.196,
+   "startFrame": 959,
+   "endFrame": 1116,
+   "words": 21,
+   "text": "They have built a prison and a fortress at the same time, and they are standing in the gap between them."
+  },
+  {
+   "i": 8,
+   "start": 37.696,
+   "end": 40.235,
+   "startFrame": 1131,
+   "endFrame": 1207,
+   "words": 9,
+   "text": "The man in the red cloak is Julius Caesar."
+  },
+  {
+   "i": 9,
+   "start": 40.585,
+   "end": 45.507,
+   "startFrame": 1218,
+   "endFrame": 1365,
+   "words": 15,
+   "text": "If this wall fails, he loses an army, a war, and almost certainly his career."
+  },
+  {
+   "i": 10,
+   "start": 46.007,
+   "end": 49.157,
+   "startFrame": 1380,
+   "endFrame": 1475,
+   "words": 15,
+   "text": "So how do you win a siege when you are the one who is besieged?"
+  },
+  {
+   "i": 11,
+   "start": 49.507,
+   "end": 53.531,
+   "startFrame": 1485,
+   "endFrame": 1606,
+   "words": 15,
+   "text": "And how does an army with a fraction of the numbers hold two enemies apart?"
+  },
+  {
+   "i": 12,
+   "start": 54.031,
+   "end": 57.963,
+   "startFrame": 1621,
+   "endFrame": 1739,
+   "words": 14,
+   "text": "The answer begins with a hill, and with a very large amount of digging."
+  },
+  {
+   "i": 13,
+   "start": 58.463,
+   "end": 63.189,
+   "startFrame": 1754,
+   "endFrame": 1896,
+   "words": 16,
+   "text": "It is the year 52 BC, and Caesar has been fighting in Gaul for six years."
+  },
+  {
+   "i": 14,
+   "start": 63.689,
+   "end": 67.934,
+   "startFrame": 1911,
+   "endFrame": 2038,
+   "words": 13,
+   "text": "Most of the tribes have been beaten, or bought, or frightened into obedience."
+  },
+  {
+   "i": 15,
+   "start": 68.284,
+   "end": 74.963,
+   "startFrame": 2049,
+   "endFrame": 2249,
+   "words": 20,
+   "text": "Then, in the winter, a young nobleman of the Arverni tribe named Vercingetorix does something no Gaul had managed before."
+  },
+  {
+   "i": 16,
+   "start": 75.313,
+   "end": 77.201,
+   "startFrame": 2259,
+   "endFrame": 2316,
+   "words": 6,
+   "text": "He gets the tribes to agree."
+  },
+  {
+   "i": 17,
+   "start": 77.701,
+   "end": 79.328,
+   "startFrame": 2331,
+   "endFrame": 2380,
+   "words": 5,
+   "text": "Gaul is not a country."
+  },
+  {
+   "i": 18,
+   "start": 79.678,
+   "end": 85.72,
+   "startFrame": 2390,
+   "endFrame": 2572,
+   "words": 23,
+   "text": "It is dozens of peoples with dozens of grudges, and most of them dislike each other nearly as much as they dislike Rome."
+  },
+  {
+   "i": 19,
+   "start": 86.07,
+   "end": 90.848,
+   "startFrame": 2582,
+   "endFrame": 2725,
+   "words": 15,
+   "text": "But Vercingetorix persuades many of them to rise together, and he gives them a plan."
+  },
+  {
+   "i": 20,
+   "start": 91.348,
+   "end": 93.77000000000001,
+   "startFrame": 2740,
+   "endFrame": 2813,
+   "words": 8,
+   "text": "Do not meet the Romans in open battle."
+  },
+  {
+   "i": 21,
+   "start": 94.12,
+   "end": 99.06700000000001,
+   "startFrame": 2824,
+   "endFrame": 2972,
+   "words": 16,
+   "text": "Burn the villages, drive off the food, cut the supply lines, and make the legions starve."
+  },
+  {
+   "i": 22,
+   "start": 99.56700000000001,
+   "end": 100.908,
+   "startFrame": 2987,
+   "endFrame": 3027,
+   "words": 3,
+   "text": "It nearly works."
+  },
+  {
+   "i": 23,
+   "start": 101.25800000000001,
+   "end": 106.414,
+   "startFrame": 3038,
+   "endFrame": 3192,
+   "words": 14,
+   "text": "Caesar attacks the Arvernian stronghold of Gergovia and is thrown back with heavy losses."
+  },
+  {
+   "i": 24,
+   "start": 106.76400000000001,
+   "end": 112.064,
+   "startFrame": 3203,
+   "endFrame": 3362,
+   "words": 21,
+   "text": "It is a rare defeat for him, and it sets off a wave of rebellion among tribes that had been quiet."
+  },
+  {
+   "i": 25,
+   "start": 112.414,
+   "end": 116.124,
+   "startFrame": 3372,
+   "endFrame": 3484,
+   "words": 11,
+   "text": "Caesar has to retreat toward the Roman territory in the south."
+  },
+  {
+   "i": 26,
+   "start": 116.624,
+   "end": 120.83,
+   "startFrame": 3499,
+   "endFrame": 3625,
+   "words": 11,
+   "text": "On the road, Vercingetorix attacks the Roman column with his cavalry."
+  },
+  {
+   "i": 27,
+   "start": 121.18,
+   "end": 123.015,
+   "startFrame": 3635,
+   "endFrame": 3690,
+   "words": 5,
+   "text": "This time Caesar is ready."
+  },
+  {
+   "i": 28,
+   "start": 123.365,
+   "end": 127.818,
+   "startFrame": 3701,
+   "endFrame": 3835,
+   "words": 13,
+   "text": "His German mercenary horsemen beat the Gauls, and the Gallic army pulls back."
+  },
+  {
+   "i": 29,
+   "start": 128.318,
+   "end": 132.888,
+   "startFrame": 3850,
+   "endFrame": 3987,
+   "words": 15,
+   "text": "Vercingetorix makes a choice here, and it is the most important choice of his life."
+  },
+  {
+   "i": 30,
+   "start": 133.238,
+   "end": 135.348,
+   "startFrame": 3997,
+   "endFrame": 4060,
+   "words": 6,
+   "text": "He does not scatter his forces."
+  },
+  {
+   "i": 31,
+   "start": 135.698,
+   "end": 145.411,
+   "startFrame": 4071,
+   "endFrame": 4362,
+   "words": 32,
+   "text": "He leads a large army, about eighty thousand men by Caesar's count, to the hilltop town of Alesia, the stronghold of a small tribe called the Mandubii, and he shuts himself inside."
+  },
+  {
+   "i": 32,
+   "start": 145.911,
+   "end": 150.832,
+   "startFrame": 4377,
+   "endFrame": 4525,
+   "words": 16,
+   "text": "Caesar, who is often accused of many things but never of being slow, follows him there."
+  },
+  {
+   "i": 33,
+   "start": 151.332,
+   "end": 153.689,
+   "startFrame": 4540,
+   "endFrame": 4611,
+   "words": 6,
+   "text": "Look at Alesia from Caesar's side."
+  },
+  {
+   "i": 34,
+   "start": 154.189,
+   "end": 160.816,
+   "startFrame": 4626,
+   "endFrame": 4824,
+   "words": 24,
+   "text": "The town sits on top of a long hill, with steep slopes on nearly every side, and two small rivers running along the bottom."
+  },
+  {
+   "i": 35,
+   "start": 161.166,
+   "end": 163.614,
+   "startFrame": 4835,
+   "endFrame": 4908,
+   "words": 10,
+   "text": "In front of the town there is a flat plain."
+  },
+  {
+   "i": 36,
+   "start": 163.964,
+   "end": 166.64600000000002,
+   "startFrame": 4919,
+   "endFrame": 4999,
+   "words": 9,
+   "text": "Behind it and around it, there are more hills."
+  },
+  {
+   "i": 37,
+   "start": 167.14600000000002,
+   "end": 172.458,
+   "startFrame": 5014,
+   "endFrame": 5174,
+   "words": 13,
+   "text": "Inside are about eighty thousand Gallic infantry, according to Caesar, plus the townspeople."
+  },
+  {
+   "i": 38,
+   "start": 172.808,
+   "end": 174.891,
+   "startFrame": 5184,
+   "endFrame": 5247,
+   "words": 5,
+   "text": "Caesar's own army is smaller."
+  },
+  {
+   "i": 39,
+   "start": 175.24099999999999,
+   "end": 184.434,
+   "startFrame": 5257,
+   "endFrame": 5533,
+   "words": 28,
+   "text": "We do not know exactly how much smaller, because Caesar does not tell us, but modern historians think it was perhaps fifty or sixty thousand men, including auxiliaries."
+  },
+  {
+   "i": 40,
+   "start": 184.934,
+   "end": 187.486,
+   "startFrame": 5548,
+   "endFrame": 5625,
+   "words": 9,
+   "text": "It is a bad matchup for a direct assault."
+  },
+  {
+   "i": 41,
+   "start": 187.836,
+   "end": 196.182,
+   "startFrame": 5635,
+   "endFrame": 5885,
+   "words": 28,
+   "text": "Storming a steep, fortified hill against an enemy who outnumbers you would cost Caesar thousands of men, and he had just seen what that looked like at Gergovia."
+  },
+  {
+   "i": 42,
+   "start": 196.682,
+   "end": 201.551,
+   "startFrame": 5900,
+   "endFrame": 6047,
+   "words": 15,
+   "text": "So Caesar does something that looks, at first, like an admission that he is outnumbered."
+  },
+  {
+   "i": 43,
+   "start": 201.901,
+   "end": 203.789,
+   "startFrame": 6057,
+   "endFrame": 6114,
+   "words": 5,
+   "text": "He decides not to attack."
+  },
+  {
+   "i": 44,
+   "start": 204.139,
+   "end": 205.845,
+   "startFrame": 6124,
+   "endFrame": 6175,
+   "words": 5,
+   "text": "He decides to starve them."
+  },
+  {
+   "i": 45,
+   "start": 206.345,
+   "end": 208.46699999999998,
+   "startFrame": 6190,
+   "endFrame": 6254,
+   "words": 7,
+   "text": "Now notice the other side of this."
+  },
+  {
+   "i": 46,
+   "start": 208.817,
+   "end": 213.647,
+   "startFrame": 6265,
+   "endFrame": 6409,
+   "words": 15,
+   "text": "Vercingetorix has done something clever too, and it matters for the rest of the story."
+  },
+  {
+   "i": 47,
+   "start": 214.147,
+   "end": 222.728,
+   "startFrame": 6424,
+   "endFrame": 6682,
+   "words": 34,
+   "text": "Before the Romans close the ring, he sends his cavalry out of Alesia at night, with orders to ride to every tribe in Gaul and call up every man who can carry a weapon."
+  },
+  {
+   "i": 48,
+   "start": 223.228,
+   "end": 225.962,
+   "startFrame": 6697,
+   "endFrame": 6779,
+   "words": 10,
+   "text": "He tells them he has food for about thirty days."
+  },
+  {
+   "i": 49,
+   "start": 226.462,
+   "end": 227.829,
+   "startFrame": 6794,
+   "endFrame": 6835,
+   "words": 5,
+   "text": "So the race is on."
+  },
+  {
+   "i": 50,
+   "start": 228.179,
+   "end": 231.786,
+   "startFrame": 6845,
+   "endFrame": 6954,
+   "words": 11,
+   "text": "Caesar must finish a siege before a relief army can arrive."
+  },
+  {
+   "i": 51,
+   "start": 232.136,
+   "end": 234.948,
+   "startFrame": 6964,
+   "endFrame": 7048,
+   "words": 7,
+   "text": "Vercingetorix must hold out until it does."
+  },
+  {
+   "i": 52,
+   "start": 235.448,
+   "end": 239.41899999999998,
+   "startFrame": 7063,
+   "endFrame": 7183,
+   "words": 12,
+   "text": "And Caesar, writing about this himself, tells us what he did next."
+  },
+  {
+   "i": 53,
+   "start": 239.769,
+   "end": 246.149,
+   "startFrame": 7193,
+   "endFrame": 7384,
+   "words": 22,
+   "text": "It is worth remembering that he wrote the account, in the third person, which is the ancient equivalent of a press release."
+  },
+  {
+   "i": 54,
+   "start": 246.649,
+   "end": 249.162,
+   "startFrame": 7399,
+   "endFrame": 7475,
+   "words": 8,
+   "text": "The first line is the one around Alesia."
+  },
+  {
+   "i": 55,
+   "start": 249.662,
+   "end": 254.284,
+   "startFrame": 7490,
+   "endFrame": 7629,
+   "words": 12,
+   "text": "Caesar's soldiers dig a trench twenty feet wide, with straight, vertical sides."
+  },
+  {
+   "i": 56,
+   "start": 254.63400000000001,
+   "end": 258.983,
+   "startFrame": 7639,
+   "endFrame": 7769,
+   "words": 14,
+   "text": "Behind that, they dig two more trenches, each fifteen feet wide and fifteen deep."
+  },
+  {
+   "i": 57,
+   "start": 259.33299999999997,
+   "end": 262.353,
+   "startFrame": 7780,
+   "endFrame": 7871,
+   "words": 11,
+   "text": "They divert a river to fill the inner one with water."
+  },
+  {
+   "i": 58,
+   "start": 262.853,
+   "end": 270.77,
+   "startFrame": 7886,
+   "endFrame": 8123,
+   "words": 24,
+   "text": "Behind the trenches goes a rampart twelve feet high, with a wooden palisade on top, and towers at regular intervals, about every eighty feet."
+  },
+  {
+   "i": 59,
+   "start": 271.27,
+   "end": 273.262,
+   "startFrame": 8138,
+   "endFrame": 8198,
+   "words": 7,
+   "text": "That is the part you can picture."
+  },
+  {
+   "i": 60,
+   "start": 273.612,
+   "end": 276.177,
+   "startFrame": 8208,
+   "endFrame": 8285,
+   "words": 10,
+   "text": "The rest is what the Romans put in the ground."
+  },
+  {
+   "i": 61,
+   "start": 276.677,
+   "end": 283.044,
+   "startFrame": 8300,
+   "endFrame": 8491,
+   "words": 22,
+   "text": "In front of the trenches, they plant rows of tree trunks with the branches sharpened into spikes, like a forest of knives."
+  },
+  {
+   "i": 62,
+   "start": 283.394,
+   "end": 289.448,
+   "startFrame": 8502,
+   "endFrame": 8683,
+   "words": 22,
+   "text": "In front of those, they dig pits shaped like funnels, each with a sharpened stake at the bottom and covered with brushwood."
+  },
+  {
+   "i": 63,
+   "start": 289.948,
+   "end": 294.779,
+   "startFrame": 8698,
+   "endFrame": 8843,
+   "words": 15,
+   "text": "The soldiers, with the dry humor that soldiers have in every century, called them lilies."
+  },
+  {
+   "i": 64,
+   "start": 295.129,
+   "end": 300.363,
+   "startFrame": 8854,
+   "endFrame": 9011,
+   "words": 20,
+   "text": "And in front of those, they bury blocks of wood with iron hooks sticking up out of them, called goads."
+  },
+  {
+   "i": 65,
+   "start": 300.863,
+   "end": 305.823,
+   "startFrame": 9026,
+   "endFrame": 9175,
+   "words": 18,
+   "text": "Any army trying to reach the wall has to cross all of this, under fire, with no cover."
+  },
+  {
+   "i": 66,
+   "start": 306.323,
+   "end": 308.797,
+   "startFrame": 9190,
+   "endFrame": 9264,
+   "words": 8,
+   "text": "None of it stops an attack by itself."
+  },
+  {
+   "i": 67,
+   "start": 309.147,
+   "end": 315.319,
+   "startFrame": 9274,
+   "endFrame": 9460,
+   "words": 23,
+   "text": "What it does is slow the attackers while missiles fall on them, and that buys time for reserves to reach a threatened section."
+  },
+  {
+   "i": 68,
+   "start": 315.819,
+   "end": 320.884,
+   "startFrame": 9475,
+   "endFrame": 9627,
+   "words": 14,
+   "text": "The line around the town is about eleven Roman miles long, roughly sixteen kilometers."
+  },
+  {
+   "i": 69,
+   "start": 321.234,
+   "end": 327.744,
+   "startFrame": 9637,
+   "endFrame": 9832,
+   "words": 22,
+   "text": "It is built in a matter of weeks, by an army that is also fighting skirmishes, foraging for food, and cutting timber."
+  },
+  {
+   "i": 70,
+   "start": 328.244,
+   "end": 330.34,
+   "startFrame": 9847,
+   "endFrame": 9910,
+   "words": 8,
+   "text": "The scale of this is easy to miss."
+  },
+  {
+   "i": 71,
+   "start": 330.69,
+   "end": 336.263,
+   "startFrame": 9921,
+   "endFrame": 10088,
+   "words": 13,
+   "text": "In 1861, the emperor Napoleon III ordered archaeologists to dig at the site."
+  },
+  {
+   "i": 72,
+   "start": 336.613,
+   "end": 342.836,
+   "startFrame": 10098,
+   "endFrame": 10285,
+   "words": 19,
+   "text": "They found the ditches, and more digs in the 1990s found pits and stakes that matched Caesar's description closely."
+  },
+  {
+   "i": 73,
+   "start": 343.186,
+   "end": 346.793,
+   "startFrame": 10296,
+   "endFrame": 10404,
+   "words": 11,
+   "text": "Whatever else he exaggerated, he did not make up the ditches."
+  },
+  {
+   "i": 74,
+   "start": 347.293,
+   "end": 351.407,
+   "startFrame": 10419,
+   "endFrame": 10542,
+   "words": 13,
+   "text": "And then Caesar does something that no sensible commander would bother to do."
+  },
+  {
+   "i": 75,
+   "start": 351.757,
+   "end": 353.463,
+   "startFrame": 10553,
+   "endFrame": 10604,
+   "words": 5,
+   "text": "He builds a second wall."
+  },
+  {
+   "i": 76,
+   "start": 353.963,
+   "end": 358.246,
+   "startFrame": 10619,
+   "endFrame": 10747,
+   "words": 15,
+   "text": "The second line goes around the outside of the first, facing away from the town."
+  },
+  {
+   "i": 77,
+   "start": 358.596,
+   "end": 360.549,
+   "startFrame": 10758,
+   "endFrame": 10816,
+   "words": 6,
+   "text": "These are not two neat circles."
+  },
+  {
+   "i": 78,
+   "start": 360.899,
+   "end": 365.209,
+   "startFrame": 10827,
+   "endFrame": 10956,
+   "words": 14,
+   "text": "The works follow the terrain, and they link camps and strongpoints along the way."
+  },
+  {
+   "i": 79,
+   "start": 365.709,
+   "end": 373.599,
+   "startFrame": 10971,
+   "endFrame": 11208,
+   "words": 23,
+   "text": "It is fourteen miles long, roughly twenty-one kilometers, and it has the same trenches, the same ramparts, the same towers, the same pits."
+  },
+  {
+   "i": 80,
+   "start": 374.099,
+   "end": 374.815,
+   "startFrame": 11223,
+   "endFrame": 11244,
+   "words": 1,
+   "text": "Why?"
+  },
+  {
+   "i": 81,
+   "start": 375.165,
+   "end": 377.535,
+   "startFrame": 11255,
+   "endFrame": 11326,
+   "words": 6,
+   "text": "Because Caesar knows about the cavalry."
+  },
+  {
+   "i": 82,
+   "start": 377.885,
+   "end": 380.89300000000003,
+   "startFrame": 11337,
+   "endFrame": 11427,
+   "words": 8,
+   "text": "He has heard what Vercingetorix told his horsemen."
+  },
+  {
+   "i": 83,
+   "start": 381.243,
+   "end": 384.862,
+   "startFrame": 11437,
+   "endFrame": 11546,
+   "words": 14,
+   "text": "He knows a relief army is coming, and he knows it will be large."
+  },
+  {
+   "i": 84,
+   "start": 385.362,
+   "end": 392.094,
+   "startFrame": 11561,
+   "endFrame": 11763,
+   "words": 29,
+   "text": "So he builds a wall to keep the enemy in, and then a wall to keep the other enemy out, and puts his army in the space between them."
+  },
+  {
+   "i": 85,
+   "start": 392.444,
+   "end": 399.54,
+   "startFrame": 11773,
+   "endFrame": 11986,
+   "words": 26,
+   "text": "Caesar also orders every soldier to collect thirty days of grain and fodder, so that his own men can sit inside their own wall and wait."
+  },
+  {
+   "i": 86,
+   "start": 400.04,
+   "end": 401.901,
+   "startFrame": 12001,
+   "endFrame": 12057,
+   "words": 5,
+   "text": "Think about what this means."
+  },
+  {
+   "i": 87,
+   "start": 402.251,
+   "end": 406.704,
+   "startFrame": 12068,
+   "endFrame": 12201,
+   "words": 17,
+   "text": "The Romans are about to be a besieging army and a besieged army at the same time."
+  },
+  {
+   "i": 88,
+   "start": 407.054,
+   "end": 409.05899999999997,
+   "startFrame": 12212,
+   "endFrame": 12272,
+   "words": 7,
+   "text": "They are the filling in a sandwich."
+  },
+  {
+   "i": 89,
+   "start": 409.55899999999997,
+   "end": 418.166,
+   "startFrame": 12287,
+   "endFrame": 12545,
+   "words": 32,
+   "text": "And they have done it by digging, because Roman legionaries were trained to be engineers as much as soldiers, and the shovel was as much part of their equipment as the sword."
+  },
+  {
+   "i": 90,
+   "start": 418.666,
+   "end": 426.413,
+   "startFrame": 12560,
+   "endFrame": 12792,
+   "words": 26,
+   "text": "Speaking of work, a like and a subscribe cost you a good deal less effort than digging a sixteen-kilometer ditch, and they keep this channel going."
+  },
+  {
+   "i": 91,
+   "start": 426.913,
+   "end": 428.814,
+   "startFrame": 12807,
+   "endFrame": 12864,
+   "words": 6,
+   "text": "Now go back inside the town."
+  },
+  {
+   "i": 92,
+   "start": 429.164,
+   "end": 431.872,
+   "startFrame": 12875,
+   "endFrame": 12956,
+   "words": 6,
+   "text": "Vercingetorix's thirty days are running out."
+  },
+  {
+   "i": 93,
+   "start": 432.372,
+   "end": 435.731,
+   "startFrame": 12971,
+   "endFrame": 13072,
+   "words": 12,
+   "text": "The day the relief army was supposed to arrive comes and goes."
+  },
+  {
+   "i": 94,
+   "start": 436.081,
+   "end": 438.047,
+   "startFrame": 13082,
+   "endFrame": 13141,
+   "words": 5,
+   "text": "Nothing appears on the horizon."
+  },
+  {
+   "i": 95,
+   "start": 438.397,
+   "end": 439.959,
+   "startFrame": 13152,
+   "endFrame": 13199,
+   "words": 4,
+   "text": "Rations are cut again."
+  },
+  {
+   "i": 96,
+   "start": 440.459,
+   "end": 445.954,
+   "startFrame": 13214,
+   "endFrame": 13379,
+   "words": 16,
+   "text": "At a council, one Gallic noble named Critognatus makes a speech that Caesar reports in full."
+  },
+  {
+   "i": 97,
+   "start": 446.304,
+   "end": 452.788,
+   "startFrame": 13389,
+   "endFrame": 13584,
+   "words": 25,
+   "text": "He says that their ancestors, in a time of siege, once survived by eating the people who were too old or too young to fight."
+  },
+  {
+   "i": 98,
+   "start": 453.288,
+   "end": 456.165,
+   "startFrame": 13599,
+   "endFrame": 13685,
+   "words": 9,
+   "text": "Nobody takes him up on it, according to Caesar."
+  },
+  {
+   "i": 99,
+   "start": 456.515,
+   "end": 462.531,
+   "startFrame": 13695,
+   "endFrame": 13876,
+   "words": 19,
+   "text": "But the fact that anyone suggested it, if Caesar reports him accurately, tells you how bad things had become."
+  },
+  {
+   "i": 100,
+   "start": 463.031,
+   "end": 465.049,
+   "startFrame": 13891,
+   "endFrame": 13951,
+   "words": 5,
+   "text": "The council chooses something else."
+  },
+  {
+   "i": 101,
+   "start": 465.399,
+   "end": 471.128,
+   "startFrame": 13962,
+   "endFrame": 14134,
+   "words": 15,
+   "text": "Vercingetorix orders the Mandubii, the people who actually live in Alesia, to leave the town."
+  },
+  {
+   "i": 102,
+   "start": 471.478,
+   "end": 473.574,
+   "startFrame": 14144,
+   "endFrame": 14207,
+   "words": 4,
+   "text": "Women, children, the old."
+  },
+  {
+   "i": 103,
+   "start": 473.924,
+   "end": 476.853,
+   "startFrame": 14218,
+   "endFrame": 14306,
+   "words": 12,
+   "text": "There is not enough food for them and the fighting men too."
+  },
+  {
+   "i": 104,
+   "start": 477.353,
+   "end": 482.939,
+   "startFrame": 14321,
+   "endFrame": 14488,
+   "words": 22,
+   "text": "They come out of the gates and walk toward the Roman lines, begging to be taken as slaves in exchange for food."
+  },
+  {
+   "i": 105,
+   "start": 483.289,
+   "end": 485.763,
+   "startFrame": 14499,
+   "endFrame": 14573,
+   "words": 8,
+   "text": "Caesar says he would not let them through."
+  },
+  {
+   "i": 106,
+   "start": 486.113,
+   "end": 489.251,
+   "startFrame": 14583,
+   "endFrame": 14678,
+   "words": 11,
+   "text": "They are left in the open ground between the two armies."
+  },
+  {
+   "i": 107,
+   "start": 489.751,
+   "end": 492.407,
+   "startFrame": 14693,
+   "endFrame": 14772,
+   "words": 9,
+   "text": "We have only Caesar's word for any of this."
+  },
+  {
+   "i": 108,
+   "start": 492.757,
+   "end": 495.452,
+   "startFrame": 14783,
+   "endFrame": 14864,
+   "words": 9,
+   "text": "He does not say what happened to them afterward."
+  },
+  {
+   "i": 109,
+   "start": 495.952,
+   "end": 502.514,
+   "startFrame": 14879,
+   "endFrame": 15075,
+   "words": 21,
+   "text": "Caesar says that the Gauls who came to relieve Alesia numbered two hundred and fifty thousand infantry and eight thousand cavalry."
+  },
+  {
+   "i": 110,
+   "start": 502.864,
+   "end": 506.314,
+   "startFrame": 15086,
+   "endFrame": 15189,
+   "words": 10,
+   "text": "Modern historians almost all think this is far too high."
+  },
+  {
+   "i": 111,
+   "start": 506.664,
+   "end": 512.172,
+   "startFrame": 15200,
+   "endFrame": 15365,
+   "words": 17,
+   "text": "A figure of around a hundred thousand, give or take, is more commonly accepted, but nobody knows."
+  },
+  {
+   "i": 112,
+   "start": 512.672,
+   "end": 517.177,
+   "startFrame": 15380,
+   "endFrame": 15515,
+   "words": 15,
+   "text": "Whatever the exact number, it is larger than the Roman army by a wide margin."
+  },
+  {
+   "i": 113,
+   "start": 517.527,
+   "end": 519.232,
+   "startFrame": 15526,
+   "endFrame": 15577,
+   "words": 7,
+   "text": "And it is led by four men."
+  },
+  {
+   "i": 114,
+   "start": 519.732,
+   "end": 522.141,
+   "startFrame": 15592,
+   "endFrame": 15664,
+   "words": 8,
+   "text": "That is the first problem for the Gauls."
+  },
+  {
+   "i": 115,
+   "start": 522.491,
+   "end": 525.121,
+   "startFrame": 15675,
+   "endFrame": 15754,
+   "words": 7,
+   "text": "The relief force has no single commander."
+  },
+  {
+   "i": 116,
+   "start": 525.471,
+   "end": 531.591,
+   "startFrame": 15764,
+   "endFrame": 15948,
+   "words": 14,
+   "text": "It has four leaders, chosen from different tribes, with Vercingetorix's cousin Vercassivellaunus among them."
+  },
+  {
+   "i": 117,
+   "start": 531.941,
+   "end": 536.133,
+   "startFrame": 15958,
+   "endFrame": 16084,
+   "words": 13,
+   "text": "Each leader has his own followers, his own ideas, and his own rivals."
+  },
+  {
+   "i": 118,
+   "start": 536.633,
+   "end": 540.175,
+   "startFrame": 16099,
+   "endFrame": 16205,
+   "words": 13,
+   "text": "The Gauls camp on a hill a mile outside the Roman outer wall."
+  },
+  {
+   "i": 119,
+   "start": 540.525,
+   "end": 543.063,
+   "startFrame": 16216,
+   "endFrame": 16292,
+   "words": 7,
+   "text": "Vercingetorix can see them from the town."
+  },
+  {
+   "i": 120,
+   "start": 543.413,
+   "end": 545.978,
+   "startFrame": 16302,
+   "endFrame": 16379,
+   "words": 9,
+   "text": "A cheer goes up from the starving men inside."
+  },
+  {
+   "i": 121,
+   "start": 546.478,
+   "end": 548.47,
+   "startFrame": 16394,
+   "endFrame": 16454,
+   "words": 6,
+   "text": "Now look at the Roman position."
+  },
+  {
+   "i": 122,
+   "start": 548.82,
+   "end": 552.297,
+   "startFrame": 16465,
+   "endFrame": 16569,
+   "words": 14,
+   "text": "The Romans are in a ring, with an army on both sides of it."
+  },
+  {
+   "i": 123,
+   "start": 552.647,
+   "end": 559.391,
+   "startFrame": 16579,
+   "endFrame": 16782,
+   "words": 22,
+   "text": "If the two Gallic armies attack together, one from each side, the Roman defenders will be pulled in two directions at once."
+  },
+  {
+   "i": 124,
+   "start": 559.891,
+   "end": 562.573,
+   "startFrame": 16797,
+   "endFrame": 16877,
+   "words": 9,
+   "text": "That is exactly what the Gauls intend to do."
+  },
+  {
+   "i": 125,
+   "start": 562.923,
+   "end": 564.863,
+   "startFrame": 16888,
+   "endFrame": 16946,
+   "words": 6,
+   "text": "The problem is making it happen."
+  },
+  {
+   "i": 126,
+   "start": 565.363,
+   "end": 570.076,
+   "startFrame": 16961,
+   "endFrame": 17102,
+   "words": 14,
+   "text": "Step back and think about the geometry, because that is where Caesar's advantage lies."
+  },
+  {
+   "i": 127,
+   "start": 570.576,
+   "end": 572.881,
+   "startFrame": 17117,
+   "endFrame": 17186,
+   "words": 7,
+   "text": "The inner wall is eleven miles long."
+  },
+  {
+   "i": 128,
+   "start": 573.231,
+   "end": 575.001,
+   "startFrame": 17197,
+   "endFrame": 17250,
+   "words": 5,
+   "text": "The outer wall is fourteen."
+  },
+  {
+   "i": 129,
+   "start": 575.351,
+   "end": 577.396,
+   "startFrame": 17261,
+   "endFrame": 17322,
+   "words": 5,
+   "text": "Caesar's men are in between."
+  },
+  {
+   "i": 130,
+   "start": 577.746,
+   "end": 585.623,
+   "startFrame": 17332,
+   "endFrame": 17569,
+   "words": 27,
+   "text": "If the Gauls attack the outer wall at one point, Caesar can send reinforcements along the inside of the ring, across the ground between the two walls."
+  },
+  {
+   "i": 131,
+   "start": 585.973,
+   "end": 589.098,
+   "startFrame": 17579,
+   "endFrame": 17673,
+   "words": 10,
+   "text": "They only have to travel a short distance, under cover."
+  },
+  {
+   "i": 132,
+   "start": 589.598,
+   "end": 594.441,
+   "startFrame": 17688,
+   "endFrame": 17833,
+   "words": 15,
+   "text": "The Gauls, by contrast, are split into two groups that cannot see each other's movements."
+  },
+  {
+   "i": 133,
+   "start": 594.7909999999999,
+   "end": 599.101,
+   "startFrame": 17844,
+   "endFrame": 17973,
+   "words": 14,
+   "text": "The army outside and the army inside are separated by the whole Roman camp."
+  },
+  {
+   "i": 134,
+   "start": 599.451,
+   "end": 607.432,
+   "startFrame": 17984,
+   "endFrame": 18223,
+   "words": 26,
+   "text": "To coordinate an attack on the same hour, they need signals, and timing, and trust between four commanders on one side and Vercingetorix on the other."
+  },
+  {
+   "i": 135,
+   "start": 607.932,
+   "end": 611.487,
+   "startFrame": 18238,
+   "endFrame": 18345,
+   "words": 8,
+   "text": "Modern military writers call this having interior lines."
+  },
+  {
+   "i": 136,
+   "start": 611.837,
+   "end": 619.011,
+   "startFrame": 18355,
+   "endFrame": 18570,
+   "words": 27,
+   "text": "The side in the middle can move reserves quickly from one threatened point to another, while the side on the outside has to march around the circle."
+  },
+  {
+   "i": 137,
+   "start": 619.511,
+   "end": 623.235,
+   "startFrame": 18585,
+   "endFrame": 18697,
+   "words": 13,
+   "text": "And there is a second advantage, which is one we saw at Cannae."
+  },
+  {
+   "i": 138,
+   "start": 623.585,
+   "end": 625.681,
+   "startFrame": 18708,
+   "endFrame": 18770,
+   "words": 5,
+   "text": "The Romans had one commander."
+  },
+  {
+   "i": 139,
+   "start": 626.031,
+   "end": 630.562,
+   "startFrame": 18781,
+   "endFrame": 18917,
+   "words": 16,
+   "text": "At Cannae, Rome had two consuls who took turns, and one of them lost the battle."
+  },
+  {
+   "i": 140,
+   "start": 631.062,
+   "end": 637.455,
+   "startFrame": 18932,
+   "endFrame": 19124,
+   "words": 25,
+   "text": "Here Caesar was alone, in command of everything, and he could make a decision in the time it took a rider to cross the camp."
+  },
+  {
+   "i": 141,
+   "start": 637.955,
+   "end": 641.822,
+   "startFrame": 19139,
+   "endFrame": 19255,
+   "words": 12,
+   "text": "At Thermopylae, we saw that the number of soldiers does not count."
+  },
+  {
+   "i": 142,
+   "start": 642.172,
+   "end": 644.841,
+   "startFrame": 19265,
+   "endFrame": 19345,
+   "words": 11,
+   "text": "What counts is how many of them can reach each other."
+  },
+  {
+   "i": 143,
+   "start": 645.191,
+   "end": 648.745,
+   "startFrame": 19356,
+   "endFrame": 19462,
+   "words": 10,
+   "text": "At Alesia, Caesar took that idea and turned it around."
+  },
+  {
+   "i": 144,
+   "start": 649.095,
+   "end": 651.14,
+   "startFrame": 19473,
+   "endFrame": 19534,
+   "words": 5,
+   "text": "The Gauls had enormous numbers."
+  },
+  {
+   "i": 145,
+   "start": 651.49,
+   "end": 654.784,
+   "startFrame": 19545,
+   "endFrame": 19644,
+   "words": 14,
+   "text": "He built a shape that made it hard for them to use them together."
+  },
+  {
+   "i": 146,
+   "start": 655.284,
+   "end": 659.841,
+   "startFrame": 19659,
+   "endFrame": 19795,
+   "words": 16,
+   "text": "The relief army arrives, and over the next three days the battle comes in three waves."
+  },
+  {
+   "i": 147,
+   "start": 660.341,
+   "end": 667.176,
+   "startFrame": 19810,
+   "endFrame": 20015,
+   "words": 27,
+   "text": "On the first day, the Gauls fill the plain in front of the town with their cavalry and put their archers and light infantry among the horsemen."
+  },
+  {
+   "i": 148,
+   "start": 667.526,
+   "end": 673.75,
+   "startFrame": 20026,
+   "endFrame": 20212,
+   "words": 21,
+   "text": "The Romans send out their own cavalry, and it is a long, close fight, with both sides pushing forward and back."
+  },
+  {
+   "i": 149,
+   "start": 674.25,
+   "end": 678.989,
+   "startFrame": 20228,
+   "endFrame": 20370,
+   "words": 13,
+   "text": "In the end, Caesar's German horsemen charge together and break the Gallic cavalry."
+  },
+  {
+   "i": 150,
+   "start": 679.3389999999999,
+   "end": 683.063,
+   "startFrame": 20380,
+   "endFrame": 20492,
+   "words": 12,
+   "text": "The relief army has lost its main strength in a single afternoon."
+  },
+  {
+   "i": 151,
+   "start": 683.563,
+   "end": 689.904,
+   "startFrame": 20507,
+   "endFrame": 20697,
+   "words": 21,
+   "text": "On the second day, the Gauls rest, and they make ladders, hooks, and bundles of brushwood to fill the Roman ditches."
+  },
+  {
+   "i": 152,
+   "start": 690.254,
+   "end": 696.178,
+   "startFrame": 20708,
+   "endFrame": 20885,
+   "words": 17,
+   "text": "At midnight, they attack the outer wall, shouting loudly enough that Vercingetorix can hear them from inside."
+  },
+  {
+   "i": 153,
+   "start": 696.678,
+   "end": 699.634,
+   "startFrame": 20900,
+   "endFrame": 20989,
+   "words": 11,
+   "text": "At the same moment, his men come out of the town."
+  },
+  {
+   "i": 154,
+   "start": 699.984,
+   "end": 703.968,
+   "startFrame": 21000,
+   "endFrame": 21119,
+   "words": 14,
+   "text": "It is the coordinated attack the Gauls have been waiting for, in the dark."
+  },
+  {
+   "i": 155,
+   "start": 704.468,
+   "end": 705.509,
+   "startFrame": 21134,
+   "endFrame": 21165,
+   "words": 2,
+   "text": "It fails."
+  },
+  {
+   "i": 156,
+   "start": 705.859,
+   "end": 711.732,
+   "startFrame": 21176,
+   "endFrame": 21352,
+   "words": 15,
+   "text": "Caesar's commanders, including a young officer called Mark Antony, send reserves to each threatened point."
+  },
+  {
+   "i": 157,
+   "start": 712.082,
+   "end": 715.102,
+   "startFrame": 21362,
+   "endFrame": 21453,
+   "words": 9,
+   "text": "The Romans shower the attackers with stones and darts."
+  },
+  {
+   "i": 158,
+   "start": 715.452,
+   "end": 721.22,
+   "startFrame": 21464,
+   "endFrame": 21637,
+   "words": 21,
+   "text": "In the darkness, many Gauls stumble into the pits and onto the goads, and are killed before they reach the wall."
+  },
+  {
+   "i": 159,
+   "start": 721.72,
+   "end": 724.09,
+   "startFrame": 21652,
+   "endFrame": 21723,
+   "words": 7,
+   "text": "When dawn comes, they have to retreat."
+  },
+  {
+   "i": 160,
+   "start": 724.44,
+   "end": 728.984,
+   "startFrame": 21733,
+   "endFrame": 21870,
+   "words": 13,
+   "text": "Inside the town, Vercingetorix's men have spent too long filling in the ditches."
+  },
+  {
+   "i": 161,
+   "start": 729.334,
+   "end": 733.917,
+   "startFrame": 21880,
+   "endFrame": 22018,
+   "words": 15,
+   "text": "By the time they reach the main defenses, the relief army has already pulled back."
+  },
+  {
+   "i": 162,
+   "start": 734.417,
+   "end": 736.995,
+   "startFrame": 22033,
+   "endFrame": 22110,
+   "words": 7,
+   "text": "Now the Gallic leaders do something clever."
+  },
+  {
+   "i": 163,
+   "start": 737.345,
+   "end": 740.444,
+   "startFrame": 22120,
+   "endFrame": 22213,
+   "words": 11,
+   "text": "They study the Roman lines and find the one weak spot."
+  },
+  {
+   "i": 164,
+   "start": 740.794,
+   "end": 747.122,
+   "startFrame": 22224,
+   "endFrame": 22414,
+   "words": 26,
+   "text": "To the north there is a hill, too big to be included inside the outer wall, and the Romans have built their camp on its slope."
+  },
+  {
+   "i": 165,
+   "start": 747.472,
+   "end": 750.583,
+   "startFrame": 22424,
+   "endFrame": 22517,
+   "words": 11,
+   "text": "It is the only place the Gauls can attack from above."
+  },
+  {
+   "i": 166,
+   "start": 751.083,
+   "end": 761.487,
+   "startFrame": 22532,
+   "endFrame": 22845,
+   "words": 33,
+   "text": "On the third day, a force of sixty thousand picked Gallic soldiers, led by Vercassivellaunus, marches out at night, hides behind the hill until noon, and comes down the slope against that camp."
+  },
+  {
+   "i": 167,
+   "start": 761.837,
+   "end": 768.086,
+   "startFrame": 22855,
+   "endFrame": 23043,
+   "words": 22,
+   "text": "At the same time, the rest of the relief army attacks the plain, and Vercingetorix leads his men out of the town."
+  },
+  {
+   "i": 168,
+   "start": 768.586,
+   "end": 770.604,
+   "startFrame": 23058,
+   "endFrame": 23118,
+   "words": 7,
+   "text": "This time it works, for a while."
+  },
+  {
+   "i": 169,
+   "start": 770.954,
+   "end": 773.519,
+   "startFrame": 23129,
+   "endFrame": 23206,
+   "words": 9,
+   "text": "The Roman line on the hill begins to bend."
+  },
+  {
+   "i": 170,
+   "start": 774.019,
+   "end": 777.496,
+   "startFrame": 23221,
+   "endFrame": 23325,
+   "words": 12,
+   "text": "Caesar is watching from a high point where he can see everything."
+  },
+  {
+   "i": 171,
+   "start": 777.846,
+   "end": 782.247,
+   "startFrame": 23335,
+   "endFrame": 23467,
+   "words": 12,
+   "text": "He sends a general, Labienus, with six cohorts to reinforce the hill."
+  },
+  {
+   "i": 172,
+   "start": 782.597,
+   "end": 790.148,
+   "startFrame": 23478,
+   "endFrame": 23704,
+   "words": 27,
+   "text": "When that is not enough, he goes himself, wearing the scarlet cloak that marks a Roman commander, so that every soldier on the wall can see him."
+  },
+  {
+   "i": 173,
+   "start": 790.648,
+   "end": 793.929,
+   "startFrame": 23719,
+   "endFrame": 23818,
+   "words": 10,
+   "text": "Caesar tells us the Romans recognized him by that cloak."
+  },
+  {
+   "i": 174,
+   "start": 794.279,
+   "end": 796.506,
+   "startFrame": 23828,
+   "endFrame": 23895,
+   "words": 7,
+   "text": "Be a little careful with that detail."
+  },
+  {
+   "i": 175,
+   "start": 796.856,
+   "end": 800.202,
+   "startFrame": 23906,
+   "endFrame": 24006,
+   "words": 13,
+   "text": "It makes a good picture, and he was the one writing the book."
+  },
+  {
+   "i": 176,
+   "start": 800.552,
+   "end": 806.203,
+   "startFrame": 24017,
+   "endFrame": 24186,
+   "words": 20,
+   "text": "What mattered more was the reserves he moved to the threatened section, and the cavalry he sent around the back."
+  },
+  {
+   "i": 177,
+   "start": 806.703,
+   "end": 808.76,
+   "startFrame": 24201,
+   "endFrame": 24263,
+   "words": 6,
+   "text": "And Caesar has one more move."
+  },
+  {
+   "i": 178,
+   "start": 809.11,
+   "end": 814.813,
+   "startFrame": 24273,
+   "endFrame": 24444,
+   "words": 21,
+   "text": "He sends his cavalry out of a gate, around the outside of the outer wall, to hit the Gauls from behind."
+  },
+  {
+   "i": 179,
+   "start": 815.163,
+   "end": 818.652,
+   "startFrame": 24455,
+   "endFrame": 24560,
+   "words": 12,
+   "text": "The Gauls on the hill see horsemen behind them, and they break."
+  },
+  {
+   "i": 180,
+   "start": 819.002,
+   "end": 820.968,
+   "startFrame": 24570,
+   "endFrame": 24629,
+   "words": 3,
+   "text": "Vercassivellaunus is captured."
+  },
+  {
+   "i": 181,
+   "start": 821.468,
+   "end": 824.879,
+   "startFrame": 24644,
+   "endFrame": 24746,
+   "words": 10,
+   "text": "When the army outside breaks, the army inside gives up."
+  },
+  {
+   "i": 182,
+   "start": 825.229,
+   "end": 828.198,
+   "startFrame": 24757,
+   "endFrame": 24846,
+   "words": 8,
+   "text": "Vercingetorix leads his men back into the town."
+  },
+  {
+   "i": 183,
+   "start": 828.548,
+   "end": 829.667,
+   "startFrame": 24856,
+   "endFrame": 24890,
+   "words": 3,
+   "text": "It is over."
+  },
+  {
+   "i": 184,
+   "start": 830.167,
+   "end": 833.227,
+   "startFrame": 24905,
+   "endFrame": 24997,
+   "words": 7,
+   "text": "The next morning, Vercingetorix calls a council."
+  },
+  {
+   "i": 185,
+   "start": 833.577,
+   "end": 838.59,
+   "startFrame": 25007,
+   "endFrame": 25158,
+   "words": 20,
+   "text": "He tells the Gallic chiefs that he did not fight for his own sake, but for the freedom of Gaul."
+  },
+  {
+   "i": 186,
+   "start": 838.94,
+   "end": 843.119,
+   "startFrame": 25168,
+   "endFrame": 25294,
+   "words": 16,
+   "text": "He says they can kill him or hand him over to Caesar, and let Caesar decide."
+  },
+  {
+   "i": 187,
+   "start": 843.619,
+   "end": 846.041,
+   "startFrame": 25309,
+   "endFrame": 25381,
+   "words": 7,
+   "text": "They send messengers to the Roman camp."
+  },
+  {
+   "i": 188,
+   "start": 846.391,
+   "end": 852.029,
+   "startFrame": 25392,
+   "endFrame": 25561,
+   "words": 21,
+   "text": "Caesar demands that the leaders and weapons be given up, and he sits in front of his camp to receive them."
+  },
+  {
+   "i": 189,
+   "start": 852.529,
+   "end": 858.153,
+   "startFrame": 25576,
+   "endFrame": 25745,
+   "words": 18,
+   "text": "Plutarch, writing about a hundred and fifty years later, gives us a famous picture of what happened next."
+  },
+  {
+   "i": 190,
+   "start": 858.503,
+   "end": 865.079,
+   "startFrame": 25755,
+   "endFrame": 25952,
+   "words": 20,
+   "text": "He says Vercingetorix put on his best armor, decorated his horse, rode out of the gate, and circled around Caesar."
+  },
+  {
+   "i": 191,
+   "start": 865.429,
+   "end": 869.842,
+   "startFrame": 25963,
+   "endFrame": 26095,
+   "words": 13,
+   "text": "Then he dismounted, threw down his weapons, and sat silently at Caesar's feet."
+  },
+  {
+   "i": 192,
+   "start": 870.342,
+   "end": 872.308,
+   "startFrame": 26110,
+   "endFrame": 26169,
+   "words": 8,
+   "text": "We do not know if that is true."
+  },
+  {
+   "i": 193,
+   "start": 872.658,
+   "end": 874.299,
+   "startFrame": 26180,
+   "endFrame": 26229,
+   "words": 6,
+   "text": "But it is a good story."
+  },
+  {
+   "i": 194,
+   "start": 874.799,
+   "end": 878.106,
+   "startFrame": 26244,
+   "endFrame": 26343,
+   "words": 10,
+   "text": "Caesar gave each of his soldiers one prisoner as booty."
+  },
+  {
+   "i": 195,
+   "start": 878.456,
+   "end": 881.841,
+   "startFrame": 26354,
+   "endFrame": 26455,
+   "words": 12,
+   "text": "He kept the prisoners of two tribes to win those tribes back."
+  },
+  {
+   "i": 196,
+   "start": 882.341,
+   "end": 885.7909999999999,
+   "startFrame": 26470,
+   "endFrame": 26574,
+   "words": 9,
+   "text": "Vercingetorix was imprisoned in Rome for about six years."
+  },
+  {
+   "i": 197,
+   "start": 886.141,
+   "end": 891.467,
+   "startFrame": 26584,
+   "endFrame": 26744,
+   "words": 15,
+   "text": "In 46 BC, he was paraded in Caesar's triumph through the city, and then executed."
+  },
+  {
+   "i": 198,
+   "start": 891.967,
+   "end": 894.037,
+   "startFrame": 26759,
+   "endFrame": 26821,
+   "words": 5,
+   "text": "Alesia broke the great revolt."
+  },
+  {
+   "i": 199,
+   "start": 894.387,
+   "end": 898.41,
+   "startFrame": 26832,
+   "endFrame": 26952,
+   "words": 13,
+   "text": "Fighting went on in Gaul afterward, but nothing came close to this again."
+  },
+  {
+   "i": 200,
+   "start": 898.76,
+   "end": 904.307,
+   "startFrame": 26963,
+   "endFrame": 27129,
+   "words": 21,
+   "text": "Gaul was Roman for the next five hundred years, and the language that grew out of it is still spoken today."
+  },
+  {
+   "i": 201,
+   "start": 904.807,
+   "end": 908.413,
+   "startFrame": 27144,
+   "endFrame": 27252,
+   "words": 11,
+   "text": "For Caesar, it was the foundation of everything that came next."
+  },
+  {
+   "i": 202,
+   "start": 908.763,
+   "end": 914.258,
+   "startFrame": 27263,
+   "endFrame": 27428,
+   "words": 19,
+   "text": "The Gallic conquest made him rich, famous, and the commander of a veteran army that was loyal to him."
+  },
+  {
+   "i": 203,
+   "start": 914.608,
+   "end": 919.998,
+   "startFrame": 27438,
+   "endFrame": 27600,
+   "words": 19,
+   "text": "Three years later, he would lead that army across a small river in northern Italy into a civil war."
+  },
+  {
+   "i": 204,
+   "start": 920.498,
+   "end": 922.568,
+   "startFrame": 27615,
+   "endFrame": 27677,
+   "words": 7,
+   "text": "For the Gauls, it was the end."
+  },
+  {
+   "i": 205,
+   "start": 922.918,
+   "end": 927.163,
+   "startFrame": 27688,
+   "endFrame": 27815,
+   "words": 13,
+   "text": "They had risen together, but the relief army never had a single command."
+  },
+  {
+   "i": 206,
+   "start": 927.663,
+   "end": 930.722,
+   "startFrame": 27830,
+   "endFrame": 27922,
+   "words": 8,
+   "text": "And remember the thing that Vercingetorix did right."
+  },
+  {
+   "i": 207,
+   "start": 931.072,
+   "end": 934.106,
+   "startFrame": 27932,
+   "endFrame": 28023,
+   "words": 11,
+   "text": "He found a strong position and drew the enemy to it."
+  },
+  {
+   "i": 208,
+   "start": 934.456,
+   "end": 937.4639999999999,
+   "startFrame": 28034,
+   "endFrame": 28124,
+   "words": 9,
+   "text": "What went wrong for the Gauls was not Vercingetorix."
+  },
+  {
+   "i": 209,
+   "start": 937.814,
+   "end": 940.925,
+   "startFrame": 28134,
+   "endFrame": 28228,
+   "words": 12,
+   "text": "It was the shape of the battle that Caesar built around him."
+  },
+  {
+   "i": 210,
+   "start": 941.425,
+   "end": 944.277,
+   "startFrame": 28243,
+   "endFrame": 28328,
+   "words": 11,
+   "text": "It also shows what the wall could and could not do."
+  },
+  {
+   "i": 211,
+   "start": 944.627,
+   "end": 949.392,
+   "startFrame": 28339,
+   "endFrame": 28482,
+   "words": 16,
+   "text": "The ditches and ramparts delayed the attacks and let smaller groups hold sections of the line."
+  },
+  {
+   "i": 212,
+   "start": 949.742,
+   "end": 954.586,
+   "startFrame": 28492,
+   "endFrame": 28638,
+   "words": 13,
+   "text": "But Caesar still needed reserves, local commanders and cavalry to stop a breakthrough."
+  },
+  {
+   "i": 213,
+   "start": 954.936,
+   "end": 957.058,
+   "startFrame": 28648,
+   "endFrame": 28712,
+   "words": 5,
+   "text": "The fortifications gave him time."
+  },
+  {
+   "i": 214,
+   "start": 957.408,
+   "end": 959.699,
+   "startFrame": 28722,
+   "endFrame": 28791,
+   "words": 9,
+   "text": "His army still had to fight to use it."
+  },
+  {
+   "i": 215,
+   "start": 960.199,
+   "end": 962.543,
+   "startFrame": 28806,
+   "endFrame": 28876,
+   "words": 7,
+   "text": "Alesia is a story about a wall."
+  },
+  {
+   "i": 216,
+   "start": 962.893,
+   "end": 965.523,
+   "startFrame": 28887,
+   "endFrame": 28966,
+   "words": 10,
+   "text": "But it is not the usual kind of wall story."
+  },
+  {
+   "i": 217,
+   "start": 966.023,
+   "end": 970.28,
+   "startFrame": 28981,
+   "endFrame": 29108,
+   "words": 13,
+   "text": "A wall, usually, protects the people behind it from the people in front."
+  },
+  {
+   "i": 218,
+   "start": 970.63,
+   "end": 974.146,
+   "startFrame": 29119,
+   "endFrame": 29224,
+   "words": 12,
+   "text": "At Alesia, the same earth and wood did two things at once."
+  },
+  {
+   "i": 219,
+   "start": 974.496,
+   "end": 976.917,
+   "startFrame": 29235,
+   "endFrame": 29308,
+   "words": 8,
+   "text": "For the Gauls inside, it was a prison."
+  },
+  {
+   "i": 220,
+   "start": 977.267,
+   "end": 980.34,
+   "startFrame": 29318,
+   "endFrame": 29410,
+   "words": 10,
+   "text": "For the Romans between the walls, it was a fortress."
+  },
+  {
+   "i": 221,
+   "start": 980.69,
+   "end": 983.685,
+   "startFrame": 29421,
+   "endFrame": 29511,
+   "words": 12,
+   "text": "The difference was which side of the ditch you were standing on."
+  },
+  {
+   "i": 222,
+   "start": 984.185,
+   "end": 986.255,
+   "startFrame": 29526,
+   "endFrame": 29588,
+   "words": 6,
+   "text": "Look at the three battles together."
+  },
+  {
+   "i": 223,
+   "start": 986.605,
+   "end": 990.185,
+   "startFrame": 29598,
+   "endFrame": 29706,
+   "words": 10,
+   "text": "At Thermopylae, a narrow place made a small army strong."
+  },
+  {
+   "i": 224,
+   "start": 990.535,
+   "end": 993.907,
+   "startFrame": 29716,
+   "endFrame": 29817,
+   "words": 10,
+   "text": "At Cannae, a crowded place made a large army helpless."
+  },
+  {
+   "i": 225,
+   "start": 994.257,
+   "end": 999.973,
+   "startFrame": 29828,
+   "endFrame": 29999,
+   "words": 19,
+   "text": "At Alesia, a built place made a small army safe from an army that outnumbered it several times over."
+  },
+  {
+   "i": 226,
+   "start": 1000.473,
+   "end": 1006.619,
+   "startFrame": 30014,
+   "endFrame": 30199,
+   "words": 24,
+   "text": "Each time, the winner was the one who understood the space, and made the other side fight in a shape they could not use."
+  },
+  {
+   "i": 227,
+   "start": 1007.119,
+   "end": 1009.97,
+   "startFrame": 30214,
+   "endFrame": 30299,
+   "words": 9,
+   "text": "If you take one thing from Alesia, take this."
+  },
+  {
+   "i": 228,
+   "start": 1010.32,
+   "end": 1014.122,
+   "startFrame": 30310,
+   "endFrame": 30424,
+   "words": 14,
+   "text": "Numbers decide nothing until they are in the same place at the same time."
+  },
+  {
+   "i": 229,
+   "start": 1014.472,
+   "end": 1016.829,
+   "startFrame": 30434,
+   "endFrame": 30505,
+   "words": 7,
+   "text": "Caesar made sure the Gauls never were."
+  }
+ ],
+ "chapters": []
+}

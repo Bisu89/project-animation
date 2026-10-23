@@ -33,3 +33,9 @@ Draft script: `script.md` (about 2,950 words, about 19 min). Evidence categories
 1. "Gergovia: heavy losses": confirm figures if quoting (script says "heavy losses" only).
 2. Alesia location (Alise-Sainte-Reine) is the traditional identification; supported by the excavations.
 3. Pronunciations: Alesia (uh-LEE-zhuh), Vercingetorix (ver-sin-JET-or-iks), Arverni (ar-VER-nye), Gergovia (jer-GO-vee-uh), Mandubii (man-DOO-bee-eye), Critognatus (krit-og-NAY-tus), Vercassivellaunus (ver-kas-ih-vel-LAW-nus), Labienus (la-bee-AY-nus), Commius (KOM-ee-us), Aedui (EE-dwee), Trebonius.
+
+## Revision after review of an alternative draft (2026-10-23)
+- Added: "not two neat circles" (works follow the terrain); obstacles delay attackers under fire, they do not stop an attack alone; Gauls inside lost time filling ditches and the relief army had already withdrawn (BG 7.82); Vercassivellaunus captured (BG 7.88).
+- Softened: the cloak detail (Caesar says the Romans recognised him by it, BG 7.88; the script now says reserves and the cavalry move mattered more); "impossible to use their numbers together" became "hard".
+- Balanced verdict added: fortifications bought time but reserves, local commanders and cavalry still had to stop the breakthrough.
+- The alternative draft was cut off mid-sentence at the end; the ending here is our own.
