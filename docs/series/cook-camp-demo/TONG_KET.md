@@ -36,6 +36,11 @@ Làm video kiểu "anime cooking ASMR" (video mẫu: Garlic Butter Steak, Pineap
 2. **Cảnh vật rắn, ít chuyển động (camping):** giữ hướng layer + crop-edit, nhưng chốt trước kiểm tra tầm với, và tạo layer lá/cỏ/lều riêng nếu muốn gió thổi.
 3. Không tiếp tục tách layer cho cả 10 cảnh nấu ăn: tốn công, mép ghép lộ với phong cách sơn dầu.
 
+## Cập nhật 2026-10-26: layer gió cho camping (đã chọn hướng 2)
+- `python scripts/_camp_wind_csv.py` cắt 3 vùng từ master (`crops/wind_tent|wind_grass|wind_shore.png`, ghi box vào `crops.json`) và xuất `content/camp-demo/assets_wind.csv` (4 layer nền xanh: màn lều, bụi trái, cỏ tiền cảnh, bụi bờ phải; cột `attach` là ảnh cắt cần đính kèm).
+- Không cần ảnh nền sạch: layer dán đè lên đúng pixel master, chỉ uốn từ gốc lên 2–8px nên master phía dưới che mép.
+- **Việc tiếp theo:** chủ dự án tạo 4 ảnh bằng ChatGPT, lưu vào `content/camp-demo/crops/`; sau đó viết `camp_export.py` phần tách xanh + đo lại kích thước, rồi thêm lớp lay (gradient biên độ 0 ở gốc) vào `Scene.tsx`.
+
 ## Bản đồ file
 | Việc | File |
 |---|---|
