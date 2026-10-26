@@ -86,3 +86,10 @@ Mô phỏng cấu trúc video tham khảo "Tokyo Chill Rap" bằng code (chữ v
 
 ### Reels dọc 45s (2026-10-26)
 `renders/xmas-reel-45s.mp4` (1080x1920, 45s, Window Prayer + lửa/gió): tiêu đề đơn giản "a quiet night by the fire / Cozy Christmas Jazz" ở giây 1-5, thẻ kết "Full 10-minute version on YouTube / link in the first comment" ở giây 38.5-44.4, trong vùng an toàn của Reels. Composition `XmasReel` (`src/xmas-cat/index.ts`, `Video` có prop `total`, `reel`). **Cách làm đầy đủ từ đầu: [CACH_LAM.md](CACH_LAM.md).** Việc tiếp: đăng Reels + comment ghim link YouTube, upload bản 10 phút, thêm cảnh L2/L3 hoặc cảnh mới để đăng đều.
+
+### Bản poster + chi tiết theo nhạc + cảnh Tokyo lo-fi (2026-10-26, máy hoaxv)
+- Chủ dự án chọn: mẫu Chill Rap (poster giữ suốt) + chi tiết chuyển động theo nhạc + **phong cách ảnh như video Tokyo**. Video mèo bản dài chủ dự án đã có (không render lại).
+- Playlist 6 bài = 18:22 (`xmas_playlist.py`), mỗi lượt render = 1 playlist. Cách làm đầy đủ: CACH_LAM.md mục 4b, 4c.
+- Cảnh Tokyo: ảnh K1 + 6 biến thể đã có và đạt (lệch 0px). Composition `XmasTokyo`/`XmasTokyoLoop` xong; bản thử 60s có nhạc: `renders/xmas-tokyo-preview60s.mp4`.
+- **Đang/tiếp:** render 2 lượt (`renders/tokyo_first.mp4`, `tokyo_loop.mp4`) rồi `xmas_long.py --minutes 180`. Nên thêm nhạc cho playlist dài hơn (~1h30 như mẫu).
+- Composition `XmasPoster`/`XmasPosterLoop` (cảnh mèo poster) cũng theo nhạc playlist, chưa render bản đầy đủ.

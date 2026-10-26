@@ -1,6 +1,7 @@
 import React from "react";
 import { AbsoluteFill, Audio, interpolate, random, staticFile, useCurrentFrame } from "remotion";
 import features from "./features.json";
+import featuresPoster from "./features_poster.json";
 import { loadFont } from "@remotion/google-fonts/PlayfairDisplay";
 
 const { fontFamily: SERIF } = loadFont("normal", { weights: ["700", "900"], subsets: ["latin"] });
@@ -39,20 +40,44 @@ const pulse = (f: number, t0: number, a: number, h: number, b: number) => {
   return t < a ? ease(t / a) : t < a + h ? 1 : ease(1 - (t - a - h) / b);
 };
 
-const band = (name: "bass" | "mid" | "high" | "onset", f: number) => {
-  const a = features[name] as number[];
-  return a[Math.max(0, Math.min(a.length - 1, Math.round(f)))] ?? 0;
+type Feat = { frames: number; bass: number[]; mid: number[]; high: number[]; onset: number[] };
+// poster mode reads the playlist's features (scripts/xmas_playlist.py); one pass = one playlist, so the index wraps
+const band = (name: "bass" | "mid" | "high" | "onset", f: number, src: Feat = features) => {
+  const a = src[name];
+  const i = Math.round(f);
+  return (src === features ? a[Math.max(0, Math.min(a.length - 1, i))] : a[((i % a.length) + a.length) % a.length]) ?? 0;
 };
+const POSTER: Feat = featuresPoster;
+export const POSTER_FRAMES = POSTER.frames;
 
 // event times for the whole 10 minutes: roughly every `every` seconds, each moved by a fixed random amount
-const schedule = (every: number, first: number, seed: string) => {
+const schedule = (every: number, first: number, seed: string, len = 600) => {
   const out: number[] = [];
-  for (let k = 0; first + k * every < 600; k++) out.push(first + k * every + (random(`${seed}${k}`) - 0.5) * every * 0.5);
+  for (let k = 0; first + k * every < len; k++) out.push(first + k * every + (random(`${seed}${k}`) - 0.5) * every * 0.5);
   return out;
 };
 const EAR_T = schedule(34, 6, "ear");
 const EYE_T = schedule(58, 22, "eye");
 const TAIL_T = schedule(44, 14, "tail");
+
+// poster mode: the ear twitches and the tail lifts on a strong beat (a local onset peak), at most once per `gap` seconds
+const onBeats = (gap: number, first: number, thr: number) => {
+  const o = POSTER.onset;
+  const out: number[] = [];
+  let last = -1e9;
+  for (let i = 1; i < o.length - 1; i++) {
+    const t = i / FPS;
+    if (t >= first && t - last >= gap && o[i] > thr && o[i] >= o[i - 1] && o[i] >= o[i + 1]) {
+      out.push(t);
+      last = t;
+    }
+  }
+  return out;
+};
+const P_LEN = POSTER_FRAMES / FPS;
+const P_EAR_T = onBeats(32, 20, 1.0);
+const P_TAIL_T = onBeats(41, 30, 1.0);
+const P_EYE_T = schedule(58, 40, "eye", P_LEN);
 
 const EDGE = 16;
 const FEATHER_RECT = {
@@ -111,7 +136,7 @@ const Steam: React.FC<{ f: number }> = ({ f }) => (
   </svg>
 );
 
-const Lights: React.FC<{ f: number }> = ({ f }) => (
+const Lights: React.FC<{ f: number; src: Feat; gain: number }> = ({ f, src, gain }) => (
   <>
     {Array.from({ length: 60 }, (_, i) => {
       let x: number;
@@ -129,17 +154,17 @@ const Lights: React.FC<{ f: number }> = ({ f }) => (
       }
       // each bulb listens to one band (bass / mid / high) and brightens with it, on top of its own slow twinkle
       const tw = 0.5 + 0.5 * Math.sin(f * (0.05 + random(`tf${i}`) * 0.09) + i * 3);
-      const m = band((['bass', 'mid', 'high'] as const)[i % 3], f + (i % 5));
+      const m = band((['bass', 'mid', 'high'] as const)[i % 3], f + (i % 5), src);
       return (
         <div
           key={i}
-          style={{ position: "absolute", left: x - 10, top: y - 10, width: 20, height: 20, borderRadius: "50%", background: "radial-gradient(#fff3c4 0%, rgba(255,200,100,0.55) 35%, rgba(255,180,80,0) 70%)", opacity: Math.min(1, 0.06 + 0.3 * tw + 0.5 * m), transform: `scale(${0.85 + 0.5 * m})`, mixBlendMode: "screen" }}
+          style={{ position: "absolute", left: x - 10, top: y - 10, width: 20, height: 20, borderRadius: "50%", background: "radial-gradient(#fff3c4 0%, rgba(255,200,100,0.55) 35%, rgba(255,180,80,0) 70%)", opacity: Math.min(1, 0.06 + 0.3 * tw + 0.5 * gain * m), transform: `scale(${0.85 + 0.5 * gain * m})`, mixBlendMode: "screen" }}
         />
       );
     })}
     {/* candles in the lanterns: each breathes on its own rhythm */}
     {[[190, 72], [518, 158], [705, 440], [1520, 668]].map(([x, y], i) => (
-      <div key={i} style={{ position: "absolute", left: x - 26, top: y - 26, width: 52, height: 52, borderRadius: "50%", mixBlendMode: "screen", opacity: Math.min(1, 0.2 + 0.35 * flick(f, 10 + i * 3) + 0.4 * band("mid", f) + 0.25 * band("onset", f)), background: "radial-gradient(rgba(255,210,120,0.9) 0%, rgba(255,150,50,0.3) 45%, rgba(255,150,50,0) 72%)" }} />
+      <div key={i} style={{ position: "absolute", left: x - 26, top: y - 26, width: 52, height: 52, borderRadius: "50%", mixBlendMode: "screen", opacity: Math.min(1, 0.2 + 0.35 * flick(f, 10 + i * 3) + gain * (0.4 * band("mid", f, src) + 0.25 * band("onset", f, src))), background: "radial-gradient(rgba(255,210,120,0.9) 0%, rgba(255,150,50,0.3) 45%, rgba(255,150,50,0) 72%)" }} />
     ))}
   </>
 );
@@ -149,9 +174,9 @@ const Lights: React.FC<{ f: number }> = ({ f }) => (
 const FLAME_BASE = 612;
 const TONGUES = Array.from({ length: 9 }, (_, i) => ({ x: 192 + i * 16, w: 11 + (i % 3) * 2, h: [95, 135, 175, 210, 230, 200, 165, 125, 85][i] }));
 const FIRE_AREA = { x: 150, y: 380, w: 270, h: 290 };
-const Flames: React.FC<{ f: number }> = ({ f }) => {
+const Flames: React.FC<{ f: number; pump: number }> = ({ f, pump }) => {
   const tongue = (t: (typeof TONGUES)[number], i: number, scale: number, fill: string) => {
-    const h = t.h * scale * (0.72 + 0.55 * flick(f * 0.9, i * 2.3));
+    const h = t.h * scale * (0.72 + 0.55 * flick(f * 0.9, i * 2.3)) * (1 + 0.22 * pump);
     const lean = Math.sin(f * 0.11 + i * 1.7) * 11 + Math.sin(f * 0.27 + i) * 5;
     const w = t.w * (0.85 + 0.3 * flick(f, i + 7)) * (scale > 0.9 ? 1 : 0.55);
     const x = t.x + Math.sin(f * 0.07 + i * 2) * 3;
@@ -252,8 +277,21 @@ const Barcode: React.FC<{ x: number; y: number }> = ({ x, y }) => (
   </div>
 );
 
-const Intro: React.FC<{ t: number; f: number }> = ({ t, f }) => {
-  if (t > INTRO_END) return null;
+// a small Subscribe pill that slides up for a few seconds (poster mode, once per 10-minute pass)
+const Subscribe: React.FC<{ t: number }> = ({ t }) => {
+  const v = pulse(t * FPS, 45, 0.6, 5, 0.6);
+  if (v <= 0) return null;
+  return (
+    <div style={{ position: "absolute", left: 70, top: VH - 104 + (1 - v) * 24, opacity: v, display: "flex", alignItems: "center", gap: 10, padding: "8px 18px 8px 14px", borderRadius: 24, background: "rgba(200,30,30,0.92)", color: "#fff", fontFamily: SERIF, fontWeight: 700, fontSize: 18, letterSpacing: 2, boxShadow: "0 3px 12px rgba(0,0,0,0.45)" }}>
+      <svg width={18} height={18} viewBox="0 0 24 24"><path fill="#fff" d="M12 22a2.5 2.5 0 0 0 2.5-2.5h-5A2.5 2.5 0 0 0 12 22Zm7-6V11a7 7 0 0 0-5.5-6.8V3a1.5 1.5 0 0 0-3 0v1.2A7 7 0 0 0 5 11v5l-2 2v1h18v-1Z" /></svg>
+      SUBSCRIBE
+    </div>
+  );
+};
+
+// hold: the poster never dissolves (the "Chill Rap" layout: one poster over the living scene for the whole video)
+const Intro: React.FC<{ t: number; f: number; hold: boolean; beat: number }> = ({ t, f, hold, beat }) => {
+  if (t > INTRO_END && !hold) return null;
   const sansBase: React.CSSProperties = { position: "absolute", color: "#ffe8c2", fontFamily: SERIF, fontWeight: 700 };
   const glow = "0 0 16px rgba(255,170,70,0.5), 0 2px 8px rgba(0,0,0,0.65)";
 
@@ -271,7 +309,7 @@ const Intro: React.FC<{ t: number; f: number }> = ({ t, f }) => {
   );
 
   // ---- poster
-  const p = ramp(t, 8.3, 9.3) * (1 - ramp(t, 13.6, 15.6));
+  const p = ramp(t, 8.3, 9.3) * (hold ? 1 : 1 - ramp(t, 13.6, 15.6));
   const slam = 1 + 0.14 * (1 - easeOut(ramp(t, 8.3, 9.1)));
   const tag: React.CSSProperties = { ...sansBase, fontSize: 21, lineHeight: 1.25, letterSpacing: 1.5, textShadow: glow, color: "#ffeccb" };
   const flash = t > 8.25 ? Math.max(0, 0.5 * (1 - ramp(t, 8.25, 8.6))) : 0;
@@ -297,10 +335,10 @@ const Intro: React.FC<{ t: number; f: number }> = ({ t, f }) => {
       <div style={{ position: "absolute", inset: 0, opacity: p }}>
         <div style={{ position: "absolute", inset: 0, background: "linear-gradient(rgba(6,2,2,0.5) 0%, rgba(6,2,2,0.05) 38%, rgba(6,2,2,0.05) 70%, rgba(6,2,2,0.55) 100%)" }} />
         <div style={{ ...sansBase, left: 0, width: VW, textAlign: "center", top: 42, fontSize: 16, letterSpacing: 6, textShadow: glow }}>Cozy Christmas Vibes</div>
-        <div style={{ ...sansBase, left: 0, width: VW, textAlign: "center", top: 62, fontFamily: SERIF, fontWeight: 900, fontSize: 218, lineHeight: 1, letterSpacing: 2, color: "#fdebc8", textShadow: "0 0 30px rgba(255,160,60,0.6), 0 4px 14px rgba(0,0,0,0.5)", transform: `scale(${slam})`, transformOrigin: "50% 40%" }}>CHRISTMAS</div>
+        <div style={{ ...sansBase, left: 0, width: VW, textAlign: "center", top: 62, fontFamily: SERIF, fontWeight: 900, fontSize: 218, lineHeight: 1, letterSpacing: 2, color: "#fdebc8", textShadow: `0 0 ${30 + 34 * beat}px rgba(255,160,60,${0.6 + 0.3 * beat}), 0 4px 14px rgba(0,0,0,0.5)`, transform: `scale(${slam})`, transformOrigin: "50% 40%" }}>CHRISTMAS</div>
         <div style={{ ...tag, left: 70, top: 640 }}>WINTER NIGHTS,<br />I NEED THIS.</div>
         <div style={{ ...tag, right: 70, top: 640, textAlign: "right" }}>COZY FIREPLACE JAZZ<br />SLEEPING CAT VIBE</div>
-        <div style={{ ...sansBase, left: 0, width: VW, textAlign: "center", top: 706, fontFamily: SERIF, fontWeight: 900, fontSize: 104, letterSpacing: 6, opacity: 0.92, color: "#f6dcaa", textShadow: "0 0 24px rgba(255,150,50,0.55), 0 3px 10px rgba(0,0,0,0.6)" }}>COZY JAZZ</div>
+        <div style={{ ...sansBase, left: 0, width: VW, textAlign: "center", top: 706, fontFamily: SERIF, fontWeight: 900, fontSize: 104, letterSpacing: 6, opacity: 0.92, color: "#f6dcaa", textShadow: `0 0 ${24 + 26 * beat}px rgba(255,150,50,${0.55 + 0.3 * beat}), 0 3px 10px rgba(0,0,0,0.6)` }}>COZY JAZZ</div>
         <Barcode x={VW - 96} y={VH - 112} />
         {/* worn paper border: a cream frame whose inner edge is roughened by noise */}
         <svg width={VW} height={VH} style={{ position: "absolute", left: 0, top: 0 }}>
@@ -312,35 +350,47 @@ const Intro: React.FC<{ t: number; f: number }> = ({ t, f }) => {
         </svg>
       </div>
 
-      <Grain f={f} amount={t < INTRO_END - 1 ? 0.5 : 0.5 * (INTRO_END - t)} />
+      <Grain f={f} amount={t < INTRO_END - 1 ? 0.5 : Math.max(hold ? 0.16 : 0, 0.5 * (INTRO_END - t))} />
       {flash > 0 && <div style={{ position: "absolute", inset: 0, background: `rgba(255,236,200,${flash})` }} />}
     </>
   );
 };
 
-export const Video: React.FC = () => {
+// poster: keep the poster for the whole video (no fade-out: scripts/xmas_long.py joins passes and fades the end).
+// loop: a later 10-minute pass of the long version: poster already on, no intro, no fades.
+// audio: false when the soundtrack is mixed afterwards by ffmpeg (scripts/xmas_long.py).
+export type Props = { poster?: boolean; loop?: boolean; audio?: boolean };
+
+export const Video: React.FC<Props> = ({ poster = false, loop = false, audio = true }) => {
   const f = useCurrentFrame();
   const t = f / FPS;
+  const ti = loop ? INTRO_END + 1 : t; // the time the intro sees
   const fire = flick(f, 1);
   const fire2 = flick(f, 4);
-  // slow camera: breathes in and out over ~2.5 minutes while the aim drifts between the hearth and the cat
-  const k = 1.035 + 0.035 * Math.sin((2 * Math.PI * t) / 150 - 1.2);
-  const originX = 700 + 160 * Math.sin((2 * Math.PI * t) / 210 + 0.5);
-  const originY = 560 + 70 * Math.sin((2 * Math.PI * t) / 170);
+  // slow camera: breathes in and out over ~2.5 minutes while the aim drifts between the hearth and the cat.
+  // In poster mode every period divides 600 s, so the camera lines up where two 10-minute passes are joined.
+  const per = (p: number, plain: number) => (poster ? P_LEN / Math.max(1, Math.round(P_LEN / p)) : plain);
+  const k = 1.035 + 0.035 * Math.sin((2 * Math.PI * t) / per(150, 150) - 1.2);
+  const originX = 700 + 160 * Math.sin((2 * Math.PI * t) / per(200, 210) + 0.5);
+  const originY = 560 + 70 * Math.sin((2 * Math.PI * t) / per(120, 170));
+  // music: the playlist's features in poster mode (stronger), the 10-minute mix otherwise
+  const src = poster ? POSTER : features;
+  const gain = poster ? 1.5 : 1;
+  const bass = poster ? band("bass", f, POSTER) : 0;
   const breath = 1 + 0.008 * Math.sin(t * 1.55);
-  const fade = interpolate(f, [0, 60, DURATION - 150, DURATION], [0, 1, 1, 0]);
-  const fx = introFx(t, f);
+  const fade = loop ? 1 : poster ? interpolate(f, [0, 60], [0, 1], { extrapolateRight: "clamp" }) : interpolate(f, [0, 60, DURATION - 150, DURATION], [0, 1, 1, 0]);
+  const fx = introFx(ti, f);
 
   const maxOf = (times: number[], a: number, h: number, b: number) => times.reduce((m, t0) => Math.max(m, pulse(f, t0, a, h, b)), 0);
-  const ear = CAT_VARIANTS_READY ? maxOf(EAR_T, 0.2, 0.35, 0.3) : 0;
-  const eyes = CAT_VARIANTS_READY ? maxOf(EYE_T, 0.8, 0.5, 0.8) : 0;
-  const tail = CAT_VARIANTS_READY ? maxOf(TAIL_T, 1.0, 0.4, 1.0) : 0;
+  const ear = CAT_VARIANTS_READY ? maxOf(poster ? P_EAR_T : EAR_T, 0.2, 0.35, 0.3) : 0;
+  const eyes = CAT_VARIANTS_READY ? maxOf(poster ? P_EYE_T : EYE_T, 0.8, 0.5, 0.8) : 0;
+  const tail = CAT_VARIANTS_READY ? maxOf(poster ? P_TAIL_T : TAIL_T, 1.0, 0.4, 1.0) : 0;
 
   return (
     <AbsoluteFill style={{ background: "#120a08", overflow: "hidden" }}>
-      <Audio src={staticFile("xmas-cat-wide/ambience.wav")} volume={0.5} />
-      <Audio src={staticFile("xmas-cat-wide/music.mp3")} volume={0.8} />
-      <Audio src={staticFile("xmas-cat-wide/intro_sfx.wav")} volume={0.7} />
+      {audio && <Audio src={staticFile("xmas-cat-wide/ambience.wav")} volume={0.5} />}
+      {audio && <Audio src={staticFile("xmas-cat-wide/music.mp3")} volume={0.8} />}
+      {audio && <Audio src={staticFile("xmas-cat-wide/intro_sfx.wav")} volume={0.7} />}
       <div style={{ position: "absolute", left: 0, top: 0, width: VW, height: VH, overflow: "hidden", transformOrigin: "0 0", transform: `scale(${SCALE})` }}>
         <div style={{ position: "absolute", left: 0, top: -CROP_Y, width: IW, height: IH }}>
           <div style={{ position: "absolute", inset: 0, transformOrigin: `${originX}px ${originY}px`, transform: `translate(${fx.dx}px, ${fx.dy}px) scale(${k * fx.scale})`, opacity: fade, filter: [fx.blur > 0.05 ? `blur(${fx.blur}px)` : "", fx.color].join(" ").trim() || undefined }}>
@@ -350,7 +400,7 @@ export const Video: React.FC = () => {
             ))}
 
             {FIRE_PLATE_READY && <Patch box={FIRE_BOX} src="xmas-cat-wide/fire_plate.png" opacity={1} />}
-            {FIRE_PLATE_READY && <Flames f={f} />}
+            {FIRE_PLATE_READY && <Flames f={f} pump={bass} />}
 
             {/* the cat: one group that breathes (scaled a hair from its belly line); ear, eyes and tail swap in over the same pixels */}
             <div style={{ position: "absolute", inset: 0, transformOrigin: "770px 805px", transform: `scaleY(${breath}) scaleX(${1 + (breath - 1) * 0.4})` }}>
@@ -364,15 +414,16 @@ export const Video: React.FC = () => {
 
             <Snow f={f} />
             <Steam f={f} />
-            <Lights f={f} />
+            <Lights f={f} src={src} gain={gain} />
 
             {/* firelight: breathes over the floor, the cat and the nearby wall */}
-            <div style={{ position: "absolute", left: -450, top: 100, width: 1400, height: 1000, borderRadius: "50%", mixBlendMode: "screen", opacity: 0.08 + 0.18 * fire, backgroundImage: "radial-gradient(circle, rgba(255,150,60,1) 0%, rgba(230,90,20,0.45) 40%, rgba(230,90,20,0) 70%)" }} />
+            <div style={{ position: "absolute", left: -450, top: 100, width: 1400, height: 1000, borderRadius: "50%", mixBlendMode: "screen", opacity: 0.08 + 0.18 * fire + 0.1 * bass, backgroundImage: "radial-gradient(circle, rgba(255,150,60,1) 0%, rgba(230,90,20,0.45) 40%, rgba(230,90,20,0) 70%)" }} />
             <div style={{ position: "absolute", left: 340, top: 600, width: 760, height: 330, borderRadius: "50%", mixBlendMode: "soft-light", opacity: 0.25 + 0.4 * fire2, backgroundImage: "radial-gradient(ellipse, rgba(255,170,80,1) 0%, rgba(255,140,50,0) 70%)" }} />
           </div>
         </div>
         <div style={{ position: "absolute", inset: 0, background: "radial-gradient(ellipse at 50% 55%, rgba(0,0,0,0) 55%, rgba(8,3,2,0.5) 100%)", pointerEvents: "none" }} />
-        <Intro t={t} f={f} />
+        <Intro t={ti} f={f} hold={poster} beat={bass} />
+        {poster && <Subscribe t={t} />}
       </div>
     </AbsoluteFill>
   );

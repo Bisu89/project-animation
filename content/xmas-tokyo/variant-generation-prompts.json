@@ -1,0 +1,36 @@
+{
+  "tool": "built-in image_gen",
+  "note": "Raw generated outputs; alignment has not been measured. V5 aspect corrected to 2:3 per user instruction.",
+  "variants": [
+    {
+      "id": "V1",
+      "file": "face_blink.png",
+      "prompt": "Attach face_crop.png. EDIT this picture. Output the SAME framing and aspect (3:2). Keep the exact line art, flat colours and grain. Change ONLY what is described below; everything else (hair, headphones, sweater, background, every line and edge) must stay pixel-identical, same position and same size. No text, no watermark. CHANGE ONLY her eyes: both eyes fully CLOSED, drawn as soft curved lash lines (a relaxed blink). Eyebrows, blush, mouth and everything else unchanged.\nThe supplied image is the EDIT TARGET. Edit this exact crop; preserve its boundaries, object positions and scale. Do not reframe, zoom, recenter, expand or add details."
+    },
+    {
+      "id": "V2",
+      "file": "face_smile.png",
+      "prompt": "Attach face_crop.png. EDIT this picture. Output the SAME framing and aspect (3:2). Keep the exact line art, flat colours and grain. Change ONLY what is described below; everything else must stay pixel-identical, same position and same size. No text, no watermark. CHANGE ONLY her expression: eyes gently closed and a small content smile, as if she is enjoying the song. Everything else unchanged.\nThe supplied image is the EDIT TARGET. Edit this exact crop; preserve its boundaries, object positions and scale. Do not reframe, zoom, recenter, expand or add details."
+    },
+    {
+      "id": "V3",
+      "file": "neon_off.png",
+      "prompt": "Attach street_crop.png. EDIT this picture. Output the SAME framing and aspect (3:2). Keep the exact line art, flat colours and grain. Change ONLY what is described below; everything else (buildings, snow, window frame, every line and edge) must stay pixel-identical, same position and same size. No text, no watermark. TURN OFF THE NEON SIGNS: every neon shop sign becomes an unlit dark sign (dark glass tubes, no glow, no coloured light on the walls around it). The vending machine, lanterns and apartment windows stay as they are.\nThe supplied image is the EDIT TARGET. Edit this exact crop; preserve its boundaries, object positions and scale. Do not reframe, zoom, recenter, expand or add details."
+    },
+    {
+      "id": "V4",
+      "file": "street_lights_off.png",
+      "prompt": "Attach street_crop.png. EDIT this picture. Output the SAME framing and aspect (3:2). Keep the exact line art, flat colours and grain. Change ONLY what is described below; everything else must stay pixel-identical, same position and same size. No text, no watermark. TURN OFF the strings of small lights across the street and the paper lanterns (unlit, no glow), and make about two thirds of the small apartment windows dark. The neon signs and the vending machine stay exactly as they are.\nThe supplied image is the EDIT TARGET. Edit this exact crop; preserve its boundaries, object positions and scale. Do not reframe, zoom, recenter, expand or add details."
+    },
+    {
+      "id": "V5",
+      "file": "room_lights_off.png",
+      "prompt": "Attach room_crop.png. EDIT this picture. Output the SAME framing and aspect (2:3). Keep the exact line art, flat colours and grain. Change ONLY what is described below; everything else must stay pixel-identical, same position and same size. No text, no watermark. TURN OFF the fairy lights on the window frame and on the little Christmas tree: every bulb becomes a small dark unlit bulb, no glow around it.\nIMPORTANT: portrait 2:3, identical framing to the supplied portrait room_crop.png.\nThe supplied image is the EDIT TARGET. Edit this exact crop; preserve its boundaries, object positions and scale. Do not reframe, zoom, recenter, expand or add details."
+    },
+    {
+      "id": "V6",
+      "file": "cat_ear.png",
+      "prompt": "Attach cat_crop.png. EDIT this picture. Output the SAME framing and aspect (3:2). Keep the exact line art, flat colours and grain. Change ONLY what is described below; everything else must stay pixel-identical, same position and same size. No text, no watermark. CHANGE ONLY the cat's near ear: flicked slightly backward about 12 degrees, as in a twitch. Eyes stay closed.\nThe supplied image is the EDIT TARGET. Edit this exact crop; preserve its boundaries, object positions and scale. Do not reframe, zoom, recenter, expand or add details."
+    }
+  ]
+}

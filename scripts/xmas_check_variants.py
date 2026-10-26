@@ -1,11 +1,13 @@
 """Check the ChatGPT-edited variants against their crops: position shift (phase correlation) and how much of the picture changed.
 
 Usage: python scripts/xmas_check_variants.py content/xmas-cat-wide
-Reads <dir>/crops.json for the crop names, expects <variant>.png next to <crop>.png (variant is 1536x1024, crop is 450x300).
+Pairs (variant -> crop) come from <dir>/variants.json when it exists, else the cat-scene defaults below; <variant>.png sits
+next to <crop>.png (the variant is whatever size ChatGPT returned, it is scaled to the crop).
 Writes <dir>/_sbs_<variant>.png (original | variant | difference x3) to look at, and prints one line per variant.
 A shift other than (0, 0) means the generator moved the picture: re-generate it, do not use it.
 Delete the _sbs_ files afterwards (they are only for looking).
 """
+import json
 import os
 import sys
 
@@ -14,6 +16,9 @@ from PIL import Image
 
 PAIRS = {"cat_face_eyes_half": "cat_face_crop", "cat_face_ear_turn": "cat_face_crop", "cat_tail_lift": "cat_tail_crop", "fire_plate": "fire_crop"}
 d = sys.argv[1] if len(sys.argv) > 1 else "content/xmas-cat-wide"
+if os.path.exists(os.path.join(d, "variants.json")):
+    with open(os.path.join(d, "variants.json")) as fh:
+        PAIRS = {k: v for k, v in json.load(fh).items() if not k.startswith("_")}
 gray = lambda im: np.asarray(im.convert("L"), float)
 for variant, crop in PAIRS.items():
     pv, pc = os.path.join(d, variant + ".png"), os.path.join(d, crop + ".png")

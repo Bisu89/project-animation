@@ -1,6 +1,10 @@
 """Intro stingers for the xmas-cat-wide opening -> demo-project/public/xmas-cat-wide/intro_sfx.wav (stereo, 44.1k, 18 s).
 Timeline matches Intro in demo-project/src/xmas-cat-wide/Video.tsx: glitch crackle 5.4-6.6, whoosh 6.0-8.3 (rising then falling), thud at 8.3.
-Usage: python scripts/gen_xmas_intro_sfx.py"""
+Usage: python scripts/gen_xmas_intro_sfx.py           # xmas-cat-wide (crackle + whoosh + thud)
+       python scripts/gen_xmas_intro_sfx.py --soft    # xmas-tokyo: no crackle, a low soft whoosh, the thud; quieter
+"""
+import sys
+
 import numpy as np
 from scipy.io import wavfile
 from scipy.signal import butter, sosfilt
@@ -8,6 +12,7 @@ from scipy.signal import butter, sosfilt
 SR = 44100
 T = 18.0
 n = int(SR * T)
+SOFT = "--soft" in sys.argv  # the white-noise crackle sounded like a broken speaker under music
 rng = np.random.default_rng(11)
 t = np.arange(n) / SR
 out = np.zeros(n)
@@ -16,7 +21,7 @@ def seg(a, b):
     return slice(int(a * SR), int(b * SR))
 
 # glitch crackle: short random bursts of band-limited noise
-for _ in range(34):
+for _ in range(0 if SOFT else 34):
     s0 = rng.uniform(5.4, 6.55)
     L = int(rng.uniform(0.008, 0.05) * SR)
     i = int(s0 * SR)
@@ -28,8 +33,8 @@ out = sosfilt(butter(2, [900, 9000], "band", fs=SR, output="sos"), out)
 w0, w1 = 6.0, 8.3
 m = (t >= w0) & (t < w1)
 x = (t[m] - w0) / (w1 - w0)
-env = np.sin(np.pi * x) ** 2 * 0.55
-sweep = 300 + 3200 * np.sin(np.pi * x)
+env = np.sin(np.pi * x) ** 2 * (0.3 if SOFT else 0.55)
+sweep = 200 + (900 if SOFT else 3200) * np.sin(np.pi * x)
 noise = rng.standard_normal(m.sum())
 phase_lp = np.zeros_like(noise)
 alpha = np.clip(2 * np.pi * sweep / SR, 0.01, 0.9)  # one-pole low-pass whose cutoff follows the sweep
@@ -49,8 +54,8 @@ click = rng.standard_normal(int(0.03 * SR)) * np.exp(-np.arange(int(0.03 * SR)) 
 out[i:i + L] += thud
 out[i:i + len(click)] += click
 
-out = np.tanh(out * 1.1) * 0.9
+out = np.tanh(out * 1.1) * (0.6 if SOFT else 0.9)
 d = int(0.0009 * SR)
 R = np.concatenate([np.zeros(d), out[:-d]])
-wavfile.write("demo-project/public/xmas-cat-wide/intro_sfx.wav", SR, (np.stack([out, R], 1) * 32767).astype(np.int16))
+wavfile.write("demo-project/public/%s/intro_sfx.wav" % ("xmas-tokyo" if SOFT else "xmas-cat-wide"), SR, (np.stack([out, R], 1) * 32767).astype(np.int16))
 print("ok")

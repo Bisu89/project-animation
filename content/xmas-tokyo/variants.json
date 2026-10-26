@@ -1,0 +1,11 @@
+{
+ "face_blink": "face_crop",
+ "face_smile": "face_crop",
+ "neon_off": "street_crop",
+ "street_lights_off": "street_crop",
+ "room_lights_off": "room_crop",
+ "cat_ear": "cat_crop",
+ "_exclusive": [
+  "street_crop"
+ ]
+}
