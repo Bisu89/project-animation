@@ -5,7 +5,7 @@ Tài liệu làm lại từ đầu, chạy được trên máy này (Windows, Re
 ## 1. Ý tưởng và phễu
 
 - Video "cozy ambient" đang thịnh hành trên Facebook (tham khảo: Reels "Rainy nights", 10s dọc, một ảnh minh họa + zoom chậm + mưa + đèn lồng; video YouTube "Tokyo Chill Rap" 3h49m ngang, một poster tĩnh + nhạc dài). Giá trị nằm ở **không khí + nhạc dài + một hình ảnh có bản sắc**, không ở animation phức tạp.
-- Phễu: **Reels dọc 15-20s** (Facebook) -> thẻ cuối "bản đầy đủ 10 phút trên YouTube, link ở comment đầu" -> **video ngang 10 phút** (YouTube). Facebook hạ tiếp cận bài có link ngoài, nên link để ở **comment ghim** và phần giới thiệu trang, không để trong nội dung bài.
+- Phễu: **Reels dọc 15-45s** (Facebook) -> thẻ cuối "bản đầy đủ 10 phút trên YouTube, link ở comment đầu" -> **video ngang 10 phút** (YouTube). Facebook hạ tiếp cận bài có link ngoài, nên link để ở **comment ghim** và phần giới thiệu trang, không để trong nội dung bài.
 - Không dựng lại ảnh/nhân vật của kênh khác (video mẫu có watermark). Chỉ học cấu trúc; chữ và hình đều của mình.
 - Điều kiện: mọi thứ do code Remotion điều khiển; ảnh nguồn từ ChatGPT Plus; không dùng dịch vụ video AI trả phí.
 
@@ -14,7 +14,7 @@ Tài liệu làm lại từ đầu, chạy được trên máy này (Windows, Re
 | Sản phẩm | Composition (id) | Kích thước | File ra |
 |---|---|---|---|
 | Video YouTube 10 phút | `XmasCatWide` (`demo-project/src/xmas-cat-wide/`) | 1920x1080, 600s | `renders/xmas-wide-10min.mp4` (426 MB) |
-| Reels dọc 20s | `XmasReel` (`demo-project/src/xmas-cat/`) | 1080x1920, 20s | `renders/xmas-reel-20s.mp4` |
+| Reels dọc 45s | `XmasReel` (`demo-project/src/xmas-cat/`) | 1080x1920, 45s | `renders/xmas-reel-45s.mp4` |
 | Bản dọc 40s | `XmasCat` | 1080x1920, 40s | `renders/xmas-cat-40s.mp4` |
 
 Video (mp4/wav/mp3) bị `.gitignore`; ảnh gốc và mã nguồn có trong git. Mỗi composition có entry riêng `index.ts` (vì `Root.tsx` đang lỗi bundle: `src/anc-ep04` import `./voiceenv` không tồn tại).
@@ -69,7 +69,7 @@ Bài học từ camp-demo ([cook-camp-demo/TONG_KET.md](../cook-camp-demo/TONG_K
 
 ### Bước 4. Âm thanh môi trường (sinh bằng code)
 ```
-python scripts/gen_xmas_sfx.py 42            # dọc: lửa tí tách + gió -> public/xmas-cat/ambience.wav
+python scripts/gen_xmas_sfx.py 47            # dọc (>= độ dài Reels): lửa tí tách + gió -> public/xmas-cat/ambience.wav
 python scripts/gen_xmas_wide_sfx.py 602      # ngang 10 phút -> public/xmas-cat-wide/ambience.wav (~106 MB)
 python scripts/gen_xmas_intro_sfx.py         # ngang: crackle glitch + whoosh + thịch mở đầu -> intro_sfx.wav
 ```
@@ -107,9 +107,9 @@ npx remotion render src/xmas-cat-wide/index.ts XmasCatWide ../renders/xmas-wide-
 # bản đầy đủ 10 phút (18000 frame, ~45 phút, ~7.5 fps)
 npx remotion render src/xmas-cat-wide/index.ts XmasCatWide ../renders/xmas-wide-10min.mp4 --public-dir=<thu_muc> --codec=h264 --crf=22 --concurrency=3 --port=3497
 
-# Reels dọc 20s
+# Reels dọc 45s
 python ../scripts/xmas_prepare.py portrait <thu_muc>   # ambience.wav + music.mp3 của bản dọc phải có sẵn
-npx remotion render src/xmas-cat/index.ts XmasReel ../renders/xmas-reel-20s.mp4 --public-dir=<thu_muc> --codec=h264 --crf=18 --concurrency=3 --port=3498
+npx remotion render src/xmas-cat/index.ts XmasReel ../renders/xmas-reel-45s.mp4 --public-dir=<thu_muc> --codec=h264 --crf=18 --concurrency=3 --port=3498
 
 # xem trực tiếp
 npx remotion studio src/xmas-cat-wide/index.ts
@@ -117,7 +117,7 @@ npx remotion studio src/xmas-cat-wide/index.ts
 Cổng hay bị chiếm: đổi `--port`. Chụp một khung: `npx remotion still <entry> <id> out.png --frame=N --public-dir=...`.
 
 ## 6. Đăng và nối sang YouTube
-- **Reels:** 15-20s dọc; mở đầu có tiêu đề ngắn, thẻ cuối "Full 10-minute version on YouTube / link in the first comment". Caption ngắn kiểu "cozy fireplace jazz for a quiet Christmas night", vài thẻ #christmas #cozy #jazz #fireplace #lofi. Đăng comment đầu có link YouTube và ghim lên.
+- **Reels:** 45s dọc (thay đổi độ dài ở hằng số `REEL` trong `src/xmas-cat/index.ts`; nhớ chạy `gen_xmas_sfx.py` đủ dài và thêm lịch tai/mắt/đuôi nếu dài hơn); mở đầu có tiêu đề ngắn, thẻ cuối "Full 10-minute version on YouTube / link in the first comment". Caption ngắn kiểu "cozy fireplace jazz for a quiet Christmas night", vài thẻ #christmas #cozy #jazz #fireplace #lofi. Đăng comment đầu có link YouTube và ghim lên.
 - **YouTube:** tiêu đề nên nêu rõ thời lượng và công dụng (ví dụ "Cozy Christmas Jazz | Fireplace, Snow & Sleeping Cat | 10 Minutes to Relax/Sleep/Study"). Ảnh thumbnail: khung poster giây ~10 (CHRISTMAS lớn) hoặc cảnh sạch kèm chữ. Mô tả có danh sách bài nhạc nếu cần ghi nguồn.
 - Kiểm tra điều khoản/bản quyền của nhạc trước khi đăng (nhạc AI hoặc nhạc tự có thì ghi nguồn; kiểm tra chính sách nội dung AI của YouTube nếu dùng ảnh/nhạc AI để bật kiếm tiền).
 - Đăng đều nhiều ngày: mỗi Reels một cảnh khác (xem việc tiếp theo bên dưới) để Facebook có nhiều thứ để phân phối.

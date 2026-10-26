@@ -2,7 +2,7 @@ import React from "react";
 import { Composition, registerRoot } from "remotion";
 import { Video, DURATION } from "./Video";
 
-const REEL = 30 * 20;
+const REEL = 30 * 45;
 const ReelVideo: React.FC = () => React.createElement(Video, { total: REEL, reel: true });
 
 registerRoot(() =>

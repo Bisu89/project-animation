@@ -218,8 +218,8 @@ export const Video: React.FC<{ total?: number; reel?: boolean }> = ({ total = DU
   const breath = 1 + 0.009 * Math.sin((f / FPS) * 1.55);
   const fade = interpolate(f, [0, 20, total - 45, total], [0, 1, 1, 0]);
 
-  const ear = Math.max(pulse(f, 4.0, 0.2, 0.35, 0.3), pulse(f, 19.5, 0.2, 0.3, 0.3), pulse(f, 33.0, 0.2, 0.35, 0.3));
-  const eyes = Math.max(pulse(f, 9.0, 0.8, 0.5, 0.8), pulse(f, 27.0, 0.8, 0.4, 0.8));
+  const ear = Math.max(pulse(f, 4.0, 0.2, 0.35, 0.3), pulse(f, 19.5, 0.2, 0.3, 0.3), pulse(f, 33.0, 0.2, 0.35, 0.3), pulse(f, 42.5, 0.2, 0.3, 0.3));
+  const eyes = Math.max(pulse(f, 9.0, 0.8, 0.5, 0.8), pulse(f, 27.0, 0.8, 0.4, 0.8), pulse(f, 38.3, 0.8, 0.5, 0.8));
   const tail = Math.max(pulse(f, 13.5, 1.0, 0.4, 1.0), pulse(f, 23.0, 1.0, 0.3, 1.0), pulse(f, 36.0, 0.9, 0.3, 0.9));
 
   return (

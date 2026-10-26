@@ -30,7 +30,7 @@ Làm video kiểu "cozy ambient" đang thịnh hành trên Facebook (video mẫu
 
 ## Việc tiếp theo (chưa làm)
 - Chủ dự án xem video: khói, lửa, đuôi, mức nhạc (nhạc 80%, môi trường 55%).
-- Bản **Reels 15-20s** (cắt từ bản 40s) và bản **dài lặp 1-3 giờ** cho YouTube (camera trôi chậm có vòng lặp; nhạc cần nhiều bài).
+- Bản bản **dài lặp 1-3 giờ** cho YouTube (camera trôi chậm có vòng lặp; nhạc cần nhiều bài).
 - Thêm 4-5 cảnh khác (mèo cạnh cây thông, cabin mưa tuyết, hiên nhà...) để đăng đều.
 - Phễu: link YouTube để ở comment ghim/giới thiệu trang (Facebook hạ tiếp cận link ngoài), chữ cuối video "bản đầy đủ trên YouTube".
 - Độ phân giải: ảnh 941x1672 phóng lên 1080x1920 + zoom 13%, cuối video hơi mềm; ảnh gốc to hơn sẽ tốt hơn.
@@ -84,5 +84,5 @@ Mô phỏng cấu trúc video tham khảo "Tokyo Chill Rap" bằng code (chữ v
 ### Bản 10 phút đã render (2026-10-26)
 `renders/xmas-wide-10min.mp4`: 600s, 1920x1080, h264 crf22, 426 MB, âm -19.2 LUFS (nhạc 4 bài ghép + lửa/gió + SFX mở đầu). Render mất ~45 phút (concurrency 3, `--public-dir` tạm). Đã kiểm khung hình ở 5:00 và 9:57 (mờ ra cuối). Chưa làm: bản Reels 15-20s từ cảnh ngang, thêm cảnh L2/L3 chuyển mờ giữa video, đăng thử + phễu YouTube.
 
-### Reels dọc 20s (2026-10-26)
-`renders/xmas-reel-20s.mp4` (1080x1920, 20s, Window Prayer + lửa/gió): tiêu đề đơn giản "a quiet night by the fire / Cozy Christmas Jazz" ở giây 1-5, thẻ kết "Full 10-minute version on YouTube / link in the first comment" ở giây 13.5-19.4, trong vùng an toàn của Reels. Composition `XmasReel` (`src/xmas-cat/index.ts`, `Video` có prop `total`, `reel`). **Cách làm đầy đủ từ đầu: [CACH_LAM.md](CACH_LAM.md).** Việc tiếp: đăng Reels + comment ghim link YouTube, upload bản 10 phút, thêm cảnh L2/L3 hoặc cảnh mới để đăng đều.
+### Reels dọc 45s (2026-10-26)
+`renders/xmas-reel-45s.mp4` (1080x1920, 45s, Window Prayer + lửa/gió): tiêu đề đơn giản "a quiet night by the fire / Cozy Christmas Jazz" ở giây 1-5, thẻ kết "Full 10-minute version on YouTube / link in the first comment" ở giây 38.5-44.4, trong vùng an toàn của Reels. Composition `XmasReel` (`src/xmas-cat/index.ts`, `Video` có prop `total`, `reel`). **Cách làm đầy đủ từ đầu: [CACH_LAM.md](CACH_LAM.md).** Việc tiếp: đăng Reels + comment ghim link YouTube, upload bản 10 phút, thêm cảnh L2/L3 hoặc cảnh mới để đăng đều.
