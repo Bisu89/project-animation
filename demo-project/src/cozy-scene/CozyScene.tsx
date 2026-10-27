@@ -1,7 +1,7 @@
 import React from "react";
 import { AbsoluteFill, Audio, interpolate, random, staticFile, useCurrentFrame } from "remotion";
 import { loadFont } from "@remotion/google-fonts/PlayfairDisplay";
-import type { Box, CozyConfig, Events, Features, SnowCfg, SteamCfg } from "./types";
+import type { Box, CozyConfig, Events, Features, RainCfg, SnowCfg, SteamCfg } from "./types";
 
 const { fontFamily: SERIF } = loadFont("normal", { weights: ["700", "900"], subsets: ["latin"] });
 const { fontFamily: SERIF_I } = loadFont("italic", { weights: ["400"], subsets: ["latin"] });
@@ -50,6 +50,36 @@ const Snow: React.FC<{ f: number; cfg: SnowCfg }> = ({ f, cfg }) => {
         const y = ((random(`y${i}`) * (rect.h + 40) + f * speed * 1.5) % (rect.h + 40)) - 20;
         const x = (random(`x${i}`) * rect.w + Math.sin(f * 0.02 + i) * (6 + depth * 10) - f * 0.1 * (0.4 + depth) + rect.w * 4000) % rect.w;
         return <div key={i} style={{ position: "absolute", left: x, top: y, width: size, height: size, borderRadius: "50%", background: "#fff", opacity: 0.35 + depth * 0.5, filter: depth > 0.7 ? "blur(0.8px)" : undefined }} />;
+      })}
+    </div>
+  );
+};
+
+// rain: thin slanted streaks (near ones longer, brighter, faster) and a few slow drops that slide down the glass
+const Rain: React.FC<{ f: number; cfg: RainCfg }> = ({ f, cfg }) => {
+  const { rect } = cfg;
+  const lean = cfg.lean ?? 0.18;
+  const len = cfg.length ?? 38;
+  const spd = cfg.speed ?? 1;
+  const alpha = cfg.opacity ?? 0.5;
+  return (
+    <div style={{ position: "absolute", left: rect.x, top: rect.y, width: rect.w, height: rect.h, overflow: "hidden", borderRadius: cfg.shape === "ellipse" ? "50%" : undefined }}>
+      <svg width={rect.w} height={rect.h} style={{ position: "absolute", left: 0, top: 0 }}>
+        {Array.from({ length: cfg.count }, (_, i) => {
+          const depth = random(`rd${i}`);
+          const l = len * (0.4 + depth * 0.9);
+          const span = rect.h + l + 40;
+          const y = ((random(`ry${i}`) * span + f * spd * (14 + depth * 22)) % span) - l;
+          const x = random(`rx${i}`) * (rect.w + rect.h * lean) - y * lean;
+          return <line key={i} x1={x} y1={y} x2={x - l * lean} y2={y + l} stroke="#cfe0ff" strokeWidth={0.8 + depth * 1.4} strokeLinecap="round" opacity={alpha * (0.35 + depth * 0.65)} />;
+        })}
+      </svg>
+      {Array.from({ length: cfg.drops ?? 0 }, (_, i) => {
+        const span = rect.h * 1.3;
+        const t = (random(`gy${i}`) * span + f * (0.25 + random(`gs${i}`) * 0.55)) % span;
+        const x = random(`gx${i}`) * rect.w + Math.sin(t * 0.05 + i) * 2.5;
+        const r = 1.6 + random(`gr${i}`) * 2.2;
+        return <div key={i} style={{ position: "absolute", left: x, top: t - 10, width: r, height: r * 2.2, borderRadius: "50%", background: "rgba(215,230,255,0.55)", boxShadow: "0 0 3px rgba(255,255,255,0.45)", opacity: 0.7 }} />;
       })}
     </div>
   );
@@ -266,6 +296,7 @@ export const CozyScene: React.FC<{ config: CozyConfig; features?: Features; tota
             )}
 
             {asList(c.snow).map((sn, i) => <Snow key={i} f={f} cfg={sn} />)}
+            {asList(c.rain).map((rn, i) => <Rain key={i} f={f} cfg={rn} />)}
             {asList(c.steam).map((st, i) => <Steam key={i} f={f} cfg={st} w={c.master.w} h={c.master.h} />)}
             {c.lights && <Lights f={f} cfg={c.lights} features={features} />}
             {c.candles &&

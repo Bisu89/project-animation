@@ -83,3 +83,18 @@ Mở `master.png` trong trình xem ảnh bất kỳ (Paint/Photos có hiển th�
 - Đã render thử đủ 45s: `reel-tokyo-window.mp4`.
 
 **Tất cả prompt biến thể gộp một file:** `content/cozy-series/assets_variants_all.csv` (40 dòng; cột `attach` = ảnh cắt cần đính kèm, `save_as` = tên và thư mục lưu kết quả). Sinh lại bằng `cozy_crops.py <id>` cho từng cảnh rồi gộp.
+
+## Lớp mưa (`rain`)
+
+Thêm vào JSON của cảnh, thay cho (hoặc cùng với) `snow`. Có thể là một object hoặc một mảng.
+
+```json
+"rain": { "rect": {"x":220,"y":0,"w":685,"h":430}, "count": 160, "lean": 0.2, "drops": 14, "opacity": 0.6 }
+```
+
+- `rect`, `shape`: vùng mưa (cửa sổ), giống `snow`.
+- `count`: số vệt mưa; vệt gần dài, sáng và nhanh hơn vệt xa.
+- `lean`: độ nghiêng (0 = rơi thẳng, 0.2 = gió thổi nghiêng).
+- `length`, `speed`, `opacity`: độ dài, tốc độ, độ đậm (mặc định 38, 1, 0.5).
+- `drops`: số giọt chậm trượt xuống mặt kính.
+- Mưa ngoài trời đặt `rect` ở vùng nhìn ra ngoài; ảnh gốc nên vẽ trời trong, không có vệt mưa.
