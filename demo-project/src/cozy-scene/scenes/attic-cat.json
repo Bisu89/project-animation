@@ -1,0 +1,315 @@
+{
+ "id": "attic-cat",
+ "assets": "attic-cat",
+ "content": "xmas-tokyo/attic-cat",
+ "master": {
+  "w": 941,
+  "h": 1672
+ },
+ "view": {
+  "out": [
+   1080,
+   1920
+  ]
+ },
+ "camera": {
+  "zoom": {
+   "mode": "linear",
+   "from": 1,
+   "to": 1.12
+  },
+  "origin": {
+   "mode": "linear",
+   "from": [
+    470,
+    1000
+   ],
+   "to": [
+    430,
+    1080
+   ]
+  },
+  "fade": [
+   20,
+   45
+  ]
+ },
+ "vignette": {
+  "at": [
+   50,
+   55
+  ],
+  "from": 55,
+  "alpha": 0.5
+ },
+ "fire": {
+  "enabled": true,
+  "plate": {
+   "src": "fire_plate.png",
+   "from": "fire_plate.png",
+   "crop": "fire_crop.png",
+   "box": {
+    "x": 20,
+    "y": 620,
+    "w": 450,
+    "h": 300
+   },
+   "prompt": "REMOVE ALL FLAMES inside the stove's glass door. Keep the black iron stove, its door frame, the logs and the kettle exactly where they are, and make the logs glow as hot orange-red embers with a few small bright coals, no flames, no smoke. Keep the warm orange light on the stove and the wall."
+  },
+  "base": 858,
+  "area": {
+   "x": 120,
+   "y": 690,
+   "w": 160,
+   "h": 190
+  },
+  "mask": "both",
+  "tongues": [
+   [
+    158,
+    9,
+    70
+   ],
+   [
+    172,
+    10,
+    115
+   ],
+   [
+    186,
+    11,
+    140
+   ],
+   [
+    200,
+    10,
+    120
+   ],
+   [
+    214,
+    10,
+    95
+   ],
+   [
+    228,
+    8,
+    60
+   ]
+  ],
+  "embers": {
+   "x0": 150,
+   "w": 90,
+   "count": 10
+  }
+ },
+ "glows": [
+  {
+   "box": {
+    "x": -250,
+    "y": 480,
+    "w": 860,
+    "h": 760
+   },
+   "kind": "big",
+   "base": 0.07,
+   "amp": 0.16,
+   "driver": "fire"
+  },
+  {
+   "box": {
+    "x": 130,
+    "y": 960,
+    "w": 700,
+    "h": 330
+   },
+   "kind": "soft",
+   "base": 0.2,
+   "amp": 0.35,
+   "driver": "fire2"
+  }
+ ],
+ "snow": {
+  "rect": {
+   "x": 585,
+   "y": 300,
+   "w": 370,
+   "h": 420
+  },
+  "count": 60,
+  "shape": "ellipse"
+ },
+ "steam": {
+  "x": 815,
+  "y": 925,
+  "rise": 150,
+  "spread": 18,
+  "count": 50,
+  "life": 170,
+  "r0": 7,
+  "rGrow": 20,
+  "opacity": 0.5,
+  "amp0": 5,
+  "ampGrow": 20,
+  "drift": 14,
+  "displace": 18
+ },
+ "lights": {
+  "size": 18,
+  "base": 0.08,
+  "twinkle": 0.5,
+  "react": 0,
+  "regions": [
+   {
+    "type": "line",
+    "count": 24,
+    "from": [
+     0,
+     125
+    ],
+    "to": [
+     370,
+     350
+    ],
+    "wave": 8,
+    "waveLen": 40,
+    "jitter": 24
+   }
+  ]
+ },
+ "candles": {
+  "points": [
+   [
+    425,
+    392
+   ],
+   [
+    292,
+    625
+   ],
+   [
+    322,
+    628
+   ],
+   [
+    912,
+    908
+   ]
+  ],
+  "size": 46,
+  "base": 0.2,
+  "flick": 0.4,
+  "mid": 0,
+  "onset": 0
+ },
+ "creature": {
+  "breath": {
+   "origin": [
+    470,
+    1190
+   ],
+   "body": {
+    "x": 150,
+    "y": 920,
+    "w": 660,
+    "h": 340
+   },
+   "amp": 0.009,
+   "speed": 1.55
+  },
+  "patches": [
+   {
+    "enabled": true,
+    "id": "ear",
+    "src": "ear_turn.png",
+    "from": "cat_face_ear_turn.png",
+    "crop": "cat_face_crop.png",
+    "box": {
+     "x": 400,
+     "y": 950,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 30,
+     "first": 5,
+     "seed": "ear"
+    },
+    "env": [
+     0.2,
+     0.35,
+     0.3
+    ],
+    "prompt": "CHANGE ONLY the cat's nearest ear (the ear at the right of the head): it is flicked slightly, rotated about 12 degrees backward and a little lower, as in a twitch. Eyes stay closed."
+   },
+   {
+    "enabled": true,
+    "id": "eyes",
+    "src": "eyes_half.png",
+    "from": "cat_face_eyes_half.png",
+    "crop": "cat_face_crop.png",
+    "box": {
+     "x": 400,
+     "y": 950,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 50,
+     "first": 18,
+     "seed": "eye"
+    },
+    "env": [
+     0.8,
+     0.5,
+     0.8
+    ],
+    "prompt": "CHANGE ONLY the cat's eyes: both eyes open just a thin sleepy slit, about one eighth open, only a sliver of the eye visible, the lids still heavy, as if it half-wakes. Do NOT show the full round iris."
+   },
+   {
+    "enabled": true,
+    "id": "tail",
+    "src": "tail_lift.png",
+    "from": "cat_tail_lift.png",
+    "crop": "cat_tail_crop.png",
+    "box": {
+     "x": 130,
+     "y": 980,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 40,
+     "first": 11,
+     "seed": "tail"
+    },
+    "env": [
+     1,
+     0.4,
+     1
+    ],
+    "prompt": "CHANGE ONLY the tip of the tail (the free striped end lying at the left in front of the cat): it curls up and sideways by a small amount, about 15 degrees, lifted slightly off the quilt. The whole tail and the rest of the cat unchanged."
+   }
+  ]
+ },
+ "audio": {
+  "ambience": {
+   "file": "ambience.wav",
+   "volume": 0.55
+  },
+  "music": {
+   "file": "music.mp3",
+   "volume": 0.8,
+   "fadeIn": 60,
+   "fadeOut": 90
+  }
+ },
+ "reel": {
+  "kicker": "snowed in, warm inside",
+  "title": "Cozy Attic Christmas",
+  "cta": [
+   "Full version",
+   "on YouTube"
+  ],
+  "ctaSmall": "link in the first comment"
+ }
+}

@@ -1,0 +1,282 @@
+{
+ "id": "tent-dog",
+ "assets": "tent-dog",
+ "content": "xmas-tokyo/tent-dog",
+ "master": {
+  "w": 941,
+  "h": 1672
+ },
+ "view": {
+  "out": [
+   1080,
+   1920
+  ]
+ },
+ "camera": {
+  "zoom": {
+   "mode": "linear",
+   "from": 1,
+   "to": 1.12
+  },
+  "origin": {
+   "mode": "linear",
+   "from": [
+    470,
+    900
+   ],
+   "to": [
+    500,
+    1020
+   ]
+  },
+  "fade": [
+   20,
+   45
+  ]
+ },
+ "vignette": {
+  "at": [
+   50,
+   55
+  ],
+  "from": 55,
+  "alpha": 0.5
+ },
+ "fire": {
+  "enabled": true,
+  "plate": {
+   "src": "fire_plate.png",
+   "from": "fire_plate.png",
+   "crop": "fire_crop.png",
+   "box": {
+    "x": 480,
+    "y": 620,
+    "w": 450,
+    "h": 300
+   },
+   "prompt": "REMOVE ALL FLAMES. Keep the small iron stove, its glass door and the logs next to it exactly where they are, and make the logs glow as hot orange-red embers with a few small bright coals, no flames, no smoke, no sparks. Keep the warm orange light on the surroundings."
+  },
+  "base": 852,
+  "area": {
+   "x": 770,
+   "y": 760,
+   "w": 120,
+   "h": 100
+  },
+  "mask": "both",
+  "tongues": [
+   [
+    812,
+    5,
+    25
+   ],
+   [
+    822,
+    6,
+    40
+   ],
+   [
+    832,
+    6,
+    45
+   ],
+   [
+    842,
+    5,
+    32
+   ]
+  ],
+  "embers": {
+   "x0": 806,
+   "w": 50,
+   "count": 6
+  }
+ },
+ "glows": [
+  {
+   "box": {
+    "x": 300,
+    "y": 450,
+    "w": 900,
+    "h": 800
+   },
+   "kind": "big",
+   "base": 0.06,
+   "amp": 0.14,
+   "driver": "fire"
+  }
+ ],
+ "snow": [
+  {
+   "rect": {
+    "x": 430,
+    "y": 260,
+    "w": 430,
+    "h": 610
+   },
+   "count": 40
+  }
+ ],
+ "steam": {
+  "x": 850,
+  "y": 590,
+  "rise": 130,
+  "spread": 14,
+  "count": 40,
+  "life": 170,
+  "r0": 6,
+  "rGrow": 16,
+  "opacity": 0.4,
+  "amp0": 5,
+  "ampGrow": 22,
+  "drift": 20,
+  "displace": 20
+ },
+ "lights": {
+  "size": 18,
+  "base": 0.08,
+  "twinkle": 0.5,
+  "react": 0,
+  "regions": [
+   {
+    "type": "tree",
+    "count": 14,
+    "axisX": 280,
+    "topY": 540,
+    "height": 160,
+    "halfTop": 6,
+    "halfBottom": 70,
+    "skew": 0
+   }
+  ]
+ },
+ "candles": {
+  "points": [
+   [
+    120,
+    650
+   ],
+   [
+    820,
+    825
+   ]
+  ],
+  "size": 100,
+  "base": 0.2,
+  "flick": 0.4,
+  "mid": 0,
+  "onset": 0
+ },
+ "creature": {
+  "breath": {
+   "origin": [
+    450,
+    1190
+   ],
+   "body": {
+    "x": 80,
+    "y": 880,
+    "w": 770,
+    "h": 340
+   },
+   "amp": 0.009,
+   "speed": 1.55
+  },
+  "patches": [
+   {
+    "enabled": true,
+    "id": "ear",
+    "src": "ear.png",
+    "from": "face_ear.png",
+    "crop": "face_crop.png",
+    "box": {
+     "x": 480,
+     "y": 900,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 30,
+     "first": 5,
+     "seed": "ear"
+    },
+    "env": [
+     0.2,
+     0.35,
+     0.3
+    ],
+    "prompt": "CHANGE ONLY the husky dog's near ear: it is flicked slightly, rotated about 12 degrees backward and a little lower, as in a twitch. Eyes stay closed."
+   },
+   {
+    "enabled": true,
+    "id": "eyes",
+    "src": "eyes.png",
+    "from": "face_eyes.png",
+    "crop": "face_crop.png",
+    "box": {
+     "x": 480,
+     "y": 900,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 50,
+     "first": 18,
+     "seed": "eyes"
+    },
+    "env": [
+     0.8,
+     0.5,
+     0.8
+    ],
+    "prompt": "CHANGE ONLY the husky dog's eyes: both eyes open just a thin sleepy slit, about one eighth open, only a sliver of the eye visible, the lids still heavy, as if it half-wakes. Do NOT show the full round iris."
+   },
+   {
+    "enabled": true,
+    "id": "tail",
+    "src": "tail.png",
+    "from": "tail_lift.png",
+    "crop": "tail_crop.png",
+    "box": {
+     "x": 60,
+     "y": 960,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 40,
+     "first": 11,
+     "seed": "tail"
+    },
+    "env": [
+     1,
+     0.4,
+     1
+    ],
+    "prompt": "CHANGE ONLY the tip of the husky dog's tail (the fluffy end curled at the left): it curls up and sideways by a small amount, about 15 degrees, lifted slightly off the surface. The rest unchanged."
+   }
+  ]
+ },
+ "audio": {
+  "ambience": {
+   "file": "ambience.wav",
+   "volume": 0.55
+  },
+  "music": {
+   "file": "music.mp3",
+   "volume": 0.8,
+   "fadeIn": 60,
+   "fadeOut": 90
+  }
+ },
+ "reel": {
+  "kicker": "warm light in a snowy camp",
+  "title": "Cozy Winter Camp",
+  "cta": [
+   "Full version",
+   "on YouTube"
+  ],
+  "ctaSmall": "link in the first comment"
+ },
+ "_music": "jazz 3"
+}

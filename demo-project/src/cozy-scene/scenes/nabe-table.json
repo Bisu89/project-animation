@@ -1,0 +1,268 @@
+{
+ "id": "nabe-table",
+ "assets": "nabe-table",
+ "content": "xmas-tokyo/nabe-table",
+ "master": {
+  "w": 940,
+  "h": 1672
+ },
+ "view": {
+  "out": [
+   1080,
+   1920
+  ]
+ },
+ "camera": {
+  "zoom": {
+   "mode": "linear",
+   "from": 1,
+   "to": 1.12
+  },
+  "origin": {
+   "mode": "linear",
+   "from": [
+    430,
+    760
+   ],
+   "to": [
+    420,
+    900
+   ]
+  },
+  "fade": [
+   20,
+   45
+  ]
+ },
+ "vignette": {
+  "at": [
+   50,
+   55
+  ],
+  "from": 55,
+  "alpha": 0.5
+ },
+ "snow": [
+  {
+   "rect": {
+    "x": 120,
+    "y": 0,
+    "w": 820,
+    "h": 300
+   },
+   "count": 40
+  },
+  {
+   "rect": {
+    "x": 560,
+    "y": 310,
+    "w": 380,
+    "h": 590
+   },
+   "count": 35
+  },
+  {
+   "rect": {
+    "x": 355,
+    "y": 320,
+    "w": 205,
+    "h": 190
+   },
+   "count": 10
+  }
+ ],
+ "steam": [
+  {
+   "x": 500,
+   "y": 880,
+   "rise": 120,
+   "spread": 14,
+   "count": 36,
+   "life": 170,
+   "r0": 6,
+   "rGrow": 16,
+   "opacity": 0.4,
+   "amp0": 5,
+   "ampGrow": 22,
+   "drift": 16,
+   "displace": 20
+  },
+  {
+   "x": 270,
+   "y": 1160,
+   "rise": 250,
+   "spread": 150,
+   "count": 70,
+   "life": 170,
+   "r0": 10,
+   "rGrow": 26,
+   "opacity": 0.3,
+   "amp0": 5,
+   "ampGrow": 22,
+   "drift": 20,
+   "displace": 20
+  }
+ ],
+ "lights": {
+  "size": 18,
+  "base": 0.08,
+  "twinkle": 0.5,
+  "react": 0,
+  "regions": [
+   {
+    "type": "line",
+    "count": 22,
+    "from": [
+     110,
+     330
+    ],
+    "to": [
+     940,
+     245
+    ],
+    "wave": 6,
+    "waveLen": 60,
+    "jitter": 20
+   },
+   {
+    "type": "tree",
+    "count": 20,
+    "axisX": 95,
+    "topY": 420,
+    "height": 340,
+    "halfTop": 8,
+    "halfBottom": 90,
+    "skew": 0
+   }
+  ]
+ },
+ "candles": {
+  "points": [
+   [
+    30,
+    500
+   ],
+   [
+    48,
+    810
+   ],
+   [
+    890,
+    885
+   ],
+   [
+    140,
+    1450
+   ],
+   [
+    390,
+    380
+   ],
+   [
+    480,
+    400
+   ],
+   [
+    608,
+    375
+   ],
+   [
+    780,
+    335
+   ]
+  ],
+  "size": 44,
+  "base": 0.2,
+  "flick": 0.4,
+  "mid": 0,
+  "onset": 0
+ },
+ "creature": {
+  "breath": {
+   "origin": [
+    470,
+    1190
+   ],
+   "body": {
+    "x": 0,
+    "y": 480,
+    "w": 940,
+    "h": 720
+   },
+   "amp": 0.004,
+   "speed": 1.55
+  },
+  "patches": [
+   {
+    "enabled": false,
+    "id": "eyes_open",
+    "src": "eyes_open.png",
+    "from": "face_open.png",
+    "crop": "face_crop.png",
+    "box": {
+     "x": 200,
+     "y": 560,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 28,
+     "first": 8,
+     "seed": "eyes_open"
+    },
+    "env": [
+     0.8,
+     2.0,
+     0.8
+    ],
+    "prompt": "CHANGE ONLY her eyes: both eyes gently OPEN, calm and half-lidded, looking down; the small smile stays. Everything else unchanged."
+   },
+   {
+    "enabled": true,
+    "id": "cat_ear",
+    "src": "cat_ear.png",
+    "from": "cat_ear.png",
+    "crop": "cat_crop.png",
+    "box": {
+     "x": 490,
+     "y": 960,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 32,
+     "first": 7,
+     "seed": "cat_ear"
+    },
+    "env": [
+     0.2,
+     0.35,
+     0.3
+    ],
+    "prompt": "CHANGE ONLY the cat's near ear: flicked slightly backward about 12 degrees, as in a twitch. Eyes stay closed."
+   }
+  ]
+ },
+ "audio": {
+  "ambience": {
+   "file": "ambience.wav",
+   "volume": 0.55
+  },
+  "music": {
+   "file": "music.mp3",
+   "volume": 0.8,
+   "fadeIn": 60,
+   "fadeOut": 90
+  }
+ },
+ "reel": {
+  "kicker": "warm soup, warm heart",
+  "title": "Cozy Hot Pot Night",
+  "cta": [
+   "Full version",
+   "on YouTube"
+  ],
+  "ctaSmall": "link in the first comment"
+ },
+ "_music": "jazz 7"
+}

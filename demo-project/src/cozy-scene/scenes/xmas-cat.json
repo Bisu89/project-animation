@@ -1,0 +1,66 @@
+{
+  "id": "xmas-cat",
+  "assets": "xmas-cat",
+  "content": "xmas-cat",
+  "master": { "w": 941, "h": 1672 },
+  "view": { "out": [1080, 1920] },
+  "camera": {
+    "zoom": { "mode": "linear", "from": 1, "to": 1.13 },
+    "origin": { "mode": "linear", "from": [470.5, 1103.5], "to": [338.8, 1103.5] },
+    "fade": [20, 45]
+  },
+  "vignette": { "at": [50, 55], "from": 55, "alpha": 0.55 },
+  "fire": {
+    "plate": {
+      "src": "fire_plate.png", "from": "fire_plate.png", "crop": "fire_crop.png",
+      "box": { "x": 0, "y": 450, "w": 450, "h": 300 },
+      "prompt": "REMOVE ALL FLAMES. Keep the stone fireplace, the iron andirons and the stacked logs exactly where they are, and make the logs glow as hot orange-red embers and charred wood with a few small bright orange coals between them, no flames, no smoke, no sparks. Keep the warm orange light on the stone around the opening."
+    },
+    "base": 692,
+    "area": { "x": 0, "y": 430, "w": 205, "h": 300 },
+    "mask": "right",
+    "tongues": [[10, 12, 120], [26, 15, 170], [42, 16, 215], [58, 17, 190], [74, 18, 235], [90, 16, 175], [106, 15, 150], [122, 12, 105]],
+    "embers": { "x0": 10, "w": 120, "count": 16 }
+  },
+  "glows": [
+    { "box": { "x": -380, "y": 330, "w": 1100, "h": 1100 }, "kind": "big", "base": 0.1, "amp": 0.2, "driver": "fire" },
+    { "box": { "x": 40, "y": 960, "w": 760, "h": 420 }, "kind": "soft", "base": 0.25, "amp": 0.4, "driver": "fire2" }
+  ],
+  "snow": { "rect": { "x": 520, "y": 0, "w": 421, "h": 560 }, "count": 70 },
+  "steam": { "x": 812, "y": 748, "rise": 250, "spread": 34, "count": 70, "life": 170, "r0": 11, "rGrow": 32, "opacity": 0.62, "amp0": 8, "ampGrow": 34, "drift": 26, "displace": 26 },
+  "lights": {
+    "size": 18, "base": 0.1, "twinkle": 0.55, "react": 0,
+    "regions": [
+      { "type": "tree", "count": 34, "axisX": 462, "topY": 230, "height": 450, "halfTop": 15, "halfBottom": 140, "skew": 10 },
+      { "type": "line", "count": 12, "from": [10, 150], "to": [340, 190], "wave": 0, "waveLen": 1, "jitter": 25 }
+    ]
+  },
+  "creature": {
+    "breath": { "origin": [510, 1326], "body": { "x": 60, "y": 900, "w": 880, "h": 500 }, "amp": 0.009, "speed": 1.55 },
+    "patches": [
+      {
+        "id": "ear", "src": "ear_turn.png", "from": "cat_face_ear_turn.png", "crop": "cat_face_crop.png",
+        "box": { "x": 110, "y": 950, "w": 450, "h": 300 },
+        "events": { "times": [4, 19.5, 33, 42.5] }, "env": [0.2, 0.35, 0.3],
+        "prompt": "CHANGE ONLY the cat's LEFT ear (the ear at the far left edge of the picture, next to the blanket): it is flicked slightly, rotated about 12 degrees backward and a little lower, as in a twitch. Eyes stay closed."
+      },
+      {
+        "id": "eyes", "src": "eyes_half.png", "from": "cat_face_eyes_half.png", "crop": "cat_face_crop.png",
+        "box": { "x": 110, "y": 950, "w": 450, "h": 300 },
+        "events": { "times": [9, 27, 38.3] }, "env": [0.8, 0.5, 0.8],
+        "prompt": "CHANGE ONLY the cat's eyes: both eyes open just a thin sleepy slit, about one eighth open, only a sliver of the eye visible, the lids still heavy, as if it half-wakes. Do NOT show the full round iris."
+      },
+      {
+        "id": "tail", "src": "tail_lift.png", "from": "cat_tail_lift.png", "crop": "cat_tail_crop.png",
+        "box": { "x": 450, "y": 1100, "w": 450, "h": 300 },
+        "events": { "times": [13.5, 23, 36] }, "env": [1, 0.4, 1],
+        "prompt": "CHANGE ONLY the tip of the tail: the free end curls up and sideways by a small amount, about 15 degrees, lifted slightly off the blanket. The rest unchanged."
+      }
+    ]
+  },
+  "audio": {
+    "ambience": { "file": "ambience.wav", "volume": 0.55 },
+    "music": { "file": "music.mp3", "volume": 0.8, "fadeIn": 60, "fadeOut": 90 }
+  },
+  "reel": { "kicker": "a quiet night by the fire", "title": "Cozy Christmas Jazz", "cta": ["Full 10-minute version", "on YouTube"], "ctaSmall": "link in the first comment" }
+}

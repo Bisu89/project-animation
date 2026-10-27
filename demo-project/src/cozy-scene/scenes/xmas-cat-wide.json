@@ -1,0 +1,66 @@
+{
+  "id": "xmas-cat-wide",
+  "assets": "xmas-cat-wide",
+  "content": "xmas-cat-wide",
+  "master": { "w": 1536, "h": 1024 },
+  "view": { "out": [1920, 1080], "crop": { "x": 0, "y": 70, "w": 1536, "h": 864 } },
+  "camera": {
+    "zoom": { "mode": "sine", "base": 1.035, "amp": 0.035, "period": 150, "phase": -1.2 },
+    "origin": { "mode": "sine", "center": [700, 560], "swing": [160, 70], "periods": [210, 170], "phase": [0.5, 0] },
+    "fade": [60, 150]
+  },
+  "vignette": { "at": [50, 55], "from": 55, "alpha": 0.5 },
+  "fire": {
+    "plate": {
+      "src": "fire_plate.png", "from": "fire_plate.png", "crop": "fire_crop.png",
+      "box": { "x": 100, "y": 370, "w": 450, "h": 300 },
+      "prompt": "REMOVE ALL FLAMES. Keep the stone fireplace, the iron andirons and the stacked logs exactly where they are, and make the logs glow as hot orange-red embers and charred wood with a few small bright orange coals between them, no flames, no smoke, no sparks. Keep the warm orange light on the stone around the opening."
+    },
+    "base": 612,
+    "area": { "x": 150, "y": 380, "w": 270, "h": 290 },
+    "mask": "both",
+    "tongues": [[192, 11, 95], [208, 13, 135], [224, 15, 175], [240, 11, 210], [256, 13, 230], [272, 15, 200], [288, 11, 165], [304, 13, 125], [320, 15, 85]],
+    "embers": { "x0": 195, "w": 130, "count": 18 }
+  },
+  "glows": [
+    { "box": { "x": -450, "y": 100, "w": 1400, "h": 1000 }, "kind": "big", "base": 0.08, "amp": 0.18, "driver": "fire" },
+    { "box": { "x": 340, "y": 600, "w": 760, "h": 330 }, "kind": "soft", "base": 0.25, "amp": 0.4, "driver": "fire2" }
+  ],
+  "snow": { "rect": { "x": 995, "y": 100, "w": 465, "h": 445 }, "count": 80 },
+  "steam": { "x": 1393, "y": 604, "rise": 170, "spread": 24, "count": 60, "life": 170, "r0": 8, "rGrow": 24, "opacity": 0.62, "amp0": 6, "ampGrow": 26, "drift": 20, "displace": 22 },
+  "lights": {
+    "size": 20, "base": 0.06, "twinkle": 0.3, "react": 0.5,
+    "regions": [
+      { "type": "tree", "count": 34, "axisX": 1475, "topY": 150, "height": 420, "halfTop": 25, "halfBottom": 145, "skew": 0, "clampX": 1530 },
+      { "type": "line", "count": 26, "from": [10, 82.5], "to": [600, 232.5], "wave": 14, "waveLen": 55, "jitter": 26 }
+    ]
+  },
+  "candles": { "points": [[190, 72], [518, 158], [705, 440], [1520, 668]], "size": 52, "base": 0.2, "flick": 0.35, "mid": 0.4, "onset": 0.25 },
+  "creature": {
+    "breath": { "origin": [770, 805], "body": { "x": 490, "y": 570, "w": 640, "h": 360 }, "amp": 0.008, "speed": 1.55 },
+    "patches": [
+      {
+        "id": "ear", "src": "ear_turn.png", "from": "cat_face_ear_turn.png", "crop": "cat_face_crop.png",
+        "box": { "x": 520, "y": 600, "w": 450, "h": 300 },
+        "events": { "every": 34, "first": 6, "seed": "ear" }, "env": [0.2, 0.35, 0.3],
+        "prompt": "CHANGE ONLY the cat's near ear (the LEFT ear, at the left of the head): it is flicked slightly, rotated about 12 degrees backward and a little lower, as in a twitch. Eyes stay closed."
+      },
+      {
+        "id": "eyes", "src": "eyes_half.png", "from": "cat_face_eyes_half.png", "crop": "cat_face_crop.png",
+        "box": { "x": 520, "y": 600, "w": 450, "h": 300 },
+        "events": { "every": 58, "first": 22, "seed": "eye" }, "env": [0.8, 0.5, 0.8],
+        "prompt": "CHANGE ONLY the cat's eyes: both eyes open just a thin sleepy slit, about one eighth open, only a sliver of the eye visible, the lids still heavy, as if it half-wakes. Do NOT show the full round iris."
+      },
+      {
+        "id": "tail", "src": "tail_lift.png", "from": "cat_tail_lift.png", "crop": "cat_tail_crop.png",
+        "box": { "x": 620, "y": 640, "w": 450, "h": 300 },
+        "events": { "every": 44, "first": 14, "seed": "tail" }, "env": [1, 0.4, 1],
+        "prompt": "CHANGE ONLY the tip of the tail: the free end of the tail (lying in front of the cat, ending near the cat's chin) curls up and sideways by a small amount, about 15 degrees, lifted slightly off the blanket. The whole tail and the rest of the cat unchanged."
+      }
+    ]
+  },
+  "audio": {
+    "ambience": { "file": "ambience.wav", "volume": 0.5 },
+    "music": { "file": "music.mp3", "volume": 0.8, "fadeIn": 2, "fadeOut": 2 }
+  }
+}

@@ -1,0 +1,220 @@
+{
+ "id": "kotatsu-sleep",
+ "assets": "kotatsu-sleep",
+ "content": "xmas-tokyo/kotatsu-sleep",
+ "master": {
+  "w": 940,
+  "h": 1672
+ },
+ "view": {
+  "out": [
+   1080,
+   1920
+  ]
+ },
+ "camera": {
+  "zoom": {
+   "mode": "linear",
+   "from": 1,
+   "to": 1.12
+  },
+  "origin": {
+   "mode": "linear",
+   "from": [
+    470,
+    900
+   ],
+   "to": [
+    500,
+    1000
+   ]
+  },
+  "fade": [
+   20,
+   45
+  ]
+ },
+ "vignette": {
+  "at": [
+   50,
+   55
+  ],
+  "from": 55,
+  "alpha": 0.5
+ },
+ "snow": [
+  {
+   "rect": {
+    "x": 630,
+    "y": 285,
+    "w": 310,
+    "h": 600
+   },
+   "count": 45
+  }
+ ],
+ "steam": {
+  "x": 440,
+  "y": 980,
+  "rise": 140,
+  "spread": 14,
+  "count": 45,
+  "life": 170,
+  "r0": 7,
+  "rGrow": 18,
+  "opacity": 0.45,
+  "amp0": 5,
+  "ampGrow": 22,
+  "drift": 16,
+  "displace": 20
+ },
+ "lights": {
+  "size": 18,
+  "base": 0.08,
+  "twinkle": 0.5,
+  "react": 0,
+  "regions": [
+   {
+    "type": "tree",
+    "count": 14,
+    "axisX": 95,
+    "topY": 300,
+    "height": 260,
+    "halfTop": 8,
+    "halfBottom": 85,
+    "skew": 0
+   },
+   {
+    "type": "tree",
+    "count": 10,
+    "axisX": 905,
+    "topY": 520,
+    "height": 200,
+    "halfTop": 5,
+    "halfBottom": 40,
+    "skew": 0
+   }
+  ]
+ },
+ "candles": {
+  "points": [
+   [
+    28,
+    765
+   ],
+   [
+    235,
+    575
+   ],
+   [
+    822,
+    520
+   ],
+   [
+    740,
+    560
+   ],
+   [
+    648,
+    658
+   ],
+   [
+    815,
+    665
+   ]
+  ],
+  "size": 40,
+  "base": 0.2,
+  "flick": 0.4,
+  "mid": 0,
+  "onset": 0
+ },
+ "creature": {
+  "breath": {
+   "origin": [
+    500,
+    1030
+   ],
+   "body": {
+    "x": 20,
+    "y": 560,
+    "w": 900,
+    "h": 520
+   },
+   "amp": 0.005,
+   "speed": 1.55
+  },
+  "patches": [
+   {
+    "enabled": false,
+    "id": "smile",
+    "src": "smile.png",
+    "from": "face_smile.png",
+    "crop": "face_crop.png",
+    "box": {
+     "x": 200,
+     "y": 620,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 26,
+     "first": 8,
+     "seed": "smile"
+    },
+    "env": [
+     1.0,
+     2.5,
+     1.0
+    ],
+    "prompt": "CHANGE ONLY her expression: asleep (eyes stay closed) but a small content smile appears on her lips. Everything else unchanged."
+   },
+   {
+    "enabled": true,
+    "id": "cat_ear",
+    "src": "cat_ear.png",
+    "from": "cat_ear.png",
+    "crop": "cat_crop.png",
+    "box": {
+     "x": 490,
+     "y": 830,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 30,
+     "first": 6,
+     "seed": "cat_ear"
+    },
+    "env": [
+     0.2,
+     0.35,
+     0.3
+    ],
+    "prompt": "CHANGE ONLY the cat's near ear: flicked slightly backward about 12 degrees, as in a twitch. Eyes stay closed."
+   }
+  ]
+ },
+ "audio": {
+  "ambience": {
+   "file": "ambience.wav",
+   "volume": 0.55
+  },
+  "music": {
+   "file": "music.mp3",
+   "volume": 0.8,
+   "fadeIn": 60,
+   "fadeOut": 90
+  }
+ },
+ "reel": {
+  "kicker": "a nap under the kotatsu",
+  "title": "Cozy Christmas Nap",
+  "cta": [
+   "Full version",
+   "on YouTube"
+  ],
+  "ctaSmall": "link in the first comment"
+ },
+ "_music": "jazz 3"
+}

@@ -1,0 +1,233 @@
+{
+ "id": "train-fox",
+ "assets": "train-fox",
+ "content": "xmas-tokyo/train-fox",
+ "master": {
+  "w": 941,
+  "h": 1672
+ },
+ "view": {
+  "out": [
+   1080,
+   1920
+  ]
+ },
+ "camera": {
+  "zoom": {
+   "mode": "linear",
+   "from": 1,
+   "to": 1.12
+  },
+  "origin": {
+   "mode": "linear",
+   "from": [
+    470,
+    950
+   ],
+   "to": [
+    440,
+    1050
+   ]
+  },
+  "fade": [
+   20,
+   45
+  ]
+ },
+ "vignette": {
+  "at": [
+   50,
+   55
+  ],
+  "from": 55,
+  "alpha": 0.5
+ },
+ "glows": [
+  {
+   "box": {
+    "x": -250,
+    "y": 300,
+    "w": 700,
+    "h": 700
+   },
+   "kind": "big",
+   "base": 0.07,
+   "amp": 0.14,
+   "driver": "fire"
+  }
+ ],
+ "snow": [
+  {
+   "rect": {
+    "x": 512,
+    "y": 145,
+    "w": 430,
+    "h": 590
+   },
+   "count": 70
+  }
+ ],
+ "steam": {
+  "x": 225,
+  "y": 740,
+  "rise": 120,
+  "spread": 12,
+  "count": 36,
+  "life": 170,
+  "r0": 6,
+  "rGrow": 16,
+  "opacity": 0.4,
+  "amp0": 5,
+  "ampGrow": 22,
+  "drift": 16,
+  "displace": 20
+ },
+ "lights": {
+  "size": 18,
+  "base": 0.08,
+  "twinkle": 0.5,
+  "react": 0,
+  "regions": [
+   {
+    "type": "line",
+    "count": 26,
+    "from": [
+     455,
+     190
+    ],
+    "to": [
+     925,
+     20
+    ],
+    "wave": 8,
+    "waveLen": 40,
+    "jitter": 24
+   }
+  ]
+ },
+ "candles": {
+  "points": [
+   [
+    85,
+    610
+   ]
+  ],
+  "size": 180,
+  "base": 0.2,
+  "flick": 0.4,
+  "mid": 0,
+  "onset": 0
+ },
+ "creature": {
+  "breath": {
+   "origin": [
+    470,
+    1150
+   ],
+   "body": {
+    "x": 180,
+    "y": 850,
+    "w": 640,
+    "h": 340
+   },
+   "amp": 0.01,
+   "speed": 1.55
+  },
+  "patches": [
+   {
+    "enabled": true,
+    "id": "ear",
+    "src": "ear.png",
+    "from": "face_ear.png",
+    "crop": "face_crop.png",
+    "box": {
+     "x": 150,
+     "y": 870,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 30,
+     "first": 5,
+     "seed": "ear"
+    },
+    "env": [
+     0.2,
+     0.35,
+     0.3
+    ],
+    "prompt": "CHANGE ONLY the fox's near ear: it is flicked slightly, rotated about 12 degrees backward and a little lower, as in a twitch. Eyes stay closed."
+   },
+   {
+    "enabled": true,
+    "id": "eyes",
+    "src": "eyes.png",
+    "from": "face_eyes.png",
+    "crop": "face_crop.png",
+    "box": {
+     "x": 150,
+     "y": 870,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 50,
+     "first": 18,
+     "seed": "eyes"
+    },
+    "env": [
+     0.8,
+     0.5,
+     0.8
+    ],
+    "prompt": "CHANGE ONLY the fox's eyes: both eyes open just a thin sleepy slit, about one eighth open, only a sliver of the eye visible, the lids still heavy, as if it half-wakes. Do NOT show the full round iris."
+   },
+   {
+    "enabled": true,
+    "id": "tail",
+    "src": "tail.png",
+    "from": "tail_lift.png",
+    "crop": "tail_crop.png",
+    "box": {
+     "x": 350,
+     "y": 900,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 40,
+     "first": 11,
+     "seed": "tail"
+    },
+    "env": [
+     1,
+     0.4,
+     1
+    ],
+    "prompt": "CHANGE ONLY the tip of the fox's tail (the white-tipped end at the front): it curls up and sideways by a small amount, about 15 degrees, lifted slightly off the surface. The rest unchanged."
+   }
+  ]
+ },
+ "audio": {
+  "ambience": {
+   "file": "ambience.wav",
+   "volume": 0.55
+  },
+  "music": {
+   "file": "music.mp3",
+   "volume": 0.8,
+   "fadeIn": 60,
+   "fadeOut": 90
+  }
+ },
+ "reel": {
+  "kicker": "the night train through the snow",
+  "title": "Winter Night Train",
+  "cta": [
+   "Full version",
+   "on YouTube"
+  ],
+  "ctaSmall": "link in the first comment"
+ },
+ "_music": "jazz 1"
+}

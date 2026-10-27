@@ -93,3 +93,6 @@ Mô phỏng cấu trúc video tham khảo "Tokyo Chill Rap" bằng code (chữ v
 - Cảnh Tokyo: ảnh K1 + 6 biến thể đã có và đạt (lệch 0px). Composition `XmasTokyo`/`XmasTokyoLoop` xong; bản thử 60s có nhạc: `renders/xmas-tokyo-preview60s.mp4`.
 - **Đang/tiếp:** render 2 lượt (`renders/tokyo_first.mp4`, `tokyo_loop.mp4`) rồi `xmas_long.py --minutes 180`. Nên thêm nhạc cho playlist dài hơn (~1h30 như mẫu).
 - Composition `XmasPoster`/`XmasPosterLoop` (cảnh mèo poster) cũng theo nhạc playlist, chưa render bản đầy đủ.
+
+### Khuôn dựng tổng quát `cozy-scene` (2026-10-27)
+Mã `demo-project/src/cozy-scene/`, hướng dẫn **[KHUON_COZY.md](KHUON_COZY.md)**: một cảnh mới = ảnh master + vài ảnh biến thể + một JSON (toạ độ theo pixel master). Script: `cozy_new / cozy_crops / cozy_check / cozy_prepare / cozy_sfx`. Đã so từng pixel với hai cảnh cũ (ngang 0,01/255, dọc 0,26/255) và chạy thử cả chuỗi bằng một cảnh tạm (đã xóa). Chưa có: đoạn mở đầu poster trong khuôn, lớp mưa/sấm chớp. Chưa commit.

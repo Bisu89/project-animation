@@ -1,0 +1,238 @@
+{
+ "id": "porch-dog",
+ "assets": "porch-dog",
+ "content": "xmas-tokyo/porch-dog",
+ "master": {
+  "w": 940,
+  "h": 1672
+ },
+ "view": {
+  "out": [
+   1080,
+   1920
+  ]
+ },
+ "camera": {
+  "zoom": {
+   "mode": "linear",
+   "from": 1,
+   "to": 1.12
+  },
+  "origin": {
+   "mode": "linear",
+   "from": [
+    470,
+    1000
+   ],
+   "to": [
+    420,
+    1080
+   ]
+  },
+  "fade": [
+   20,
+   45
+  ]
+ },
+ "vignette": {
+  "at": [
+   50,
+   55
+  ],
+  "from": 55,
+  "alpha": 0.5
+ },
+ "snow": [
+  {
+   "rect": {
+    "x": 315,
+    "y": 0,
+    "w": 625,
+    "h": 760
+   },
+   "count": 90
+  }
+ ],
+ "steam": {
+  "x": 140,
+  "y": 830,
+  "rise": 130,
+  "spread": 12,
+  "count": 40,
+  "life": 170,
+  "r0": 6,
+  "rGrow": 16,
+  "opacity": 0.4,
+  "amp0": 5,
+  "ampGrow": 22,
+  "drift": 16,
+  "displace": 20
+ },
+ "lights": {
+  "size": 18,
+  "base": 0.08,
+  "twinkle": 0.5,
+  "react": 0,
+  "regions": [
+   {
+    "type": "line",
+    "count": 24,
+    "from": [
+     425,
+     760
+    ],
+    "to": [
+     940,
+     740
+    ],
+    "wave": 6,
+    "waveLen": 40,
+    "jitter": 16
+   },
+   {
+    "type": "line",
+    "count": 6,
+    "from": [
+     0,
+     230
+    ],
+    "to": [
+     140,
+     560
+    ],
+    "wave": 4,
+    "waveLen": 40,
+    "jitter": 40
+   }
+  ]
+ },
+ "candles": {
+  "points": [
+   [
+    255,
+    430
+   ],
+   [
+    105,
+    300
+   ]
+  ],
+  "size": 100,
+  "base": 0.2,
+  "flick": 0.4,
+  "mid": 0,
+  "onset": 0
+ },
+ "creature": {
+  "breath": {
+   "origin": [
+    480,
+    1200
+   ],
+   "body": {
+    "x": 100,
+    "y": 930,
+    "w": 790,
+    "h": 290
+   },
+   "amp": 0.009,
+   "speed": 1.55
+  },
+  "patches": [
+   {
+    "enabled": true,
+    "id": "ear",
+    "src": "ear.png",
+    "from": "face_ear.png",
+    "crop": "face_crop.png",
+    "box": {
+     "x": 90,
+     "y": 950,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 30,
+     "first": 5,
+     "seed": "ear"
+    },
+    "env": [
+     0.2,
+     0.35,
+     0.3
+    ],
+    "prompt": "CHANGE ONLY the dog's near ear: it is flicked slightly, rotated about 12 degrees backward and a little lower, as in a twitch. Eyes stay closed."
+   },
+   {
+    "enabled": true,
+    "id": "eyes",
+    "src": "eyes.png",
+    "from": "face_eyes.png",
+    "crop": "face_crop.png",
+    "box": {
+     "x": 90,
+     "y": 950,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 50,
+     "first": 18,
+     "seed": "eyes"
+    },
+    "env": [
+     0.8,
+     0.5,
+     0.8
+    ],
+    "prompt": "CHANGE ONLY the dog's eyes: both eyes open just a thin sleepy slit, about one eighth open, only a sliver of the eye visible, the lids still heavy, as if it half-wakes. Do NOT show the full round iris."
+   },
+   {
+    "enabled": true,
+    "id": "tail",
+    "src": "tail.png",
+    "from": "tail_lift.png",
+    "crop": "tail_crop.png",
+    "box": {
+     "x": 450,
+     "y": 950,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 40,
+     "first": 11,
+     "seed": "tail"
+    },
+    "env": [
+     1,
+     0.4,
+     1
+    ],
+    "prompt": "CHANGE ONLY the tip of the dog's tail (the fluffy end lying on the quilt at the right): it curls up and sideways by a small amount, about 15 degrees, lifted slightly off the surface. The rest unchanged."
+   }
+  ]
+ },
+ "audio": {
+  "ambience": {
+   "file": "ambience.wav",
+   "volume": 0.55
+  },
+  "music": {
+   "file": "music.mp3",
+   "volume": 0.8,
+   "fadeIn": 60,
+   "fadeOut": 90
+  }
+ },
+ "reel": {
+  "kicker": "storm outside, quilt inside",
+  "title": "Snowstorm Porch",
+  "cta": [
+   "Full version",
+   "on YouTube"
+  ],
+  "ctaSmall": "link in the first comment"
+ },
+ "_music": "Window Prayer"
+}
