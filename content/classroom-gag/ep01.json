@@ -1,0 +1,9 @@
+{
+  "title": "Who is stupid",
+  "lines": [
+    { "who": "student", "text": "Sir, if my name is me and your name is you, then who is stupid?", "voice": "en-US-GuyNeural", "rate": "+6%", "pitch": "+0Hz", "student": "smug", "teacher": "blank" },
+    { "who": "teacher", "text": "You.", "voice": "en-US-ChristopherNeural", "rate": "-5%", "pitch": "-2Hz", "student": "grin", "teacher": "blank" },
+    { "who": "student", "text": "But sir, my name is me.", "voice": "en-US-GuyNeural", "rate": "+6%", "pitch": "+0Hz", "student": "smug", "teacher": "dawn" },
+    { "who": "teacher", "text": "Get out of my class!", "voice": "en-US-ChristopherNeural", "rate": "+12%", "pitch": "+8Hz", "student": "scared", "teacher": "angry" }
+  ]
+}

@@ -20,6 +20,9 @@ import { Video as AncEp02, DURATION as AncEp02_DURATION } from "./anc-ep02/Video
 import { Video as AncEp03, DURATION as AncEp03_DURATION } from "./anc-ep03/Video";
 import { Video as CookEp01, DURATION as CookEp01_DURATION } from "./cook-ep01/Video";
 import { Video as CampDemo, DURATION as CampDemo_DURATION } from "./camp-demo/Video";
+import { Video as BetterTogether, DURATION as BetterTogether_DURATION } from "./better-together/Video";
+import { Video as ClassroomGag, DURATION as ClassroomGag_DURATION } from "./classroom-gag/Video";
+import { Video as BedroomGag, DURATION as BedroomGag_DURATION } from "./bedroom-gag/Video";
 // stickman-video:imports
 
 export const RemotionRoot: React.FC = () => {
@@ -190,6 +193,9 @@ export const RemotionRoot: React.FC = () => {
         defaultProps={{}}
       />
       {/* stickman-video:compositions */}
+      <Composition id="BetterTogether" component={BetterTogether} durationInFrames={BetterTogether_DURATION} fps={30} width={1080} height={1920} />
+      <Composition id="ClassroomGagEp01" component={ClassroomGag} durationInFrames={ClassroomGag_DURATION} fps={30} width={1080} height={1920} />
+      <Composition id="BedroomGagEp01" component={BedroomGag} durationInFrames={BedroomGag_DURATION} fps={30} width={1080} height={1920} />
     </>
   );
 };

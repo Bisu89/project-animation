@@ -1,0 +1,14 @@
+{
+  "title": "The worst thing to say to your wife at night",
+  "lead": 1.9,
+  "gap": 0.35,
+  "tail": 2.8,
+  "lines": [
+    { "who": "wife", "text": "Where are you going?", "voice": "en-US-AriaNeural", "rate": "-8%", "pitch": "-4Hz" },
+    { "who": "husband", "text": "To see another woman.", "voice": "en-US-GuyNeural", "rate": "-5%", "pitch": "+0Hz" },
+    { "who": "wife", "text": "Excuse me?", "voice": "en-US-AriaNeural", "rate": "-3%", "pitch": "+6Hz" },
+    { "who": "husband", "text": "She's waiting for me.", "voice": "en-US-GuyNeural", "rate": "-5%", "pitch": "+0Hz" },
+    { "who": "wife", "text": "What's her name?", "voice": "en-US-AriaNeural", "rate": "-4%", "pitch": "-2Hz" },
+    { "who": "husband", "text": "Her name is Toilet.", "voice": "en-US-GuyNeural", "rate": "-3%", "pitch": "+2Hz" }
+  ]
+}
