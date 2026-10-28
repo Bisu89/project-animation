@@ -17,6 +17,9 @@ import bakeryCatCfg from "./scenes/bakery-cat.json";
 import libraryOwlCfg from "./scenes/library-owl.json";
 import barnReindeerCfg from "./scenes/barn-reindeer.json";
 import trainFoxCfg from "./scenes/train-fox.json";
+import t80BubbleNightCfg from "./scenes/t80-bubble-night.json";
+import w80NeonStreetCfg from "./scenes/w80-neon-street.json";
+import w80ArcadeCfg from "./scenes/w80-arcade.json";
 import wideFeatures from "../xmas-cat-wide/features.json";
 
 export type SceneEntry = { config: CozyConfig; timing: { reel: number; full: number }; features?: Features };
@@ -38,4 +41,7 @@ export const SCENES: Record<string, SceneEntry> = {
   "library-owl": { config: libraryOwlCfg as unknown as CozyConfig, timing: { reel: 45, full: 40 } },
   "barn-reindeer": { config: barnReindeerCfg as unknown as CozyConfig, timing: { reel: 45, full: 40 } },
   "train-fox": { config: trainFoxCfg as unknown as CozyConfig, timing: { reel: 45, full: 40 } },
+  "t80-bubble-night": { config: t80BubbleNightCfg as unknown as CozyConfig, timing: { reel: 45, full: 40 } },
+  "w80-neon-street": { config: w80NeonStreetCfg as unknown as CozyConfig, timing: { reel: 45, full: 40 } },
+  "w80-arcade": { config: w80ArcadeCfg as unknown as CozyConfig, timing: { reel: 45, full: 40 } },
 };

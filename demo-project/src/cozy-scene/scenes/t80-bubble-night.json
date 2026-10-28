@@ -1,0 +1,203 @@
+{
+ "id": "t80-bubble-night",
+ "assets": "t80-bubble-night",
+ "content": "t80-bubble-night",
+ "master": {
+  "w": 941,
+  "h": 1672
+ },
+ "view": {
+  "out": [
+   1080,
+   1920
+  ]
+ },
+ "camera": {
+  "zoom": {
+   "mode": "linear",
+   "from": 1,
+   "to": 1.1
+  },
+  "origin": {
+   "mode": "linear",
+   "from": [
+    470,
+    900
+   ],
+   "to": [
+    450,
+    1000
+   ]
+  },
+  "fade": [
+   20,
+   45
+  ]
+ },
+ "vignette": {
+  "at": [
+   50,
+   55
+  ],
+  "from": 55,
+  "alpha": 0.5
+ },
+ "creature": {
+  "breath": {
+   "origin": [
+    300,
+    1330
+   ],
+   "body": {
+    "x": 0,
+    "y": 560,
+    "w": 940,
+    "h": 830
+   },
+   "amp": 0.005,
+   "speed": 1.55
+  },
+  "patches": [
+   {
+    "enabled": false,
+    "id": "blink",
+    "src": "blink.png",
+    "from": "face_blink.png",
+    "crop": "face_crop.png",
+    "box": {
+     "x": 200,
+     "y": 500,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 6,
+     "first": 2,
+     "seed": "blink"
+    },
+    "env": [
+     0.05,
+     0.08,
+     0.07
+    ],
+    "prompt": "CHANGE ONLY her eyes: both eyes fully CLOSED, drawn as soft curved lash lines (a relaxed blink). Eyebrows, blush, mouth and everything else unchanged."
+   },
+   {
+    "enabled": false,
+    "id": "smile",
+    "src": "smile.png",
+    "from": "face_smile.png",
+    "crop": "face_crop.png",
+    "box": {
+     "x": 200,
+     "y": 500,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 24,
+     "first": 9,
+     "seed": "smile"
+    },
+    "env": [
+     0.8,
+     2.5,
+     0.8
+    ],
+    "prompt": "CHANGE ONLY her expression: eyes gently closed and a small content smile, as if she is enjoying the song. Everything else unchanged."
+   },
+   {
+    "enabled": false,
+    "id": "cat_ear",
+    "src": "cat_ear.png",
+    "from": "cat_ear.png",
+    "crop": "cat_crop.png",
+    "box": {
+     "x": 400,
+     "y": 1130,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 34,
+     "first": 7,
+     "seed": "cat_ear"
+    },
+    "env": [
+     0.2,
+     0.35,
+     0.3
+    ],
+    "prompt": "CHANGE ONLY the cat's near ear: flicked slightly backward about 12 degrees, as in a twitch. Eyes stay closed."
+   }
+  ]
+ },
+ "reel": {
+  "kicker": "rain over Tokyo, warm inside",
+  "title": "Rainy Tokyo Night",
+  "cta": [
+   "Full version",
+   "on YouTube"
+  ],
+  "ctaSmall": "link in the first comment"
+ },
+ "_music": "Window Prayer",
+ "rain": [
+  {
+   "rect": {
+    "x": 370,
+    "y": 300,
+    "w": 570,
+    "h": 250
+   },
+   "count": 140,
+   "lean": 0.2,
+   "drops": 10,
+   "opacity": 0.55
+  },
+  {
+   "rect": {
+    "x": 580,
+    "y": 550,
+    "w": 360,
+    "h": 215
+   },
+   "count": 90,
+   "lean": 0.2,
+   "drops": 10,
+   "opacity": 0.55
+  }
+ ],
+ "steam": {
+  "x": 545,
+  "y": 868,
+  "rise": 110,
+  "spread": 14,
+  "count": 40,
+  "life": 170,
+  "r0": 7,
+  "rGrow": 18,
+  "opacity": 0.45,
+  "amp0": 5,
+  "ampGrow": 22,
+  "drift": 16,
+  "displace": 20
+ },
+ "candles": {
+  "points": [
+   [
+    165,
+    598
+   ],
+   [
+    850,
+    520
+   ]
+  ],
+  "size": 70,
+  "base": 0.25,
+  "flick": 0.4,
+  "mid": 0,
+  "onset": 0
+ }
+}
