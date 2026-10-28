@@ -98,3 +98,20 @@ Thêm vào JSON của cảnh, thay cho (hoặc cùng với) `snow`. Có thể l�
 - `length`, `speed`, `opacity`: độ dài, tốc độ, độ đậm (mặc định 38, 1, 0.5).
 - `drops`: số giọt chậm trượt xuống mặt kính.
 - Mưa ngoài trời đặt `rect` ở vùng nhìn ra ngoài; ảnh gốc nên vẽ trời trong, không có vệt mưa.
+
+## Lớp neon theo nhạc (`neon`), sấm chớp (`lightning`), mở đầu poster (`intro`)
+
+Cả ba đều tùy chọn, thêm vào JSON của cảnh. `neon` và `intro` cần đặc trưng nhạc: `cozy_batch.py` tự tạo `features.json` (bass / mid / high / onset từng khung hình) trong thư mục assets khi cảnh có `neon`, `intro` hoặc `lights.react > 0`.
+
+```json
+"neon": [ { "box": {"x":340,"y":340,"w":80,"h":200}, "color": "rgba(40,220,255,0.9)", "driver": "mid", "base": 0.1, "amp": 0.5 } ],
+"lightning": { "events": { "every": 16, "first": 9, "seed": "lt" }, "strength": 0.3 },
+"intro": { "seconds": 6, "eyebrow": "TOKYO LO-FI  ·  1985", "subline": "Lost in the warmth.", "headline": "Rainy Tokyo Night",
+           "poster": "TOKYO", "tags": ["RAIN ON THE GLASS,\nI NEED THIS.", "LO-FI JAZZ\nSLEEPY CAT VIBE"], "footer": "LO-FI JAZZ" }
+```
+
+- `neon`: vầng sáng màu (ống neon, màn hình CRT, jukebox) sáng lên theo một dải nhạc (`driver`: bass, mid, high, onset). `shape: "rect"` cho dải thẳng. Nên đặt đúng chỗ vật phát sáng trong ảnh.
+- `lightning`: hai lần chớp (mạnh rồi yếu) trên toàn ảnh, dùng cùng lớp `rain`. `events` như các sự kiện khác (`every`/`first`/`seed` hoặc danh sách `times`).
+- `intro`: ảnh tối sepia + câu đầu, nhiễu RGB, rồi poster đập vào và tan sau `seconds` giây (mặc định 6). Tiêu đề Reels tự lùi lại sau phần mở đầu. `cozy_sfx.py` tạo thêm `intro_sfx.wav` (whoosh và tiếng thịch).
+
+Bộ Tokyo retro: `scripts/_cozy_retro_scene.py <id>` ghi toàn bộ tọa độ các lớp (mưa, khói, đèn, neon, nhạc) của 14 cảnh; `scripts/cozy_render.sh <id> ...` render. Ảnh master nằm ở `content/cozy-retro/masters/`, prompt ở `content/cozy-retro/assets_masters.csv`.

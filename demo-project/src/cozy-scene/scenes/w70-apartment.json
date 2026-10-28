@@ -1,0 +1,106 @@
+{
+ "id": "w70-apartment",
+ "assets": "w70-apartment",
+ "content": "w70-apartment",
+ "master": {
+  "w": 941,
+  "h": 1672
+ },
+ "view": {
+  "out": [
+   1080,
+   1920
+  ]
+ },
+ "camera": {
+  "zoom": {
+   "mode": "linear",
+   "from": 1,
+   "to": 1.08
+  },
+  "origin": {
+   "mode": "linear",
+   "from": [
+    470,
+    1000
+   ],
+   "to": [
+    450,
+    1080
+   ]
+  },
+  "fade": [
+   20,
+   45
+  ]
+ },
+ "vignette": {
+  "at": [
+   50,
+   55
+  ],
+  "from": 55,
+  "alpha": 0.5
+ },
+ "reel": {
+  "kicker": "a quiet danchi in the rain",
+  "title": "Showa Apartment Night",
+  "cta": [
+   "Full version",
+   "on YouTube"
+  ],
+  "ctaSmall": "link in the first comment"
+ },
+ "_music": "jazz 1",
+ "rain": [
+  {
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 941,
+    "h": 1400
+   },
+   "count": 110,
+   "lean": 0.2,
+   "drops": 10,
+   "opacity": 0.55
+  }
+ ],
+ "candles": {
+  "points": [
+   [
+    148,
+    745
+   ],
+   [
+    545,
+    435
+   ],
+   [
+    545,
+    720
+   ],
+   [
+    115,
+    1180
+   ],
+   [
+    525,
+    1005
+   ]
+  ],
+  "size": 110,
+  "base": 0.25,
+  "flick": 0.45,
+  "mid": 0,
+  "onset": 0
+ },
+ "lightning": {
+  "events": {
+   "every": 24,
+   "first": 11,
+   "seed": "ap"
+  },
+  "strength": 0.3
+ }
+}

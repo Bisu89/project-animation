@@ -1,0 +1,241 @@
+{
+ "id": "t80-kissaten",
+ "assets": "t80-kissaten",
+ "content": "t80-kissaten",
+ "master": {
+  "w": 941,
+  "h": 1672
+ },
+ "view": {
+  "out": [
+   1080,
+   1920
+  ]
+ },
+ "camera": {
+  "zoom": {
+   "mode": "linear",
+   "from": 1,
+   "to": 1.1
+  },
+  "origin": {
+   "mode": "linear",
+   "from": [
+    470,
+    850
+   ],
+   "to": [
+    450,
+    950
+   ]
+  },
+  "fade": [
+   20,
+   45
+  ]
+ },
+ "vignette": {
+  "at": [
+   50,
+   55
+  ],
+  "from": 55,
+  "alpha": 0.5
+ },
+ "creature": {
+  "breath": {
+   "origin": [
+    300,
+    1330
+   ],
+   "body": {
+    "x": 0,
+    "y": 540,
+    "w": 940,
+    "h": 800
+   },
+   "amp": 0.005,
+   "speed": 1.55
+  },
+  "patches": [
+   {
+    "enabled": false,
+    "id": "blink",
+    "src": "blink.png",
+    "from": "face_blink.png",
+    "crop": "face_crop.png",
+    "box": {
+     "x": 200,
+     "y": 500,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 6,
+     "first": 2,
+     "seed": "blink"
+    },
+    "env": [
+     0.05,
+     0.08,
+     0.07
+    ],
+    "prompt": "CHANGE ONLY her eyes: both eyes fully CLOSED, drawn as soft curved lash lines (a relaxed blink). Eyebrows, blush, mouth and everything else unchanged."
+   },
+   {
+    "enabled": false,
+    "id": "smile",
+    "src": "smile.png",
+    "from": "face_smile.png",
+    "crop": "face_crop.png",
+    "box": {
+     "x": 200,
+     "y": 500,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 24,
+     "first": 9,
+     "seed": "smile"
+    },
+    "env": [
+     0.8,
+     2.5,
+     0.8
+    ],
+    "prompt": "CHANGE ONLY her expression: eyes gently closed and a small content smile, as if she is enjoying the song. Everything else unchanged."
+   },
+   {
+    "enabled": false,
+    "id": "cat_ear",
+    "src": "cat_ear.png",
+    "from": "cat_ear.png",
+    "crop": "cat_crop.png",
+    "box": {
+     "x": 400,
+     "y": 1130,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 34,
+     "first": 7,
+     "seed": "cat_ear"
+    },
+    "env": [
+     0.2,
+     0.35,
+     0.3
+    ],
+    "prompt": "CHANGE ONLY the cat's near ear: flicked slightly backward about 12 degrees, as in a twitch. Eyes stay closed."
+   }
+  ]
+ },
+ "reel": {
+  "kicker": "coffee, rain and a quiet street",
+  "title": "Kissaten After Midnight",
+  "cta": [
+   "Full version",
+   "on YouTube"
+  ],
+  "ctaSmall": "link in the first comment"
+ },
+ "_music": "jazz 9",
+ "rain": [
+  {
+   "rect": {
+    "x": 685,
+    "y": 230,
+    "w": 256,
+    "h": 650
+   },
+   "count": 90,
+   "lean": 0.2,
+   "drops": 10,
+   "opacity": 0.55
+  },
+  {
+   "rect": {
+    "x": 460,
+    "y": 330,
+    "w": 130,
+    "h": 190
+   },
+   "count": 40,
+   "lean": 0.2,
+   "drops": 10,
+   "opacity": 0.55
+  }
+ ],
+ "steam": {
+  "x": 500,
+  "y": 1165,
+  "rise": 110,
+  "spread": 14.0,
+  "count": 40,
+  "life": 170,
+  "r0": 7.0,
+  "rGrow": 18.0,
+  "opacity": 0.45,
+  "amp0": 5.0,
+  "ampGrow": 22.0,
+  "drift": 16.0,
+  "displace": 20.0
+ },
+ "candles": {
+  "points": [
+   [
+    535,
+    265
+   ],
+   [
+    115,
+    420
+   ],
+   [
+    75,
+    530
+   ],
+   [
+    45,
+    720
+   ],
+   [
+    775,
+    365
+   ]
+  ],
+  "size": 110,
+  "base": 0.25,
+  "flick": 0.45,
+  "mid": 0,
+  "onset": 0
+ },
+ "neon": [
+  {
+   "box": {
+    "x": 0,
+    "y": 600,
+    "w": 110,
+    "h": 260
+   },
+   "color": "rgba(255,150,40,0.9)",
+   "driver": "bass",
+   "base": 0.12,
+   "amp": 0.4
+  },
+  {
+   "box": {
+    "x": 850,
+    "y": 290,
+    "w": 90,
+    "h": 320
+   },
+   "color": "rgba(255,60,150,0.9)",
+   "driver": "mid",
+   "base": 0.12,
+   "amp": 0.45
+  }
+ ]
+}

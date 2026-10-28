@@ -6,6 +6,12 @@ export type Box = { x: number; y: number; w: number; h: number };
 export type SnowCfg = { rect: Box; count: number; shape?: "rect" | "ellipse" };
 /** rain seen through a window: slanted streaks falling fast, plus slow drops that slide down the glass */
 export type RainCfg = { rect: Box; count: number; shape?: "rect" | "ellipse"; /** sideways px per px fallen, 0.2 = wind from the right */ lean?: number; length?: number; speed?: number; opacity?: number; /** drops sliding down the glass */ drops?: number };
+/** a coloured glow (neon tube, CRT screen, jukebox) whose brightness follows one band of the music; needs the music's features.json */
+export type NeonCfg = { box: Box; color: string; driver: "bass" | "mid" | "high" | "onset"; base: number; amp: number; shape?: "ellipse" | "rect" };
+/** lightning: short double flashes of the whole picture (use with rain) */
+export type LightningCfg = { events: Events; strength?: number };
+/** a poster opening over the first seconds of the video: dark sepia scene + headline, an RGB glitch, then the poster slams in and dissolves */
+export type IntroCfg = { seconds?: number; eyebrow: string; headline: string; subline: string; poster: string; tags: [string, string]; footer: string };
 export type SteamCfg = { x: number; y: number; rise: number; spread: number; count: number; life: number; r0: number; rGrow: number; opacity: number; amp0: number; ampGrow: number; drift: number; displace: number };
 
 export type Events = { times: number[] } | { every: number; first: number; seed: string; jitter?: number };
@@ -52,6 +58,9 @@ export type CozyConfig = {
   snow?: SnowCfg | SnowCfg[];
   steam?: SteamCfg | SteamCfg[];
   rain?: RainCfg | RainCfg[];
+  neon?: NeonCfg[];
+  lightning?: LightningCfg;
+  intro?: IntroCfg;
 
   lights?: {
     size: number;

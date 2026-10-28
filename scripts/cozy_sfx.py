@@ -45,3 +45,27 @@ out = os.path.join(L.public_dir(cfg), "ambience.wav")
 os.makedirs(os.path.dirname(out), exist_ok=True)
 wavfile.write(out, SR, (np.stack([Lc, Rc], 1) * 32767).astype(np.int16))
 print("ok", out, "(%s s, %s)" % (T, "fire + wind" if has_fire else "wind"))
+
+# poster intro stingers (only when the config has `intro`): soft whoosh into the slam, then a low thud, timed like introTimes() in CozyScene.tsx
+if cfg.get("intro"):
+    d = float(cfg["intro"].get("seconds", 6))
+    g0, p0 = d * 0.4, d * 0.53
+    m_ = np.zeros(int(SR * (d + 1.5)))
+    tt = np.arange(len(m_)) / SR
+    sel = (tt >= g0 - 0.3) & (tt < p0)
+    x = (tt[sel] - (g0 - 0.3)) / (p0 - g0 + 0.3)
+    noise = rng.standard_normal(sel.sum())
+    alpha = np.clip(2 * np.pi * (200 + 900 * np.sin(np.pi * x * 0.5)) / SR, 0.01, 0.9)
+    y_, w_ = 0.0, np.zeros_like(noise)
+    for k_ in range(len(noise)):
+        y_ += alpha[k_] * (noise[k_] - y_)
+        w_[k_] = y_
+    m_[sel] += w_ * np.sin(np.pi * x * 0.5) ** 2 * 0.9
+    i0 = int(p0 * SR)
+    n2 = int(1.4 * SR)
+    t2 = np.arange(n2) / SR
+    m_[i0:i0 + n2] += np.sin(2 * np.pi * (48 + 60 * np.exp(-t2 * 14)) * t2) * np.exp(-t2 * 3.2) * 0.9
+    m_ = np.tanh(m_ * 1.1) * 0.6
+    d2 = int(0.0009 * SR)
+    wavfile.write(os.path.join(os.path.dirname(out), "intro_sfx.wav"), SR, (np.stack([m_, np.concatenate([np.zeros(d2), m_[:-d2]])], 1) * 32767).astype(np.int16))
+    print("ok intro_sfx.wav")

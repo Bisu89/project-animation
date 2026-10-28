@@ -51,7 +51,6 @@
   ],
   "ctaSmall": "link in the first comment"
  },
- "_music": "Window Prayer",
  "rain": [
   {
    "rect": {
@@ -97,5 +96,32 @@
   "flick": 0.4,
   "mid": 0,
   "onset": 0
- }
+ },
+ "_music": "jazz 10",
+ "neon": [
+  {
+   "box": {
+    "x": 700,
+    "y": 980,
+    "w": 180,
+    "h": 200
+   },
+   "color": "rgba(40,220,255,0.9)",
+   "driver": "mid",
+   "base": 0.1,
+   "amp": 0.45
+  },
+  {
+   "box": {
+    "x": 650,
+    "y": 1330,
+    "w": 260,
+    "h": 260
+   },
+   "color": "rgba(255,60,150,0.9)",
+   "driver": "bass",
+   "base": 0.08,
+   "amp": 0.35
+  }
+ ]
 }

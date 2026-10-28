@@ -1,0 +1,113 @@
+{
+ "id": "w90-konbini",
+ "assets": "w90-konbini",
+ "content": "w90-konbini",
+ "master": {
+  "w": 941,
+  "h": 1672
+ },
+ "view": {
+  "out": [
+   1080,
+   1920
+  ]
+ },
+ "camera": {
+  "zoom": {
+   "mode": "linear",
+   "from": 1,
+   "to": 1.08
+  },
+  "origin": {
+   "mode": "linear",
+   "from": [
+    470,
+    980
+   ],
+   "to": [
+    470,
+    1050
+   ]
+  },
+  "fade": [
+   20,
+   45
+  ]
+ },
+ "vignette": {
+  "at": [
+   50,
+   55
+  ],
+  "from": 55,
+  "alpha": 0.5
+ },
+ "reel": {
+  "kicker": "the corner shop never closes",
+  "title": "Konbini in the Rain",
+  "cta": [
+   "Full version",
+   "on YouTube"
+  ],
+  "ctaSmall": "link in the first comment"
+ },
+ "_music": "jazz 7",
+ "rain": [
+  {
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 941,
+    "h": 1300
+   },
+   "count": 110,
+   "lean": 0.2,
+   "drops": 10,
+   "opacity": 0.55
+  }
+ ],
+ "steam": {
+  "x": 575,
+  "y": 1075,
+  "rise": 50,
+  "spread": 5.6000000000000005,
+  "count": 40,
+  "life": 170,
+  "r0": 2.8000000000000003,
+  "rGrow": 7.2,
+  "opacity": 0.45,
+  "amp0": 2.0,
+  "ampGrow": 8.8,
+  "drift": 6.4,
+  "displace": 8.0
+ },
+ "candles": {
+  "points": [
+   [
+    105,
+    585
+   ],
+   [
+    80,
+    820
+   ],
+   [
+    515,
+    825
+   ],
+   [
+    695,
+    830
+   ],
+   [
+    200,
+    790
+   ]
+  ],
+  "size": 100,
+  "base": 0.25,
+  "flick": 0.45,
+  "mid": 0,
+  "onset": 0
+ }
+}

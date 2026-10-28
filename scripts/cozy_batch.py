@@ -25,6 +25,9 @@ for sid in ids:
     m = cfg.get("_music") or "Window Prayer"
     src = m if os.path.exists(m) else os.path.join(AUDIO, m + ".mp3")
     shutil.copyfile(src, os.path.join(pub, "music.mp3"))
+    # per-frame music features (neon / intro / reacting lights read <assets>/features.json)
+    if cfg.get("neon") or cfg.get("intro") or (cfg.get("lights") or {}).get("react", 0) > 0:
+        subprocess.run([py, os.path.join(L.ROOT, "scripts", "smoke_features.py"), os.path.join(pub, "music.mp3"), os.path.join(pub, "features.json")], check=True, stdout=subprocess.DEVNULL)
     dst = os.path.join(out, cfg["assets"])
     shutil.rmtree(dst, ignore_errors=True)
     shutil.copytree(pub, dst)

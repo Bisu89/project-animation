@@ -1,7 +1,7 @@
-import React from "react";
-import { AbsoluteFill, Audio, interpolate, random, staticFile, useCurrentFrame } from "remotion";
+import React, { useEffect, useState } from "react";
+import { AbsoluteFill, Audio, continueRender, delayRender, interpolate, random, staticFile, useCurrentFrame } from "remotion";
 import { loadFont } from "@remotion/google-fonts/PlayfairDisplay";
-import type { Box, CozyConfig, Events, Features, RainCfg, SnowCfg, SteamCfg } from "./types";
+import type { Box, CozyConfig, Events, Features, IntroCfg, LightningCfg, NeonCfg, RainCfg, SnowCfg, SteamCfg } from "./types";
 
 const { fontFamily: SERIF } = loadFont("normal", { weights: ["700", "900"], subsets: ["latin"] });
 const { fontFamily: SERIF_I } = loadFont("italic", { weights: ["400"], subsets: ["latin"] });
@@ -117,6 +117,108 @@ const band = (features: Features | undefined, name: keyof Features, f: number) =
   return a ? a[Math.max(0, Math.min(a.length - 1, Math.round(f)))] ?? 0 : 0;
 };
 
+const Neon: React.FC<{ f: number; cfg: NeonCfg; features?: Features; i: number }> = ({ f, cfg, features, i }) => (
+  <div
+    style={{
+      position: "absolute", left: cfg.box.x, top: cfg.box.y, width: cfg.box.w, height: cfg.box.h, mixBlendMode: "screen",
+      borderRadius: cfg.shape === "rect" ? 4 : "50%",
+      opacity: Math.min(1, cfg.base + cfg.amp * band(features, cfg.driver, f) + 0.04 * Math.sin(f * 0.3 + i * 2)),
+      background: cfg.shape === "rect" ? cfg.color : `radial-gradient(${cfg.color} 0%, transparent 70%)`,
+      filter: cfg.shape === "rect" ? "blur(10px)" : undefined,
+    }}
+  />
+);
+
+// lightning: a double flash (a strong hit, then a weaker echo) of the whole picture
+const Lightning: React.FC<{ f: number; cfg: LightningCfg; seconds: number }> = ({ f, cfg, seconds }) => {
+  const flash = eventTimes(cfg.events, seconds).reduce((m, t0) => Math.max(m, pulse(f, t0, 0.03, 0.05, 0.14), 0.6 * pulse(f, t0 + 0.25, 0.03, 0.04, 0.2)), 0);
+  return flash <= 0.001 ? null : <div style={{ position: "absolute", inset: 0, background: "rgb(190,210,255)", mixBlendMode: "screen", opacity: (cfg.strength ?? 0.35) * flash }} />;
+};
+
+const ramp = (t: number, a: number, b: number) => Math.max(0, Math.min(1, (t - a) / (b - a)));
+
+const Grain: React.FC<{ f: number; w: number; h: number; amount: number }> = ({ f, w, h, amount }) => (
+  <svg width={w} height={h} style={{ position: "absolute", left: 0, top: 0, mixBlendMode: "overlay", opacity: amount, pointerEvents: "none" }}>
+    <filter id="cz-grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed={f % 6} stitchTiles="stitch" />
+      <feColorMatrix type="saturate" values="0" />
+    </filter>
+    <rect width={w} height={h} filter="url(#cz-grain)" />
+  </svg>
+);
+
+// timeline of the poster opening, in seconds from the start (d = intro.seconds)
+const introTimes = (d: number) => ({ glitchA: d * 0.4, glitchB: d * 0.52, poster: d * 0.53, fade: d - 0.9 });
+
+// look of the scene during the intro: dark and sepia, a brightness flicker while it glitches, back to normal with the poster
+const introScene = (t: number, f: number, d: number) => {
+  const T = introTimes(d);
+  if (t >= d) return { filter: undefined as string | undefined, dx: 0, scale: 1 };
+  const dark = 0.38 + 0.62 * ramp(t, T.poster, T.poster + 0.8);
+  const sepia = 0.85 * (1 - ramp(t, T.glitchB, T.poster + 0.8));
+  const glitch = t > T.glitchA && t < T.glitchB;
+  return { filter: `sepia(${sepia}) brightness(${dark * (glitch && random(`gb${f}`) > 0.6 ? 1.35 : 1)})`, dx: glitch ? (random(`gx${f}`) - 0.5) * 20 : 0, scale: 1 + 0.05 * Math.sin(Math.PI * ramp(t, T.glitchA, T.poster + 0.6)) };
+};
+
+const Intro: React.FC<{ f: number; w: number; h: number; cfg: IntroCfg; beat: number }> = ({ f, w, h, cfg, beat }) => {
+  const t = f / FPS;
+  const d = cfg.seconds ?? 6;
+  if (t > d) return null;
+  const T = introTimes(d);
+  const k = w / 1080;
+  const base: React.CSSProperties = { position: "absolute", left: 0, width: w, textAlign: "center", color: "#ffe8c2", fontFamily: SERIF, fontWeight: 700 };
+  const glow = "0 0 16px rgba(255,170,70,0.5), 0 2px 8px rgba(0,0,0,0.65)";
+  const aIn = ramp(t, 0.3, 1.2);
+  const a = aIn * (1 - ramp(t, T.glitchB, T.poster));
+  const glitching = t > T.glitchA && t < T.glitchB;
+  const jx = glitching ? (random(`jx${f}`) - 0.5) * 24 : 0;
+  const headline = (color: string, tr: string, key: string, blend?: React.CSSProperties["mixBlendMode"]) => (
+    <div key={key} style={{ position: "absolute", inset: 0, mixBlendMode: blend, transform: tr, color }}>
+      <div style={{ ...base, color, top: h * 0.2, fontFamily: SERIF_I, fontWeight: 400, fontSize: 44 * k }}>{cfg.subline}</div>
+      <div style={{ ...base, color, top: h * 0.2 + 56 * k, fontWeight: 900, fontSize: 104 * k, lineHeight: 1.05, padding: `0 ${60 * k}px`, boxSizing: "border-box" }}>{cfg.headline}</div>
+    </div>
+  );
+  const p = ramp(t, T.poster, T.poster + 0.6) * (1 - ramp(t, T.fade, d));
+  const slam = 1 + 0.12 * (1 - Math.min(1, ramp(t, T.poster, T.poster + 0.5)) ** 2);
+  const flash = t > T.poster ? Math.max(0, 0.5 * (1 - ramp(t, T.poster, T.poster + 0.4))) : 0;
+  const tag: React.CSSProperties = { ...base, width: "auto", whiteSpace: "pre-line", fontSize: 28 * k, lineHeight: 1.25, letterSpacing: 2, textShadow: glow, color: "#ffeccb" };
+  const bars = Array.from({ length: 20 }, (_, i) => 1 + Math.floor(random(`bc${i}`) * 3));
+  return (
+    <>
+      <div style={{ position: "absolute", inset: 0, opacity: a }}>
+        <div style={{ position: "absolute", inset: 0, background: "radial-gradient(ellipse at 50% 50%, rgba(8,3,2,0.25) 40%, rgba(8,3,2,0.8) 100%)" }} />
+        <div style={{ position: "absolute", inset: 18 * k, border: "2px solid rgba(255,232,194,0.35)", borderRadius: 10 }} />
+        <div style={{ ...base, top: h * 0.1, fontSize: 24 * k, letterSpacing: 9 * k }}>{cfg.eyebrow}</div>
+        <div style={{ position: "absolute", inset: 0, textShadow: glow }}>
+          {glitching && headline("#ff2d6f", `translate(${jx - 10 * k}px, 2px)`, "r", "screen")}
+          {glitching && headline("#16e8ff", `translate(${jx + 10 * k}px, -2px)`, "c", "screen")}
+          {headline("#ffe8c2", `translate(${jx}px, ${(1 - aIn) * 14}px)`, "m")}
+        </div>
+      </div>
+      <div style={{ position: "absolute", inset: 0, opacity: p }}>
+        <div style={{ position: "absolute", inset: 0, background: "linear-gradient(rgba(6,2,2,0.6) 0%, rgba(6,2,2,0.1) 40%, rgba(6,2,2,0.1) 65%, rgba(6,2,2,0.65) 100%)" }} />
+        <div style={{ ...base, top: h * 0.11, fontSize: 24 * k, letterSpacing: 8 * k, textShadow: glow }}>{cfg.eyebrow}</div>
+        <div style={{ ...base, top: h * 0.14, fontWeight: 900, fontSize: 190 * k, lineHeight: 1, letterSpacing: 2, color: "#fdebc8", textShadow: `0 0 ${30 + 34 * beat}px rgba(255,160,60,${0.6 + 0.3 * beat}), 0 4px 14px rgba(0,0,0,0.5)`, transform: `scale(${slam})`, transformOrigin: "50% 40%" }}>{cfg.poster}</div>
+        <div style={{ ...tag, left: 70 * k, top: h * 0.62 }}>{cfg.tags[0]}</div>
+        <div style={{ ...tag, right: 70 * k, top: h * 0.62, textAlign: "right" }}>{cfg.tags[1]}</div>
+        <div style={{ ...base, top: h * 0.7, fontSize: 64 * k, letterSpacing: 6, opacity: 0.92, color: "#f6dcaa", textShadow: `0 0 ${24 + 26 * beat}px rgba(255,150,50,${0.55 + 0.3 * beat}), 0 3px 10px rgba(0,0,0,0.6)` }}>{cfg.footer}</div>
+        <div style={{ position: "absolute", right: 90 * k, bottom: 120 * k, width: 70 * k, height: 92 * k, background: "#f3ead6", padding: `${7 * k}px ${6 * k}px`, display: "flex", gap: 2, borderRadius: 2, boxSizing: "border-box" }}>
+          {bars.map((b, i) => <div key={i} style={{ width: b * k, background: "#1a1210" }} />)}
+        </div>
+        <svg width={w} height={h} style={{ position: "absolute", left: 0, top: 0 }}>
+          <filter id="cz-rough" x="-5%" y="-5%" width="110%" height="110%">
+            <feTurbulence type="fractalNoise" baseFrequency="0.05" numOctaves="3" seed="3" result="n" />
+            <feDisplacementMap in="SourceGraphic" in2="n" scale="9" />
+          </filter>
+          <path fillRule="evenodd" filter="url(#cz-rough)" fill="#e9dcc2" fillOpacity="0.92" d={`M0 0H${w}V${h}H0Z M${26 * k} ${26 * k}V${h - 26 * k}H${w - 26 * k}V${26 * k}Z`} />
+        </svg>
+      </div>
+      <Grain f={f} w={w} h={h} amount={Math.max(0, 0.5 * (1 - ramp(t, T.poster + 0.8, d)))} />
+      {flash > 0 && <div style={{ position: "absolute", inset: 0, background: `rgba(255,236,200,${flash})` }} />}
+    </>
+  );
+};
+
 const Lights: React.FC<{ f: number; cfg: NonNullable<CozyConfig["lights"]>; features?: Features }> = ({ f, cfg, features }) => {
   const pts: [number, number][] = [];
   cfg.regions.forEach((r) => {
@@ -215,9 +317,9 @@ const GLOW = {
 
 // Reels overlay: a short title at the start and a "full video on YouTube" card at the end. Kept inside the safe area
 // (Reels UI covers roughly the top 150 px and the bottom 280 px of a 1080 x 1920 frame).
-const ReelOverlay: React.FC<{ f: number; total: number; cfg: NonNullable<CozyConfig["reel"]> }> = ({ f, total, cfg }) => {
-  const t = f / FPS;
-  const end = total / FPS;
+const ReelOverlay: React.FC<{ f: number; total: number; cfg: NonNullable<CozyConfig["reel"]>; startAt?: number }> = ({ f, total, cfg, startAt = 0 }) => {
+  const t = f / FPS - startAt; // the title waits for the poster intro to end
+  const end = total / FPS - startAt;
   const inOut = (a: number, b: number, c: number, d: number) => interpolate(t, [a, b, c, d], [0, 1, 1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   const glow = "0 0 18px rgba(255,170,70,0.55), 0 2px 10px rgba(0,0,0,0.7)";
   const base: React.CSSProperties = { position: "absolute", left: 0, width: 1080, textAlign: "center", color: "#ffe8c2", textShadow: glow };
@@ -240,8 +342,21 @@ const ReelOverlay: React.FC<{ f: number; total: number; cfg: NonNullable<CozyCon
   );
 };
 
-export const CozyScene: React.FC<{ config: CozyConfig; features?: Features; total: number; reel?: boolean }> = ({ config: c, features, total, reel = false }) => {
+export const CozyScene: React.FC<{ config: CozyConfig; features?: Features; total: number; reel?: boolean }> = ({ config: c, features: featuresProp, total, reel = false }) => {
   const f = useCurrentFrame();
+  // the music's per-frame envelopes: given by the registry, or read from <assets>/features.json (scripts/cozy_batch.py writes it)
+  const needsFeatures = !!c.neon?.length || (c.lights?.react ?? 0) > 0 || (c.candles?.mid ?? 0) > 0 || (c.candles?.onset ?? 0) > 0 || !!c.intro;
+  const [loaded, setLoaded] = useState<Features | undefined>(undefined);
+  useEffect(() => {
+    if (featuresProp || !needsFeatures) return;
+    const h = delayRender("features");
+    fetch(staticFile(`${c.assets}/features.json`))
+      .then((r) => r.json())
+      .then((j) => setLoaded(j))
+      .catch(() => undefined)
+      .finally(() => continueRender(h));
+  }, []);
+  const features = featuresProp ?? loaded;
   const t = f / FPS;
   const seconds = total / FPS;
   const crop = c.view.crop ?? { x: 0, y: 0, w: c.master.w, h: c.master.h };
@@ -265,10 +380,13 @@ export const CozyScene: React.FC<{ config: CozyConfig; features?: Features; tota
   const br = c.creature?.breath;
   const breath = br ? 1 + br.amp * Math.sin(t * br.speed) : 1;
   const vig = c.vignette;
+  const intro = c.intro;
+  const introLook = intro ? introScene(t, f, intro.seconds ?? 6) : undefined;
 
   return (
     <AbsoluteFill style={{ background: "#120a08", overflow: "hidden" }}>
       {c.audio?.ambience && <Audio src={staticFile(asset(c.audio.ambience.file))} volume={c.audio.ambience.volume} />}
+      {intro && <Audio src={staticFile(asset("intro_sfx.wav"))} volume={0.7} />}
       {c.audio?.music && (
         <Audio
           src={staticFile(asset(c.audio.music.file))}
@@ -277,7 +395,7 @@ export const CozyScene: React.FC<{ config: CozyConfig; features?: Features; tota
       )}
       <div style={{ position: "absolute", left: (outW - crop.w * S) / 2, top: (outH - crop.h * S) / 2, width: crop.w, height: crop.h, overflow: "hidden", transformOrigin: "0 0", transform: `scale(${S})` }}>
         <div style={{ position: "absolute", left: -crop.x, top: -crop.y, width: c.master.w, height: c.master.h }}>
-          <div style={{ position: "absolute", inset: 0, transformOrigin: `${origin[0]}px ${origin[1]}px`, transform: `scale(${k})`, opacity: fade }}>
+          <div style={{ position: "absolute", inset: 0, transformOrigin: `${origin[0]}px ${origin[1]}px`, transform: `translateX(${introLook?.dx ?? 0}px) scale(${k * (introLook?.scale ?? 1)})`, opacity: fade, filter: introLook?.filter }}>
             <img src={SRC} width={c.master.w} height={c.master.h} style={{ position: "absolute", left: 0, top: 0 }} />
 
             {c.fire && c.fire.enabled !== false && c.fire.plate && <Patch box={c.fire.plate.box} src={asset(c.fire.plate.src)} opacity={1} />}
@@ -298,6 +416,7 @@ export const CozyScene: React.FC<{ config: CozyConfig; features?: Features; tota
             {asList(c.snow).map((sn, i) => <Snow key={i} f={f} cfg={sn} />)}
             {asList(c.rain).map((rn, i) => <Rain key={i} f={f} cfg={rn} />)}
             {asList(c.steam).map((st, i) => <Steam key={i} f={f} cfg={st} w={c.master.w} h={c.master.h} />)}
+            {c.neon?.map((n, i) => <Neon key={i} i={i} f={f} cfg={n} features={features} />)}
             {c.lights && <Lights f={f} cfg={c.lights} features={features} />}
             {c.candles &&
               c.candles.points.map(([x, y], i) => (
@@ -307,6 +426,8 @@ export const CozyScene: React.FC<{ config: CozyConfig; features?: Features; tota
                 />
               ))}
 
+            {c.lightning && <Lightning f={f} cfg={c.lightning} seconds={seconds} />}
+
             {/* firelight: breathes over the floor, the creature and the nearby wall */}
             {c.glows?.map((g, i) => (
               <div key={i} style={{ position: "absolute", left: g.box.x, top: g.box.y, width: g.box.w, height: g.box.h, borderRadius: GLOW[g.kind].shape, mixBlendMode: GLOW[g.kind].blend, opacity: g.base + g.amp * (g.driver === "fire" ? fire : fire2), backgroundImage: GLOW[g.kind].bg }} />
@@ -315,7 +436,8 @@ export const CozyScene: React.FC<{ config: CozyConfig; features?: Features; tota
         </div>
         {vig && <div style={{ position: "absolute", inset: 0, background: `radial-gradient(ellipse at ${vig.at[0]}% ${vig.at[1]}%, rgba(0,0,0,0) ${vig.from}%, rgba(8,3,2,${vig.alpha}) 100%)`, pointerEvents: "none" }} />}
       </div>
-      {reel && c.reel && <ReelOverlay f={f} total={total} cfg={c.reel} />}
+      {intro && <Intro f={f} w={outW} h={outH} cfg={intro} beat={band(features, "bass", f)} />}
+      {reel && c.reel && <ReelOverlay f={f} total={total} cfg={c.reel} startAt={intro ? (intro.seconds ?? 6) : 0} />}
     </AbsoluteFill>
   );
 };

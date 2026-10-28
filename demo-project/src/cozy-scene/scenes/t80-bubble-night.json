@@ -141,7 +141,6 @@
   ],
   "ctaSmall": "link in the first comment"
  },
- "_music": "Window Prayer",
  "rain": [
   {
    "rect": {
@@ -172,16 +171,16 @@
   "x": 545,
   "y": 868,
   "rise": 110,
-  "spread": 14,
+  "spread": 14.0,
   "count": 40,
   "life": 170,
-  "r0": 7,
-  "rGrow": 18,
+  "r0": 7.0,
+  "rGrow": 18.0,
   "opacity": 0.45,
-  "amp0": 5,
-  "ampGrow": 22,
-  "drift": 16,
-  "displace": 20
+  "amp0": 5.0,
+  "ampGrow": 22.0,
+  "drift": 16.0,
+  "displace": 20.0
  },
  "candles": {
   "points": [
@@ -199,5 +198,76 @@
   "flick": 0.4,
   "mid": 0,
   "onset": 0
+ },
+ "_music": "Locket Rainfall",
+ "neon": [
+  {
+   "box": {
+    "x": 340,
+    "y": 340,
+    "w": 80,
+    "h": 200
+   },
+   "color": "rgba(40,220,255,0.9)",
+   "driver": "mid",
+   "base": 0.1,
+   "amp": 0.5
+  },
+  {
+   "box": {
+    "x": -60,
+    "y": 300,
+    "w": 400,
+    "h": 500
+   },
+   "color": "rgba(255,60,150,0.9)",
+   "driver": "bass",
+   "base": 0.08,
+   "amp": 0.3
+  },
+  {
+   "box": {
+    "x": 790,
+    "y": 790,
+    "w": 150,
+    "h": 150
+   },
+   "color": "rgba(120,190,255,0.9)",
+   "driver": "onset",
+   "base": 0.15,
+   "amp": 0.5
+  },
+  {
+   "box": {
+    "x": 520,
+    "y": 560,
+    "w": 90,
+    "h": 130
+   },
+   "color": "rgba(255,60,150,0.9)",
+   "driver": "high",
+   "base": 0.1,
+   "amp": 0.4
+  }
+ ],
+ "lightning": {
+  "events": {
+   "every": 16,
+   "first": 9,
+   "seed": "lt"
+  },
+  "strength": 0.3
+ },
+ "intro": {
+  "seconds": 6,
+  "eyebrow": "TOKYO LO-FI  ·  1985",
+  "subline": "Lost in the warmth.",
+  "headline": "Rainy Tokyo Night",
+  "poster": "TOKYO",
+  "tags": [
+   "RAIN ON THE GLASS,\nI NEED THIS.",
+   "LO-FI JAZZ\nSLEEPY CAT VIBE"
+  ],
+  "footer": "LO-FI JAZZ"
  }
 }

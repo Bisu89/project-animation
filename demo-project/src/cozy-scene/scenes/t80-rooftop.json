@@ -1,0 +1,215 @@
+{
+ "id": "t80-rooftop",
+ "assets": "t80-rooftop",
+ "content": "t80-rooftop",
+ "master": {
+  "w": 941,
+  "h": 1672
+ },
+ "view": {
+  "out": [
+   1080,
+   1920
+  ]
+ },
+ "camera": {
+  "zoom": {
+   "mode": "linear",
+   "from": 1,
+   "to": 1.1
+  },
+  "origin": {
+   "mode": "linear",
+   "from": [
+    470,
+    900
+   ],
+   "to": [
+    450,
+    1000
+   ]
+  },
+  "fade": [
+   20,
+   45
+  ]
+ },
+ "vignette": {
+  "at": [
+   50,
+   55
+  ],
+  "from": 55,
+  "alpha": 0.5
+ },
+ "creature": {
+  "breath": {
+   "origin": [
+    300,
+    1330
+   ],
+   "body": {
+    "x": 0,
+    "y": 540,
+    "w": 940,
+    "h": 950
+   },
+   "amp": 0.005,
+   "speed": 1.55
+  },
+  "patches": [
+   {
+    "enabled": false,
+    "id": "blink",
+    "src": "blink.png",
+    "from": "face_blink.png",
+    "crop": "face_crop.png",
+    "box": {
+     "x": 200,
+     "y": 500,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 6,
+     "first": 2,
+     "seed": "blink"
+    },
+    "env": [
+     0.05,
+     0.08,
+     0.07
+    ],
+    "prompt": "CHANGE ONLY her eyes: both eyes fully CLOSED, drawn as soft curved lash lines (a relaxed blink). Eyebrows, blush, mouth and everything else unchanged."
+   },
+   {
+    "enabled": false,
+    "id": "smile",
+    "src": "smile.png",
+    "from": "face_smile.png",
+    "crop": "face_crop.png",
+    "box": {
+     "x": 200,
+     "y": 500,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 24,
+     "first": 9,
+     "seed": "smile"
+    },
+    "env": [
+     0.8,
+     2.5,
+     0.8
+    ],
+    "prompt": "CHANGE ONLY her expression: eyes gently closed and a small content smile, as if she is enjoying the song. Everything else unchanged."
+   },
+   {
+    "enabled": false,
+    "id": "cat_ear",
+    "src": "cat_ear.png",
+    "from": "cat_ear.png",
+    "crop": "cat_crop.png",
+    "box": {
+     "x": 400,
+     "y": 1130,
+     "w": 450,
+     "h": 300
+    },
+    "events": {
+     "every": 34,
+     "first": 7,
+     "seed": "cat_ear"
+    },
+    "env": [
+     0.2,
+     0.35,
+     0.3
+    ],
+    "prompt": "CHANGE ONLY the cat's near ear: flicked slightly backward about 12 degrees, as in a twitch. Eyes stay closed."
+   }
+  ]
+ },
+ "reel": {
+  "kicker": "rooftop, rain and Tokyo lights",
+  "title": "Rooftop Rain",
+  "cta": [
+   "Full version",
+   "on YouTube"
+  ],
+  "ctaSmall": "link in the first comment"
+ },
+ "_music": "jazz 5",
+ "rain": [
+  {
+   "rect": {
+    "x": 560,
+    "y": 0,
+    "w": 381,
+    "h": 830
+   },
+   "count": 80,
+   "lean": 0.2,
+   "drops": 10,
+   "opacity": 0.55
+  },
+  {
+   "rect": {
+    "x": 180,
+    "y": 0,
+    "w": 380,
+    "h": 520
+   },
+   "count": 50,
+   "lean": 0.2,
+   "drops": 10,
+   "opacity": 0.55
+  }
+ ],
+ "steam": {
+  "x": 510,
+  "y": 845,
+  "rise": 110,
+  "spread": 14.0,
+  "count": 40,
+  "life": 170,
+  "r0": 7.0,
+  "rGrow": 18.0,
+  "opacity": 0.45,
+  "amp0": 5.0,
+  "ampGrow": 22.0,
+  "drift": 16.0,
+  "displace": 20.0
+ },
+ "candles": {
+  "points": [
+   [
+    105,
+    385
+   ],
+   [
+    905,
+    1000
+   ],
+   [
+    620,
+    700
+   ],
+   [
+    710,
+    730
+   ],
+   [
+    793,
+    380
+   ]
+  ],
+  "size": 100,
+  "base": 0.25,
+  "flick": 0.45,
+  "mid": 0,
+  "onset": 0
+ }
+}
