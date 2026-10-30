@@ -1,0 +1,40 @@
+{
+  "title": "Per Leg",
+  "hook": "Never answer this question 😂",
+  "lead": 1.0,
+  "gap": 0.35,
+  "tail": 0.6,
+  "lines": [
+    {
+      "who": "girl",
+      "text": "Babe... guess how much I weigh.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "rate": "-4%",
+      "pitch": "+0Hz"
+    },
+    {
+      "who": "boy",
+      "text": "Uh... forty-five kilos?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "rate": "-8%",
+      "pitch": "+0Hz",
+      "pause": 1.5
+    },
+    {
+      "who": "girl",
+      "text": "Aww! You're so sweet!",
+      "voice": "en-US-AvaMultilingualNeural",
+      "rate": "+0%",
+      "pitch": "+0Hz",
+      "pause": 0.15
+    },
+    {
+      "who": "boy",
+      "text": "...per leg.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "rate": "-6%",
+      "pitch": "+0Hz",
+      "pause": 1.0
+    }
+  ]
+}

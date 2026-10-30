@@ -67,7 +67,8 @@ export const faceAt = (t: number, ks: [number, PresetName][], blend = 0.25): Fac
   return cur;
 };
 
-export const Face: React.FC<{ x: number; y: number; r: number; hair: "husband" | "wife"; p: FaceP; talk?: number; tilt?: number; id: string }> = ({ x, y, r, hair, p, talk = 0, tilt = 0, id }) => {
+// blood 0..1: bloodshot sleepless eyes (pink whites + red veins), used by the mosquito gag
+export const Face: React.FC<{ x: number; y: number; r: number; hair: "husband" | "wife"; p: FaceP; talk?: number; tilt?: number; id: string; blood?: number; happyEyes?: boolean }> = ({ x, y, r, hair, p, talk = 0, tilt = 0, id, blood = 0, happyEyes = false }) => {
   const ex = r * 0.43;
   const ey = -r * 0.02;
   const er = r * 0.30 * p.eyeScale;
@@ -107,11 +108,24 @@ export const Face: React.FC<{ x: number; y: number; r: number; hair: "husband" |
         return (
           <g key={s}>
             {closed ? (
-              <path d={`M${cx - er},${ey} Q${cx},${ey + er * 0.55} ${cx + er},${ey}`} stroke={INK} strokeWidth={lw * 1.3} fill="none" strokeLinecap="round" />
+              happyEyes ? (
+                <path d={`M${cx - er},${ey + er * 0.25} Q${cx},${ey - er * 0.7} ${cx + er},${ey + er * 0.25}`} stroke={INK} strokeWidth={lw * 1.6} fill="none" strokeLinecap="round" />
+              ) : (
+                <path d={`M${cx - er},${ey} Q${cx},${ey + er * 0.55} ${cx + er},${ey}`} stroke={INK} strokeWidth={lw * 1.3} fill="none" strokeLinecap="round" />
+              )
             ) : (
               <>
                 <circle cx={cx} cy={ey} r={er} fill="#fff" stroke={INK} strokeWidth={lw} />
                 <g clipPath={`url(#eye-${id}-${s})`}>
+                  {blood > 0 && (
+                    <g opacity={blood}>
+                      <circle cx={cx} cy={ey} r={er} fill="#f4a3a8" />
+                      <circle cx={cx} cy={ey} r={er * 0.55} fill="#fbe3e3" />
+                      {[0.3, 1.4, 2.6, 3.7, 4.9].map((a) => (
+                        <path key={a} d={`M${cx + Math.cos(a) * er},${ey + Math.sin(a) * er} Q${cx + Math.cos(a + 0.25) * er * 0.7},${ey + Math.sin(a + 0.25) * er * 0.7} ${cx + Math.cos(a - 0.1) * er * 0.42},${ey + Math.sin(a - 0.1) * er * 0.42}`} stroke="#c8323c" strokeWidth={lw * 0.55} fill="none" strokeLinecap="round" />
+                      ))}
+                    </g>
+                  )}
                   <ellipse cx={cx + Math.max(-1, Math.min(1, p.px)) * er * 0.65} cy={ey + p.py * er * 0.35} rx={er * (p.eyeScale > 1.1 ? 0.23 : 0.28)} ry={er * (p.eyeScale > 1.1 ? 0.26 : 0.34)} fill={INK} />
                   {p.eyeOpen < 0.97 && <rect x={cx - er * 1.1} y={ey - er * 1.1} width={er * 2.2} height={2 * er * (1 - eyeOpen) + er * 0.1} fill="#f1f2f3" />}
                 </g>

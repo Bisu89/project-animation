@@ -3,6 +3,8 @@
 Last updated: 2026-10-16. Repo: `C:\Users\hoavx\Desktop\stickman-video`. Everything up to the survival work is committed and pushed
 (see section 0). The older sections below (1-8) describe the earlier sessions and are still accurate unless section 0 says otherwise.
 
+**Rule (2026-10-29): after every finished render, delete the intermediate files (test stills, contact sheets, frame dumps, draft mp4s); details in `CLAUDE.md`.**
+
 ## 0. LATEST STATE (2026-10-16) — read this section first
 
 ### Git / remotes

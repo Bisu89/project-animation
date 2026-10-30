@@ -36,6 +36,7 @@ async def main(ep, series):
     t = spec.get("lead", LEAD)
     gap = spec.get("gap", GAP)
     for i, ln in enumerate(spec["lines"]):
+        t += ln.get("pause", 0)  # extra silence before this line (room for a wordless beat)
         path = os.path.join(pub, f"voice_{i}.mp3")
         await edge_tts.Communicate(ln["text"], ln["voice"], rate=ln["rate"], pitch=ln["pitch"]).save(path)
         trimmed = path + ".t.mp3"  # cut the silence edge-tts leaves before and after the words

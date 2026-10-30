@@ -23,6 +23,13 @@ import { Video as CampDemo, DURATION as CampDemo_DURATION } from "./camp-demo/Vi
 import { Video as BetterTogether, DURATION as BetterTogether_DURATION } from "./better-together/Video";
 import { Video as ClassroomGag, DURATION as ClassroomGag_DURATION } from "./classroom-gag/Video";
 import { Video as BedroomGag, DURATION as BedroomGag_DURATION } from "./bedroom-gag/Video";
+import { Video as MosquitoGag, DURATION as MosquitoGag_DURATION, MosquitoSheet } from "./mosquito-gag/Video";
+import { Ep02 as MosquitoGagEp02, DURATION as MosquitoGagEp02_DURATION } from "./mosquito-gag/Ep02";
+import { Ep03 as MosquitoGagEp03, DURATION as MosquitoGagEp03_DURATION } from "./mosquito-gag/Ep03";
+import { Video as StickCoupleEp01, DURATION as StickCoupleEp01_DURATION } from "./stick-couple/Video";
+import { Ep02 as StickCoupleEp02, DURATION as StickCoupleEp02_DURATION } from "./stick-couple/Ep02";
+import { Ep03 as StickCoupleEp03, DURATION as StickCoupleEp03_DURATION } from "./stick-couple/Ep03";
+import { Ep04 as StickCoupleEp04, DURATION as StickCoupleEp04_DURATION } from "./stick-couple/Ep04";
 // stickman-video:imports
 
 export const RemotionRoot: React.FC = () => {
@@ -196,6 +203,14 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="BetterTogether" component={BetterTogether} durationInFrames={BetterTogether_DURATION} fps={30} width={1080} height={1920} />
       <Composition id="ClassroomGagEp01" component={ClassroomGag} durationInFrames={ClassroomGag_DURATION} fps={30} width={1080} height={1920} />
       <Composition id="BedroomGagEp01" component={BedroomGag} durationInFrames={BedroomGag_DURATION} fps={30} width={1080} height={1920} />
+      <Composition id="MosquitoGag" component={MosquitoGag} durationInFrames={MosquitoGag_DURATION} fps={30} width={1080} height={1920} />
+      <Composition id="MosquitoGagEp02" component={MosquitoGagEp02} durationInFrames={MosquitoGagEp02_DURATION} fps={30} width={1080} height={1920} />
+      <Composition id="MosquitoGagEp03" component={MosquitoGagEp03} durationInFrames={MosquitoGagEp03_DURATION} fps={30} width={1080} height={1920} />
+      <Composition id="StickCoupleEp01" component={StickCoupleEp01} durationInFrames={StickCoupleEp01_DURATION} fps={30} width={1080} height={1920} />
+      <Composition id="StickCoupleEp02" component={StickCoupleEp02} durationInFrames={StickCoupleEp02_DURATION} fps={30} width={1080} height={1920} />
+      <Composition id="StickCoupleEp03" component={StickCoupleEp03} durationInFrames={StickCoupleEp03_DURATION} fps={30} width={1080} height={1920} />
+      <Composition id="StickCoupleEp04" component={StickCoupleEp04} durationInFrames={StickCoupleEp04_DURATION} fps={30} width={1080} height={1920} />
+      <Composition id="MosquitoSheet" component={MosquitoSheet} durationInFrames={30} fps={30} width={1080} height={1920} />
     </>
   );
 };

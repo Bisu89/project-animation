@@ -1,0 +1,40 @@
+{
+  "title": "Face Down",
+  "hook": "Wait for his reason 😂",
+  "lead": 1.0,
+  "gap": 0.35,
+  "tail": 0.6,
+  "lines": [
+    {
+      "who": "girl",
+      "text": "Babe, why is your phone ALWAYS face down?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "rate": "+2%",
+      "pitch": "+0Hz"
+    },
+    {
+      "who": "girl",
+      "text": "Babe... you planned all this?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "rate": "-10%",
+      "pitch": "+0Hz",
+      "pause": 2.9
+    },
+    {
+      "who": "boy",
+      "text": "Yes. For three months.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "rate": "-12%",
+      "pitch": "+0Hz",
+      "pause": 0.3
+    },
+    {
+      "who": "boy",
+      "text": "Now act surprised.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "rate": "-6%",
+      "pitch": "+0Hz",
+      "pause": 0.5
+    }
+  ]
+}

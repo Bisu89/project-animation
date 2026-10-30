@@ -1,0 +1,59 @@
+{
+  "title": "Best I've Ever Had",
+  "hook": "Never lie about her cooking \ud83d\ude02",
+  "lead": 1.0,
+  "gap": 0.35,
+  "tail": 0.6,
+  "lines": [
+    {
+      "who": "girl",
+      "text": "I cooked for you, babe! Try it!",
+      "voice": "en-US-AvaMultilingualNeural",
+      "rate": "+2%",
+      "pitch": "+0Hz",
+      "start": 1.0,
+      "end": 3.37
+    },
+    {
+      "who": "girl",
+      "text": "Is it good?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "rate": "-6%",
+      "pitch": "+0Hz",
+      "pause": 2.0,
+      "start": 5.72,
+      "end": 6.37
+    },
+    {
+      "who": "boy",
+      "text": "Mmm! Best I've ever had!",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "rate": "-4%",
+      "pitch": "+0Hz",
+      "pause": 0.3,
+      "start": 7.02,
+      "end": 8.44
+    },
+    {
+      "who": "girl",
+      "text": "Yay! I'll get you more!",
+      "voice": "en-US-AvaMultilingualNeural",
+      "rate": "+4%",
+      "pitch": "+0Hz",
+      "pause": 0.25,
+      "start": 9.04,
+      "end": 10.66
+    },
+    {
+      "who": "girl",
+      "text": "I made a whole pot!",
+      "voice": "en-US-AvaMultilingualNeural",
+      "rate": "+0%",
+      "pitch": "+0Hz",
+      "pause": 4.1,
+      "start": 15.11,
+      "end": 16.04
+    }
+  ],
+  "total": 16.64
+}

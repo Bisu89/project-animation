@@ -1,0 +1,59 @@
+{
+  "title": "Just Hold My Hand",
+  "hook": "Wait for the scary part \ud83d\ude02",
+  "lead": 1.0,
+  "gap": 0.35,
+  "tail": 0.6,
+  "lines": [
+    {
+      "who": "boy",
+      "text": "Don't worry, babe. If you get scared... just hold my hand.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "rate": "+0%",
+      "pitch": "+0Hz",
+      "start": 1.0,
+      "end": 3.95
+    },
+    {
+      "who": "girl",
+      "text": "Okay.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "rate": "-6%",
+      "pitch": "+0Hz",
+      "pause": 0.25,
+      "start": 4.55,
+      "end": 4.97
+    },
+    {
+      "who": "boy",
+      "text": "Aaaaaaah!",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "rate": "+10%",
+      "pitch": "+25Hz",
+      "pause": 3.2,
+      "start": 8.52,
+      "end": 9.06
+    },
+    {
+      "who": "girl",
+      "text": "There, there... just hold my hand.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "rate": "-6%",
+      "pitch": "+0Hz",
+      "pause": 0.9,
+      "start": 10.31,
+      "end": 11.89
+    },
+    {
+      "who": "other",
+      "text": "Shhh!",
+      "voice": "en-US-BrianMultilingualNeural",
+      "rate": "+0%",
+      "pitch": "+0Hz",
+      "pause": 0.6,
+      "start": 12.84,
+      "end": 13.11
+    }
+  ],
+  "total": 13.71
+}
