@@ -5,7 +5,7 @@ Câu mở ghim trên cùng, thoại tiếng Anh (edge-tts) + phụ đề từng 
 Cảm hứng từ 3 reel trong `checkvideo/` (StickToons, Mr.Stick, Minimal Stick); nhân vật, nền và truyện là của mình.
 Mọi hình vẽ bằng code (SVG), không dùng ảnh GPT.
 
-## Tập 1: Face Down (composition `StickCoupleEp01`, 17,2 s)
+## Tập 1: Face Down (composition `StickCoupleEp01`, 17 s)
 | Giây | Nhịp |
 |---|---|
 | 0-1.0 | Ghế đá công viên; anh đang xem điện thoại, thấy cô nhìn thì úp điện thoại xuống đầu gối |
@@ -20,7 +20,7 @@ Mọi hình vẽ bằng code (SVG), không dùng ảnh GPT.
 
 Mốc cắt cảnh tính từ thời điểm thoại thật (hằng số `T_*` đầu `Video.tsx`).
 
-## Tập 2: Per Leg (composition `StickCoupleEp02`, file `Ep02.tsx`, 17,3 s)
+## Tập 2: Per Leg (composition `StickCoupleEp02`, file `Ep02.tsx`, 17,2 s)
 Cùng công thức câu đáp phũ như reel mẫu "He's Still Celebrating": khen trước, câu chốt lật ngược.
 | Giây | Nhịp |
 |---|---|
@@ -34,7 +34,7 @@ Cùng công thức câu đáp phũ như reel mẫu "He's Still Celebrating": khe
 | 12.9-14.8 | Cảnh rộng: anh trượt ra xa, đứng dậy, đi nhanh khỏi khung hình; cô trừng mắt |
 | 14.8-17.3 | Thẻ cười |
 
-## Tập 3: Best I've Ever Had (composition `StickCoupleEp03`, file `Ep03.tsx`, 22 s)
+## Tập 3: Best I've Ever Had (composition `StickCoupleEp03`, file `Ep03.tsx`, 20,2 s)
 Phòng ăn buổi tối (`Dining.tsx`), có chú chó dưới gầm bàn (`Dog.tsx`). Nói dối để làm cô vui, lời nói dối quay lại trả báo.
 | Giây | Nhịp |
 |---|---|
@@ -48,7 +48,7 @@ Phòng ăn buổi tối (`Dining.tsx`), có chú chó dưới gầm bàn (`Dog.t
 | 18.0-19.5 | Cận anh nhìn thẳng camera, mặt xanh, vô hồn |
 | 19.5-22 | Thẻ cười |
 
-## Tập 4: Just Hold My Hand (composition `StickCoupleEp04`, file `Ep04.tsx`, 19 s)
+## Tập 4: Just Hold My Hand (composition `StickCoupleEp04`, file `Ep04.tsx`, 16,3 s)
 Rạp phim (`Cinema.tsx`). Anh ra vẻ che chở, bị đảo vai: chính câu của anh quay lại dành cho anh.
 | Giây | Nhịp |
 |---|---|
@@ -61,6 +61,8 @@ Rạp phim (`Cinema.tsx`). Anh ra vẻ che chở, bị đảo vai: chính câu c
 | 12.2-14.4 | Cô xoa đầu anh: "There, there... just hold my hand." |
 | 15.2-16.5 | Anh gật lia lịa nắm tay cô; hàng ghế sau: "Shhh!" |
 | 16.5-19 | Thẻ cười |
+
+Bảng nhịp ghi theo giọng cũ; mốc thật hiện tại nằm trong `demo-project/src/stick-couple/epNN.json` (giọng mới nói nhanh hơn nên các nhịp dồn sớm hơn vài phần giây).
 
 ## Lệnh
 ```bash
