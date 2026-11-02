@@ -75,3 +75,10 @@ content/*/action/
 content/*/sprites/
 content/*/layers/
 content/*/crops/
+
+# Muse pipeline (content/<series>/<tập>/): ảnh gen, bản nháp, clip và QA tạo lại được từ CSV
+content/*/anh/
+content/*/video/
+content/*/*/anh/
+content/*/*/video/
+content/*/*/_v*/
