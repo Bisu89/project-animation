@@ -19,8 +19,7 @@ bàn resin, đèn, đồ trang trí.
 | `elise-model-sheet.png` | Model sheet 3 góc (trước, nghiêng, sau) |
 | `elise-truoc.png` | Chỉ góc chụp trực diện. **Dùng file này làm ảnh tham chiếu khi gen ảnh cảnh** (xem lưu ý bên dưới) |
 | `elise-ref-trang-phuc.png` | Ảnh trang phục gốc do chủ dự án gửi |
-| `elise-v2-model-sheet.png` | Bản nháp: trang điểm, làm tóc chỉn chu hơn, thêm khuyên tai và dây chuyền vàng, tư thế người mẫu |
-| `elise-v3-model-sheet.png` | **Bản nháp chờ duyệt (2026-11-02):** dáng đồng hồ cát, vòng 1 đầy đặn hơn, áo ba lỗ cổ cao, không hở hang. Chủ dự án yêu cầu "quyến rũ hơn nhưng không hở hang" |
+| `elise-v2-model-sheet.png` | **Bản chuẩn từ tập 02 trở đi (chủ dự án duyệt ngày 2026-11-02):** trang điểm, làm tóc chỉn chu hơn, khuyên tai và dây chuyền vàng, tư thế người mẫu. Dùng ảnh này làm tham chiếu nhân vật cho các tập mới. Bản v3 (dáng cong hơn, áo cổ cao) đã bị bỏ |
 
 ## Đoạn mô tả để dán vào prompt (tiếng Anh)
 
