@@ -81,4 +81,6 @@ content/*/anh/
 content/*/video/
 content/*/*/anh/
 content/*/*/video/
+content/*/*/*/anh/
+content/*/*/*/video/
 content/*/*/_v*/

@@ -92,3 +92,25 @@ mà vẫn tốn một lượt gen.
   hoặc lướt nhanh qua bước đó.
 - **Đồ dùng ở bước sau phải có sẵn từ ảnh đầu** (thùng đồ, cuộn dây). Thùng rỗng chỉ cất đi ở cú cắt thời gian.
 - **Cắt đoạn lỗi có thể làm điểm QA tụt** (mất quá trình làm), nhưng người xem thấy sạch hơn. Ở tập 03 chủ dự án chọn bản cắt.
+
+## Bài học (Elise Wild tập 01, phim dài 16:9 theo phân đoạn, 2026-11-03)
+
+- **Làm theo phân đoạn**, mỗi phân đoạn một thư mục (`p3-leu/`, `p4-nuoc/`...) có `gen-anh.csv`, `gen-video.csv`, ghép
+  ra `video/final.mp4` riêng. Duyệt nội dung từng phân đoạn trước, rồi gen.
+- **Ảnh nào QA đạt thì gửi Muse luôn** (`run --only <stt>`), không chờ đủ bộ ảnh. Ảnh dùng ảnh hỏng làm tham chiếu thì
+  chờ ảnh đó sửa xong. Mỗi lúc chỉ một lượt Muse cho một series, vì dùng chung tab chat.
+- **Ảnh đã gửi Muse mà gen lại thì đổi tên file** (`ew1-501b-...`). Trùng tên thì Muse dùng lại ảnh cũ đã nhận.
+- **Mỗi series một profile Chrome:** `muse-chat.json` của series có thể ghi `"profile"` và `"port"` riêng (Elise Wild:
+  `chrome-profile`, cổng 9334). Hai series chạy song song không giẫm lên nhau.
+- **Logic câu chuyện trước, kỹ thuật sau.** Chủ dự án bắt được những lỗi QA bỏ qua: dựng lều lá xong lại có lều bạt sẵn,
+  đậy nắp nồi trước khi lọc nước, đeo ba lô đi vào giữa lúc đang làm việc ở trại. Trước khi gen, đọc lại thứ tự cảnh như
+  người xem: đồ vật có lý do xuất hiện không, việc trước có dẫn tới việc sau không.
+- **Đời thường, không cầu kỳ.** Nhóm lửa bằng bật lửa, củi thì nhặt cành khô; không dựng cảnh "biểu diễn kỹ năng" thừa.
+- **Hình học vật dựng phải tả rõ trong prompt** (lều chữ A: cành tựa vào sào ở mặt trước và mặt sau, mái chạy dọc theo
+  sào). Không tả thì GPT vẽ hai vách chéo ở hai đầu sào.
+- **Thời tiết và đồ trên người phải liên tục**: ghi giờ và mây trong mọi prompt; ghi rõ "no backpack" / "bare arms" vì
+  Muse hay tự gắn ba lô, GPT hay thêm áo len.
+- **Muse hay kéo máy vào cận mặt** dù prompt ghi "fixed camera". Cảnh cần thấy đồ vật thì để cận đồ vật, không có mặt.
+- **Thang QA cả video viết cho reel dọc**, nên chấm thấp các đoạn giữa tập 16:9 (thiếu móc mở đầu). Dùng QA để tìm lỗi
+  cụ thể, quyết định cuối là mắt người xem.
+- **Chưa lồng giọng tạm.** Lời dẫn và chữ đè làm một lần khi có key ElevenLabs.
