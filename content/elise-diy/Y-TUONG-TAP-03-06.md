@@ -59,6 +59,9 @@ Elise mặc **váy xếp ly + crop top logo + cao gót đen**.
 | 21–28 | 6 | Elise bước ra khỏi khung, máy quay đẩy vào thành phẩm | `hq-F-sang` → `hq-G-thanh-pham` |
 
 ## Tập 06: cây thông cành gỗ mộc mạc, kiểu Bắc Âu (khoảng 30 giây)
+**Trạng thái: XONG (2026-11-04).** Chủ dự án duyệt `video/final.mp4` (19,9 giây): 6 clip có khung đầu và khung cuối,
+bỏ cảnh tối (cắm điện ban ngày), cắt đoạn thừa và đoạn đồ hiện hàng loạt, tăng tốc tối đa 1,5 lần, `ghep.py --xfade 0.3`.
+
 Theo ảnh thành phẩm `cg-G-thanh-pham.png`: 6 cành gỗ khô buộc dây đay treo từ móc đồng trên tường trắng, quấn lá thông và dây
 đèn đồng, treo quả thông, quả châu trắng đỏ, sao gỗ; băng ghế trắng bày 3 nến trụ, 2 cây gốm trắng, đèn lồng đen; cửa sổ bên trái,
 sofa xám bên phải, thảm len kem. Elise mặc **váy xếp ly + crop top logo + tất đen chấm bi, không giày**.

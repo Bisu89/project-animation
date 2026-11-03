@@ -3,6 +3,9 @@
 Last updated: 2026-10-16. Repo: `C:\Users\hoavx\Desktop\stickman-video`. Everything up to the survival work is committed and pushed
 (see section 0). The older sections below (1-8) describe the earlier sessions and are still accurate unless section 0 says otherwise.
 
+**Elise DIY series (2026-11-04): đọc `docs/elise-diy-ban-giao.md` trước** (tình trạng tập 02–06, quy trình chuẩn,
+tài khoản Muse và profile Chrome, các quy tắc chủ dự án đã chốt). Quy trình tool chung: `docs/muse-video-pipeline.md`.
+
 **Rule (2026-10-29): after every finished render, delete the intermediate files (test stills, contact sheets, frame dumps, draft mp4s); details in `CLAUDE.md`.**
 
 ## ELISE WILD tập 01 — tình trạng cuối ngày 2026-11-03 (đọc phần này trước nếu làm tiếp Elise Wild)
@@ -18,7 +21,7 @@ của bà, nhóm lửa bằng bật lửa, củi nhặt đời thường). Mỗi
 | 3 Lều chữ A | `p3-leu/` | XONG, 17 clip, `final.mp4` 2:23 (đã bỏ C33 lều bạt) |
 | 4 Nước | `p4-nuoc/` | XONG, 24 s (thứ tự: lọc qua khăn → đậy nắp → nồi/xô cạnh bếp) |
 | 5 Lửa | `p5-lua/` | XONG, 58 s (C37 dùng ảnh `ew1-501b-...`, không ba lô) |
-| 6 Trà và bữa tối (C47–C58) | `p6-bua-toi/` | 12/12 ảnh đạt; **Muse đang gen lúc kết thúc phiên**. Mai: xem `video/`, nếu thiếu clip hoặc chưa có `final.mp4` thì chạy lại `python muse_auto.py auto --dir "<...>/p6-bua-toi"` (tool bỏ qua clip đã có), rồi xem contact sheet |
+| 6 Trà và bữa tối (C47–C57) | `p6-bua-toi/` | Bản sửa 2026-11-04 (chủ dự án duyệt): nồi mì + xúc xích khô, ăn trên gốc cây cưa, bỏ gió/túi ngủ/gói súp; 3 bước dập lửa Drown · Stir · Feel có chữ đè. `final.mp4` 76 s, 11 clip, chờ chủ dự án xem. Ảnh tham chiếu Elise cho Muse dùng `ew1-605-an-sup.png` (ảnh A có dây ba lô → Muse vẽ ba lô). Lưu ý: shell của Claude không vào được muse.ai, nhưng Chrome 9334 đang mở thì tool vẫn chạy được (chạy ngoài sandbox) |
 | 7 Mưa (C59–C65), 8 Trang 1968 (C66–C71), 9 Thư (C72–C77), 10 Sáng (C78–C82) | chưa có | Nội dung đã duyệt trong KICH-BAN.md. Làm như p6: viết CSV (`gen-anh.csv` cột `stt,ten_file,ty_le,gui_kem,prompt`; `gen-video.csv` cột `stt,doan,luu_tai,khung_dau,khung_cuoi,anh_tham_chieu,prompt,am_thanh,dung_giay,che_do,cat_tu,cat_den`), xem CSV của `p6-bua-toi/` làm mẫu |
 
 Cách làm đã chốt với chủ dự án:
