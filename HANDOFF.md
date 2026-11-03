@@ -5,6 +5,38 @@ Last updated: 2026-10-16. Repo: `C:\Users\hoavx\Desktop\stickman-video`. Everyth
 
 **Rule (2026-10-29): after every finished render, delete the intermediate files (test stills, contact sheets, frame dumps, draft mp4s); details in `CLAUDE.md`.**
 
+## ELISE WILD tập 01 — tình trạng cuối ngày 2026-11-03 (đọc phần này trước nếu làm tiếp Elise Wild)
+
+Tập dài 16:9 "Page 1: The Waterfall Pool", làm hoàn toàn bằng video AI (ảnh GPT → clip Muse, ghép ffmpeg), quy trình trong
+`docs/muse-video-pipeline.md` (đọc mục "Bài học Elise Wild"). Kịch bản: `content/elise-wild/ep01-waterfall-pool/KICH-BAN.md`
+(chủ dự án đã duyệt toàn bộ mô tả mới ngày 2026-11-03: không có người bạn, không có lều bạt, mái dột thì hứng bằng cốc
+của bà, nhóm lửa bằng bật lửa, củi nhặt đời thường). Mỗi phân đoạn một thư mục, ảnh/clip không commit (CSV thì có).
+
+| Phân đoạn | Thư mục | Tình trạng |
+|---|---|---|
+| Mở đầu + 1 + 2 (0:00–2:06) | `test-p1/` | XONG, `video/final.mp4` 2:08 (clip bếp đã thay bằng `anh-ba.mp4`) |
+| 3 Lều chữ A | `p3-leu/` | XONG, 17 clip, `final.mp4` 2:23 (đã bỏ C33 lều bạt) |
+| 4 Nước | `p4-nuoc/` | XONG, 24 s (thứ tự: lọc qua khăn → đậy nắp → nồi/xô cạnh bếp) |
+| 5 Lửa | `p5-lua/` | XONG, 58 s (C37 dùng ảnh `ew1-501b-...`, không ba lô) |
+| 6 Trà và bữa tối (C47–C58) | `p6-bua-toi/` | 12/12 ảnh đạt; **Muse đang gen lúc kết thúc phiên**. Mai: xem `video/`, nếu thiếu clip hoặc chưa có `final.mp4` thì chạy lại `python muse_auto.py auto --dir "<...>/p6-bua-toi"` (tool bỏ qua clip đã có), rồi xem contact sheet |
+| 7 Mưa (C59–C65), 8 Trang 1968 (C66–C71), 9 Thư (C72–C77), 10 Sáng (C78–C82) | chưa có | Nội dung đã duyệt trong KICH-BAN.md. Làm như p6: viết CSV (`gen-anh.csv` cột `stt,ten_file,ty_le,gui_kem,prompt`; `gen-video.csv` cột `stt,doan,luu_tai,khung_dau,khung_cuoi,anh_tham_chieu,prompt,am_thanh,dung_giay,che_do,cat_tu,cat_den`), xem CSV của `p6-bua-toi/` làm mẫu |
+
+Cách làm đã chốt với chủ dự án:
+- Duyệt nội dung phân đoạn trước. Gen ảnh, **tự xem từng ảnh**; ảnh nào đạt thì gửi Muse luôn (`run --csv ... --only <stt>`),
+  không chờ đủ bộ. Ảnh tham chiếu chung (Elise `ew1-A-elise-wild.png`, lều `ew1-317-leu-xong.png`, bếp...) chép từ thư mục
+  phân đoạn trước sang `anh/` của phân đoạn mới.
+- Ảnh đã gửi Muse mà gen lại thì **đổi tên file**. Mọi prompt có Elise ghi rõ trang phục, "no backpack", "bare arms"; ghi giờ
+  và mây (tối dần, mưa 18:30, dột 20:00, đêm, sáng sương).
+- Clip lỗi đuôi thì cắt (`dung_giay`, `cat_tu`, `cat_den`) rồi `python ghep.py --csv ...`, không tốn lượt gen.
+- **Không lồng giọng tạm**; lời dẫn (giọng Elise + giọng bà) và chữ đè làm một lần khi có key ElevenLabs. Ghi chú: lúc lồng
+  tiếng, câu *"Water before any fire..."* đọc ở đầu phân đoạn 4.
+- Muse: tài khoản mới (trợ lý tên "Marley") trong `muse-auto/chrome-profile` cổng 9334, side chat trong
+  `content/elise-wild/muse-chat.json`. Elise DIY/Talent dùng `chrome-profile-2` cổng 9335 (phiên khác), **không đụng vào DIY**.
+  Mỗi series chỉ một lượt Muse một lúc. Không xóa thư mục `chrome-profile*`.
+- Lỗi nhỏ đã chấp nhận: C18 Elise lùi hơi xa, C24 áo hơi ngả xám khi cận, C37 không ngoái nhìn lều, C41 chỉ giữ 2,8 s.
+- Còn dọn khi chốt: `test-p1/video/final-longtieng.mp4` (bản lồng giọng tạm), các `*.lan1.mp4` và `video/qa/` của p6.
+- Bước cuối (sau phân đoạn 10): ghép các `final.mp4` theo thứ tự + giọng ElevenLabs + chữ đè + nhãn AI.
+
 ## 0. LATEST STATE (2026-10-16) — read this section first
 
 ### Git / remotes
