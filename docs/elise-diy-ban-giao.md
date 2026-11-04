@@ -13,6 +13,7 @@ Nhân vật và trang phục: `content/elise-diy/models/elise.md`. Ý tưởng v
 | 04 Kệ gỗ nổi | `ep04-shelf-tree/` | `final.mp4` 16,5 giây: bỏ cảnh tối, cắt hành động thừa, `--xfade 0.3`. `final-v1.mp4` là bản cũ | Chờ chủ dự án chốt, rồi dọn file nháp |
 | 05 Tháp hộp quà | `ep05-gift-tree/` | **Tạm dừng theo lệnh chủ dự án.** Xem mục 6 | Khi được làm tiếp: ghép lại `final.mp4` (đang hỏng), gửi duyệt |
 | 06 Cành gỗ | `ep06-branch-tree/` | **Xong** (`final.mp4`, 19,9 giây). Đây là tập làm theo quy trình chuẩn ở mục 3 | |
+| 09 Gốc cây thành nhà tiên | `ep09-fairy-stump/` | **Xong** (`final.mp4`, 31,6 giây, ngoài vườn, áo ba lỗ cổ tim). Ghi chép trong `NOI-DUNG.md` | |
 
 ## 2. Công cụ và tài khoản
 
@@ -56,7 +57,7 @@ Nhân vật và trang phục: `content/elise-diy/models/elise.md`. Ý tưởng v
    cũ trước khi gen lại**, nếu không Codex có thể chép lại ảnh cũ. Gửi ảnh cho chủ dự án duyệt.
 6. **Viết `gen-video.csv`.** Mẫu: `content/elise-diy/scripts/tao_gen_video_tap06.py`.
    - Mỗi clip một việc, khung đầu và khung cuối là 2 ảnh liền nhau.
-   - `anh_tham_chieu` = ảnh A và ảnh phòng (ảnh đầu).
+   - `anh_tham_chieu` = ảnh A và ảnh phòng (ảnh đầu). **Không để ảnh tham chiếu trùng `khung_dau`** (clip 1): Muse từ chối cả yêu cầu (tập 09, 2026-11-04).
    - Prompt luôn có:
      - "One continuous fixed shot, no zoom, no pan, no cuts";
      - kể tên đồ đạc trong phòng;

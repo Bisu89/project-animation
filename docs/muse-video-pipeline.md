@@ -20,9 +20,9 @@ Quy trình này dùng cho các video remake reel DIY/thủ công dạng timelaps
 5. `python muse_auto.py auto --dir <tập>`. Tool lần lượt:
    - gửi từng clip vào **side chat riêng của series** trên muse.ai, qua Chrome + Playwright (profile `chrome-profile*/`
      theo `config.json` hoặc `muse-chat.json` của series; Opera chỉ còn là tùy chọn, cần bật VPN Opera);
-   - **QA từng clip** bằng Claude: đạt; hoặc tự cắt bỏ đuôi lỗi; hoặc gen lại 1 lần kèm câu sửa (xem "Gen lại clip" bên dưới);
+   - **QA từng clip** bằng GPT (`gpt-6.1-sol`, suy luận `high`; đổi trong `config.json`): đạt; hoặc tự cắt bỏ đuôi lỗi; hoặc gen lại 1 lần kèm câu sửa (xem "Gen lại clip" bên dưới);
    - ghép bằng `ghep.py`;
-   - QA cả video bằng `qa.py`, cho GPT và Claude chấm cùng thang 7 tiêu chí.
+   - QA cả video bằng `qa.py`, GPT chấm theo thang 7 tiêu chí (Claude chỉ chấm khi bật `final_qa`).
 6. **Chủ dự án xem video.** Sửa bằng cách cắt hoặc làm chậm qua các cột `cat_tu`, `cat_den`, `dung_giay`, `che_do`
    (không tốn lượt gen), hoặc gen lại đúng clip lỗi.
 7. Chốt bản cuối thì dọn file nháp (`_v*/`, `*.lan1.mp4`, `*.truoc.mp4`, `final-v*.mp4`, `video/qa/`), chỉ giữ `video/final.mp4`.
@@ -92,6 +92,22 @@ mà vẫn tốn một lượt gen.
   hoặc lướt nhanh qua bước đó.
 - **Đồ dùng ở bước sau phải có sẵn từ ảnh đầu** (thùng đồ, cuộn dây). Thùng rỗng chỉ cất đi ở cú cắt thời gian.
 - **Cắt đoạn lỗi có thể làm điểm QA tụt** (mất quá trình làm), nhưng người xem thấy sạch hơn. Ở tập 03 chủ dự án chọn bản cắt.
+
+## Bài học (Elise DIY tập 07–11, bình và chậu hoa, 2026-11-04)
+
+- **Tốc độ khi ghép (chủ dự án quy định, 2026-11-04):** các bước làm (nhúng, quấn, vặn, đổ, sơn lót...) tua nhanh
+  kiểu timelapse (`che_do = tang_toc`, mỗi clip 10 s còn khoảng 3 s). Riêng **các cảnh trang trí hoàn thiện** (vẽ, kẻ
+  vàng, vẽ họa tiết) và **cảnh cắm hoa không tua**: `che_do = cat`, `dung_giay` bằng đúng đoạn lấy (`cat_tu`–`cat_den`),
+  cắt bỏ đoạn lặp lại hoặc đứng không ở cuối (ví dụ tập 11: kẻ vàng 0–4 s, cắm hoa 0–6 s).
+- **Cảnh kết: thành phẩm không có người, máy quay lia vòng chậm khoảng 6 s.** Clip riêng không chốt khung cuối, lấy
+  5 giây đầu (sau đó Muse bắt đầu vẽ lại nền) rồi làm chậm thành 6 s (`cat_den = 5`, `dung_giay = 6`, `tang_toc`).
+- **Ý tưởng có ảnh sản phẩm:** gen ảnh thành phẩm bằng GPT trước, ghép cạnh ảnh gốc thành ảnh so sánh, và gen một
+  storyboard nhiều khung theo nhịp để chủ dự án duyệt bằng mắt. Ảnh storyboard và so sánh xóa khi chốt tập.
+- **Sơn và kẻ vàng:** Muse hay cho màu tự loang hoặc tự hiện hàng loạt. Chỉ giữ đoạn đầu cọ đi từng nét, phần còn lại
+  để cú cắt sang cảnh sau đảm nhận.
+- **Bóng bay:** cho chọc kim nổ, không cho xẹp dần (Muse vẽ bóng phồng to khi bảo xẹp).
+- **Khi một profile Chrome đang bận** (phiên khác đang chạy Muse cùng series), đặt `muse-chat.json` riêng trong thư mục
+  tập trỏ sang profile rảnh. Tool đọc file ở thư mục tập trước file của series.
 
 ## Bài học (Elise Wild tập 01, phim dài 16:9 theo phân đoạn, 2026-11-03)
 
