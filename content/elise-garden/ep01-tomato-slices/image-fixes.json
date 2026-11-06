@@ -1,0 +1,17 @@
+{
+  "fix": {
+    "name": "eg1-C2-mam-dung-o.png",
+    "refs": [
+      "eg1-C-mam.png"
+    ],
+    "prompt": "Recreate the reference exactly. Only one correction: tomato sprouts must appear ONLY in the TWO FRONT-ROW LEFTMOST cells of the egg carton, where tomato slices were planted earlier. In each of those two cells show one or two tiny tomato cotyledon sprouts. Remove sprouts from every other cell, replacing them with the same moist soil. All other cells remain bare soil. Keep the exact egg carton cell structure, tray, table, soil tub, spoon, spray bottle, empty white plate, fence, patio, light and framing. No person, no hands, no text, no other changes. Photorealistic portrait 9:16."
+  },
+  "seed": {
+    "stt": 7,
+    "name": "eg1-D-cay-con.png",
+    "refs": [
+      "eg1-C2-mam-dung-o.png"
+    ],
+    "prompt": "Photorealistic natural gardening production still, portrait 9:16 composition, realistic natural daylight and materials. No text, labels, logos, watermark, collage, black bars or additional people. Recreate the scene reference exactly: same camera position, lens, crop, aspect ratio, setting, object positions, lighting, materials and character identity. Make only the state changes described; do not redesign the scene.  Only change the sprouts to a later seedling stage. NO PERSON. In the same planted cells are a few healthy young tomato seedlings around 8-12 cm tall with cotyledons and the first serrated true leaves. Keep visible spacing, no dense mat or giant tomato bush. Same carton outline, catch tray, objects and setting. Plants arise from soil and stay inside their own cells. No flowers or fruit. No text. IMPORTANT: keep seedlings ONLY in the TWO FRONT-ROW LEFTMOST planted cells. One healthy seedling per planted cell after thinning; every other cell stays bare growing medium. No additional seedlings elsewhere."
+  }
+}

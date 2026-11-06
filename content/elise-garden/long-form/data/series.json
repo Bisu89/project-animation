@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "elise-garden-long",
+  "title": "Elise Garden — Growing My Own Food",
+  "format": {
+    "aspect": "16:9",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "episodeTargetSeconds": [
+      600,
+      900
+    ]
+  },
+  "style": "Realistic Gardening + Cinematic Cozy Garden — American suburban backyard, space-efficient kitchen garden",
+  "language": {
+    "collaboration": "vi",
+    "audience": "en",
+    "subtitles": [
+      "en",
+      "vi"
+    ]
+  },
+  "narration": {
+    "person": "first",
+    "wordsPerEpisode": [
+      90,
+      130
+    ],
+    "voice": {
+      "service": "vibi.pro (ElevenLabs proxy)",
+      "voiceName": "Jessa",
+      "voiceId": "yj30vwTGJxSHezdAGsv9",
+      "status": "PROPOSED",
+      "note": "Cùng giọng Elise của Wild. Không lồng giọng tạm (edge-tts)."
+    }
+  },
+  "productionMethod": {
+    "keyframes": "Ảnh khung bằng GPT/Codex từ prompt trong shots.json (có thể dùng muse-auto/gpt_anh.py với media/keyframes/gen-anh.csv)",
+    "video": "Muse AI — NGƯỜI DÙNG TỰ TẠO trên web Muse: tải khung đầu (+ khung cuối) + ảnh tham chiếu, dán prompt, lưu file đúng <shotId>_<nn>.mp4. Không API, không dịch vụ video khác.",
+    "assembly": "Codex dựng timeline bằng Remotion: chỉ video Muse + chữ đè đơn giản + lời dẫn, âm thanh, nhạc; không đồ họa/hoạt hình",
+    "qa": "Codex kiểm file thiếu/sai thời lượng/sai thứ tự; người xem quyết định cuối",
+    "updated": "2026-11-06 theo WORKFLOW CORRECTION của chủ dự án"
+  },
+  "visualRules": [
+    "Mọi cảnh là video AI người thật; không ảnh tĩnh kéo dài, không slideshow.",
+    "Điện ảnh nhờ ánh sáng, bố cục, chuyển động tự nhiên, âm thanh; không hiệu ứng kỳ ảo, không slow motion liên tục.",
+    "Mỗi clip một việc, có khung đầu và (nếu cần) khung cuối; mọi chỗ nối có chuyển cảnh.",
+    "Không để AI vẽ chữ: nhãn cây và bao hạt chụp góc nghiêng/xa, chữ thật thêm lúc ghép nếu cần.",
+    "Cỡ cảnh mục tiêu: ~50% cận tay/đất/cây, ~35% trung cảnh, ~15% toàn cảnh nối không gian.",
+    "Không có hành động thừa: đứng không, đung đưa, cầm đồ chờ."
+  ],
+  "narrativeRules": [
+    "Thấy tiến độ mỗi 30–60 giây; trước/sau rõ.",
+    "Không thu hoạch tức thì, không cây lớn thần kỳ, không đạo cụ tự hiện.",
+    "Khu vườn tích lũy qua các tập: trạng thái cuối tập N là trạng thái đầu tập N+1."
+  ],
+  "disclosure": {
+    "onScreen": "AI-generated visualization — a fictional reconstruction, not real gardening footage",
+    "youtubeAlteredContent": true
+  },
+  "horticultureSources": [
+    {
+      "topic": "radish",
+      "url": "https://www.rhs.org.uk/vegetables/radishes/grow-your-own",
+      "facts": "Sow 1 cm deep, 2.5–5 cm apart, rows 15 cm apart; spring sowing; early sowings benefit from cloches.",
+      "note": "Đối chiếu thêm khuyến nông Mỹ (university extension) khi khóa vùng khí hậu."
+    },
+    {
+      "topic": "pak choi",
+      "url": "https://www.rhs.org.uk/vegetables/pak-choi/grow-your-own",
+      "facts": "Sow thinly 2 cm deep, rows at least 30 cm apart; spring is a sowing window; cold, heat or dryness can trigger bolting — protect spring seedlings with fleece/cloche.",
+      "note": "Đối chiếu thêm khuyến nông Mỹ (university extension) khi khóa vùng khí hậu."
+    },
+    {
+      "topic": "lettuce",
+      "url": "https://www.rhs.org.uk/vegetables/lettuce/grow-your-own",
+      "facts": "Sow thinly and shallow (~1 cm) outdoors in spring. CHƯA XÁC NHẬN TRỰC TIẾP trang RHS — kiểm lại trước khi khóa kịch bản.",
+      "note": "Đối chiếu thêm khuyến nông Mỹ (university extension) khi khóa vùng khí hậu."
+    }
+  ],
+  "setting": "Sân sau nhà ở khu dân cư kiểu Mỹ (fictional), đầu xuân, ôn đới. Đổi 2026-11-06 theo chủ dự án (thay 'English-cottage' trong brief)."
+}

@@ -1,0 +1,118 @@
+{
+  "tool": "built-in image_gen",
+  "identity": "eg1-A-elise-truoc.png",
+  "jobs": [
+    {
+      "stt": 2,
+      "name": "eg1-B0-dat-lat.png",
+      "refs": [
+        "eg1-A-elise-truoc.png",
+        "eg1-G-thanh-pham.png"
+      ],
+      "prompt": "Photorealistic natural gardening production still, portrait 9:16 composition, realistic natural daylight and materials. No text, labels, logos, watermark, collage, black bars or additional people. Input image 1 is identity and approved outfit; image 2 is only the garden setting/material reference, not an object to include. Elise, the exact same adult woman aged about 25 from identity reference: same face, light brown hair in a neat bun, small gold earrings and fine gold necklace; natural realistic skin texture with fine pores, no freckles, no airbrushing. EXACT outfit: woodland military-camouflage short bib overalls (olive, dark-brown and tan), vivid orange sleeveless fitted V-neck tank top, white ankle socks and plain white sneakers. Bare arms. No gloves, hat, apron, jacket, backpack or extra accessories. A fixed straight-on chest-height medium-wide camera shows her head, torso and both hands behind a weathered wooden potting table in the same garden as image 2: pale vertical wooden fence, lush shrubs, beige stone patio. On the central table is ONE brown paper egg carton, open with its lid removed, about a dozen egg cells arranged in a simple rectangle, each partly filled with dark moist seed-starting mix. The carton sits in one low dark rectangular catch tray. On the table at viewer-left is a small white plate with several thin red tomato slices with visible seeds. At viewer-right are an open small black plastic tub of soil with a metal spoon resting inside and a small translucent spray bottle with a dark green trigger, all clearly separate. Elise is starting to lower ONE tomato slice with her right hand into an empty front cell; her left hand lightly steadies the carton. Only one previously placed slice is in another cell; remaining cells show base soil. Capture her in active placement, looking at the carton. Keep table and all supplies visible; plant and large pot from image2 are NOT in this nursery shot. Warm gentle daylight, realistic pores and fabric."
+    },
+    {
+      "stt": 3,
+      "name": "eg1-B1-lat-xong.png",
+      "refs": [
+        "eg1-A-elise-truoc.png",
+        "eg1-B0-dat-lat.png"
+      ],
+      "prompt": "Photorealistic natural gardening production still, portrait 9:16 composition, realistic natural daylight and materials. No text, labels, logos, watermark, collage, black bars or additional people. First reference identity; second reference exact scene. Recreate the scene reference exactly: same camera position, lens, crop, aspect ratio, setting, object positions, lighting, materials and character identity. Make only the state changes described; do not redesign the scene.  Elise, the exact same adult woman aged about 25 from identity reference: same face, light brown hair in a neat bun, small gold earrings and fine gold necklace; natural realistic skin texture with fine pores, no freckles, no airbrushing. EXACT outfit: woodland military-camouflage short bib overalls (olive, dark-brown and tan), vivid orange sleeveless fitted V-neck tank top, white ankle socks and plain white sneakers. Bare arms. No gloves, hat, apron, jacket, backpack or extra accessories. Only advance the slice-placing task: a small group of the carton cells now has one red tomato slice lying flat on the base growing medium. Most cells remain only soil; do not fill every cell and do not pile slices. Her right fingertips are still finishing the last slice placement, left hand steadying the same carton. The slices came from the same white plate, which has fewer slices remaining. The black tub, spoon and green-trigger spray bottle remain exactly at their previous spots. Do not put the spoon or spray bottle in her hands yet. Preserve the carton shape, cells, tray and all backgrounds exactly."
+    },
+    {
+      "stt": 4,
+      "name": "eg1-B2-phu-dat.png",
+      "refs": [
+        "eg1-A-elise-truoc.png",
+        "eg1-B1-lat-xong.png"
+      ],
+      "prompt": "Photorealistic natural gardening production still, portrait 9:16 composition, realistic natural daylight and materials. No text, labels, logos, watermark, collage, black bars or additional people. First reference identity; second reference exact scene. Recreate the scene reference exactly: same camera position, lens, crop, aspect ratio, setting, object positions, lighting, materials and character identity. Make only the state changes described; do not redesign the scene.  Elise, the exact same adult woman aged about 25 from identity reference: same face, light brown hair in a neat bun, small gold earrings and fine gold necklace; natural realistic skin texture with fine pores, no freckles, no airbrushing. EXACT outfit: woodland military-camouflage short bib overalls (olive, dark-brown and tan), vivid orange sleeveless fitted V-neck tank top, white ankle socks and plain white sneakers. Bare arms. No gloves, hat, apron, jacket, backpack or extra accessories. Only advance to covering the planted cells with a thin layer of growing medium using the SAME metal spoon from the black tub. The previously visible red tomato slices are now just covered by dark fine growing medium in their existing cells, no new slices or cells. Her right hand holds the spoon just above the last planted cell, actively finishing a small sprinkle of soil; her left hand steadies the carton. The tub remains at its original position and has slightly less soil. The spray bottle and white plate are unchanged. Preserve carton, tray, table, fence, camera and light exactly. No seedlings yet."
+    },
+    {
+      "stt": 5,
+      "name": "eg1-B3-tuoi-khay.png",
+      "refs": [
+        "eg1-A-elise-truoc.png",
+        "eg1-B2-phu-dat.png"
+      ],
+      "prompt": "Photorealistic natural gardening production still, portrait 9:16 composition, realistic natural daylight and materials. No text, labels, logos, watermark, collage, black bars or additional people. First reference identity; second reference exact scene. Recreate the scene reference exactly: same camera position, lens, crop, aspect ratio, setting, object positions, lighting, materials and character identity. Make only the state changes described; do not redesign the scene.  Elise, the exact same adult woman aged about 25 from identity reference: same face, light brown hair in a neat bun, small gold earrings and fine gold necklace; natural realistic skin texture with fine pores, no freckles, no airbrushing. EXACT outfit: woodland military-camouflage short bib overalls (olive, dark-brown and tan), vivid orange sleeveless fitted V-neck tank top, white ankle socks and plain white sneakers. Bare arms. No gloves, hat, apron, jacket, backpack or extra accessories. Only advance to gently misting the soil in the paper carton. The SAME spoon has been put back in the same black tub. Elise now holds the SAME translucent green-trigger spray bottle in her right hand, nozzle aimed down into planted cells; a faint natural spray is visible and the soil looks a little darker and moist, not flooded. Her left hand steadies the tray. The bottle no longer also stands on the table: exactly one bottle. Preserve all other objects and positions. No sprouting, no added plants."
+    },
+    {
+      "stt": 6,
+      "name": "eg1-C-mam.png",
+      "refs": [
+        "eg1-B3-tuoi-khay.png"
+      ],
+      "prompt": "Photorealistic natural gardening production still, portrait 9:16 composition, realistic natural daylight and materials. No text, labels, logos, watermark, collage, black bars or additional people. Recreate the scene reference exactly: same camera position, lens, crop, aspect ratio, setting, object positions, lighting, materials and character identity. Make only the state changes described; do not redesign the scene.  A later-day nursery state with NO PERSON, no hands. Keep the SAME table view and paper carton inside the same catch tray, same fence and green shrubs. The green-trigger spray bottle has been set back at its initial place on the right, beside the black soil tub; spoon stays in tub. The plate remains at left with no fresh slices remaining. A few unevenly spaced tiny tomato sprouts with paired cotyledons emerge from some of the previously planted cells; other cells remain bare moist soil. Sprouts are small and delicate, not mature plants. This is an elapsed-time cut, not the same moment. Absolutely no text or written day counter."
+    },
+    {
+      "stt": 7,
+      "name": "eg1-E0-ha-gian.png",
+      "refs": [
+        "eg1-A-elise-truoc.png",
+        "eg1-G-thanh-pham.png"
+      ],
+      "prompt": "Photorealistic natural gardening production still, portrait 9:16 composition, realistic natural daylight and materials. No text, labels, logos, watermark, collage, black bars or additional people. First reference is Elise identity and outfit; second reference is exact terracotta pot, bamboo-frame construction and garden materials. Elise, the exact same adult woman aged about 25 from identity reference: same face, light brown hair in a neat bun, small gold earrings and fine gold necklace; natural realistic skin texture with fine pores, no freckles, no airbrushing. EXACT outfit: woodland military-camouflage short bib overalls (olive, dark-brown and tan), vivid orange sleeveless fitted V-neck tank top, white ankle socks and plain white sneakers. Bare arms. No gloves, hat, apron, jacket, backpack or extra accessories. Produce a wider camera view of the SAME patio setting from reference2, tall portrait, fixed eye-level slightly downward view, enough room to show Elise's head and the entire pot. The large weathered round terracotta pot with thick rolled rim is in the lower center foreground, filled with dark potting mix but NO PLANT; leave a planting hole in its center. The SAME simple bamboo cage from reference2 has three straight upright bamboo stakes and TWO triangular levels of connected bamboo rails with natural twine joints; it is ALREADY FULLY ASSEMBLED. Elise stands behind the pot holding this single rigid complete cage in BOTH hands at its upper side rails, actively lowering it: its three bottom tips hover just 3cm above the soil near the pot's inner rim, NOT embedded yet. No duplicate cage and no loose bamboo. Her face, orange V-neck shirt and camo overall bib are clearly visible above/through the open cage. At viewer-left beside the pot stands one small dark nursery pot containing a single healthy tomato seedling about 25cm tall with its root ball intact. At viewer-right on the ground is one small olive-green watering can with a long spout. Beige stone patio, pale natural-wood fence behind, green shrubs at left, matching soft warm daylight. Keep everything physically supported and do not block the front planting opening with bamboo rails. No plant in the big pot, no fruit."
+    },
+    {
+      "stt": 8,
+      "name": "eg1-E1-gian-xong.png",
+      "refs": [
+        "eg1-A-elise-truoc.png",
+        "eg1-E0-ha-gian.png"
+      ],
+      "prompt": "Photorealistic natural gardening production still, portrait 9:16 composition, realistic natural daylight and materials. No text, labels, logos, watermark, collage, black bars or additional people. First reference identity; second exact scene. Recreate the scene reference exactly: same camera position, lens, crop, aspect ratio, setting, object positions, lighting, materials and character identity. Make only the state changes described; do not redesign the scene.  Elise, the exact same adult woman aged about 25 from identity reference: same face, light brown hair in a neat bun, small gold earrings and fine gold necklace; natural realistic skin texture with fine pores, no freckles, no airbrushing. EXACT outfit: woodland military-camouflage short bib overalls (olive, dark-brown and tan), vivid orange sleeveless fitted V-neck tank top, white ankle socks and plain white sneakers. Bare arms. No gloves, hat, apron, jacket, backpack or extra accessories. Only finish lowering the ONE preassembled rigid bamboo cage into the pot: all three tips are now embedded several cm into the soil near its rim. Keep the cage's exact triangular geometry, rails and knots; it has moved down as ONE rigid object, not reshaped. Elise's two hands still grip its upper side rails as she finishes pressing it into position. The big pot still contains no plant; keep center planting hole. Small nursery pot with seedling at left and watering can at right stay exactly where they were. Do not pick up seedling yet."
+    },
+    {
+      "stt": 9,
+      "name": "eg1-E2-trong.png",
+      "refs": [
+        "eg1-A-elise-truoc.png",
+        "eg1-E1-gian-xong.png"
+      ],
+      "prompt": "Photorealistic natural gardening production still, portrait 9:16 composition, realistic natural daylight and materials. No text, labels, logos, watermark, collage, black bars or additional people. First reference identity; second exact scene. Recreate the scene reference exactly: same camera position, lens, crop, aspect ratio, setting, object positions, lighting, materials and character identity. Make only the state changes described; do not redesign the scene.  Elise, the exact same adult woman aged about 25 from identity reference: same face, light brown hair in a neat bun, small gold earrings and fine gold necklace; natural realistic skin texture with fine pores, no freckles, no airbrushing. EXACT outfit: woodland military-camouflage short bib overalls (olive, dark-brown and tan), vivid orange sleeveless fitted V-neck tank top, white ankle socks and plain white sneakers. Bare arms. No gloves, hat, apron, jacket, backpack or extra accessories. Advance only the transplant task: the SAME small tomato seedling from the nursery pot now sits upright in the center planting hole of the big terracotta pot, intact root ball settled below the surrounding soil. Elise is leaning forward only slightly, with both hands just finishing pressing soil around its root ball through the OPEN front of the bamboo cage. Keep her face and outfit recognizable and natural. The now EMPTY small black nursery pot rests at its same left position. Bamboo cage, pot, knots, camera, fence and lighting stay exactly unchanged. Watering can stays on ground at right. Plant has several green serrated leaves, no flowers or fruit. No extra plants."
+    },
+    {
+      "stt": 10,
+      "name": "eg1-E3-tuoi-chau.png",
+      "refs": [
+        "eg1-A-elise-truoc.png",
+        "eg1-E2-trong.png"
+      ],
+      "prompt": "Photorealistic natural gardening production still, portrait 9:16 composition, realistic natural daylight and materials. No text, labels, logos, watermark, collage, black bars or additional people. First reference identity; second exact scene. Recreate the scene reference exactly: same camera position, lens, crop, aspect ratio, setting, object positions, lighting, materials and character identity. Make only the state changes described; do not redesign the scene.  Elise, the exact same adult woman aged about 25 from identity reference: same face, light brown hair in a neat bun, small gold earrings and fine gold necklace; natural realistic skin texture with fine pores, no freckles, no airbrushing. EXACT outfit: woodland military-camouflage short bib overalls (olive, dark-brown and tan), vivid orange sleeveless fitted V-neck tank top, white ankle socks and plain white sneakers. Bare arms. No gloves, hat, apron, jacket, backpack or extra accessories. Advance only the watering task: Elise holds the SAME olive-green watering can, one hand on handle and the other supporting it, and tips its long spout gently toward the soil near the seedling root ball. A thin realistic stream lands on the soil, not on leaves. The watering can no longer sits at right; exactly one watering can. The plant has the same size and leaves as the preceding image, rooted upright, no growth during watering. All bamboo, pot, nursery pot at left, background and camera unchanged. End during useful watering, no standing idle or posing."
+    },
+    {
+      "stt": 11,
+      "name": "eg1-F1-hoa.png",
+      "refs": [
+        "eg1-G-thanh-pham.png"
+      ],
+      "prompt": "Photorealistic natural gardening production still, portrait 9:16 composition, realistic natural daylight and materials. No text, labels, logos, watermark, collage, black bars or additional people. The input is the APPROVED exact mature plant composition. Recreate the same terracotta pot, bamboo support, fence, patio and camera framing exactly, but show an earlier flowering stage of this SAME tomato plant. NO PERSON. Preserve the main stem and branching architecture and recognizable leaf positions; modestly less foliage where fruit clusters used to be. Remove every tomato fruit; instead show a few small realistic yellow five-pointed tomato flower clusters on those same fruit-bearing stems, plus small unopened flower buds. No round tomatoes, no floating flowers. Pot, soil, bamboo triangle rails, knots, lens, colors and lighting must not change. This will be a clearly labeled elapsed-time cut."
+    },
+    {
+      "stt": 12,
+      "name": "eg1-F2-qua-xanh.png",
+      "refs": [
+        "eg1-G-thanh-pham.png"
+      ],
+      "prompt": "Photorealistic natural gardening production still, portrait 9:16 composition, realistic natural daylight and materials. No text, labels, logos, watermark, collage, black bars or additional people. Recreate this exact reference photograph with ONLY ONE CHANGE: every orange and red tomato is now naturally GREEN and unripe. Keep the exact number, positions, sizes, shapes, calyxes and stems of every tomato; do not add or delete fruits. Preserve all leaves, branches, main stem, terracotta pot, soil, bamboo uprights, triangular rails, twine knots, patio, background, framing and daylight. NO PERSON. The whole plant is the same, all its fruits green. This is a ripening-stage reference, not a redesigned plant."
+    },
+    {
+      "name": "eg1-C2-mam-dung-o.png",
+      "refs": [
+        "eg1-C-mam.png"
+      ],
+      "prompt": "Recreate the reference exactly. Only one correction: tomato sprouts must appear ONLY in the TWO FRONT-ROW LEFTMOST cells of the egg carton, where tomato slices were planted earlier. In each of those two cells show one or two tiny tomato cotyledon sprouts. Remove sprouts from every other cell, replacing them with the same moist soil. All other cells remain bare soil. Keep the exact egg carton cell structure, tray, table, soil tub, spoon, spray bottle, empty white plate, fence, patio, light and framing. No person, no hands, no text, no other changes. Photorealistic portrait 9:16.",
+      "stt": 13
+    },
+    {
+      "stt": 14,
+      "name": "eg1-D-cay-con.png",
+      "refs": [
+        "eg1-C2-mam-dung-o.png"
+      ],
+      "prompt": "Photorealistic natural gardening production still, portrait 9:16 composition, realistic natural daylight and materials. No text, labels, logos, watermark, collage, black bars or additional people. Recreate the scene reference exactly: same camera position, lens, crop, aspect ratio, setting, object positions, lighting, materials and character identity. Make only the state changes described; do not redesign the scene.  Only change the sprouts to a later seedling stage. NO PERSON. In the same planted cells are a few healthy young tomato seedlings around 8-12 cm tall with cotyledons and the first serrated true leaves. Keep visible spacing, no dense mat or giant tomato bush. Same carton outline, catch tray, objects and setting. Plants arise from soil and stay inside their own cells. No flowers or fruit. No text. IMPORTANT: keep seedlings ONLY in the TWO FRONT-ROW LEFTMOST planted cells. One healthy seedling per planted cell after thinning; every other cell stays bare growing medium. No additional seedlings elsewhere."
+    }
+  ]
+}

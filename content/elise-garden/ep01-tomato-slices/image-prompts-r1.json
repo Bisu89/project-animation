@@ -1,0 +1,83 @@
+{
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "stt": 1,
+      "name": "eg1-R1-B0-bat-dau.png",
+      "refs": [
+        "eg1-A-elise-truoc.png",
+        "eg1-B0-dat-lat.png"
+      ],
+      "prompt": "Recreate the scene reference EXACTLY, same woman, face, hair bun, camouflage short overalls, orange sleeveless V-neck tank top, bare arms, jewelry, fixed camera, framing, daylight, fence, table, white plate at viewer-left, black soil tub and spoon at right, dark catch tray and green-trigger spray bottle. Natural realistic skin texture with fine pores, no freckles, no airbrushing. Photorealistic portrait 9:16. No text, logos, extra people, new tools, duplicate items or camera change. The paper carton has EXACTLY TEN existing cells: TWO ROWS of FIVE. Never change its cell grid or shape. Only edit the states explicitly requested. Image1 identity, image2 exact scene. At the start of filling the WHOLE carton, the FRONT ROW first two leftmost cells already contain ONE thin red tomato slice each. The other eight cells have base soil. Elise is actively lowering the third slice into the FRONT ROW CENTER cell with her right hand, left hand steadies carton. The white plate visibly holds a generous supply of thin tomato slices enough for every remaining cell, arranged overlapping, not just two slices. This is the beginning of a full-tray planting sequence, not a two-cell experiment."
+    },
+    {
+      "stt": 2,
+      "name": "eg1-R1-B1-hang-truoc.png",
+      "refs": [
+        "eg1-A-elise-truoc.png",
+        "eg1-B1-lat-xong.png"
+      ],
+      "prompt": "Recreate the scene reference EXACTLY, same woman, face, hair bun, camouflage short overalls, orange sleeveless V-neck tank top, bare arms, jewelry, fixed camera, framing, daylight, fence, table, white plate at viewer-left, black soil tub and spoon at right, dark catch tray and green-trigger spray bottle. Natural realistic skin texture with fine pores, no freckles, no airbrushing. Photorealistic portrait 9:16. No text, logos, extra people, new tools, duplicate items or camera change. The paper carton has EXACTLY TEN existing cells: TWO ROWS of FIVE. Never change its cell grid or shape. Only edit the states explicitly requested. Image1 identity, image2 exact scene. ONLY change progress: ALL FIVE FRONT-ROW cells now each contain ONE separate flat red tomato slice; all FIVE BACK-ROW cells still show base soil with NO slices. Her right fingers are actively finishing placement of the front row's RIGHTMOST slice, left hand steadies carton. The white plate at left still holds FIVE remaining red tomato slices for the five back-row cells. Red slices clearly visible in all five front cells; do not miss any, do not merge cells. Spoon stays in the black tub; bottle stays at right."
+    },
+    {
+      "stt": 3,
+      "name": "eg1-R1-B2-day-khay.png",
+      "refs": [
+        "eg1-A-elise-truoc.png",
+        "eg1-R1-B1-hang-truoc.png"
+      ],
+      "prompt": "Recreate the scene reference EXACTLY, same woman, face, hair bun, camouflage short overalls, orange sleeveless V-neck tank top, bare arms, jewelry, fixed camera, framing, daylight, fence, table, white plate at viewer-left, black soil tub and spoon at right, dark catch tray and green-trigger spray bottle. Natural realistic skin texture with fine pores, no freckles, no airbrushing. Photorealistic portrait 9:16. No text, logos, extra people, new tools, duplicate items or camera change. The paper carton has EXACTLY TEN existing cells: TWO ROWS of FIVE. Never change its cell grid or shape. Only edit the states explicitly requested. Image1 identity, image2 exact scene. Advance ONLY to the completed full tray: EVERY ONE OF THE TEN cells, all five front-row cells and all five back-row cells, contains ONE clearly visible flat red tomato slice on top of base soil. No empty cells, no double layers. Her right fingertips are finishing the LAST slice in the BACK ROW RIGHTMOST cell; her left hand steadies the carton. White plate at left is NOW COMPLETELY EMPTY, clean white, no red food left anywhere outside the carton. Spoon still rests in black tub; bottle remains at right. She is not holding the spoon yet."
+    },
+    {
+      "stt": 4,
+      "name": "eg1-R1-B3-phu-nua.png",
+      "refs": [
+        "eg1-A-elise-truoc.png",
+        "eg1-R1-B2-day-khay.png"
+      ],
+      "prompt": "Recreate the scene reference EXACTLY, same woman, face, hair bun, camouflage short overalls, orange sleeveless V-neck tank top, bare arms, jewelry, fixed camera, framing, daylight, fence, table, white plate at viewer-left, black soil tub and spoon at right, dark catch tray and green-trigger spray bottle. Natural realistic skin texture with fine pores, no freckles, no airbrushing. Photorealistic portrait 9:16. No text, logos, extra people, new tools, duplicate items or camera change. The paper carton has EXACTLY TEN existing cells: TWO ROWS of FIVE. Never change its cell grid or shape. Only edit the states explicitly requested. Image1 identity, image2 exact scene. Advance ONLY to half covered: ALL FIVE BACK-ROW tomato slices have been covered with a thin fine dark growing-medium layer and are COMPLETELY HIDDEN. ALL FIVE FRONT-ROW red slices remain plainly visible in their own cells, uncovered. No slice can reappear from soil. Elise's right hand holds the same metal spoon, actively finishing the last BACK-ROW cell; left hand steadies carton. WHITE PLATE REMAINS COMPLETELY EMPTY, no tomatoes on plate or anywhere else. Black tub now has slightly less soil; spray bottle untouched. Preserve all ten cells and grid."
+    },
+    {
+      "stt": 5,
+      "name": "eg1-R1-B4-phu-kin.png",
+      "refs": [
+        "eg1-A-elise-truoc.png",
+        "eg1-B2-phu-dat.png"
+      ],
+      "prompt": "Recreate the scene reference EXACTLY, same woman, face, hair bun, camouflage short overalls, orange sleeveless V-neck tank top, bare arms, jewelry, fixed camera, framing, daylight, fence, table, white plate at viewer-left, black soil tub and spoon at right, dark catch tray and green-trigger spray bottle. Natural realistic skin texture with fine pores, no freckles, no airbrushing. Photorealistic portrait 9:16. No text, logos, extra people, new tools, duplicate items or camera change. The paper carton has EXACTLY TEN existing cells: TWO ROWS of FIVE. Never change its cell grid or shape. Only edit the states explicitly requested. Image1 identity, image2 exact scene. Correct the FULLY COVERED state: ALL TEN cells are covered with a thin layer of growing medium. EVERY tomato slice is hidden underneath soil, absolutely NO red visible in ANY cell. WHITE PLATE ON LEFT IS COMPLETELY EMPTY: remove the two leftover red slices from it and show only its clean white surface. Elise right hand is finishing sprinkling the final small spoonful onto the FRONT ROW RIGHTMOST cell, left hand steadies carton. No seedlings. Soil tub and spray bottle stay in original places. No tomato slices held in hands."
+    },
+    {
+      "stt": 6,
+      "name": "eg1-R1-B5-tuoi.png",
+      "refs": [
+        "eg1-A-elise-truoc.png",
+        "eg1-R1-B4-phu-kin.png"
+      ],
+      "prompt": "Recreate the scene reference EXACTLY, same woman, face, hair bun, camouflage short overalls, orange sleeveless V-neck tank top, bare arms, jewelry, fixed camera, framing, daylight, fence, table, white plate at viewer-left, black soil tub and spoon at right, dark catch tray and green-trigger spray bottle. Natural realistic skin texture with fine pores, no freckles, no airbrushing. Photorealistic portrait 9:16. No text, logos, extra people, new tools, duplicate items or camera change. The paper carton has EXACTLY TEN existing cells: TWO ROWS of FIVE. Never change its cell grid or shape. Only edit the states explicitly requested. Image1 identity, image2 exact scene. Advance ONLY to gently misting the FULLY COVERED tray: put the spoon back in the SAME black tub, pick up the SAME green-trigger bottle in her right hand and mist soil with a fine faint spray directed down. Left hand steadies tray. Every one of the TEN cells stays covered by dark growing medium, no red exposed, no sprouts. WHITE PLATE remains COMPLETELY EMPTY. Bottle no longer stands on table; exactly one bottle in her hand. Do not reach toward plate. Do not touch or uncover soil with fingers."
+    },
+    {
+      "stt": 7,
+      "name": "eg1-R1-C-mam-day-khay.png",
+      "refs": [
+        "eg1-C2-mam-dung-o.png"
+      ],
+      "prompt": "Recreate this EXACT photograph, same fixed camera, table, carton, tray, fence, patio, bottle, tub, spoon and empty white plate. ONLY change the later-day planting state: small green tomato cotyledon sprouts now emerge from ALL TEN seeded cells, TWO ROWS of FIVE cells, not just two cells. Uneven small heights, about one to two tiny sprouts per cell, healthy natural green, not a dense mat. All TEN cells have growing medium and sprouts. Keep the actual carton cell count and shape EXACTLY, no new cells. NO tomato fruit slices or red food visible anywhere. Plate completely empty. No people, hands, text, logos. Photorealistic portrait 9:16."
+    },
+    {
+      "stt": 8,
+      "name": "eg1-R1-D-cay-con-day.png",
+      "refs": [
+        "eg1-R1-C-mam-day-khay.png"
+      ],
+      "prompt": "Recreate this EXACT photograph with ONLY a later seedling state. Same fixed camera, setting, table, bottle, tub, spoon, empty white plate, catch tray and TEN-CELL paper carton (TWO ROWS of FIVE). In EVERY ONE OF THE TEN cells is one healthy compact young tomato seedling after thinning, with cotyledons and the first one or two serrated true leaves. Modest uneven heights of 8 to 12 cm, enough separation to see individual plants and the cell grid. No mature bush, flowers, fruit or red slices, no extra cells. Do not leave eight cells bare. No people or hands, no text or logos. Photorealistic portrait 9:16."
+    },
+    {
+      "stt": 9,
+      "name": "eg1-R1-B0b-du-lat.png",
+      "refs": [
+        "eg1-R1-B0-bat-dau.png"
+      ],
+      "prompt": "Recreate this EXACT image. ONLY correct the white plate on the left: it contains EXACTLY SEVEN thin tomato slices laid out visibly with small overlaps, not a pile, not more than seven. Keep the TWO slices already in the front-left carton cells and the ONE slice being placed into the front-center cell unchanged. Thus seven on plate plus two planted plus one held makes ten for the ten-cell carton. Preserve the woman, pose, identity, clothing, hands, entire scene, lighting, fixed camera, carton TWO ROWS of FIVE, soil tub, spoon and spray bottle exactly. No other changes, no text or logos. Photorealistic portrait 9:16."
+    }
+  ]
+}

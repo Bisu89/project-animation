@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "note": "Gate B: ảnh tham chiếu nhân vật, nhà, vườn. Ảnh lưu ở references/anh/. Batch sau chỉ chạy khi batch trước được duyệt. Bối cảnh đổi 2026-11-06: sân sau nhà kiểu Mỹ (suburban backyard), tận dụng không gian.",
+  "sourceImages": {
+    "gl1-src-elise-mat.png": "content/elise-garden/ep01-tomato-slices/anh/eg1-A-elise-truoc.png (nguồn mặt, đã duyệt)",
+    "gl1-R-so-do.png": "tools/so_do.py vẽ từ garden_layout.json (không phải AI)",
+    "gl1-A-elise-garden-truoc.png": "chép từ content/elise-garden/ep01-tomato-slices/anh/eg1-A-elise-truoc.png — trang phục Garden đã duyệt của series (chủ dự án 2026-11-06)",
+    "gl1-A-elise-linen-thu.png": "ảnh thử bộ linen–ô liu (batch 1), KHÔNG dùng"
+  },
+  "images": [
+    {
+      "file": "gl1-R-nha.png",
+      "batch": 1,
+      "ratio": "16:9",
+      "sendWith": [
+        "gl1-R-so-do.png"
+      ],
+      "approve": "owner",
+      "prompt": "Photorealistic horizontal 16:9 photograph, real cinematic cozy gardening documentary look, natural colours, no fantasy effects. The site-plan image is a scaled top-down diagram of this backyard: use it ONLY for layout, positions, sizes and proportions; never draw its text, labels, grid, arrows or coloured wedges. Straight-on view of the back of the house from about 9 m away in the yard, camera 1.6 m high, 35 mm full-frame equivalent: a single-storey American ranch-style house about 12 m wide with light grey horizontal lap siding and white trim, a low-pitched dark asphalt-shingle roof with a white gutter and downspout; on the left a raised wooden deck about 60 cm high with simple wooden railings, three wide steps down to the yard and a sliding glass door onto the deck; a small concrete patio pad at the foot of the steps; right of the deck an outdoor hose bib with a green garden hose on a wall-mounted reel, then a white-framed kitchen window, and a dark-green rain barrel under the downspout at the right-hand corner. A 1.8 m weathered cedar privacy fence meets the house at both ends. Foreground: low mowed lawn. Early-spring morning, soft bright light from the right (east). No person. Real photo, no text, no labels, no logos, no watermark."
+    },
+    {
+      "file": "gl1-R-nha-kho.png",
+      "batch": 2,
+      "ratio": "16:9",
+      "sendWith": [
+        "gl1-R-nha.png"
+      ],
+      "approve": "claude",
+      "prompt": "Photorealistic horizontal 16:9 photograph, real cinematic cozy gardening documentary look, natural colours, no fantasy effects. The back-left (south-west) corner of the same backyard as the reference image: a small grey-painted wooden garden shed (about 2.4 m square, white trim, double doors open) against the 1.8 m cedar privacy fence; inside and against its wall a simple tool rack with a spade, a garden fork, a long-handled metal rake, a hand trowel and a short hand fork; beside the shed a slatted wooden compost bin about 1.2 m wide, half full of dark, crumbly, well-rotted finished compost; a dark-green metal wheelbarrow and a galvanised metal watering can with a rose head stand in front on the grass. Early-spring morning, soft light. No person. Real photo, no text, no labels, no logos, no watermark."
+    },
+    {
+      "file": "gl1-P-A-S4.png",
+      "batch": 2,
+      "ratio": "16:9",
+      "sendWith": [
+        "gl1-R-so-do.png",
+        "gl1-R-nha.png",
+        "gl1-R-nha-kho.png"
+      ],
+      "approve": "owner",
+      "prompt": "Photorealistic horizontal 16:9 photograph, real cinematic cozy gardening documentary look, natural colours, no fantasy effects. The site-plan image is a scaled top-down diagram of this garden: use it ONLY for layout, positions, sizes and proportions; never draw its text, labels, grid, arrows or coloured wedges. The second image shows the exact back of the house and the third the exact shed corner; keep their design, colours and proportions. MASTER FINISHED VIEW of the garden at the end of the first planting day. A fictional American suburban backyard about 12 m wide and 12 m deep, enclosed on the west, south and east sides by a 1.8 m (6 ft) tall weathered cedar privacy fence with vertical boards, with a matching wooden gate in the back (south) fence. On the north side is the back of a single-storey American ranch-style house with light grey horizontal lap siding and white trim, a dark asphalt-shingle roof with a white gutter and downspout, a raised wooden deck (about 60 cm high) with three wide steps down to the yard and a sliding glass door onto the deck, a white-framed kitchen window to the right of the deck, an outdoor hose bib with a green garden hose on a wall-mounted reel between the deck and the window, and a dark-green rain barrel under the downspout at the right-hand corner of the house. A small concrete patio pad sits at the foot of the deck steps. In the back-left (south-west) corner stands a small grey wooden garden shed with a slatted wooden compost bin beside it. An old apple tree, bare with swelling buds, grows in the left (lawn) half of the yard. The roofs of neighbouring houses and bare trees show just above the fence. Early spring: pale new grass, bare shrubs with the first tiny green buds, no flowers in bloom. Camera A: standing just inside the back gate in the south fence at 1.6 m lens height, 28 mm full-frame equivalent, looking due north up the yard toward the house, almost level. The house spans the upper third: the deck with its steps and sliding glass door on the left, the hose reel slightly left of centre, the kitchen window near the centre, the rain barrel at the right-hand corner; the lawn runs along the left edge of the frame and the east fence along the right edge. The whole lawn has been mowed short, pale and a little patchy but tidy; in the right half of the yard a rectangular vegetable area (about 5 m wide and 4.5 m deep, from the path line to near the east fence) is cleared to bare, raked, dark-brown soil. Two identical new raw reddish-tan cedar raised-bed frames, each 4 × 8 ft (1.2 m wide, 2.4 m long) and about 14 cm high, one cedar 2×6 board per side, long sides pointing toward the house, parallel, with a 1.2 m path between them: BED-01 left of the path, BED-02 right of the path. They sit in the right (east) half of the yard; the left half stays lawn. They are filled with dark, fine, recently watered soil. Faint shallow sowing rows run across each bed from left to right: BED-01 has two rows in its near half and two rows in its far half; BED-02 has three rows in its near half and its far half is smooth and empty. A small white plastic plant label stands at the right-hand (east) end of each row, seven labels in total. Absolutely NO sprouts, nothing green in the beds. Light: warm low late-afternoon spring sun from the left (west), long soft shadows toward the right, golden but natural. No person. Real photo, no text, no labels, no logos, no watermark."
+    },
+    {
+      "file": "gl1-R-aerial-S4.png",
+      "batch": 2,
+      "ratio": "16:9",
+      "sendWith": [
+        "gl1-R-so-do.png",
+        "gl1-P-A-S4.png"
+      ],
+      "approve": "owner",
+      "prompt": "Photorealistic horizontal 16:9 photograph, real cinematic cozy gardening documentary look, natural colours, no fantasy effects. The site-plan image is a scaled top-down diagram of this garden: use it ONLY for layout, positions, sizes and proportions; never draw its text, labels, grid, arrows or coloured wedges. The same garden as the second image, now seen from a high elevated viewpoint about 9 m above the middle of the south fence, looking north and down at about 45 degrees, so the whole plot is visible at once: the gate at the bottom centre, the 1.2 m path running up the middle, BED-01 left and BED-02 right of the path, the mowed lawn with the bare apple tree filling the left half, the grey shed and compost bin in the lower-left (south-west) corner, the back of the grey house with its deck, steps and patio pad across the upper part, the hose reel, kitchen window and rain barrel on the right part of the house, and the empty grassy upper-right (north-east) corner. The whole lawn has been mowed short, pale and a little patchy but tidy; in the right half of the yard a rectangular vegetable area (about 5 m wide and 4.5 m deep, from the path line to near the east fence) is cleared to bare, raked, dark-brown soil. Two identical new raw reddish-tan cedar raised-bed frames, each 4 × 8 ft (1.2 m wide, 2.4 m long) and about 14 cm high, one cedar 2×6 board per side, long sides pointing toward the house, parallel, with a 1.2 m path between them: BED-01 left of the path, BED-02 right of the path. They sit in the right (east) half of the yard; the left half stays lawn. They are filled with dark, fine, recently watered soil. Faint shallow sowing rows run across each bed from left to right: BED-01 has two rows in its near half and two rows in its far half; BED-02 has three rows in its near half and its far half is smooth and empty. A small white plastic plant label stands at the right-hand (east) end of each row, seven labels in total. Absolutely NO sprouts, nothing green in the beds. Same house, frames, fence and light as the second image. No person. Real photo, no text, no labels, no logos, no watermark."
+    },
+    {
+      "file": "gl1-A-elise-garden-nghieng.png",
+      "batch": 3,
+      "ratio": "9:16",
+      "sendWith": [
+        "gl1-A-elise-garden-truoc.png"
+      ],
+      "approve": "claude",
+      "prompt": "Same woman and exactly the same outfit, hair and earrings as the reference image, now in a full-body left profile view (facing left), standing upright, relaxed arms. Natural realistic skin texture with fine pores, no freckles, no airbrushing. Scene and light: simple warm light-beige seamless studio background and floor, soft flattering daylight, realistic contact shadow. One woman, one view, head through sneakers fully visible with margin. No hat, gloves, jacket, scarf, tools or props; no army accessories. No logos, no writing, no watermark, no multi-panel layout, no duplicate person. Modest, wholesome, natural look. Exactly the same clothes as the reference: lightweight cotton SHORT BIB OVERALLS in a genuine green-olive, dark-brown and muted-tan woodland camouflage pattern (two shoulder straps with small metal buckles, a front bib with a practical patch pocket, short legs ending at upper-to-mid thigh with neat rolled hems) over a fitted vivid warm ORANGE SLEEVELESS TANK TOP with a clearly visible V-shaped neckline, bare shoulders and arms; small gold hoop earrings, a fine gold pendant necklace, short white ankle socks and plain white low-top sneakers."
+    },
+    {
+      "file": "gl1-A-elise-garden-sau.png",
+      "batch": 3,
+      "ratio": "9:16",
+      "sendWith": [
+        "gl1-A-elise-garden-truoc.png"
+      ],
+      "approve": "claude",
+      "prompt": "Same woman and exactly the same outfit, hair and earrings as the reference image, now in a full-body back view, standing upright, relaxed arms, the neat low bun clearly visible. Scene and light: simple warm light-beige seamless studio background and floor, soft flattering daylight, realistic contact shadow. One woman, one view, head through sneakers fully visible with margin. No hat, gloves, jacket, scarf, tools or props; no army accessories. No logos, no writing, no watermark, no multi-panel layout, no duplicate person. Modest, wholesome, natural look. Exactly the same clothes as the reference: lightweight cotton SHORT BIB OVERALLS in a genuine green-olive, dark-brown and muted-tan woodland camouflage pattern (two shoulder straps with small metal buckles, a front bib with a practical patch pocket, short legs ending at upper-to-mid thigh with neat rolled hems) over a fitted vivid warm ORANGE SLEEVELESS TANK TOP with a clearly visible V-shaped neckline, bare shoulders and arms; small gold hoop earrings, a fine gold pendant necklace, short white ankle socks and plain white low-top sneakers."
+    },
+    {
+      "file": "gl1-A-elise-bep-truoc.png",
+      "batch": 3,
+      "ratio": "9:16",
+      "sendWith": [
+        "gl1-A-elise-garden-truoc.png"
+      ],
+      "approve": "owner",
+      "prompt": "Recreate the reference image exactly — same woman, face, hair, pose, framing, studio and light. Only one change: she now wears a plain beige cotton apron with a bib, tied at the waist, over the same orange V-neck tank top and camouflage short overalls. Natural realistic skin texture with fine pores, no freckles, no airbrushing. No other changes."
+    },
+    {
+      "file": "gl1-P-KITCHEN.png",
+      "batch": 3,
+      "ratio": "16:9",
+      "sendWith": [
+        "gl1-R-nha.png",
+        "gl1-P-A-S4.png"
+      ],
+      "approve": "owner",
+      "prompt": "Photorealistic horizontal 16:9 photograph, real cinematic cozy gardening documentary look, natural colours, no fantasy effects. Interior of the house in the first image: a small cosy American home kitchen, camera 1.5 m high, 28 mm, looking toward the south wall. A white ceramic farmhouse sink under the white-framed small-paned window; through the window the garden of the second image is visible: the two new wooden raised beds with dark soil and white labels, the path and the fence, no plants in the beds. A scrubbed wooden table with two chairs on the left, a small enamel gas hob with a cast-iron pot on the right, open wooden shelves with glass jars, a wooden chopping board. Soft early-evening daylight from the window (still light outside, not dark), no lamps switched on, natural colours. No person. Real photo, no text, no labels, no logos, no watermark."
+    },
+    {
+      "file": "gl1-P-A-S2.png",
+      "batch": 4,
+      "ratio": "16:9",
+      "sendWith": [
+        "gl1-P-A-S4.png"
+      ],
+      "prompt": "Photorealistic horizontal 16:9 photograph, real cinematic cozy gardening documentary look, natural colours, no fantasy effects. Recreate the reference image exactly — same camera position, lens and framing, same house, deck, fence, gate, shed and path. Earlier the same day; only these changes: (1) inside both wooden frames there is only lighter brown, loosened native soil, slightly uneven and lumpy, about 8 cm below the rim — no compost, no sowing rows, no labels; (2) the light is late morning: bright soft spring sun from the right-front (south-east), short soft shadows, a few white clouds. The two frames keep exactly their shape, size and position. No person. Real photo, no text, no labels, no logos, no watermark.",
+      "approve": "claude"
+    },
+    {
+      "file": "gl1-P-A-S1.png",
+      "batch": 4,
+      "ratio": "16:9",
+      "sendWith": [
+        "gl1-P-A-S2.png"
+      ],
+      "prompt": "Photorealistic horizontal 16:9 photograph, real cinematic cozy gardening documentary look, natural colours, no fantasy effects. Recreate the reference image exactly — same camera position, lens and framing, same house, deck, fence, gate and shed. The day before; only these changes: (1) the two wooden frames are not built yet: in their exact places two rectangles are marked on bare raked dark-brown soil with a bamboo cane at each corner and taut white string; (2) the wooden compost bin by the shed is heaped with freshly pulled green weeds; (3) the light is pale late-afternoon sun from the left (west-south-west) with long soft shadows to the right. No person. Real photo, no text, no labels, no logos, no watermark.",
+      "approve": "claude"
+    },
+    {
+      "file": "gl1-P-A-S0.png",
+      "batch": 4,
+      "ratio": "16:9",
+      "sendWith": [
+        "gl1-P-A-S1.png"
+      ],
+      "prompt": "Photorealistic horizontal 16:9 photograph, real cinematic cozy gardening documentary look, natural colours, no fantasy effects. Recreate exactly the camera position, lens, framing, house, deck, fence, gate and shed of the reference image. Earlier, before any work was done; only these changes: the whole plot is neglected and overgrown — knee-high pale dry grass with fresh green shoots everywhere, arching bramble stems along the fences, clumps of broad-leaved dock and nettles, a few old cracked terracotta pots, scattered stones and a rusty roll of wire half hidden in the grass; only a faint trodden line where the path runs from the gate to the house door; no canes, no strings, no frames, no bare soil; the patio pad is half covered by grass; the compost bin holds only old dark compost. Light: soft, bright, slightly overcast early-spring morning with a faint sun glow from the right (east). No person. Real photo, no text, no labels, no logos, no watermark.",
+      "approve": "owner"
+    },
+    {
+      "file": "gl1-P-C-S3.png",
+      "batch": 4,
+      "ratio": "16:9",
+      "sendWith": [
+        "gl1-R-aerial-S4.png",
+        "gl1-P-A-S2.png"
+      ],
+      "prompt": "Photorealistic horizontal 16:9 photograph, real cinematic cozy gardening documentary look, natural colours, no fantasy effects. The same garden as both reference images (the first shows the whole layout from above, the second the frames from the entrance). New camera C: at the east fence, 1.4 m high, 35 mm full-frame equivalent, looking due west and slightly down. BED-02 fills the lower foreground, BED-01 lies beyond it across the 1.2 m path; the lawn, the bare apple tree, the grey shed and the west fence form the background; the house and deck are at the right edge of the frame; the south fence and gate are at the far left. Two identical new raw reddish-tan cedar raised-bed frames, each 4 × 8 ft (1.2 m wide, 2.4 m long) and about 14 cm high, one cedar 2×6 board per side, long sides pointing toward the house, parallel, with a 1.2 m path between them: BED-01 left of the path, BED-02 right of the path. They sit in the right (east) half of the yard; the left half stays lawn. Both frames are filled to about 2 cm below the rim with dark, crumbly, compost-rich soil, raked level — no sowing rows, no labels, nothing green. An empty dark-green wheelbarrow stands on the lawn beside BED-01. Light: soft early-afternoon spring sun from the south (left of frame), thin high cloud. No person. Real photo, no text, no labels, no logos, no watermark.",
+      "approve": "claude"
+    },
+    {
+      "file": "gl1-P-D-S5.png",
+      "batch": 4,
+      "ratio": "16:9",
+      "sendWith": [
+        "gl1-R-aerial-S4.png",
+        "gl1-P-A-S4.png"
+      ],
+      "prompt": "Photorealistic horizontal 16:9 photograph, real cinematic cozy gardening documentary look, natural colours, no fantasy effects. The same garden as both reference images (the first shows the whole layout from above, the second the finished beds from the entrance), the next morning. New camera D: near the west fence, 1.5 m high, 35 mm full-frame equivalent, looking north-east and slightly down. BED-01 is in the foreground right of centre, BED-02 lies beyond it to the right across the path; the back of the grey house spans the background; the east fence is in the far background. Exactly the same beds, rows and seven white labels as the second image; absolutely NO sprouts. Light: early-morning low sun from the east behind the beds, gentle backlight, thin mist over the garden, dew on the wood and labels, cool blue-gold tones. No person. Real photo, no text, no labels, no logos, no watermark.",
+      "approve": "claude"
+    }
+  ]
+}

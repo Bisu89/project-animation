@@ -1,0 +1,30 @@
+{
+  "tool": "built-in image_gen",
+  "reason": "Use isolated final placement and final covering actions; visible elapsed-work cuts between them.",
+  "jobs": [
+    {
+      "stt": 10,
+      "name": "eg1-R2-B1-gan-day.png",
+      "refs": [
+        "eg1-R1-B2-day-khay.png"
+      ],
+      "prompt": "Recreate the reference EXACTLY. Only one step backward from the FULL TEN-CELL tray: NINE cells retain their red tomato slice exactly as shown. Only the BACK ROW RIGHTMOST cell (viewer top-right) is still bare base growing medium. The same woman is holding the LAST red tomato slice horizontally just 2 centimeters above that one empty back-right cell, about to set it down, using her right fingertips; her left hand steadies the carton. The white plate at left remains COMPLETELY EMPTY, all other nine slices already placed. Do NOT leave any other cell empty and do not move slices in the other cells. Preserve TWO ROWS of FIVE cells, geometry, face, camouflage short overalls, orange sleeveless V-neck top, skin without freckles, setting, all objects, camera and light exactly. No spoon in her hands yet. No text, logos, extra people. Photorealistic portrait 9:16."
+    },
+    {
+      "stt": 11,
+      "name": "eg1-R2-B3-o-dau-phu.png",
+      "refs": [
+        "eg1-R1-B3-phu-nua.png"
+      ],
+      "prompt": "Wholesome photorealistic gardening instructional photograph, a fully clothed adult gardener at work. Recreate the reference exactly, preserving her identity, outfit, natural skin, garden, table, lighting and fixed camera. Change only the planting progress: in the BACK ROW, only the LEFTMOST cell stays covered with growing medium. The other FOUR back-row cells now show their red tomato slices on base soil. The FIVE FRONT-ROW cells keep all their red tomato slices unchanged. Thus NINE visible tomato slices, ONE covered cell, exact two rows of five cells. Her right hand holds the same spoon just above the covered BACK LEFT cell, finishing that first spoonful, left hand steadies carton. Empty white plate stays EMPTY. Keep every other object and detail unchanged. No new person, no text or logos. Portrait 9:16."
+    },
+    {
+      "stt": 12,
+      "name": "eg1-R2-B3-gan-phu-kin.png",
+      "refs": [
+        "eg1-R1-B4-phu-kin.png"
+      ],
+      "prompt": "Recreate this reference EXACTLY. Only one small step backward: NINE of the TEN paper-carton cells are already completely covered with dark growing medium and must stay covered with no red showing. ONLY the FRONT ROW RIGHTMOST cell (viewer bottom-right) still has its ONE red tomato slice exposed on base soil. The woman holds a small spoonful of dark growing medium in her right hand just 2 cm above this LAST exposed red slice, poised to cover it; left hand steadies carton. The WHITE PLATE remains COMPLETELY EMPTY; no other red material visible anywhere. Keep two rows of five cells, all geometry, soil tub, spray bottle, woman, hair bun, camo overalls, orange sleeveless V-neck top, natural skin without freckles, camera, light and garden unchanged. Photorealistic portrait 9:16, no text, logos or extra people."
+    }
+  ]
+}
