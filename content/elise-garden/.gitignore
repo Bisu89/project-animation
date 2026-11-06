@@ -1,0 +1,11 @@
+# Keep generated images and videos local.
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.svg
+*.mp4
+*.mov
+*.webm
+*.avi
