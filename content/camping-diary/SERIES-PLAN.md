@@ -3,6 +3,12 @@
 > **Trạng thái: concept nháp, CHƯA DUYỆT.** Theo `CLAUDE.md`, mỗi tập cần duyệt nội dung rõ ràng trước khi gen ảnh/video.
 > Dựng từ một master prompt chủ dự án gửi (2026-11-09). Tài liệu này là bản rút gọn + sửa theo kinh nghiệm thật của
 > pipeline GPT+Muse (`docs/muse-video-pipeline.md`), không copy lại nguyên văn master prompt.
+>
+> **Cập nhật 2026-11-10:** chủ dự án gửi thêm video tham khảo "Solo Wilderness Camping Overnight" (kênh Wild Camp
+> Survival — nữ cắm trại Hàn Quốc, xe nhỏ + mái hiên + phòng lưới chắn côn trùng + nấu ăn + mưa + đêm). Dùng làm cảm
+> hứng phong cách (không copy khung hình/chữ/logo) để nâng cấp tập 01 từ "riverside afternoon" đơn giản thành "overnight
+> car camp" phong phú hơn. Xem bối cảnh trại cập nhật ở mục 3 và tập 01 mới ở
+> `ep01-overnight-car-camp/NOI-DUNG.md` (đổi tên từ `ep01-riverside-afternoon/`, chưa gen gì nên đổi tên an toàn).
 
 ## 1. Concept
 
@@ -18,9 +24,9 @@ sinh tồn rừng núi hư cấu; Camping Diary là vlog đời thường cạnh
 - **Định dạng chính: short 9:16** (30-60 giây) đăng Instagram Reels + YouTube Shorts.
 - **Có 1 tập dài trên YouTube** (kênh ngang hoặc dọc dài hơn) mà các short dẫn link về (caption/bio/thẻ cuối short).
   Tập dài kể cùng buổi chiều cắm trại đó nhưng đầy đủ hoạt động hơn, nhịp thật hơn (không phải montage dồn nén như short).
-- Tập 01 (`ep01-riverside-afternoon/NOI-DUNG.md`, 30 giây, đã có bảng nhịp) chính là **short đầu tiên**, giữ nguyên nội
-  dung đã lên — không cần đổi vì quyết định này không ảnh hưởng tới bảng nhịp, chỉ ảnh hưởng tới việc có làm thêm tập
-  dài đi kèm.
+- Tập 01 (`ep01-overnight-car-camp/NOI-DUNG.md`, ~50 giây, đã có bảng nhịp v2 cập nhật 2026-11-10) chính là **short đầu
+  tiên**. Quyết định "1 tập dài + nhiều short" không ảnh hưởng tới bảng nhịp tập 01, chỉ ảnh hưởng tới việc có làm thêm
+  tập dài đi kèm sau này.
 - **Thứ tự khuyến nghị:** làm xong short tập 01 (nhỏ, nhanh, ít rủi ro) trước để chốt nhân vật + trại đã khóa đúng
   chưa, rồi mới mở rộng ra tập dài cùng thế giới đó. Tập dài có thể dùng lại các cảnh đã gen (lửa, cà phê, lều...) và
   thêm cảnh mới, không cần làm lại từ đầu.
@@ -54,17 +60,24 @@ Không cần ảnh nghiêng trái/phải/sau riêng — các cảnh trong tập 
 
 ## 3. Bối cảnh trại cố định
 
-Bờ sông nông chảy chậm, rừng thông, cỏ + đất nén, nắng chiều muộn. Layout cố định trong toàn tập 01 (không dịch chuyển
-đồ vô lý giữa cảnh):
+Bờ sông nông chảy chậm, rừng thông, cỏ + đất nén, nắng chiều muộn làm nền chung cho cả series.
 
-- Lều dome nhỏ — **bắt đầu dựng nửa chừng (cảnh 2), dựng xong trước cảnh tối (cảnh 7-8)**.
-- Bàn xếp + ghế xếp cạnh lều.
-- Khu nấu (bếp cồn/bếp gas mini, không đốt lửa trần trừ khu lửa trại riêng) cách lều một khoảng an toàn.
-- Khu lửa trại riêng, cách cây thấp và dây đèn.
-- Ấm kim loại, cốc inox, dripper cà phê, thớt gỗ, dao nhỏ, túi tote vải, dây đèn dây (bật tối — **không dùng cảnh tối
-  rồi bật công tắc**, theo bài học Elise DIY tập 02-04: ánh sáng trước/sau công tắc khác hẳn nhau, Muse vẽ sai).
-  → Nếu muốn có cảnh đèn sáng, để nó là cảnh cuối, không dựng pha "bật đèn" giữa tập 30 giây này.
-- Ánh sáng tiến triển logic: chiều muộn (cảnh 1-6) → hoàng hôn (cảnh 7) → tối nhẹ còn ánh chiều (cảnh 8, không cần tối hẳn).
+**Layout tập 01 "overnight car camp" (cập nhật 2026-11-10, lấy cảm hứng video tham khảo xe + mái hiên):**
+
+- SUV nhỏ gọn màu kem/trắng, đậu cố định một chỗ suốt tập, cốp hướng ra khu trại.
+- Mái hiên (awning) đen gắn nóc xe, kéo ra che sân — dựng gần xong từ khung đầu, clip chỉ còn thao tác hoàn thiện.
+- Phòng lưới chắn côn trùng trong suốt bao quanh khu mái hiên, có tấm bạt mưa trong suốt cuộn sẵn phía trên để kéo
+  xuống khi mưa — tránh phải quay cảnh dựng khung lưới từ đầu (rủi ro biến hình cao với vật thể dạng khung/lưới).
+- Bàn gấp gỗ, ghế dài gấp, bếp cồn nhỏ, nồi cơm điện mini, ấm nước, bát gỗ, cốc gỗ/inox, đèn lồng nhỏ (bật sẵn từ đầu
+  tập, không có cảnh bật công tắc — theo bài học Elise DIY tập 02-04: ánh sáng trước/sau công tắc khác hẳn nhau, Muse
+  vẽ sai).
+- Ánh sáng tiến triển logic: chiều muộn nắng nhạt (cảnh 1-4) → mưa nhẹ kéo tới (cảnh 7) → tối có mái hiên + đèn lồng
+  ấm, còn chút ánh chiều hắt qua lưới (cảnh 8-11, không tối hẳn).
+- Chi tiết đầy đủ + bảng nhịp: `ep01-overnight-car-camp/NOI-DUNG.md`.
+
+*(Layout bản v1 "riverside afternoon" — chỉ có lều dome, không có xe/mái hiên — giữ lại dưới đây làm tham khảo lịch
+sử, không dùng cho tập 01 nữa: lều dome nhỏ dựng nửa chừng rồi dựng xong trước cảnh tối; khu nấu và khu lửa trại tách
+riêng cách lều một khoảng an toàn; dripper cà phê, thớt gỗ, dao nhỏ, túi tote vải.)
 
 ## 4. Ngôn ngữ máy quay (rút gọn từ master prompt, giữ nguyên tinh thần)
 
@@ -95,6 +108,11 @@ liệu cần duyệt, không phải sản phẩm cuối; hệ thống phải dù
   chưa có key — xem `docs/muse-video-pipeline.md` mục "Chưa lồng giọng tạm"). Cảnh chào mở đầu nên là phản ứng không
   lời (cười, vẫy tay), lời dẫn/phụ đề thêm sau ở bước dựng, không bắt Muse tạo khẩu hình khớp câu tiếng Hàn.
 - **Chuyển cảnh:** nối liền dùng `chuyen_canh = mo`; nhảy thời gian hoặc đổi hẳn khu vực dùng `mo_dai` (bài học tập 12).
+- **Vật thể dạng khung/lưới (mái hiên, phòng lưới chắn côn trùng, bạt mưa) dễ biến hình nhất khi mô tả quá trình dựng
+  từ đầu** — luôn để đã dựng gần xong (70-90%) trong khung đầu, clip chỉ còn thao tác hoàn thiện cuối cùng (bài học từ
+  video tham khảo 2026-11-10, áp dụng tương tự bài học lều chữ A ở Elise Wild).
+- **Nồi cơm điện/bếp mini bên trong phòng lưới kín**: tả rõ khói/hơi thoát ra đâu trong prompt (nắp hé, hơi bay lên
+  trên) để tránh Muse vẽ khói tụ vô lý trong không gian kín.
 
 ## 6. Việc còn cần chủ dự án quyết định
 
@@ -104,6 +122,12 @@ liệu cần duyệt, không phải sản phẩm cuối; hệ thống phải dù
    phụ đề trước, bỏ câu chào/lời dẫn tiếng Hàn trong master prompt tới khi xác nhận được.
 3. **Độ dài tập dài:** master prompt gợi ý 2 mức — vlog 3-5 phút hoặc tập đời thường 10-15 phút. Làm mức nào trước?
    (3-5 phút ít rủi ro hơn, làm nhanh hơn; 10-15 phút giống quy mô Elise Wild, cần nhiều cảnh + narration hơn).
+**Đã chốt (2026-11-10b):** chó đồng hành (như video tham khảo) để dành cho **tập sau**, không thêm ở tập 01 — cần bộ
+ảnh tham chiếu riêng để giữ nhận diện con vật, làm sau khi nhân vật người đã chạy ổn.
 
 **Đã chốt (2026-11-09):** 1 nhân vật khóa dùng chung; short (Reels/YouTube Shorts) là định dạng chính, có 1 tập dài
 YouTube mà short dẫn link về; làm short tập 01 trước, tập dài làm sau dựa trên cùng nhân vật/trại.
+
+**Đã chốt (2026-11-10):** tập 01 nâng cấp thành "overnight car camp" (xe + mái hiên + phòng lưới + mưa + nấu ăn) lấy
+cảm hứng từ video tham khảo chủ dự án gửi, thay cho bản "riverside afternoon" đơn giản hơn; nhân vật/trang phục đã
+khóa giữ nguyên không đổi.
