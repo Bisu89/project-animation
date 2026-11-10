@@ -1,0 +1,12 @@
+{
+ "dat": false,
+ "cat_den": null,
+ "loi": [
+  {
+   "giay": 6.5,
+   "mo_ta": "Sau khi bỏ hai viên đá vào xô, Elise lại mang thêm một viên đá vào và đặt ngay cạnh tay, trái yêu cầu chỉ chuyển sang nắm dây thép. Viên đá này nằm lại đến cuối clip."
+  }
+ ],
+ "sua_prompt": "After dropping the second stone into the bucket, leave both stones inside and immediately grip the rusty wire. Do not pick up, bring in, or place any additional stone beside her hands.",
+ "lan_gen": 2
+}

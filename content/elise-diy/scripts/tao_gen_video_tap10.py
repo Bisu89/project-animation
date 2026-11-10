@@ -38,16 +38,14 @@ clips = [
      "daisies from the tray one at a time and plants them in the middle and bow end, then lays the trailing ivy so it spills "
      "over the near side, ending draping the last ivy trail over the rim, as in the end frame. Flowers appear only where "
      "she plants them.", MUSIC + ", tiếng đất, lá sột soạt."),
-    # bản 2 cắm cột ra đất ngoài mũi thuyền (sai, cột phải ở trong thuyền); bản đầu: cột đèn ngắn rồi tự dài ra cắm xuống đất -> khung cuối mới tb-F00-dung-cot, ghi rõ cột không đổi dài
-    ("Clip 6 - cột đèn", "tb-E2-hoa.png", "tb-F00-dung-cot.png", HEAD,
-     OFF + "The flower boat does not change. " + WHO + " picks up the wooden lantern post lying on the grass by its middle, "
-     "carries it to the bow, lifts it over the bow and plants its bottom end into the soil INSIDE the boat, just behind "
-     "the pointed bow, so the post rises up out of the flowers at the front end of the boat exactly as in the end frame; "
-     "it never stands on the lawn outside the boat. Then she grips it with both hands and pushes it down into the soil, "
-     "as in the end frame. The post is one solid piece of wood: it keeps "
-     "exactly the same length, thickness and arm the whole time and never grows, stretches or changes shape; the lantern "
-     "stays hanging from the same arm. The wheelbarrow, paint can, roller tray and garden tray stay where they are.",
-     MUSIC + ", tiếng gỗ."),
+    # bản 1 cột tự dài ra; bản 2 cắm ra ngoài thuyền; bản 3 nhân đôi đèn, đèn tự sáng -> bản 4 bắt đầu lúc đã cầm cột (F01)
+    ("Clip 6 - cột đèn", "tb-F01-cam-cot.png", "tb-F00-dung-cot.png", HEAD,
+     OFF + "The flower boat and the gear on the lawn do not change; there is no lantern and no post on the grass. " + WHO
+     + " holds the wooden lantern post upright above the soil inside the boat, just behind the pointed bow; she lowers it "
+     "straight down so its bottom end goes into the soil inside the boat, then leans on it with both hands and pushes it "
+     "firmly down, as in the end frame. There is only one post and one lantern, the one on the post; the lantern stays dark "
+     "and unlit the whole clip. The post keeps exactly the same length and shape and never touches the lawn outside the "
+     "boat.", MUSIC + ", tiếng gỗ, tiếng đất."),
     ("Clip 7 - bật đèn", "tb-F0-den.png", "tb-F-sang.png", HEAD,
      "The flower boat, the post and the foreground gear do not change; the daylight stays golden, not dark. The lantern is "
      "dark at the start. " + WHO + " flips the small switch on the lantern at about 1 second; only at that moment the "
@@ -67,7 +65,7 @@ CUTS = {
     2: (3.0, 9.5, 4.5),   # 0-3 s quét chổi, từ 3 s mới lăn sơn
     3: (0, 4.5, 3.5),     # từ 5 s đất tự đầy, xe cút kít nhảy chỗ
     5: (0, 6.0, 4.0),     # từ 6,5 s nhảy sang cận, hoa tự đầy thuyền
-    6: (3.0, 8.0, 4.0),   # 0-3 s còn chỉnh thường xuân; sau 8 s cười nhìn máy
+    6: (0, 2.5, 2.5),     # hạ cột vào đất trong thuyền; từ 3 s cột nhấc lên hạ xuống
     7: (1.0, 5.0, 3.5),   # đèn sáng ~3,5 s; từ 5 s nhảy sang cận
     8: (0, 5.5, 5.0),
 }

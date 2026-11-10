@@ -8,11 +8,12 @@ Nhân vật và trang phục: `content/elise-diy/models/elise.md`. Ý tưởng v
 | Tập | Thư mục | Tình trạng | Việc tiếp theo |
 |---|---|---|---|
 | 01 Bàn chai resin | `ep01-bottle-table/` | Xong | |
-| 02 Cây kim tuyến trên tường | `ep02-wall-tree/` | Có 2 bản: `final.mp4` (28 giây, cắt đoạn lỗi, QA 62) và `final-v1.mp4` (30 giây, QA 66) | Chờ chủ dự án chọn bản, rồi dọn file nháp |
+| 02 Cây kim tuyến trên tường | `ep02-wall-tree/` | **Xong** (`final.mp4`, 28 giây; đã dọn, bỏ `final-v1`) | |
 | 03 Cây chỉ bằng đèn | `ep03-light-tree/` | **Xong** (`final.mp4`, 18 giây) | |
-| 04 Kệ gỗ nổi | `ep04-shelf-tree/` | `final.mp4` 16,5 giây: bỏ cảnh tối, cắt hành động thừa, `--xfade 0.3`. `final-v1.mp4` là bản cũ | Chờ chủ dự án chốt, rồi dọn file nháp |
-| 05 Tháp hộp quà | `ep05-gift-tree/` | **Tạm dừng theo lệnh chủ dự án.** Xem mục 6 | Khi được làm tiếp: ghép lại `final.mp4` (đang hỏng), gửi duyệt |
+| 04 Kệ gỗ nổi | `ep04-shelf-tree/` | `final.mp4` 16,5 giây: bỏ cảnh tối, cắt hành động thừa, `--xfade 0.3`. đã dọn | |
+| 05 Tháp hộp quà | `ep05-gift-tree/` | **Tạm dừng.** `final.mp4` 20,4 giây (ghép lại 2026-11-04), đã dọn clip. Xem mục 6 | Chủ dự án xem `final.mp4` |
 | 06 Cành gỗ | `ep06-branch-tree/` | **Xong** (`final.mp4`, 19,9 giây). Đây là tập làm theo quy trình chuẩn ở mục 3 | |
+| 10 Thuyền thành bồn hoa | `ep10-boat-garden/` | **Xong** (`final.mp4`, 25,7 giây). Ghi chép trong `NOI-DUNG.md` | |
 | 09 Gốc cây thành nhà tiên | `ep09-fairy-stump/` | **Xong** (`final.mp4`, 31,6 giây, ngoài vườn, áo ba lỗ cổ tim). Ghi chép trong `NOI-DUNG.md` | |
 
 ## 2. Công cụ và tài khoản
@@ -119,8 +120,8 @@ Nhân vật và trang phục: `content/elise-diy/models/elise.md`. Ý tưởng v
 - Chủ dự án khen phần sau (clip 3, 4), chê mở đầu cũ. Mở đầu mới đã gen xong.
   - Mở đầu mới còn lỗi: hộp mờ như bóng ma ở clip 1, giây 1,5; tháp tự đổi màu ở clip 2, giây 4–5.
   - CSV đã ghi cắt: clip 1 tới 8,5 giây; clip 2 tới 6,0 giây.
-- **`video/final.mp4` đang hỏng** (lệnh ghép bị dừng giữa chừng). Khi được làm tiếp, chạy lại:
-  `python ghep.py --csv "<ep05>\gen-video.csv" --xfade 0.3`, xem khung hình, rồi gửi chủ dự án.
+- 2026-11-04: đã ghép lại `video/final.mp4` (20,4 giây) theo CSV hiện tại, rồi xóa hết clip, `_thu1/`, `_thu2/`
+  theo lệnh dọn của chủ dự án. Muốn sửa tiếp phải gen lại clip.
 - Script `scripts/tao_gen_video_tap05.py` là bản của lần thử 2. CSV hiện tại đã được sửa tay thêm (clip 1–2 mới).
   **Đừng chạy lại script này đè lên CSV.**
 

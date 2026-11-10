@@ -1,0 +1,16 @@
+{
+ "dat": true,
+ "cat_den": null,
+ "loi": [
+  {
+   "giay": 5.5,
+   "mo_ta": "Elise cúi người để đặt cành lên bạt, thay vì đứng thẳng hạ cành như yêu cầu; hành động vẫn tự nhiên, không vô lý rõ."
+  },
+  {
+   "giay": 7.0,
+   "mo_ta": "Sau khi đặt cành, cô đứng gần như yên đến hết clip; nhịp kết hơi dư."
+  }
+ ],
+ "sua_prompt": "",
+ "lan_gen": 1
+}

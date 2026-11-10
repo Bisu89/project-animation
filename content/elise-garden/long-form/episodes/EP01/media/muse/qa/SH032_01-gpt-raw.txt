@@ -1,0 +1,1 @@
+{"dat":true,"cat_den":null,"loi":[{"giay":3.5,"mo_ta":"Động tác chuyển sang gõ cạnh trên của thanh gỗ và lặp lại nhiều nhịp, thay vì chỉ gõ mặt ngoài hai lần như yêu cầu; chưa đến mức vô lý với người xem Reels."}],"sua_prompt":""}

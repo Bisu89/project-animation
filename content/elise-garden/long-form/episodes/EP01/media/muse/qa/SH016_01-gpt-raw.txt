@@ -1,0 +1,1 @@
+{"dat":true,"cat_den":7.0,"loi":[{"giay":7.0,"mo_ta":"Cảnh đột ngột đổi sang góc nghiêng với nền hàng rào, nhà và nhà kho biến khỏi khung hình; vi phạm cú máy liên tục. Trước đó Elise đã đeo găng và nhấc kéo bằng hai tay, có thể cắt bỏ từ đây."}],"sua_prompt":""}

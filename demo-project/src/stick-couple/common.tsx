@@ -40,7 +40,7 @@ export const makeWords = (lines: Line[]): Word[] => {
       const d = ((l.end - l.start) * (w.length + 2)) / total;
       out.push({ w, from: t, to: t + d, chunk });
       t += d;
-      if (i % 3 === 2 || /[.?!]$/.test(w)) chunk++;
+      if (i % 3 === 2 || /[.?!,]$/.test(w)) chunk++;
     });
     chunk++;
   });

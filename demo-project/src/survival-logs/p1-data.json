@@ -1,0 +1,1787 @@
+{
+ "total": 503.016,
+ "lines": [
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 0.0,
+   "dur": 1.724
+  },
+  {
+   "role": "m",
+   "text": "Hold it. A few more seconds.",
+   "src": "m-5f3c02eee6.mp3",
+   "at": 2.024,
+   "dur": 2.351
+  },
+  {
+   "role": "n",
+   "text": "My thumb is on the switch.",
+   "src": "n-08fac68ce4.mp3",
+   "at": 4.825,
+   "dur": 1.802
+  },
+  {
+   "role": "n",
+   "text": "Hundreds of them are turning toward the speaker.",
+   "src": "n-bc1c3aaab7.mp3",
+   "at": 6.978,
+   "dur": 2.351
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 9.679,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "I spent two weeks making that door shut up.",
+   "src": "n-967a509295.mp3",
+   "at": 11.703,
+   "dur": 2.586
+  },
+  {
+   "role": "n",
+   "text": "Now I need it to scream.",
+   "src": "n-c9317f8370.mp3",
+   "at": 15.039,
+   "dur": 1.567
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 17.956,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "When this started, the worst thing in my life was that speaker.",
+   "src": "n-824b82c1bf.mp3",
+   "at": 19.98,
+   "dur": 3.317
+  },
+  {
+   "role": "n",
+   "text": "It welcomed everyone. Customers. Delivery guys. Once, a raccoon.",
+   "src": "n-c889d3cbc5.mp3",
+   "at": 23.648,
+   "dur": 4.989
+  },
+  {
+   "role": "n",
+   "text": "I worked nights at Corner Fresh.",
+   "src": "n-a4520d5a98.mp3",
+   "at": 28.987,
+   "dur": 1.959
+  },
+  {
+   "role": "n",
+   "text": "Six aisles. One self-checkout.",
+   "src": "n-a4a97e3fea.mp3",
+   "at": 31.296,
+   "dur": 2.351
+  },
+  {
+   "role": "n",
+   "text": "The bread van came every night at one thirty.",
+   "src": "n-2b709fc63e.mp3",
+   "at": 33.997,
+   "dur": 2.586
+  },
+  {
+   "role": "news",
+   "text": "Those bitten develop a high fever and turn within twenty-four hours. Stay indoors. Do not approach.",
+   "src": "news-f75ffe077f.mp3",
+   "at": 36.933,
+   "dur": 6.034
+  },
+  {
+   "role": "n",
+   "text": "I thought it was a riot. Some city thing that would be over by morning.",
+   "src": "n-fee614601c.mp3",
+   "at": 43.567,
+   "dur": 3.396
+  },
+  {
+   "role": "n",
+   "text": "Then my only customer dropped her basket and ran.",
+   "src": "n-f9bbc9f462.mp3",
+   "at": 47.313,
+   "dur": 2.847
+  },
+  {
+   "role": "n",
+   "text": "I'd never seen her run before.",
+   "src": "n-c2e7c32a74.mp3",
+   "at": 50.511,
+   "dur": 1.881
+  },
+  {
+   "role": "n",
+   "text": "My manager left without a word.",
+   "src": "n-bf19e7a1a5.mp3",
+   "at": 52.741,
+   "dur": 2.038
+  },
+  {
+   "role": "n",
+   "text": "Through the dock window, I watched the bread driver answer his phone.",
+   "src": "n-6435072cc2.mp3",
+   "at": 55.129,
+   "dur": 3.396
+  },
+  {
+   "role": "n",
+   "text": "He listened. Then he looked back at the dock door.",
+   "src": "n-315af5fda6.mp3",
+   "at": 58.875,
+   "dur": 3.082
+  },
+  {
+   "role": "n",
+   "text": "Then he ran toward the main road.",
+   "src": "n-69f52ad1e7.mp3",
+   "at": 62.307,
+   "dur": 2.116
+  },
+  {
+   "role": "n",
+   "text": "Two people left that night. Only one of them looked back.",
+   "src": "n-a78d78a626.mp3",
+   "at": 64.773,
+   "dur": 3.239
+  },
+  {
+   "role": "n",
+   "text": "The first one reached the doors.",
+   "src": "n-e17dc5bcf9.mp3",
+   "at": 70.362,
+   "dur": 1.802
+  },
+  {
+   "role": "n",
+   "text": "The sensor picked it up. The doors slid open.",
+   "src": "n-e230c266c6.mp3",
+   "at": 72.515,
+   "dur": 2.847
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 75.712,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "Its head snapped toward the speaker.",
+   "src": "n-b8da651366.mp3",
+   "at": 77.736,
+   "dur": 2.038
+  },
+  {
+   "role": "n",
+   "text": "And across the street, one by one... the others turned too.",
+   "src": "n-91c91ed0ec.mp3",
+   "at": 80.123,
+   "dur": 3.709
+  },
+  {
+   "role": "n",
+   "text": "The store did exactly what it was built to do.",
+   "src": "n-a383f7a24f.mp3",
+   "at": 84.183,
+   "dur": 2.508
+  },
+  {
+   "role": "n",
+   "text": "It invited them in.",
+   "src": "n-e21b35d10e.mp3",
+   "at": 87.041,
+   "dur": 1.228
+  },
+  {
+   "role": "n",
+   "text": "It got tangled in the carts outside, clear of the door.",
+   "src": "n-246519417b.mp3",
+   "at": 88.618,
+   "dur": 3.239
+  },
+  {
+   "role": "n",
+   "text": "I ran for the control box behind the service desk.",
+   "src": "n-bc32ff83c4.mp3",
+   "at": 92.207,
+   "dur": 2.926
+  },
+  {
+   "role": "n",
+   "text": "First switch. The lights flickered.",
+   "src": "n-8e9f3721a9.mp3",
+   "at": 95.483,
+   "dur": 2.273
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 98.106,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "Second switch. The checkout rebooted.",
+   "src": "n-6f49d213e4.mp3",
+   "at": 100.13,
+   "dur": 2.586
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 103.366,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "Third switch.",
+   "src": "n-4a38250d38.mp3",
+   "at": 105.39,
+   "dur": 1.071
+  },
+  {
+   "role": "spk",
+   "text": "Wel—",
+   "src": "speaker.mp3",
+   "at": 106.811,
+   "dur": 0.38
+  },
+  {
+   "role": "n",
+   "text": "The motor cut out.",
+   "src": "n-f8bb429db6.mp3",
+   "at": 107.411,
+   "dur": 1.149
+  },
+  {
+   "role": "n",
+   "text": "The emergency closer pulled the doors shut.",
+   "src": "n-a0f013bb59.mp3",
+   "at": 108.91,
+   "dur": 2.429
+  },
+  {
+   "role": "n",
+   "text": "I locked it by hand.",
+   "src": "n-92564be734.mp3",
+   "at": 111.69,
+   "dur": 1.411
+  },
+  {
+   "role": "n",
+   "text": "Its face pressed against the glass.",
+   "src": "n-d50400231b.mp3",
+   "at": 113.45,
+   "dur": 2.194
+  },
+  {
+   "role": "n",
+   "text": "Four \"Welcomes.\"",
+   "src": "n-299a3ebfd8.mp3",
+   "at": 115.995,
+   "dur": 1.228
+  },
+  {
+   "role": "n",
+   "text": "That's how long it took me to find the right switch.",
+   "src": "n-720e4a0aa4.mp3",
+   "at": 117.572,
+   "dur": 2.351
+  },
+  {
+   "role": "n",
+   "text": "Then I remembered. The loading dock. Still open for the bread delivery.",
+   "src": "n-ff68d2853e.mp3",
+   "at": 120.873,
+   "dur": 4.049
+  },
+  {
+   "role": "n",
+   "text": "I sprinted to the back and dragged the shutter down. It screamed the whole way, and I hated it for every inch.",
+   "src": "n-fe77066b72.mp3",
+   "at": 125.272,
+   "dur": 6.922
+  },
+  {
+   "role": "n",
+   "text": "On my way back through the stockroom corridor, my shoulder caught a rolling shelf.",
+   "src": "n-ce8f0f3621.mp3",
+   "at": 132.545,
+   "dur": 4.206
+  },
+  {
+   "role": "n",
+   "text": "It tipped, and crashed against something near the office.",
+   "src": "n-e053613baa.mp3",
+   "at": 137.1,
+   "dur": 3.082
+  },
+  {
+   "role": "n",
+   "text": "I didn't stop to check what it hit.",
+   "src": "n-ad38e9ad13.mp3",
+   "at": 140.533,
+   "dur": 1.802
+  },
+  {
+   "role": "n",
+   "text": "That's the part I still think about.",
+   "src": "n-77cdc436a9.mp3",
+   "at": 143.085,
+   "dur": 2.038
+  },
+  {
+   "role": "n",
+   "text": "That night, I sat in the stockroom holding a steel pipe.",
+   "src": "n-0b2f99b20b.mp3",
+   "at": 146.273,
+   "dur": 3.239
+  },
+  {
+   "role": "n",
+   "text": "Something fell behind the blocked corridor.",
+   "src": "n-dd152702ee.mp3",
+   "at": 150.462,
+   "dur": 2.273
+  },
+  {
+   "role": "n",
+   "text": "I said, \"Hello?\"",
+   "src": "n-540446923a.mp3",
+   "at": 153.084,
+   "dur": 1.489
+  },
+  {
+   "role": "n",
+   "text": "Nobody answered.",
+   "src": "n-b6902341ae.mp3",
+   "at": 155.923,
+   "dur": 1.149
+  },
+  {
+   "role": "n",
+   "text": "I silenced my phone, shut off the radio, and pulled the batteries from the toys.",
+   "src": "n-fa845c9845.mp3",
+   "at": 157.423,
+   "dur": 4.519
+  },
+  {
+   "role": "n",
+   "text": "I told myself it was a box.",
+   "src": "n-612f1efe2a.mp3",
+   "at": 162.292,
+   "dur": 2.038
+  },
+  {
+   "role": "n",
+   "text": "I needed it to be a box.",
+   "src": "n-ce854396f9.mp3",
+   "at": 164.979,
+   "dur": 1.802
+  },
+  {
+   "role": "n",
+   "text": "On Day 2, the power died.",
+   "src": "n-8d370546b1.mp3",
+   "at": 169.132,
+   "dur": 2.273
+  },
+  {
+   "role": "n",
+   "text": "The exit signs stayed on. So did the self-checkout.",
+   "src": "n-c960e2258d.mp3",
+   "at": 171.754,
+   "dur": 3.004
+  },
+  {
+   "role": "n",
+   "text": "Both were on backup power.",
+   "src": "n-a29dab099c.mp3",
+   "at": 175.109,
+   "dur": 1.567
+  },
+  {
+   "role": "n",
+   "text": "The fridges went quiet. When the power dies, a supermarket becomes a clock.",
+   "src": "n-cf2353a68e.mp3",
+   "at": 177.026,
+   "dur": 4.441
+  },
+  {
+   "role": "n",
+   "text": "So I ate the bread and fruit that were still good, and saved the cans for later.",
+   "src": "n-8d24da0440.mp3",
+   "at": 181.817,
+   "dur": 4.362
+  },
+  {
+   "role": "n",
+   "text": "I wasn't risking the milk or meat once the fridges warmed up.",
+   "src": "n-a08339dc2b.mp3",
+   "at": 186.529,
+   "dur": 3.239
+  },
+  {
+   "role": "n",
+   "text": "I switched off the camera recorder and the monitors, too. Every watt counted.",
+   "src": "n-8bacde90af.mp3",
+   "at": 190.118,
+   "dur": 4.676
+  },
+  {
+   "role": "n",
+   "text": "That morning, I counted the bottled water.",
+   "src": "n-c72858b86d.mp3",
+   "at": 195.144,
+   "dur": 2.508
+  },
+  {
+   "role": "n",
+   "text": "About a hundred and twenty liters.",
+   "src": "n-9fe88f8d27.mp3",
+   "at": 198.002,
+   "dur": 2.194
+  },
+  {
+   "role": "n",
+   "text": "That afternoon, the tap coughed, hissed, and stopped.",
+   "src": "n-0c54bd4be9.mp3",
+   "at": 200.546,
+   "dur": 3.709
+  },
+  {
+   "role": "n",
+   "text": "A hundred and twenty liters sounds like a lot... until the toilets stop flushing.",
+   "src": "n-796e21f732.mp3",
+   "at": 204.605,
+   "dur": 4.049
+  },
+  {
+   "role": "n",
+   "text": "I needed about four liters a day for drinking and basic hygiene.",
+   "src": "n-d755b6858a.mp3",
+   "at": 209.004,
+   "dur": 3.553
+  },
+  {
+   "role": "n",
+   "text": "More if I got sick, or the store got hot.",
+   "src": "n-e722094895.mp3",
+   "at": 212.907,
+   "dur": 2.429
+  },
+  {
+   "role": "n",
+   "text": "I lined a lidded bucket with trash bags and added cat litter.",
+   "src": "n-050ca5cf04.mp3",
+   "at": 215.686,
+   "dur": 3.317
+  },
+  {
+   "role": "n",
+   "text": "I kept it away from the food, with soap and a little water for my hands.",
+   "src": "n-8aedfeae5a.mp3",
+   "at": 219.354,
+   "dur": 3.788
+  },
+  {
+   "role": "n",
+   "text": "I wasn't wasting drinking water on a flush.",
+   "src": "n-b3124a2a0d.mp3",
+   "at": 223.492,
+   "dur": 2.508
+  },
+  {
+   "role": "n",
+   "text": "I cleared the windows and covered the lower glass with cardboard.",
+   "src": "n-d95efaebdd.mp3",
+   "at": 226.349,
+   "dur": 3.082
+  },
+  {
+   "role": "n",
+   "text": "The carts and shelves went about three feet back.",
+   "src": "n-a0eeb64810.mp3",
+   "at": 229.782,
+   "dur": 2.691
+  },
+  {
+   "role": "n",
+   "text": "That night I was working with a flashlight near the front.",
+   "src": "n-c8bf3ec23e.mp3",
+   "at": 232.822,
+   "dur": 2.769
+  },
+  {
+   "role": "n",
+   "text": "A thin line of light slipped past the edge of the cardboard.",
+   "src": "n-4c73416ea6.mp3",
+   "at": 235.941,
+   "dur": 3.082
+  },
+  {
+   "role": "n",
+   "text": "A shape pressed against the glass. Right where the light was.",
+   "src": "n-1d8a1ab30f.mp3",
+   "at": 239.374,
+   "dur": 3.082
+  },
+  {
+   "role": "n",
+   "text": "I clicked it off and didn't breathe.",
+   "src": "n-d47634623e.mp3",
+   "at": 242.806,
+   "dur": 2.116
+  },
+  {
+   "role": "n",
+   "text": "It didn't hear me.",
+   "src": "n-151ecf289a.mp3",
+   "at": 248.272,
+   "dur": 1.149
+  },
+  {
+   "role": "n",
+   "text": "It saw the light.",
+   "src": "n-d94d2d9dd2.mp3",
+   "at": 249.771,
+   "dur": 1.071
+  },
+  {
+   "role": "n",
+   "text": "Earlier that day, my second count came up one pack of crackers short.",
+   "src": "n-f83dd7a8e8.mp3",
+   "at": 253.192,
+   "dur": 3.709
+  },
+  {
+   "role": "n",
+   "text": "Probably I counted wrong.",
+   "src": "n-68cf4a2c10.mp3",
+   "at": 257.252,
+   "dur": 1.567
+  },
+  {
+   "role": "n",
+   "text": "Later that night, I heard one short beep from the front.",
+   "src": "n-e93a69b980.mp3",
+   "at": 260.569,
+   "dur": 3.161
+  },
+  {
+   "role": "n",
+   "text": "The self-checkout.",
+   "src": "n-ec3bddc24f.mp3",
+   "at": 264.08,
+   "dur": 1.306
+  },
+  {
+   "role": "n",
+   "text": "I crept out with the pipe. The screen was back on its welcome page. No one there.",
+   "src": "n-8c93cb506a.mp3",
+   "at": 265.736,
+   "dur": 4.519
+  },
+  {
+   "role": "n",
+   "text": "Probably the machine glitched.",
+   "src": "n-4758efcd87.mp3",
+   "at": 270.605,
+   "dur": 1.802
+  },
+  {
+   "role": "n",
+   "text": "I went back to the stockroom and wedged a pallet against the double doors.",
+   "src": "n-c040dc1cc1.mp3",
+   "at": 272.758,
+   "dur": 3.396
+  },
+  {
+   "role": "n",
+   "text": "I was getting very good at \"probably.\"",
+   "src": "n-202981c239.mp3",
+   "at": 276.503,
+   "dur": 2.586
+  },
+  {
+   "role": "n",
+   "text": "On Day 3, I decided I couldn't hide in a supermarket forever.",
+   "src": "n-437b26afd7.mp3",
+   "at": 280.44,
+   "dur": 3.866
+  },
+  {
+   "role": "n",
+   "text": "The bread van was still in the alley. Nothing near the cab.",
+   "src": "n-f244e72bb0.mp3",
+   "at": 284.656,
+   "dur": 3.317
+  },
+  {
+   "role": "n",
+   "text": "I cleared my way back and left the pallet jack beside the shutter.",
+   "src": "n-f075c47522.mp3",
+   "at": 288.323,
+   "dur": 3.082
+  },
+  {
+   "role": "n",
+   "text": "Close enough to grab. Clear of the opening.",
+   "src": "n-5f21aeea68.mp3",
+   "at": 291.756,
+   "dur": 2.586
+  },
+  {
+   "role": "n",
+   "text": "I lifted the shutter halfway.",
+   "src": "n-5fa1471a88.mp3",
+   "at": 294.692,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "Metal on metal. At the end of the alley, one of them turned its head.",
+   "src": "n-9bcdc7d1ad.mp3",
+   "at": 296.766,
+   "dur": 4.284
+  },
+  {
+   "role": "n",
+   "text": "I reached the van. The cab was locked.",
+   "src": "n-067ed01e29.mp3",
+   "at": 301.4,
+   "dur": 2.769
+  },
+  {
+   "role": "n",
+   "text": "Then two more came around the corner.",
+   "src": "n-3c9f12da08.mp3",
+   "at": 304.519,
+   "dur": 2.038
+  },
+  {
+   "role": "n",
+   "text": "I dropped my tool bag and ran. Ducked under, dragged the shutter down, jammed the pallet jack against it.",
+   "src": "n-7508bf8928.mp3",
+   "at": 306.906,
+   "dur": 6.191
+  },
+  {
+   "role": "n",
+   "text": "Something hit the metal right behind my back.",
+   "src": "n-42f9b85c5a.mp3",
+   "at": 313.447,
+   "dur": 2.273
+  },
+  {
+   "role": "n",
+   "text": "For a long time, I just sat there, breathing.",
+   "src": "n-1bc7492690.mp3",
+   "at": 317.57,
+   "dur": 3.317
+  },
+  {
+   "role": "n",
+   "text": "I still needed the van key.",
+   "src": "n-aa90733e5b.mp3",
+   "at": 321.237,
+   "dur": 1.881
+  },
+  {
+   "role": "n",
+   "text": "And a clear way to the cab.",
+   "src": "n-a970145717.mp3",
+   "at": 323.468,
+   "dur": 1.802
+  },
+  {
+   "role": "n",
+   "text": "That night, two four-packs of double A batteries were missing.",
+   "src": "n-e2c26751c6.mp3",
+   "at": 325.621,
+   "dur": 3.161
+  },
+  {
+   "role": "n",
+   "text": "On Day 4, I finally moved the shelf to reach the cleaning supplies.",
+   "src": "n-d2de0a47d4.mp3",
+   "at": 330.331,
+   "dur": 3.971
+  },
+  {
+   "role": "n",
+   "text": "I unloaded it, then dragged it clear.",
+   "src": "n-c39c4c1360.mp3",
+   "at": 334.652,
+   "dur": 2.351
+  },
+  {
+   "role": "n",
+   "text": "Then I heard a cough. And a weak knock.",
+   "src": "n-798e25c2d3.mp3",
+   "at": 337.353,
+   "dur": 2.691
+  },
+  {
+   "role": "m",
+   "text": "Please... the shelf. I can't move it.",
+   "src": "m-032cc68677.mp3",
+   "at": 340.393,
+   "dur": 3.004
+  },
+  {
+   "role": "n",
+   "text": "The office door was open a crack. Behind it was a woman with a bandaged hand.",
+   "src": "n-83050386f7.mp3",
+   "at": 343.848,
+   "dur": 4.284
+  },
+  {
+   "role": "n",
+   "text": "Her name was Maya.",
+   "src": "n-6cc5567889.mp3",
+   "at": 348.482,
+   "dur": 1.228
+  },
+  {
+   "role": "n",
+   "text": "She'd worked on our doors and speaker.",
+   "src": "n-b20edf1191.mp3",
+   "at": 350.059,
+   "dur": 2.194
+  },
+  {
+   "role": "n",
+   "text": "She said she'd run in through the dock on the first night.",
+   "src": "n-71009fef02.mp3",
+   "at": 352.604,
+   "dur": 2.586
+  },
+  {
+   "role": "n",
+   "text": "My shelf had hit the office door.",
+   "src": "n-07126ed40c.mp3",
+   "at": 355.54,
+   "dur": 2.038
+  },
+  {
+   "role": "n",
+   "text": "The door had knocked her into the desk.",
+   "src": "n-f284c161c3.mp3",
+   "at": 357.927,
+   "dur": 2.038
+  },
+  {
+   "role": "n",
+   "text": "She'd had water, snacks, and a tiny washroom in there.",
+   "src": "n-9bb188747a.mp3",
+   "at": 360.315,
+   "dur": 3.631
+  },
+  {
+   "role": "n",
+   "text": "She'd tried calling. Tried the high window that morning.",
+   "src": "n-98ba8666d5.mp3",
+   "at": 364.296,
+   "dur": 3.004
+  },
+  {
+   "role": "n",
+   "text": "That's where she'd cut her hand.",
+   "src": "n-fe33a58a25.mp3",
+   "at": 367.65,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "She'd been sixty feet away.",
+   "src": "n-cc77c4501a.mp3",
+   "at": 369.724,
+   "dur": 1.881
+  },
+  {
+   "role": "n",
+   "text": "The whole time.",
+   "src": "n-e6b9866157.mp3",
+   "at": 372.255,
+   "dur": 1.071
+  },
+  {
+   "role": "n",
+   "text": "Then she held up a set of keys.",
+   "src": "n-87f53788fb.mp3",
+   "at": 373.676,
+   "dur": 1.959
+  },
+  {
+   "role": "n",
+   "text": "She'd found them at the dock, where the driver dropped them.",
+   "src": "n-53387680eb.mp3",
+   "at": 375.985,
+   "dur": 2.769
+  },
+  {
+   "role": "n",
+   "text": "I looked at the keys.",
+   "src": "n-f41b7116f6.mp3",
+   "at": 379.104,
+   "dur": 1.228
+  },
+  {
+   "role": "n",
+   "text": "Then I looked at her hand.",
+   "src": "n-6ab81ee679.mp3",
+   "at": 381.081,
+   "dur": 1.411
+  },
+  {
+   "role": "m",
+   "text": "It's glass. I swear it's glass.",
+   "src": "m-fd2ce62eef.mp3",
+   "at": 383.642,
+   "dur": 2.847
+  },
+  {
+   "role": "n",
+   "text": "I believed her. Mostly.",
+   "src": "n-4133349caf.mp3",
+   "at": 386.939,
+   "dur": 2.194
+  },
+  {
+   "role": "n",
+   "text": "But the news said twenty-four hours. Fever first, then... the rest.",
+   "src": "n-83f399af0d.mp3",
+   "at": 389.484,
+   "dur": 4.598
+  },
+  {
+   "role": "n",
+   "text": "We agreed she'd stay in the office until three the next afternoon.",
+   "src": "n-1a38a5b8db.mp3",
+   "at": 394.431,
+   "dur": 3.474
+  },
+  {
+   "role": "n",
+   "text": "Twenty-four hours. I'd check on her every few hours.",
+   "src": "n-a2dba03f59.mp3",
+   "at": 398.255,
+   "dur": 3.239
+  },
+  {
+   "role": "n",
+   "text": "If a fever started, we'd know.",
+   "src": "n-3da9f87ed8.mp3",
+   "at": 401.844,
+   "dur": 2.273
+  },
+  {
+   "role": "n",
+   "text": "She handed me the keys so I could keep them safe while she waited.",
+   "src": "n-1492509dcd.mp3",
+   "at": 404.467,
+   "dur": 3.317
+  },
+  {
+   "role": "n",
+   "text": "It sounded fair when I said it out loud.",
+   "src": "n-2bfe2d256e.mp3",
+   "at": 408.135,
+   "dur": 2.194
+  },
+  {
+   "role": "n",
+   "text": "That night, I waited until she was asleep.",
+   "src": "n-40d86adfd7.mp3",
+   "at": 410.679,
+   "dur": 2.429
+  },
+  {
+   "role": "n",
+   "text": "Then I slid the outside latch shut.",
+   "src": "n-3c51f7d667.mp3",
+   "at": 413.458,
+   "dur": 1.881
+  },
+  {
+   "role": "n",
+   "text": "We agreed on twenty-four hours.",
+   "src": "n-154e75f14e.mp3",
+   "at": 417.189,
+   "dur": 1.881
+  },
+  {
+   "role": "n",
+   "text": "I added the latch on my own.",
+   "src": "n-d915b49c12.mp3",
+   "at": 419.42,
+   "dur": 1.567
+  },
+  {
+   "role": "n",
+   "text": "At three o'clock on Day 5, she had no fever. No shaking. Nothing.",
+   "src": "n-5150af355c.mp3",
+   "at": 422.337,
+   "dur": 4.441
+  },
+  {
+   "role": "n",
+   "text": "I opened the door. She looked at the latch. Then at me.",
+   "src": "n-aa115818d9.mp3",
+   "at": 427.128,
+   "dur": 3.631
+  },
+  {
+   "role": "m",
+   "text": "I heard that last night.",
+   "src": "m-f9076e8b1f.mp3",
+   "at": 431.109,
+   "dur": 1.724
+  },
+  {
+   "role": "m",
+   "text": "I agreed to stay. I didn't agree to let you decide when I get out.",
+   "src": "m-d6b443fee9.mp3",
+   "at": 433.683,
+   "dur": 4.049
+  },
+  {
+   "role": "n",
+   "text": "She didn't leave. There was nowhere to go.",
+   "src": "n-b82b4f8d90.mp3",
+   "at": 438.182,
+   "dur": 2.508
+  },
+  {
+   "role": "n",
+   "text": "She set one rule.",
+   "src": "n-89a9aa0012.mp3",
+   "at": 441.04,
+   "dur": 1.411
+  },
+  {
+   "role": "m",
+   "text": "From now on, we make those calls together.",
+   "src": "m-f470a3d949.mp3",
+   "at": 442.8,
+   "dur": 2.847
+  },
+  {
+   "role": "n",
+   "text": "I said yes, and I gave her the keys back.",
+   "src": "n-d8f33dce87.mp3",
+   "at": 446.098,
+   "dur": 2.691
+  },
+  {
+   "role": "n",
+   "text": "That evening, she showed me the backup circuits.",
+   "src": "n-9777a0d34a.mp3",
+   "at": 449.138,
+   "dur": 2.508
+  },
+  {
+   "role": "n",
+   "text": "I told myself the latch kept us safe.",
+   "src": "n-141418cb23.mp3",
+   "at": 453.996,
+   "dur": 2.429
+  },
+  {
+   "role": "n",
+   "text": "It only kept me comfortable.",
+   "src": "n-a0012d622f.mp3",
+   "at": 457.075,
+   "dur": 1.567
+  },
+  {
+   "role": "n",
+   "text": "That night, we were both in the stockroom when it came again.",
+   "src": "n-45a73f6a32.mp3",
+   "at": 459.993,
+   "dur": 3.239
+  },
+  {
+   "role": "n",
+   "text": "We ran. The checkout screen had already gone back to its welcome page. No one was there.",
+   "src": "n-b6d07670c4.mp3",
+   "at": 464.782,
+   "dur": 4.833
+  },
+  {
+   "role": "n",
+   "text": "But a receipt was waiting in the tray.",
+   "src": "n-acd262d1d7.mp3",
+   "at": 469.964,
+   "dur": 2.038
+  },
+  {
+   "role": "n",
+   "text": "It listed the same things I'd already counted missing.",
+   "src": "n-2dd9333d94.mp3",
+   "at": 474.852,
+   "dur": 2.847
+  },
+  {
+   "role": "m",
+   "text": "I was with you.",
+   "src": "m-3a9ea1151d.mp3",
+   "at": 478.049,
+   "dur": 1.306
+  },
+  {
+   "role": "n",
+   "text": "I checked every outside door.",
+   "src": "n-e31df7974e.mp3",
+   "at": 479.805,
+   "dur": 1.959
+  },
+  {
+   "role": "n",
+   "text": "Nothing had been forced.",
+   "src": "n-26eccf0b56.mp3",
+   "at": 482.114,
+   "dur": 1.489
+  },
+  {
+   "role": "n",
+   "text": "Maya was right beside me. Every door was locked.",
+   "src": "n-bcf33f49f3.mp3",
+   "at": 484.753,
+   "dur": 3.161
+  },
+  {
+   "role": "n",
+   "text": "So who was shopping in my store?",
+   "src": "n-7469b39581.mp3",
+   "at": 488.864,
+   "dur": 1.802
+  }
+ ],
+ "shots": [
+  {
+   "img": "s01b",
+   "at": 0.0,
+   "to": 4.825
+  },
+  {
+   "img": "s01a",
+   "at": 4.825,
+   "to": 11.703
+  },
+  {
+   "img": "s01c",
+   "at": 11.703,
+   "to": 17.956
+  },
+  {
+   "img": "s02a",
+   "at": 17.956,
+   "to": 31.296
+  },
+  {
+   "img": "07-sco-khoi-dong",
+   "at": 31.296,
+   "to": 33.997
+  },
+  {
+   "img": "s02b",
+   "at": 33.997,
+   "to": 36.933
+  },
+  {
+   "img": "s03a",
+   "at": 36.933,
+   "to": 47.313
+  },
+  {
+   "img": "s03b",
+   "at": 47.313,
+   "to": 52.741
+  },
+  {
+   "img": "s04a",
+   "at": 52.741,
+   "to": 55.129
+  },
+  {
+   "img": "s04b",
+   "at": 55.129,
+   "to": 62.307
+  },
+  {
+   "img": "s04c",
+   "at": 62.307,
+   "to": 69.162
+  },
+  {
+   "img": "01-zombie-toi-cua",
+   "at": 69.162,
+   "to": 75.712
+  },
+  {
+   "img": "02-cua-tu-dong-mo",
+   "at": 75.712,
+   "to": 80.123
+  },
+  {
+   "img": "03-dan-quay-dau",
+   "at": 80.123,
+   "to": 88.618
+  },
+  {
+   "img": "04-vuong-xe-day",
+   "at": 88.618,
+   "to": 92.207
+  },
+  {
+   "img": "05-chay-toi-quay",
+   "at": 92.207,
+   "to": 95.483
+  },
+  {
+   "img": "06-hop-dieu-khien",
+   "at": 95.483,
+   "to": 100.13
+  },
+  {
+   "img": "07-sco-khoi-dong",
+   "at": 100.13,
+   "to": 105.39
+  },
+  {
+   "img": "06-hop-dieu-khien",
+   "at": 105.39,
+   "to": 107.411
+  },
+  {
+   "img": "08-khoa-tay-cua",
+   "at": 107.411,
+   "to": 115.995
+  },
+  {
+   "img": "09-lui-xa",
+   "at": 115.995,
+   "to": 120.873
+  },
+  {
+   "img": "s06a",
+   "at": 120.873,
+   "to": 132.545
+  },
+  {
+   "img": "s06b",
+   "at": 132.545,
+   "to": 146.273
+  },
+  {
+   "img": "s07a",
+   "at": 146.273,
+   "to": 157.423
+  },
+  {
+   "img": "s07b",
+   "at": 157.423,
+   "to": 169.132
+  },
+  {
+   "img": "s08a",
+   "at": 169.132,
+   "to": 177.026
+  },
+  {
+   "img": "s08c",
+   "at": 177.026,
+   "to": 190.118
+  },
+  {
+   "img": "s08b",
+   "at": 190.118,
+   "to": 195.144
+  },
+  {
+   "img": "s09a",
+   "at": 195.144,
+   "to": 200.546
+  },
+  {
+   "img": "s09b",
+   "at": 200.546,
+   "to": 209.004
+  },
+  {
+   "img": "s09a",
+   "at": 209.004,
+   "to": 215.686
+  },
+  {
+   "img": "s09c",
+   "at": 215.686,
+   "to": 226.349
+  },
+  {
+   "img": "s10a",
+   "at": 226.349,
+   "to": 232.822
+  },
+  {
+   "img": "s10b",
+   "at": 232.822,
+   "to": 242.806
+  },
+  {
+   "img": "s10c",
+   "at": 242.806,
+   "to": 253.192
+  },
+  {
+   "img": "s11a",
+   "at": 253.192,
+   "to": 259.169
+  },
+  {
+   "img": "s11b",
+   "at": 259.169,
+   "to": 272.758
+  },
+  {
+   "img": "s11c",
+   "at": 272.758,
+   "to": 280.44
+  },
+  {
+   "img": "s12a",
+   "at": 280.44,
+   "to": 294.692
+  },
+  {
+   "img": "s12b",
+   "at": 294.692,
+   "to": 301.4
+  },
+  {
+   "img": "s12c",
+   "at": 301.4,
+   "to": 306.906
+  },
+  {
+   "img": "s12d",
+   "at": 306.906,
+   "to": 313.447
+  },
+  {
+   "img": "s12e",
+   "at": 313.447,
+   "to": 316.07
+  },
+  {
+   "img": "s12f",
+   "at": 316.07,
+   "to": 325.621
+  },
+  {
+   "img": "s12g",
+   "at": 325.621,
+   "to": 330.331
+  },
+  {
+   "img": "s13a",
+   "at": 330.331,
+   "to": 337.353
+  },
+  {
+   "img": "s13b",
+   "at": 337.353,
+   "to": 343.848
+  },
+  {
+   "img": "s13c",
+   "at": 343.848,
+   "to": 352.604
+  },
+  {
+   "img": "s06a",
+   "at": 352.604,
+   "to": 355.54
+  },
+  {
+   "img": "s06b",
+   "at": 355.54,
+   "to": 360.315
+  },
+  {
+   "img": "s13c",
+   "at": 360.315,
+   "to": 373.676
+  },
+  {
+   "img": "s13d",
+   "at": 373.676,
+   "to": 379.104
+  },
+  {
+   "img": "s13e",
+   "at": 379.104,
+   "to": 383.642
+  },
+  {
+   "img": "s14a",
+   "at": 383.642,
+   "to": 389.484
+  },
+  {
+   "img": "s03a",
+   "at": 389.484,
+   "to": 394.431
+  },
+  {
+   "img": "s14a",
+   "at": 394.431,
+   "to": 404.467
+  },
+  {
+   "img": "s14b",
+   "at": 404.467,
+   "to": 410.679
+  },
+  {
+   "img": "s14c",
+   "at": 410.679,
+   "to": 422.337
+  },
+  {
+   "img": "s15a",
+   "at": 422.337,
+   "to": 431.109
+  },
+  {
+   "img": "s15b",
+   "at": 431.109,
+   "to": 438.182
+  },
+  {
+   "img": "s15a",
+   "at": 438.182,
+   "to": 441.04
+  },
+  {
+   "img": "s15b",
+   "at": 441.04,
+   "to": 446.098
+  },
+  {
+   "img": "s15c",
+   "at": 446.098,
+   "to": 449.138
+  },
+  {
+   "img": "s15d",
+   "at": 449.138,
+   "to": 451.996
+  },
+  {
+   "img": "s15e",
+   "at": 451.996,
+   "to": 459.993
+  },
+  {
+   "img": "s16a",
+   "at": 459.993,
+   "to": 464.782
+  },
+  {
+   "img": "s16b",
+   "at": 464.782,
+   "to": 469.964
+  },
+  {
+   "img": "s16c",
+   "at": 469.964,
+   "to": 479.805
+  },
+  {
+   "img": "s16d",
+   "at": 479.805,
+   "to": 483.953
+  },
+  {
+   "img": "s16e",
+   "at": 483.953,
+   "to": 493.016
+  },
+  {
+   "img": "END",
+   "at": 493.016,
+   "to": 503.016
+  }
+ ],
+ "sfx": [
+  {
+   "s": "drone_cold",
+   "at": 0.0,
+   "v": 0.4
+  },
+  {
+   "s": "crowd",
+   "at": 0.0,
+   "v": 0.6
+  },
+  {
+   "s": "glass_creak",
+   "at": 0.0,
+   "v": 0.7
+  },
+  {
+   "s": "glass_crack",
+   "at": 16.956,
+   "v": 0.9
+  },
+  {
+   "s": "store_hum",
+   "at": 17.956,
+   "v": 0.3
+  },
+  {
+   "s": "radio_static",
+   "at": 36.933,
+   "v": 0.5
+  },
+  {
+   "s": "radio_static",
+   "at": 43.567,
+   "v": 0.5
+  },
+  {
+   "s": "basket_drop",
+   "at": 47.313,
+   "v": 0.8
+  },
+  {
+   "s": "car_away",
+   "at": 52.741,
+   "v": 0.6
+  },
+  {
+   "s": "footsteps_run",
+   "at": 62.307,
+   "v": 0.6
+  },
+  {
+   "s": "groan_far",
+   "at": 69.162,
+   "v": 0.5
+  },
+  {
+   "s": "door_slide",
+   "at": 72.515,
+   "v": 0.6
+  },
+  {
+   "s": "groan",
+   "at": 77.736,
+   "v": 0.55
+  },
+  {
+   "s": "crowd",
+   "at": 80.123,
+   "v": 0.45
+  },
+  {
+   "s": "footsteps_run",
+   "at": 92.207,
+   "v": 0.5
+  },
+  {
+   "s": "switch",
+   "at": 95.483,
+   "v": 0.9
+  },
+  {
+   "s": "flicker",
+   "at": 95.483,
+   "v": 0.5
+  },
+  {
+   "s": "switch",
+   "at": 100.13,
+   "v": 0.9
+  },
+  {
+   "s": "sco_beep",
+   "at": 103.066,
+   "v": 0.7
+  },
+  {
+   "s": "switch",
+   "at": 106.811,
+   "v": 0.9
+  },
+  {
+   "s": "door_slide",
+   "at": 107.411,
+   "v": 0.6
+  },
+  {
+   "s": "lock",
+   "at": 111.69,
+   "v": 0.9
+  },
+  {
+   "s": "glass_thump",
+   "at": 113.45,
+   "v": 0.9
+  },
+  {
+   "s": "shutter",
+   "at": 125.272,
+   "v": 0.7
+  },
+  {
+   "s": "crash",
+   "at": 137.1,
+   "v": 0.8
+  },
+  {
+   "s": "thud_far",
+   "at": 149.862,
+   "v": 0.6
+  },
+  {
+   "s": "click",
+   "at": 157.423,
+   "v": 0.6
+  },
+  {
+   "s": "hum_down",
+   "at": 169.132,
+   "v": 0.5
+  },
+  {
+   "s": "click",
+   "at": 190.118,
+   "v": 0.6
+  },
+  {
+   "s": "faucet",
+   "at": 200.546,
+   "v": 0.6
+  },
+  {
+   "s": "tape",
+   "at": 226.349,
+   "v": 0.6
+  },
+  {
+   "s": "rain",
+   "at": 232.822,
+   "v": 0.4
+  },
+  {
+   "s": "glass_thump",
+   "at": 239.374,
+   "v": 0.6
+  },
+  {
+   "s": "click",
+   "at": 242.806,
+   "v": 0.7
+  },
+  {
+   "s": "scratch",
+   "at": 245.272,
+   "v": 0.6
+  },
+  {
+   "s": "sco_beep",
+   "at": 259.769,
+   "v": 0.5
+  },
+  {
+   "s": "thud",
+   "at": 272.758,
+   "v": 0.7
+  },
+  {
+   "s": "shutter",
+   "at": 294.692,
+   "v": 0.7
+  },
+  {
+   "s": "groan_far",
+   "at": 301.4,
+   "v": 0.5
+  },
+  {
+   "s": "footsteps_run",
+   "at": 301.4,
+   "v": 0.5
+  },
+  {
+   "s": "groan",
+   "at": 304.519,
+   "v": 0.5
+  },
+  {
+   "s": "tools_drop",
+   "at": 306.906,
+   "v": 0.7
+  },
+  {
+   "s": "shutter_hit",
+   "at": 313.447,
+   "v": 1.0
+  },
+  {
+   "s": "breath",
+   "at": 316.07,
+   "v": 0.6
+  },
+  {
+   "s": "drag",
+   "at": 334.652,
+   "v": 0.6
+  },
+  {
+   "s": "cough",
+   "at": 337.353,
+   "v": 0.6
+  },
+  {
+   "s": "knock",
+   "at": 340.393,
+   "v": 0.6
+  },
+  {
+   "s": "keys",
+   "at": 373.676,
+   "v": 0.6
+  },
+  {
+   "s": "keys",
+   "at": 404.467,
+   "v": 0.5
+  },
+  {
+   "s": "lock",
+   "at": 415.689,
+   "v": 0.9
+  },
+  {
+   "s": "door_open",
+   "at": 427.128,
+   "v": 0.6
+  },
+  {
+   "s": "sco_beep",
+   "at": 463.582,
+   "v": 0.45
+  },
+  {
+   "s": "footsteps_run",
+   "at": 464.782,
+   "v": 0.6
+  }
+ ],
+ "hud": [
+  {
+   "key": "day",
+   "val": 14,
+   "at": 0.0
+  },
+  {
+   "key": "day",
+   "val": 1,
+   "at": 17.956
+  },
+  {
+   "key": "day",
+   "val": 2,
+   "at": 169.132
+  },
+  {
+   "key": "water",
+   "val": "117 L",
+   "at": 195.144
+  },
+  {
+   "key": "day",
+   "val": 3,
+   "at": 280.44
+  },
+  {
+   "key": "water",
+   "val": "114 L",
+   "at": 280.44
+  },
+  {
+   "key": "key",
+   "val": "MISSING",
+   "at": 329.131
+  },
+  {
+   "key": "day",
+   "val": 4,
+   "at": 330.331
+  },
+  {
+   "key": "water",
+   "val": "111 L",
+   "at": 330.331
+  },
+  {
+   "key": "day",
+   "val": 5,
+   "at": 422.337
+  },
+  {
+   "key": "water",
+   "val": "108 L",
+   "at": 422.337
+  },
+  {
+   "key": "key",
+   "val": "FOUND",
+   "at": 449.138
+  }
+ ],
+ "cards": [
+  {
+   "text": "Rule #1: Silence everything you don't need.",
+   "at": 167.132
+  },
+  {
+   "text": "Light is an invitation.",
+   "at": 251.192
+  },
+  {
+   "text": "DAY 4 · 3:00 P.M.",
+   "at": 383.642
+  }
+ ],
+ "tags": [
+  {
+   "text": "SUNRISE BAKERY",
+   "at": 375.985
+  }
+ ],
+ "receipts": [
+  {
+   "at": 472.352
+  }
+ ]
+}

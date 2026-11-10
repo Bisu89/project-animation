@@ -1,0 +1,1 @@
+{"dat":true,"cat_den":null,"loi":[{"giay":7.0,"mo_ta":"Elise kéo thước dọc cạnh dài của khung gần máy thay vì đo qua lối đi tới khung phía xa như yêu cầu. Đây là sai lệch động tác, chưa có lỗi vô lý rõ ràng khi xem nhanh."}],"sua_prompt":""}

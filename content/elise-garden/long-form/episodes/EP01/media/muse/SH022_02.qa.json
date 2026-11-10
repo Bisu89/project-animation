@@ -1,0 +1,12 @@
+{
+ "dat": true,
+ "cat_den": null,
+ "loi": [
+  {
+   "giay": 9.5,
+   "mo_ta": "Elise đi xa máy quay hơn khung cuối tham chiếu, khiến người và máy cắt cỏ nhỏ hơn; đây là sai khác bố cục, không phải lỗi vô lý rõ ràng."
+  }
+ ],
+ "sua_prompt": "",
+ "lan_gen": 1
+}

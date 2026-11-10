@@ -1,8 +1,9 @@
 {
   "series": "Elise Wild",
-  "url": "https://muse.ai/thread/776748c6-6573-40b6-a189-2ba25f42e215",
-  "profile": "chrome-profile",
-  "port": 9334,
+  "url": "",
+  "profile": "chrome-profile-3",
+  "port": 9336,
   "clip_qa": "gpt",
-  "video_spec": "khung NGANG 16:9 (1920x1080), 10 giây, video quay thật kiểu phim tài liệu ngoài trời, tốc độ thật, không timelapse, không chữ, không nhạc, không lời thoại"
+  "video_spec": "khung NGANG 16:9 (1920x1080), 10 giây, video quay thật kiểu phim tài liệu ngoài trời, tốc độ thật, không timelapse, không chữ, không nhạc, không lời thoại",
+  "url_cu": "https://muse.ai/thread/776748c6-6573-40b6-a189-2ba25f42e215"
 }

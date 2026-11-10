@@ -1,0 +1,16 @@
+{
+  "title": "Lose Your Phone",
+  "hook": "When you lose your phone 😂",
+  "lead": 1.1,
+  "gap": 0.2,
+  "tail": 0.9,
+  "engine": "vibi",
+  "model": "eleven_v3",
+  "voices": { "benny": "Liam (ElevenLabs premade) TX3LPaxmHKxFdv7VOQHJ" },
+  "lines": [
+    { "who": "benny", "text": "Where's my phone?", "voice": "TX3LPaxmHKxFdv7VOQHJ", "say": "[panicked] Wait... where's my phone?!" },
+    { "who": "benny", "text": "Not here... not here...", "voice": "TX3LPaxmHKxFdv7VOQHJ", "say": "[frantic, out of breath] No... not here... not here...", "pause": 0.5 },
+    { "who": "benny", "text": "Come on, come on...", "voice": "TX3LPaxmHKxFdv7VOQHJ", "say": "[muttering to himself] Come on, come on, come on...", "pause": 0.9 },
+    { "who": "benny", "text": "Where's my phone?", "voice": "TX3LPaxmHKxFdv7VOQHJ", "say": "[panicked] Wait... where's my phone?!", "pause": 4.6 }
+  ]
+}

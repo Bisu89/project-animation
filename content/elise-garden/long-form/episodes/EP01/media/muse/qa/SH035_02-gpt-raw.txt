@@ -1,0 +1,1 @@
+{"dat":true,"cat_den":null,"loi":[{"giay":5.0,"mo_ta":"Khung gỗ được xoay gần như nhìn cạnh và giữ ở tư thế này đến cuối, khác hướng chính diện của khung cuối tham chiếu; không phải lỗi vô lý."},{"giay":6.0,"mo_ta":"Elise đứng giữ khung khá lâu đến hết clip, khiến nhịp hành động hơi chững."}],"sua_prompt":""}

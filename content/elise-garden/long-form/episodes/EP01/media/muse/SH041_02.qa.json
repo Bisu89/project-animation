@@ -1,0 +1,12 @@
+{
+ "dat": true,
+ "cat_den": null,
+ "loi": [
+  {
+   "giay": 7.0,
+   "mo_ta": "Động tác gần như dừng lại đến cuối clip, tay vẫn giữ gần bó cọc; việc buông tay sau khi tựa cọc chưa rõ."
+  }
+ ],
+ "sua_prompt": "",
+ "lan_gen": 1
+}

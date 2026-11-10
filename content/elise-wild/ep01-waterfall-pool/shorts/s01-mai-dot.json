@@ -1,0 +1,23 @@
+{
+  "out": "shorts/s01-mai-dot.mp4",
+  "canh": [
+    {"phan_doan": "p7-mua", "clip": "4", "tu": 0, "den": 7, "crop_x": 0.85},
+    {"phan_doan": "p7-mua", "clip": "1", "tu": 0, "den": 5},
+    {"phan_doan": "p7-mua", "clip": "2", "tu": 0, "den": 6.5, "crop_x": 0.35},
+    {"phan_doan": "p7-mua", "clip": "5", "tu": 0, "den": 7.5, "crop_x": 0.88},
+    {"phan_doan": "p7-mua", "clip": "6", "tu": 0, "den": 7.5, "crop_x": 0.55},
+    {"phan_doan": "p7-mua", "clip": "7", "tu": 0, "den": 6}
+  ],
+  "loi": [
+    {"canh": 0, "giong": "elise", "text": "I built this roof from fir boughs. At eight o'clock... it started leaking."},
+    {"canh": 1, "giong": "elise", "text": "Half past six. Early. Of course."},
+    {"canh": 2, "giong": "elise", "text": "No thunder forecast. I keep checking, and I'd leave well before any storm."},
+    {"canh": 3, "giong": "elise", "text": "Grandma's old mug. Forty summers of trips, and tonight it catches my leak."},
+    {"canh": 4, "giong": "elise", "text": "My roof managed ninety minutes. Not perfect, but I'm staying dry."}
+  ],
+  "chu": [
+    {"tu": 0, "den": 6.5, "kieu": "moc", "text": "My fir-bough roof vs. the rain"},
+    {"tu": 7.2, "den": 11.8, "kieu": "moc", "text": "18:30"},
+    {"tu": 34.5, "den": -0.1, "kieu": "ket", "text": "Full story: Page 1 — The Waterfall Pool · Fictional story, AI-generated"}
+  ]
+}

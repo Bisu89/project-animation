@@ -6,6 +6,9 @@ Last updated: 2026-10-16. Repo: `C:\Users\hoavx\Desktop\stickman-video`. Everyth
 **Elise DIY series (2026-11-04): đọc `docs/elise-diy-ban-giao.md` trước** (tình trạng tập 02–06, quy trình chuẩn,
 tài khoản Muse và profile Chrome, các quy tắc chủ dự án đã chốt). Quy trình tool chung: `docs/muse-video-pipeline.md`.
 
+**Elise Garden (2026-11-04, tập 01 chờ xem/chốt):** `content/elise-garden/SERIES-PLAN.md`; phân tích reel lát cà chua
+trong `PHAN-TICH-VIDEO-MAU.md`, nhịp tập thử trong `ep01-tomato-slices/NOI-DUNG.md` cùng thư mục series. Dùng yếm short rằn ri + áo cam cổ tim. **Bản dựng:** `content/elise-garden/ep01-tomato-slices/video/final.mp4`, 28,7 giây, 1080 × 1920/30 fps, có âm thanh, nhãn thời gian/AI. Đã đủ bộ khung và 11 clip, đã xem lưới toàn bản; điểm cắt trong CSV và `QA-KHUNG.md`. Muse: profile riêng `chrome-profile-4`, cổng 9337 (`muse-auto/1-dang-nhap-garden.bat`), chat tự tạo lần chạy đầu. Script riêng: `content/elise-garden/scripts/render_tap01.py` (gọi tool Muse có sẵn), `dung_tap01.py` (ghép + nhãn/crop/âm thanh). Chưa chốt, chưa dọn nháp, chưa làm tập 02; không chạy hai lượt vào cùng chat.
+
 **Rule (2026-10-29): after every finished render, delete the intermediate files (test stills, contact sheets, frame dumps, draft mp4s); details in `CLAUDE.md`.**
 
 ## ELISE WILD tập 01 — tình trạng cuối ngày 2026-11-03 (đọc phần này trước nếu làm tiếp Elise Wild)
@@ -22,7 +25,11 @@ của bà, nhóm lửa bằng bật lửa, củi nhặt đời thường). Mỗi
 | 4 Nước | `p4-nuoc/` | XONG, 24 s (thứ tự: lọc qua khăn → đậy nắp → nồi/xô cạnh bếp) |
 | 5 Lửa | `p5-lua/` | XONG, 58 s (C37 dùng ảnh `ew1-501b-...`, không ba lô) |
 | 6 Trà và bữa tối (C47–C57) | `p6-bua-toi/` | Bản sửa 2026-11-04 (chủ dự án duyệt): nồi mì + xúc xích khô, ăn trên gốc cây cưa, bỏ gió/túi ngủ/gói súp; 3 bước dập lửa Drown · Stir · Feel có chữ đè. `final.mp4` 76 s, 11 clip, chờ chủ dự án xem. Ảnh tham chiếu Elise cho Muse dùng `ew1-605-an-sup.png` (ảnh A có dây ba lô → Muse vẽ ba lô). Lưu ý: shell của Claude không vào được muse.ai, nhưng Chrome 9334 đang mở thì tool vẫn chạy được (chạy ngoài sandbox) |
-| 7 Mưa (C59–C65), 8 Trang 1968 (C66–C71), 9 Thư (C72–C77), 10 Sáng (C78–C82) | chưa có | Nội dung đã duyệt trong KICH-BAN.md. Làm như p6: viết CSV (`gen-anh.csv` cột `stt,ten_file,ty_le,gui_kem,prompt`; `gen-video.csv` cột `stt,doan,luu_tai,khung_dau,khung_cuoi,anh_tham_chieu,prompt,am_thanh,dung_giay,che_do,cat_tu,cat_den`), xem CSV của `p6-bua-toi/` làm mẫu |
+| 7 Mưa (C59–C65) | `p7-mua/` | XONG, 7 clip, `final.mp4` 58 s, chờ chủ dự án xem (C64 gen lại vì đổi mặt). Lời C63 đổi: "Grandma's old mug. Forty summers of trips, and tonight it catches my leak." (vì đã bỏ cảnh trà) |
+| 8 Trang 1968 (C66–C71) | `p8-nhat-ky/` | XONG, 6 clip, chờ chủ dự án xem. C70 đổi (chủ dự án chọn 2026-11-04): Elise đã thay đồ ngủ nỉ xám, treo áo mưa lên xà (gen lại 1 lần vì áo biến mất) |
+| 9 Thư (C72–C77) | `p9-thu/` | XONG, 4 clip, 29,5 s. Bỏ C73 (vẽ bút chì hỏng) và C76 (thác ban ngày giữa đêm, chủ dự án 04/11). C72/C75 gen lại từ ảnh khô 901b/905b (bản cũ mưa ướt nhật ký); C75 cắt 5,5 s (hình vẽ hóa thác thật) |
+| 10 Sáng (C78–C82) | `p10-sang/` | XONG, 5 clip, 46 s (C82 gen lại vì Muse thêm chữ thừa) |
+| **TẬP 01 HOÀN THÀNH (2026-11-04)** | | `ep01-final.mp4` (10:07, 1080p, -14 LUFS, không nhạc) + `ep01-final.srt`. Lời dẫn vibi.pro (Elise = Jessa, bà = Jane): `python scripts/long_tieng.py --ep content/elise-wild/ep01-waterfall-pool` → `<phân đoạn>/video/final-loidan.mp4`; ghép tập `scripts/ghep_tap.py`; chữ đè + watermark "Elise Wild Studio" `scripts/chu_de.py --watermark "Elise Wild Studio"` (nội dung ở `loi-dan/chu-de.csv`, chữ có dấu phẩy phải trong ngoặc kép). Đã dọn nháp/clip bỏ. Khi đăng: bật nhãn "Altered or synthetic content" |
 
 Cách làm đã chốt với chủ dự án:
 - Duyệt nội dung phân đoạn trước. Gen ảnh, **tự xem từng ảnh**; ảnh nào đạt thì gửi Muse luôn (`run --csv ... --only <stt>`),
@@ -37,7 +44,6 @@ Cách làm đã chốt với chủ dự án:
   `content/elise-wild/muse-chat.json`. Elise DIY/Talent dùng `chrome-profile-2` cổng 9335 (phiên khác), **không đụng vào DIY**.
   Mỗi series chỉ một lượt Muse một lúc. Không xóa thư mục `chrome-profile*`.
 - Lỗi nhỏ đã chấp nhận: C18 Elise lùi hơi xa, C24 áo hơi ngả xám khi cận, C37 không ngoái nhìn lều, C41 chỉ giữ 2,8 s.
-- Còn dọn khi chốt: `test-p1/video/final-longtieng.mp4` (bản lồng giọng tạm), các `*.lan1.mp4` và `video/qa/` của p6.
 - Bước cuối (sau phân đoạn 10): ghép các `final.mp4` theo thứ tự + giọng ElevenLabs + chữ đè + nhãn AI.
 
 ## 0. LATEST STATE (2026-10-16) — read this section first

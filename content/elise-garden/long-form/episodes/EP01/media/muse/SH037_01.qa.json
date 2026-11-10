@@ -1,0 +1,16 @@
+{
+ "dat": true,
+ "cat_den": null,
+ "loi": [
+  {
+   "giay": 0.5,
+   "mo_ta": "Thân áo và tạp dề lọt vào khung hình, trong khi yêu cầu chỉ thấy bàn tay và cẳng tay."
+  },
+  {
+   "giay": 4.0,
+   "mo_ta": "Chi tiết ô bọt thủy giữa thước thay đổi nhẹ khi tay di chuyển qua, nhưng khó nhận ra khi xem nhanh."
+  }
+ ],
+ "sua_prompt": "",
+ "lan_gen": 1
+}

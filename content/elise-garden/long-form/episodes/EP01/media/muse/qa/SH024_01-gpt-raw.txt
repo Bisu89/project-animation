@@ -1,0 +1,1 @@
+{"dat":true,"cat_den":null,"loi":[{"giay":2.5,"mo_ta":"Chim nhỏ xuất hiện trên mép hàng rào bên phải và giữ vị trí nhiều giây, nhưng động tác bay tới và tiếp đất chưa thật rõ ở kích thước xem Reels."},{"giay":0.5,"mo_ta":"Máy quay dịch chuyển nhẹ, khiến phần hàng rào tiền cảnh bên phải lộ thêm; chưa đúng yêu cầu máy cố định."}],"sua_prompt":""}

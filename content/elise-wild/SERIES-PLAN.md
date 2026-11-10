@@ -101,6 +101,7 @@ Tập 01 dài khoảng 12 phút, chia 11 phân đoạn: mở đầu → đườn
   - Mỗi mẹo kỹ thuật phải đúng và đã kiểm chứng.
   - Giọng văn: bình tĩnh, hài hước nhẹ, ngôi thứ nhất.
 - **Giọng đọc: ElevenLabs** (chủ dự án chọn, 2026-11-02).
+  - **Giọng Elise: "Jessa - Easygoing and Effortless"**, voice ID `yj30vwTGJxSHezdAGsv9` (trẻ, Mỹ, tự nhiên). **Giọng bà Hélène: "Jane - Professional Audiobook Reader"**, voice ID `RILOU7YmBhvwJGDGjNmP` (Anh, khoảng 50+, giọng sách nói). Chủ dự án chốt 2026-11-04, thay Bella/Julie. Tạo qua vibi.pro (`scripts/vibi_tts.py`, key ở `.env` → `VIBI_API_KEY`). Model đề xuất: `eleven_multilingual_v2` (cả hai giọng đều hỗ trợ). Thông số độ ổn định/phong cách: ghi lại sau khi nghe thử.
   - **Dùng gói trả phí.** Gói trả phí mới có quyền dùng thương mại; gói miễn phí không được dùng cho video kiếm tiền.
   - **Cố định một giọng cho cả series,** lưu lại voice ID và các thông số (độ ổn định, phong cách). Đây là giọng của Elise, không đổi.
   - **Chỉ dùng giọng có sẵn trong thư viện hoặc giọng tự thiết kế.** Không nhân bản giọng người thật khi chưa có sự đồng ý.
@@ -115,7 +116,7 @@ Tập 01 dài khoảng 12 phút, chia 11 phân đoạn: mở đầu → đườn
 | Việc | Chi tiết |
 |---|---|
 | Nhãn nội dung AI | **Bật cho mọi video** trong YouTube Studio ("Altered or synthetic content"). Bắt buộc vì Elise trông như người thật |
-| Mô tả kênh | Nói rõ: *"A fictional animated adventure series. Visuals are AI-generated and narration is an AI voice (ElevenLabs). Story, script, field notes, editing and sound design by [tên kênh]."* Không nói như thể người làm kênh tự đi chuyến này hay tự lồng tiếng Elise |
+| Mô tả kênh | Nói rõ: *"A fictional animated adventure series. Visuals are AI-generated and narration is an AI voice (ElevenLabs). Story, script, field notes, editing and sound design by Elise Wild Studio."* Không nói như thể người làm kênh tự đi chuyến này hay tự lồng tiếng Elise |
 | Không giả làm người thật | Không viết "my real trip", không trả lời bình luận như thể Elise có thật |
 | Video hậu trường | Mỗi mùa 1 video: cách viết kịch bản, vẽ Field note, dựng âm thanh. Giúp thể hiện phần sáng tạo của người làm, nhưng không tự động bảo đảm được duyệt |
 | Ảnh thu nhỏ và tiêu đề | Trung thực, lành mạnh, tập trung vào thành quả (lều, lửa, trại), không câu view bằng nhân vật |
@@ -199,7 +200,7 @@ Các bước cho mỗi tập:
 2. **Lời dẫn:** tiếng Anh, phụ đề nhiều thứ tiếng (đã chốt 2026-11-02).
 3. **Giọng đọc:** ElevenLabs, gói trả phí (đã chốt).
 4. **Khung hình:** 16:9 cho video dài (đã chốt).
-5. **Kênh:** lập kênh mới riêng cho series (đã chốt).
+5. **Kênh:** lập kênh mới riêng cho series, tên **Elise Wild Studio** (đã chốt, tên kênh 2026-11-04).
 
 ---
 

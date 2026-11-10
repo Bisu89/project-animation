@@ -1,0 +1,66 @@
+phan_doan,clip,canh,giong,text
+test-p1,1,C01,elise,Rain arrives at seven tonight.
+test-p1,2,C02,elise,I have eight hours to build a shelter from what this forest gives me.
+test-p1,3,C03,elise,"My only guide: my grandmother's journal, from 1968."
+test-p1,4,C04,elise,She camped by a waterfall out here. Let's find it.
+test-p1,5,C05,elise,"Grandma's directions: 'Left at the split boulder.' Fifty-eight years, and it's still split."
+test-p1,6,C06,elise,"No trail signs in her day, just landmarks. I carry a map and compass too."
+test-p1,8,C07a,elise,"That's her, 1968. She's eighty-four now. She gave me this journal with one rule: read each page only on its night. And one request..."
+test-p1,9,C08,ba,Tell me if the waterfall still sings.
+test-p1,9,C08,elise,I promised to bring her the sound.
+test-p1,11,C10,elise,Same rock. Same falls.
+test-p1,12,C11,elise,"Grandma's exact spot. But see those logs jammed up here? Floodwater put them there. Not tonight."
+test-p1,14,C13,elise,"Uphill, away from flood channels, two hundred feet from water. Local rules first."
+test-p1,15,C14,elise,"This is an established campsite, with an old stone fire ring on bare soil. Campfires are allowed here today."
+test-p1,16,C15,elise,"No dead limbs overhead. Level ground. And I have permission to camp here."
+p3-leu,1,C16,elise,"Two trees, each with a fork at chest height."
+p3-leu,2,C17,elise,"A dead, fallen ridge pole. Sound and straight."
+p3-leu,3,C18,elise,It rests in both forks. A simple tie only stops it rolling.
+p3-leu,4,C19,elise,Two hard tugs. Nothing shifts.
+p3-leu,6,C21,elise,"A quick check, not a guarantee. No cracks, no movement."
+p3-leu,7,C22,elise,I copied Grandma's shallow angle first.
+p3-leu,8,C23,elise,"Then rebuilt it steeper, feet braced against logs to help stop sliding."
+p3-leu,9,C24,elise,"Her drawing is neater. Mine should shed rain faster. I hope."
+p3-leu,10,C25,elise,"Grandma used ferns. I'm using fir boughs from last week's storm."
+p3-leu,11,C26,elise,"Bottom first, each layer overlapping. Boughs leave gaps, so this is an experiment, not a waterproof roof."
+p3-leu,13,C28,elise,Light along the ridge. That's a likely leak point.
+p3-leu,14,C29,elise,"One more overlapping layer on top. Better. Not perfect."
+p3-leu,15,C30,elise,Dry leaves for the floor. Pad and bag stay sealed until I trust this roof.
+p3-leu,16,C31,elise,An insulated sleeping pad cuts heat loss to the ground. Dry leaves add a little more.
+p3-leu,17,C32,elise,How long will it hold? That's tonight's experiment.
+p4-nuoc,1,C35,elise,"Water before any fire. A pot to drink, a bucket for the fire."
+p4-nuoc,1,C34,elise,"Cloth removes debris. Boiling disinfects: one full minute at a rolling boil. We're low, so one minute."
+p4-nuoc,3,C36,elise,"Grandma's note: 'Drank from the falls. Stomach regretted it.' Even in 1968, a bad idea."
+p5-lua,1,C37,elise,"Five meters to the nearest bough, and upwind. If the wind rises, the fire goes out."
+p5-lua,2,C38,elise,"Dry, fallen wood. No rain in days, so there's plenty."
+p5-lua,3,C39,elise,That should do.
+p5-lua,5,C42,elise,"Grandma's note: 'Fire on the first strike.' Then, smaller: 'Ha.' I brought a lighter."
+p5-lua,6,C43,elise,One click.
+p5-lua,7,C44,elise,There.
+p5-lua,8,C45,elise,Feed it slowly.
+p6-bua-toi,2,C49,ba,"Afternoon: watched an otter in the pool for an hour. Built nothing. Regretted it at nine."
+p6-bua-toi,3,C50,elise,"Dinner. Grandma's journal says: 'Soup. Again.' Mine is noodles."
+p6-bua-toi,4,C51,elise,"And dried sausage, sliced at home."
+p6-bua-toi,6,C53,elise,Hot handle. Something between me and the metal.
+p6-bua-toi,7,C54,elise,"One pot, no dishes. Worth it."
+p6-bua-toi,8,C55,elise,"Rain at seven. Fire goes out before I leave it. Drown it."
+p6-bua-toi,9,C56,elise,"Stir the coals, the edges. Drown it again."
+p6-bua-toi,10,C57,elise,"Then check, without touching. Nothing warm."
+p7-mua,1,C59,elise,"Half past six. Early. Of course."
+p7-mua,2,C60,elise,"No thunder forecast. I keep checking, and I'd leave well before any storm."
+p7-mua,3,C61,elise,"Hear thunder? Go to the visitor center, fifteen minutes away. No shelter out here protects you from lightning."
+p7-mua,4,C62,elise,"Eight o'clock. And... a leak by my feet."
+p7-mua,5,C63,elise,"Grandma's old mug. Forty summers of trips, and tonight it catches my leak."
+p7-mua,6,C64,elise,"My roof managed ninety minutes. Not perfect, but I'm staying dry."
+p8-nhat-ky,1,C66,elise,"Tonight's entry. Her rule, so I couldn't read it until now."
+p8-nhat-ky,2,C67,ba,"June fourteenth, 1968. Fern roof finished at six. Rain at nine. Roof held until ten."
+p8-nhat-ky,4,C69,ba,"Slept in a wet sweater. Happiest I have ever been. I write down every mistake, so the next one is new."
+p8-nhat-ky,5,C70,elise,"Sorry, Grandma. I changed straight into dry sleeping clothes. Wet clothes chill you fast."
+p9-thu,1,C72,elise,"Dear Grandma,"
+p9-thu,1,C73,elise,"I found your waterfall. There was flood debris at your spot, so I camped uphill. Yours held an hour. Mine leaked at eight."
+p9-thu,3,C74,elise,"So, like you, I'm writing it down."
+p9-thu,4,C75,elise,"And yes. The waterfall still sings. Listen."
+p10-sang,1,C78,elise,"Morning. Wet, but rested."
+p10-sang,2,C79,elise,"Fire ring checked again: cold."
+p10-sang,3,C80,elise,"Ropes, padding, every scrap packed out. The boughs go back to the brush pile."
+p10-sang,4,C81,elise,"Page two: the pine with your initials. Love, Elise."

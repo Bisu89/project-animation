@@ -1,0 +1,16 @@
+{
+ "dat": false,
+ "cat_den": null,
+ "loi": [
+  {
+   "giay": 5.5,
+   "mo_ta": "Khung chữ nhật biến thành một tấm gỗ dài, mất hình dạng khung rỗng ban đầu."
+  },
+  {
+   "giay": 6.0,
+   "mo_ta": "Cô ấy nâng đầu gỗ lên ngang hông, dựng nghiêng quá cao thay vì chỉ nhấc nhẹ một đầu và giữ khung gần nằm ngang."
+  }
+ ],
+ "sua_prompt": "Preserve the complete rigid rectangular wooden frame throughout the lift, with all four connected sides visible and unchanged. She must use both hands to raise only one end slightly above the concrete while the opposite end stays grounded, keeping the frame nearly horizontal through the final shot.",
+ "lan_gen": 2
+}

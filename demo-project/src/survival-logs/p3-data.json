@@ -1,0 +1,1397 @@
+{
+ "total": 549.25,
+ "endTitle": "NEXT: THE HARBOR",
+ "endSub": "Survival Logs · Episode 2",
+ "lines": [
+  {
+   "role": "n",
+   "text": "My flare had brought a crowd to our doors.",
+   "src": "n-28dfe1441f.mp3",
+   "at": 0.0,
+   "dur": 2.429
+  },
+  {
+   "role": "n",
+   "text": "The checkout camera caught someone small climbing into the ceiling.",
+   "src": "n-66c246340e.mp3",
+   "at": 2.779,
+   "dur": 3.317
+  },
+  {
+   "role": "n",
+   "text": "A support bar fell before we could follow.",
+   "src": "n-6fe2106ff0.mp3",
+   "at": 6.447,
+   "dur": 2.273
+  },
+  {
+   "role": "n",
+   "text": "I'd locked Maya in once. Whoever was upstairs had stayed hidden from both of us.",
+   "src": "n-f7045f9c27.mp3",
+   "at": 9.07,
+   "dur": 4.754
+  },
+  {
+   "role": "n",
+   "text": "The last convoy would leave Harbor Stadium in three days. Our front glass was already cracking.",
+   "src": "n-b512c5f5e3.mp3",
+   "at": 14.174,
+   "dur": 5.251
+  },
+  {
+   "role": "n",
+   "text": "We braced the damaged landing above the stockroom and tied the ladder to its steel frame. I went first. Maya followed.",
+   "src": "n-94c25d44ab.mp3",
+   "at": 20.974,
+   "dur": 7.157
+  },
+  {
+   "role": "n",
+   "text": "Up there, a metal walkway ran between the air conditioning units.",
+   "src": "n-0d216a23af.mp3",
+   "at": 28.482,
+   "dur": 3.474
+  },
+  {
+   "role": "n",
+   "text": "And at the end of it, a sleeping bag. Water bottles. Crayon drawings taped to a duct.",
+   "src": "n-f1cd925382.mp3",
+   "at": 32.306,
+   "dur": 5.329
+  },
+  {
+   "role": "n",
+   "text": "A bakery jacket lay beside it. Far too big for a child. The sleeves had been rolled up.",
+   "src": "n-ae4c77e10d.mp3",
+   "at": 37.985,
+   "dur": 5.068
+  },
+  {
+   "role": "n",
+   "text": "Then I saw her eyes.",
+   "src": "n-da597f1d12.mp3",
+   "at": 44.203,
+   "dur": 1.306
+  },
+  {
+   "role": "n",
+   "text": "She backed away from me so fast she almost hit the railing.",
+   "src": "n-2c70681b58.mp3",
+   "at": 45.859,
+   "dur": 3.239
+  },
+  {
+   "role": "n",
+   "text": "Not from Maya. From me.",
+   "src": "n-188c84bf4a.mp3",
+   "at": 49.448,
+   "dur": 2.116
+  },
+  {
+   "role": "n",
+   "text": "I stayed by the hatch. Maya knelt down and talked to her for a long time. Quietly.",
+   "src": "n-22da10ef43.mp3",
+   "at": 52.714,
+   "dur": 5.146
+  },
+  {
+   "role": "n",
+   "text": "Her name was Nia. She was nine.",
+   "src": "n-d677c41211.mp3",
+   "at": 58.21,
+   "dur": 2.038
+  },
+  {
+   "role": "n",
+   "text": "Her dad drove the bread van. That first night, she'd been riding along because there was no one to watch her.",
+   "src": "n-9e881c5198.mp3",
+   "at": 60.597,
+   "dur": 5.642
+  },
+  {
+   "role": "n",
+   "text": "He knew the maintenance route from his deliveries. When it started, he took her upstairs through the dock. He left food, two cases of water, and his flashlight.",
+   "src": "n-3121e104a1.mp3",
+   "at": 66.59,
+   "dur": 9.482
+  },
+  {
+   "role": "n",
+   "text": "He told her he was going to find help. She had to wait until he came back.",
+   "src": "n-10385aa6b7.mp3",
+   "at": 76.422,
+   "dur": 3.866
+  },
+  {
+   "role": "n",
+   "text": "That was why he'd looked back at the dock. She was still inside.",
+   "src": "n-65785417c3.mp3",
+   "at": 80.638,
+   "dur": 3.396
+  },
+  {
+   "role": "nia",
+   "text": "He said he'd come back.",
+   "src": "nia-39bf55edcf.mp3",
+   "at": 84.384,
+   "dur": 1.228
+  },
+  {
+   "role": "nia",
+   "text": "Dad said to leave money for anything I took. If I didn't have enough, I had to write it down. He'd pay when he came back.",
+   "src": "nia-e79d8412cf.mp3",
+   "at": 86.062,
+   "dur": 6.531
+  },
+  {
+   "role": "n",
+   "text": "She came down through the panel behind the checkout. The narrow aisle along the east wall took her to the shelves.",
+   "src": "n-7d51efda20.mp3",
+   "at": 93.043,
+   "dur": 5.407
+  },
+  {
+   "role": "n",
+   "text": "Our can alarms never crossed it.",
+   "src": "n-ff4ba5c2b8.mp3",
+   "at": 98.8,
+   "dur": 1.959
+  },
+  {
+   "role": "n",
+   "text": "She'd taken the crackers and the batteries on different days.",
+   "src": "n-c7f5bb98c1.mp3",
+   "at": 101.109,
+   "dur": 2.847
+  },
+  {
+   "role": "n",
+   "text": "On the fifth night, she brought them back down, and scanned them together.",
+   "src": "n-06ef3e0c77.mp3",
+   "at": 104.306,
+   "dur": 3.866
+  },
+  {
+   "role": "n",
+   "text": "The coins beside the scanner were hers. So was the folded note.",
+   "src": "n-94f0c97817.mp3",
+   "at": 108.522,
+   "dur": 3.317
+  },
+  {
+   "role": "n",
+   "text": "Nia didn't know the clock was broken. She pressed the unpaid-ticket button. Every receipt said three twelve.",
+   "src": "n-8ed52d5757.mp3",
+   "at": 112.19,
+   "dur": 6.034
+  },
+  {
+   "role": "nia",
+   "text": "I didn't want him to come back and think I'd stolen anything.",
+   "src": "nia-52f01c9948.mp3",
+   "at": 118.574,
+   "dur": 2.847
+  },
+  {
+   "role": "n",
+   "text": "Then Maya asked why she'd never come to us.",
+   "src": "n-cbed2fd583.mp3",
+   "at": 122.671,
+   "dur": 2.508
+  },
+  {
+   "role": "n",
+   "text": "The loft ran over the office corridor. Through a gap, she'd watched me slide the latch shut.",
+   "src": "n-ee1b3eb5bc.mp3",
+   "at": 125.529,
+   "dur": 4.911
+  },
+  {
+   "role": "nia",
+   "text": "I thought you'd lock me in too.",
+   "src": "nia-d93f7a79d2.mp3",
+   "at": 130.79,
+   "dur": 1.646
+  },
+  {
+   "role": "n",
+   "text": "She'd seen me do it. There was nothing I could say to change that.",
+   "src": "n-e02507233d.mp3",
+   "at": 133.886,
+   "dur": 3.082
+  },
+  {
+   "role": "n",
+   "text": "I set a bottle of water on the walkway, and stepped back.",
+   "src": "n-a4de95a4e3.mp3",
+   "at": 137.318,
+   "dur": 3.161
+  },
+  {
+   "role": "n",
+   "text": "After a while, she took it.",
+   "src": "n-0dfca0f3b8.mp3",
+   "at": 142.029,
+   "dur": 1.959
+  },
+  {
+   "role": "n",
+   "text": "Nia had six liters left. We had twenty-four. We put it all together. By nightfall, we were down to twenty-one.",
+   "src": "n-20db85daac.mp3",
+   "at": 144.338,
+   "dur": 6.844
+  },
+  {
+   "role": "n",
+   "text": "On Day 12, Nia showed us a route to the dock. It avoided the front aisles and most of the stockroom corridor.",
+   "src": "n-6071881c92.mp3",
+   "at": 152.332,
+   "dur": 6.269
+  },
+  {
+   "role": "n",
+   "text": "The walkway followed the east wall all the way to the dock.",
+   "src": "n-5fcb26704b.mp3",
+   "at": 158.952,
+   "dur": 3.161
+  },
+  {
+   "role": "n",
+   "text": "At the end was the maintenance door. The one with the bent hinge. The one I'd forced.",
+   "src": "n-fcce1dbd99.mp3",
+   "at": 162.462,
+   "dur": 4.519
+  },
+  {
+   "role": "n",
+   "text": "Maya and I checked the van while Nia waited inside the dock. Half a tank. Three seats.",
+   "src": "n-fd6977c6b6.mp3",
+   "at": 167.332,
+   "dur": 5.486
+  },
+  {
+   "role": "n",
+   "text": "Maya started it, then cut the engine. Heads turned at the alley mouth.",
+   "src": "n-714ed551cf.mp3",
+   "at": 173.167,
+   "dur": 4.206
+  },
+  {
+   "role": "n",
+   "text": "We hurried back inside.",
+   "src": "n-b3c20faca6.mp3",
+   "at": 177.723,
+   "dur": 1.567
+  },
+  {
+   "role": "n",
+   "text": "Next time, all three of us had to be aboard before Maya turned the key.",
+   "src": "n-6f41783d0e.mp3",
+   "at": 179.64,
+   "dur": 3.866
+  },
+  {
+   "role": "n",
+   "text": "Maya had saved the speaker for a reason. Now we had three people to get across that alley.",
+   "src": "n-2cf4f7521d.mp3",
+   "at": 183.856,
+   "dur": 4.833
+  },
+  {
+   "role": "n",
+   "text": "She wired the front speaker to repeat the greeting, for as long as we held the switch down.",
+   "src": "n-50f919cbf6.mp3",
+   "at": 189.039,
+   "dur": 4.284
+  },
+  {
+   "role": "n",
+   "text": "We found two staff radios and put fresh batteries in them.",
+   "src": "n-7bd1398e17.mp3",
+   "at": 193.673,
+   "dur": 3.239
+  },
+  {
+   "role": "n",
+   "text": "If we could keep it playing, it might pull them away from the alley.",
+   "src": "n-8c33d5602c.mp3",
+   "at": 197.262,
+   "dur": 3.553
+  },
+  {
+   "role": "n",
+   "text": "We ran the speaker for ten seconds. Then we cut it.",
+   "src": "n-3e5511a94f.mp3",
+   "at": 201.165,
+   "dur": 2.769
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 204.284,
+   "dur": 1.724
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 206.308,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "Several heads in the street turned toward the speaker. On the alley camera, others stayed where they were.",
+   "src": "n-99eccb4313.mp3",
+   "at": 208.332,
+   "dur": 5.564
+  },
+  {
+   "role": "n",
+   "text": "We'd have to start it well before we moved. And watch the alley until the way was clear.",
+   "src": "n-51ff742a3a.mp3",
+   "at": 214.246,
+   "dur": 4.519
+  },
+  {
+   "role": "n",
+   "text": "The greeting had drawn more of them against the front glass. The crack had spread.",
+   "src": "n-1524f1fcc0.mp3",
+   "at": 219.115,
+   "dur": 4.362
+  },
+  {
+   "role": "n",
+   "text": "On the morning we left, that glass would have to hold much longer.",
+   "src": "n-eddf7fa51e.mp3",
+   "at": 223.827,
+   "dur": 3.553
+  },
+  {
+   "role": "n",
+   "text": "On Day 13, we set aside six liters for the drive. The other six had to last all three of us that day. We packed cans, tools, and rope. I kept the steel pipe where I could reach it.",
+   "src": "n-10ff146bb9.mp3",
+   "at": 228.53,
+   "dur": 11.468
+  },
+  {
+   "role": "n",
+   "text": "We left almost everything else behind.",
+   "src": "n-fe7bb041bf.mp3",
+   "at": 240.348,
+   "dur": 2.351
+  },
+  {
+   "role": "n",
+   "text": "Maya rigged a clamp so the speaker switch could stay pressed without a hand on it.",
+   "src": "n-9a98c3055d.mp3",
+   "at": 243.049,
+   "dur": 3.788
+  },
+  {
+   "role": "n",
+   "text": "Speaker on at five thirty. Out of the alley by six. The convoy would leave at seven.",
+   "src": "n-ab3f3f2305.mp3",
+   "at": 247.187,
+   "dur": 4.441
+  },
+  {
+   "role": "n",
+   "text": "On a clear road, we could get there in fifteen minutes. We had an hour.",
+   "src": "n-282a71325d.mp3",
+   "at": 251.977,
+   "dur": 4.362
+  },
+  {
+   "role": "n",
+   "text": "That night, Nia asked Maya if her dad would be at the stadium.",
+   "src": "n-4c1bc043ab.mp3",
+   "at": 256.69,
+   "dur": 3.396
+  },
+  {
+   "role": "m",
+   "text": "I don't know.",
+   "src": "m-47478146a8.mp3",
+   "at": 260.436,
+   "dur": 1.149
+  },
+  {
+   "role": "n",
+   "text": "Nia waited, but Maya had nothing else to tell her.",
+   "src": "n-886fa092e2.mp3",
+   "at": 262.035,
+   "dur": 3.082
+  },
+  {
+   "role": "n",
+   "text": "Nia looked at her drawings for a long time.",
+   "src": "n-c786687713.mp3",
+   "at": 265.468,
+   "dur": 2.429
+  },
+  {
+   "role": "n",
+   "text": "Her dad had told her to wait here. She put on his bakery jacket anyway. Then she packed her bag.",
+   "src": "n-9bbb89ff7f.mp3",
+   "at": 268.247,
+   "dur": 5.146
+  },
+  {
+   "role": "n",
+   "text": "Neither of us told her to hurry.",
+   "src": "n-ad610e325e.mp3",
+   "at": 273.743,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "Before I slept, I checked the front glass one last time.",
+   "src": "n-a5b979b724.mp3",
+   "at": 275.817,
+   "dur": 3.239
+  },
+  {
+   "role": "n",
+   "text": "There was a new crack. Long. Still growing.",
+   "src": "n-e50e82c5bd.mp3",
+   "at": 279.406,
+   "dur": 3.161
+  },
+  {
+   "role": "n",
+   "text": "Five thirty. I switched the speaker on.",
+   "src": "n-aa0b55f3a7.mp3",
+   "at": 284.117,
+   "dur": 2.586
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 287.053,
+   "dur": 1.724
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 289.077,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "I spent two weeks making that door shut up.",
+   "src": "n-967a509295.mp3",
+   "at": 291.101,
+   "dur": 2.351
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 293.802,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "Now I need it to scream.",
+   "src": "n-c9317f8370.mp3",
+   "at": 295.826,
+   "dur": 1.489
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 297.665,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "Maya watched the alley camera in the stockroom. Nia waited beside her.",
+   "src": "n-e751cddc2f.mp3",
+   "at": 299.689,
+   "dur": 4.049
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 304.088,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "For nearly twenty minutes, the alley didn't empty.",
+   "src": "n-a84a8944bd.mp3",
+   "at": 306.112,
+   "dur": 3.004
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 309.466,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "I held the switch. The crack in the front glass spread another inch.",
+   "src": "n-4888e64dc1.mp3",
+   "at": 311.49,
+   "dur": 3.866
+  },
+  {
+   "role": "n",
+   "text": "Then Maya's voice came through the staff radio. They were finally moving toward the front.",
+   "src": "n-f960c30cfd.mp3",
+   "at": 315.706,
+   "dur": 4.598
+  },
+  {
+   "role": "m",
+   "text": "Hold it. A few more seconds.",
+   "src": "m-5f3c02eee6.mp3",
+   "at": 320.654,
+   "dur": 2.429
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 323.533,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "Then the alley was clear. I clamped the switch and went after them.",
+   "src": "n-ed6d6b43e0.mp3",
+   "at": 325.557,
+   "dur": 3.474
+  },
+  {
+   "role": "n",
+   "text": "By five fifty, we were moving along the metal walkway toward the dock. Nia first, then Maya, then me.",
+   "src": "n-c34731eb63.mp3",
+   "at": 329.382,
+   "dur": 6.113
+  },
+  {
+   "role": "n",
+   "text": "Maya held the sagging door clear of the frame from the loft side. Nia squeezed through into the dock.",
+   "src": "n-277e711966.mp3",
+   "at": 335.844,
+   "dur": 5.329
+  },
+  {
+   "role": "n",
+   "text": "I passed the bags through to Nia. Then I crawled into the dock. Maya stayed behind, holding the door.",
+   "src": "n-8e6c1d56ff.mp3",
+   "at": 341.523,
+   "dur": 6.113
+  },
+  {
+   "role": "n",
+   "text": "The bent top hinge tore free before Maya could follow.",
+   "src": "n-6b42ef4abe.mp3",
+   "at": 347.986,
+   "dur": 3.239
+  },
+  {
+   "role": "n",
+   "text": "The door dropped onto its lower corner, and wedged in the frame.",
+   "src": "n-90cc444054.mp3",
+   "at": 351.575,
+   "dur": 3.631
+  },
+  {
+   "role": "n",
+   "text": "Maya was on the other side.",
+   "src": "n-cf648d36b6.mp3",
+   "at": 355.556,
+   "dur": 1.646
+  },
+  {
+   "role": "n",
+   "text": "Nia stood beside me in the dock. A few steps to the shutter. The van beyond it.",
+   "src": "n-0c8bbc3978.mp3",
+   "at": 357.552,
+   "dur": 4.676
+  },
+  {
+   "role": "n",
+   "text": "I turned away from the shutter, and went back to Maya.",
+   "src": "n-72523230d5.mp3",
+   "at": 363.577,
+   "dur": 2.926
+  },
+  {
+   "role": "n",
+   "text": "I jammed the pipe under the door and leaned on it. Nothing moved.",
+   "src": "n-d83f15c676.mp3",
+   "at": 366.853,
+   "dur": 3.866
+  },
+  {
+   "role": "n",
+   "text": "I heard the front glass crack again. We were supposed to be driving by six.",
+   "src": "n-a9cb254035.mp3",
+   "at": 371.069,
+   "dur": 3.788
+  },
+  {
+   "role": "n",
+   "text": "I shoved the pipe farther under the door. I pressed down, using the sill for leverage.",
+   "src": "n-8510589502.mp3",
+   "at": 375.207,
+   "dur": 5.251
+  },
+  {
+   "role": "n",
+   "text": "Her bandaged hand came through the gap. I pushed down harder on the pipe.",
+   "src": "n-13e4e0e409.mp3",
+   "at": 380.808,
+   "dur": 3.631
+  },
+  {
+   "role": "n",
+   "text": "The bottom edge cleared the sill. I pulled the door open. Maya squeezed through.",
+   "src": "n-76f2c67ee2.mp3",
+   "at": 384.789,
+   "dur": 4.598
+  },
+  {
+   "role": "n",
+   "text": "I dragged the pallet jack clear. Then I hauled the shutter up. Metal screamed. At the alley mouth, a head turned.",
+   "src": "n-fcf2bc5033.mp3",
+   "at": 389.736,
+   "dur": 7.236
+  },
+  {
+   "role": "n",
+   "text": "Nia climbed into the middle seat. I got in beside her. She took my hand.",
+   "src": "n-df0640da89.mp3",
+   "at": 397.322,
+   "dur": 4.049
+  },
+  {
+   "role": "n",
+   "text": "Maya turned the key. In the mirror, I saw a few of them turn toward the engine.",
+   "src": "n-4600ea473a.mp3",
+   "at": 401.721,
+   "dur": 4.989
+  },
+  {
+   "role": "n",
+   "text": "At six oh five, she eased past the dumpster at the alley mouth. Then she turned onto the main road.",
+   "src": "n-b0f1e179ce.mp3",
+   "at": 407.06,
+   "dur": 5.878
+  },
+  {
+   "role": "n",
+   "text": "Behind us, the front glass finally gave in.",
+   "src": "n-698e5256d0.mp3",
+   "at": 413.288,
+   "dur": 2.926
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 416.563,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "The carts and shelves held for a moment. Then the crowd pushed them back, and poured into Corner Fresh.",
+   "src": "n-86da4578c4.mp3",
+   "at": 418.587,
+   "dur": 5.721
+  },
+  {
+   "role": "n",
+   "text": "And the speaker was still welcoming every single one of them.",
+   "src": "n-e579b3e3d3.mp3",
+   "at": 424.658,
+   "dur": 3.004
+  },
+  {
+   "role": "spk",
+   "text": "Welcome to Corner Fresh!",
+   "src": "speaker.mp3",
+   "at": 428.012,
+   "dur": 1.724
+  },
+  {
+   "role": "n",
+   "text": "Six miles by the main road.",
+   "src": "n-8acfe79841.mp3",
+   "at": 431.036,
+   "dur": 1.802
+  },
+  {
+   "role": "n",
+   "text": "We spent fifteen minutes creeping past abandoned cars. At six twenty, the cars filled every lane. Shapes moved between them.",
+   "src": "n-535c1e8212.mp3",
+   "at": 433.189,
+   "dur": 7.628
+  },
+  {
+   "role": "n",
+   "text": "There was no gap wide enough for the van. Maya turned us around.",
+   "src": "n-32bce7bac1.mp3",
+   "at": 441.167,
+   "dur": 3.788
+  },
+  {
+   "role": "n",
+   "text": "The way through the industrial park was longer.",
+   "src": "n-4769110c5b.mp3",
+   "at": 445.304,
+   "dur": 2.691
+  },
+  {
+   "role": "n",
+   "text": "We cut through the industrial park, between warehouses with their doors torn open.",
+   "src": "n-e6c131413c.mp3",
+   "at": 448.345,
+   "dur": 4.049
+  },
+  {
+   "role": "n",
+   "text": "At six fifty, wrecked cars were tangled in a police barricade across the bridge. Both lanes were blocked.",
+   "src": "n-b72b53d699.mp3",
+   "at": 452.744,
+   "dur": 6.269
+  },
+  {
+   "role": "n",
+   "text": "Maya stopped. I opened the map. Ten minutes until the convoy left. We still had to get across.",
+   "src": "n-0e862dc90b.mp3",
+   "at": 459.363,
+   "dur": 5.564
+  },
+  {
+   "role": "n",
+   "text": "The map showed another bridge. I pointed to the turn. Maya took it. The road led away from the stadium.",
+   "src": "n-9987f560d2.mp3",
+   "at": 465.277,
+   "dur": 5.878
+  },
+  {
+   "role": "n",
+   "text": "Seven o'clock passed. We still hadn't reached the other bridge.",
+   "src": "n-d6fce967b6.mp3",
+   "at": 472.105,
+   "dur": 3.317
+  },
+  {
+   "role": "n",
+   "text": "We crossed the other bridge. Maya turned back toward the stadium. I kept watching for the gates.",
+   "src": "n-bf208e6cd0.mp3",
+   "at": 476.572,
+   "dur": 5.642
+  },
+  {
+   "role": "n",
+   "text": "We reached Harbor Stadium at seven twenty.",
+   "src": "n-3337faa48a.mp3",
+   "at": 483.565,
+   "dur": 2.429
+  },
+  {
+   "role": "n",
+   "text": "The gates were shut. The parking lot was empty. The convoy was gone.",
+   "src": "n-57a9715565.mp3",
+   "at": 486.344,
+   "dur": 4.049
+  },
+  {
+   "role": "n",
+   "text": "For a moment, none of us got out.",
+   "src": "n-3b79b60937.mp3",
+   "at": 490.743,
+   "dur": 2.194
+  },
+  {
+   "role": "n",
+   "text": "Outside the gates, the registration tent was still standing. Papers covered the ground. A route map was drawn on a whiteboard.",
+   "src": "n-876787c1cf.mp3",
+   "at": 494.087,
+   "dur": 7.079
+  },
+  {
+   "role": "n",
+   "text": "The next stop on the evacuation route. The harbor.",
+   "src": "n-84ce054a5e.mp3",
+   "at": 501.516,
+   "dur": 3.396
+  },
+  {
+   "role": "n",
+   "text": "Next to it was the boarding list. The radio had said families could use those names to find each other.",
+   "src": "n-ead50578ed.mp3",
+   "at": 505.262,
+   "dur": 5.407
+  },
+  {
+   "role": "n",
+   "text": "Nia found it first. R. Okafor. Sunrise Bakery. Her dad. Beside it, one word. Boarded.",
+   "src": "n-50ca4456d4.mp3",
+   "at": 511.02,
+   "dur": 7.314
+  },
+  {
+   "role": "n",
+   "text": "He had made it this far. Now we had somewhere to look.",
+   "src": "n-ee91b45cc8.mp3",
+   "at": 520.184,
+   "dur": 3.474
+  },
+  {
+   "role": "n",
+   "text": "Nia put her finger on her dad's name.",
+   "src": "n-ac3dd4a002.mp3",
+   "at": 524.008,
+   "dur": 2.273
+  },
+  {
+   "role": "n",
+   "text": "For the first time, she asked us when we were leaving.",
+   "src": "n-204c1f5bdb.mp3",
+   "at": 527.131,
+   "dur": 2.769
+  }
+ ],
+ "shots": [
+  {
+   "img": "p2-25",
+   "at": 0.0,
+   "to": 2.779
+  },
+  {
+   "img": "p2-33",
+   "at": 2.779,
+   "to": 6.447
+  },
+  {
+   "img": "p2-37",
+   "at": 6.447,
+   "to": 20.974
+  },
+  {
+   "img": "p3-01",
+   "at": 20.974,
+   "to": 28.482
+  },
+  {
+   "img": "p3-02",
+   "at": 28.482,
+   "to": 43.403
+  },
+  {
+   "img": "p3-03",
+   "at": 43.403,
+   "to": 45.859
+  },
+  {
+   "img": "p3-04",
+   "at": 45.859,
+   "to": 52.714
+  },
+  {
+   "img": "p3-05",
+   "at": 52.714,
+   "to": 60.597
+  },
+  {
+   "img": "p3-06",
+   "at": 60.597,
+   "to": 80.638
+  },
+  {
+   "img": "s04b",
+   "at": 80.638,
+   "to": 84.384
+  },
+  {
+   "img": "s04c",
+   "at": 84.384,
+   "to": 86.062
+  },
+  {
+   "img": "p3-06",
+   "at": 86.062,
+   "to": 93.043
+  },
+  {
+   "img": "p3-07",
+   "at": 93.043,
+   "to": 98.8
+  },
+  {
+   "img": "p2-08",
+   "at": 98.8,
+   "to": 108.522
+  },
+  {
+   "img": "p2-03",
+   "at": 108.522,
+   "to": 112.19
+  },
+  {
+   "img": "p2-34",
+   "at": 112.19,
+   "to": 122.671
+  },
+  {
+   "img": "p3-08",
+   "at": 122.671,
+   "to": 133.886
+  },
+  {
+   "img": "p3-09",
+   "at": 133.886,
+   "to": 152.332
+  },
+  {
+   "img": "p3-10",
+   "at": 152.332,
+   "to": 162.462
+  },
+  {
+   "img": "p3-11",
+   "at": 162.462,
+   "to": 167.332
+  },
+  {
+   "img": "p3-12",
+   "at": 167.332,
+   "to": 183.856
+  },
+  {
+   "img": "p3-13",
+   "at": 183.856,
+   "to": 201.165
+  },
+  {
+   "img": "p3-14",
+   "at": 201.165,
+   "to": 214.246
+  },
+  {
+   "img": "p3-15",
+   "at": 214.246,
+   "to": 219.115
+  },
+  {
+   "img": "p3-16",
+   "at": 219.115,
+   "to": 228.53
+  },
+  {
+   "img": "p3-17",
+   "at": 228.53,
+   "to": 243.049
+  },
+  {
+   "img": "p3-18",
+   "at": 243.049,
+   "to": 256.69
+  },
+  {
+   "img": "p3-19",
+   "at": 256.69,
+   "to": 275.817
+  },
+  {
+   "img": "p3-20",
+   "at": 275.817,
+   "to": 284.117
+  },
+  {
+   "img": "s01a",
+   "at": 284.117,
+   "to": 289.077
+  },
+  {
+   "img": "p3-21",
+   "at": 289.077,
+   "to": 297.665
+  },
+  {
+   "img": "p3-15",
+   "at": 297.665,
+   "to": 309.466
+  },
+  {
+   "img": "s01c",
+   "at": 309.466,
+   "to": 315.706
+  },
+  {
+   "img": "p3-22",
+   "at": 315.706,
+   "to": 329.382
+  },
+  {
+   "img": "p3-23",
+   "at": 329.382,
+   "to": 335.844
+  },
+  {
+   "img": "p3-24",
+   "at": 335.844,
+   "to": 351.575
+  },
+  {
+   "img": "p3-25",
+   "at": 351.575,
+   "to": 357.552
+  },
+  {
+   "img": "p3-26",
+   "at": 357.552,
+   "to": 363.577
+  },
+  {
+   "img": "p3-27b",
+   "at": 363.577,
+   "to": 371.069
+  },
+  {
+   "img": "p3-21",
+   "at": 371.069,
+   "to": 375.207
+  },
+  {
+   "img": "p3-27b",
+   "at": 375.207,
+   "to": 380.808
+  },
+  {
+   "img": "p3-27c",
+   "at": 380.808,
+   "to": 384.789
+  },
+  {
+   "img": "p3-27",
+   "at": 384.789,
+   "to": 389.736
+  },
+  {
+   "img": "p3-28",
+   "at": 389.736,
+   "to": 397.322
+  },
+  {
+   "img": "p3-29",
+   "at": 397.322,
+   "to": 407.06
+  },
+  {
+   "img": "p3-30",
+   "at": 407.06,
+   "to": 413.288
+  },
+  {
+   "img": "p3-31",
+   "at": 413.288,
+   "to": 416.563
+  },
+  {
+   "img": "p3-31b",
+   "at": 416.563,
+   "to": 431.036
+  },
+  {
+   "img": "p3-32",
+   "at": 431.036,
+   "to": 433.189
+  },
+  {
+   "img": "p3-33",
+   "at": 433.189,
+   "to": 448.345
+  },
+  {
+   "img": "p3-34",
+   "at": 448.345,
+   "to": 452.744
+  },
+  {
+   "img": "p3-35",
+   "at": 452.744,
+   "to": 459.363
+  },
+  {
+   "img": "p3-35b",
+   "at": 459.363,
+   "to": 472.105
+  },
+  {
+   "img": "p3-29",
+   "at": 472.105,
+   "to": 476.572
+  },
+  {
+   "img": "p3-35c",
+   "at": 476.572,
+   "to": 483.565
+  },
+  {
+   "img": "p3-36",
+   "at": 483.565,
+   "to": 494.087
+  },
+  {
+   "img": "p3-37",
+   "at": 494.087,
+   "to": 505.262
+  },
+  {
+   "img": "p3-38",
+   "at": 505.262,
+   "to": 520.184
+  },
+  {
+   "img": "p3-37",
+   "at": 520.184,
+   "to": 524.008
+  },
+  {
+   "img": "p3-38",
+   "at": 524.008,
+   "to": 530.25
+  },
+  {
+   "img": "p3-39",
+   "at": 530.25,
+   "to": 534.25
+  },
+  {
+   "img": "p3-40",
+   "at": 534.25,
+   "to": 539.25
+  },
+  {
+   "img": "END",
+   "at": 539.25,
+   "to": 549.25
+  }
+ ],
+ "sfx": [
+  {
+   "s": "drone_cold",
+   "at": 0.0,
+   "v": 0.4
+  },
+  {
+   "s": "flare",
+   "at": 0.0,
+   "v": 0.4
+  },
+  {
+   "s": "drag",
+   "at": 20.974,
+   "v": 0.4
+  },
+  {
+   "s": "footsteps_run",
+   "at": 45.859,
+   "v": 0.4
+  },
+  {
+   "s": "sco_beep",
+   "at": 93.043,
+   "v": 0.4
+  },
+  {
+   "s": "lock",
+   "at": 130.79,
+   "v": 0.5
+  },
+  {
+   "s": "engine",
+   "at": 167.332,
+   "v": 0.5
+  },
+  {
+   "s": "crowd",
+   "at": 208.332,
+   "v": 0.5
+  },
+  {
+   "s": "glass_thump",
+   "at": 219.115,
+   "v": 0.6
+  },
+  {
+   "s": "click",
+   "at": 243.049,
+   "v": 0.6
+  },
+  {
+   "s": "glass_creak",
+   "at": 275.817,
+   "v": 0.6
+  },
+  {
+   "s": "switch",
+   "at": 287.053,
+   "v": 0.8
+  },
+  {
+   "s": "crowd",
+   "at": 291.101,
+   "v": 0.6
+  },
+  {
+   "s": "glass_creak",
+   "at": 315.706,
+   "v": 0.5
+  },
+  {
+   "s": "radio_static",
+   "at": 315.706,
+   "v": 0.4
+  },
+  {
+   "s": "crash",
+   "at": 351.575,
+   "v": 0.9
+  },
+  {
+   "s": "metal_bend",
+   "at": 366.853,
+   "v": 0.9
+  },
+  {
+   "s": "glass_crack",
+   "at": 371.069,
+   "v": 0.6
+  },
+  {
+   "s": "shutter",
+   "at": 389.736,
+   "v": 0.8
+  },
+  {
+   "s": "engine",
+   "at": 397.322,
+   "v": 0.8
+  },
+  {
+   "s": "glass_crack",
+   "at": 413.288,
+   "v": 1.0
+  },
+  {
+   "s": "crash",
+   "at": 413.288,
+   "v": 0.7
+  },
+  {
+   "s": "engine",
+   "at": 431.036,
+   "v": 0.5
+  },
+  {
+   "s": "wind",
+   "at": 530.25,
+   "v": 0.5
+  }
+ ],
+ "hud": [
+  {
+   "key": "day",
+   "val": 10,
+   "at": 0.0
+  },
+  {
+   "key": "day",
+   "val": 11,
+   "at": 20.974
+  },
+  {
+   "key": "water",
+   "val": "24 L",
+   "at": 20.974
+  },
+  {
+   "key": "water",
+   "val": "21 L",
+   "at": 151.532
+  },
+  {
+   "key": "day",
+   "val": 12,
+   "at": 152.332
+  },
+  {
+   "key": "water",
+   "val": "12 L",
+   "at": 219.115
+  },
+  {
+   "key": "day",
+   "val": 13,
+   "at": 228.53
+  },
+  {
+   "key": "water",
+   "val": "6 L",
+   "at": 275.817
+  },
+  {
+   "key": "day",
+   "val": 14,
+   "at": 284.117
+  },
+  {
+   "key": "clock",
+   "val": "05:30",
+   "at": 284.117
+  },
+  {
+   "key": "clock",
+   "val": "05:50",
+   "at": 329.382
+  },
+  {
+   "key": "clock",
+   "val": "06:05",
+   "at": 407.06
+  },
+  {
+   "key": "clock",
+   "val": "06:20",
+   "at": 433.189
+  },
+  {
+   "key": "clock",
+   "val": "06:50",
+   "at": 452.744
+  },
+  {
+   "key": "clock",
+   "val": "07:00",
+   "at": 472.105
+  },
+  {
+   "key": "clock",
+   "val": "07:20",
+   "at": 483.565
+  }
+ ],
+ "cards": [],
+ "tags": [
+  {
+   "text": "R. OKAFOR — SUNRISE BAKERY — BOARDED",
+   "at": 518.684
+  }
+ ],
+ "receipts": []
+}

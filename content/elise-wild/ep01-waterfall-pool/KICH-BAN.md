@@ -38,7 +38,7 @@ Loại cảnh: **CẬN** (tay, đồ vật) · **TRUNG** (nửa người) · **R
 | 2:06–4:44 | 3. Lều chữ A | 18 |
 | 4:44–5:10 | 4. Nước | 3 |
 | 5:10–6:26 | 5. Lửa | 10 |
-| 6:26–8:00 | 6. Trà và bữa tối | 12 |
+| 6:26–7:58 | 6. Trà và bữa tối | 11 |
 | 8:00–9:00 | 7. Mưa | 7 |
 | 9:00–9:53 | 8. Trang nhật ký năm 1968 | 6 |
 | 9:53–10:43 | 9. Thư gửi bà | 6 |
@@ -132,22 +132,23 @@ Chủ dự án (2026-11-03): nhóm lửa bằng bật lửa dài cho đơn giả
 | C45 | 6:12–6:18 | CẬN | Tay đặt một que to hơn vào mép ngọn lửa nhỏ | *"Feed it slowly."* | Tí tách |
 | C46 | 6:18–6:26 | MẶT | Elise quỳ bên lửa (nền lửa cố định), tóc búi gọn, chỉ khẽ gật đầu. ánh lửa bập bùng trên mặt | (im lặng) |  |
 
-### 6. Trà và bữa tối (6:26–8:00)
+### 6. Trà và bữa tối (6:26–7:58)
+
+Bản sửa 2026-11-04 (chủ dự án duyệt): nồi mì thay gói súp, ăn trên gốc cây cưa, bỏ cảnh gió to, túi ngủ và cốc trà; C54 vào thẳng cảnh ăn (không thổi). Dập lửa vì sắp mưa và không bỏ lửa không người trông; 3 bước Drown · Stir · Feel có chữ đè.
 
 | # | Giây | Loại | Hình | Lời dẫn (EN) | Âm thanh |
 |---|---|---|---|---|---|
-| C47 | 6:26–6:34 | CẬN | Nồi nước sôi sùng sục trên vòng đá, hơi bốc lên. Chữ đè: *"Rolling boil · 1 full minute"* | (im lặng) | Nước sôi |
-| C48 | 6:34–6:42 | CẬN | Cốc men trắng của bà (vết sứt ở mặt ngoài gần đáy) đã có trà, đặt yên trên khúc gỗ, hơi bốc nhẹ | *"Grandma's mug. Forty summers of trips. I'll let it cool."* |  |
-| C49 | 6:42–6:52 | CẬN | Cận trang nhật ký 1968: hình vẽ mực nâu một con rái cá trong hồ, vài dòng viết tay ngắn | *"[Bà] Afternoon: watched an otter in the pool for an hour. Built nothing. Regretted it at nine."* | Thác xa |
-| C50 | 6:52–7:00 | CẬN | Tay cầm gói súp ăn liền chưa mở. Đồng hồ **17:30 · rain 19:00** | *"Dinner. Grandma's journal says: 'Soup. Again.' Mine is instant."* |  |
-| C51 | 7:00–7:08 | TRUNG | Elise ngồi trên khúc gỗ, cốc súp đã hạ xuống, vẻ mãn nguyện | *"Worth it."* |  |
-| C52 | 7:08–7:14 | TRUNG | Elise liếc nhìn lên mái. Tiếng gió lồng vào | (im lặng) | Gió nổi |
-| C53 | 7:14–7:20 | CẬN | Cành linh sam trên mái lay mạnh trong gió | *"Wind's picking up. That's my rule. The fire goes out, now."* | Gió mạnh |
-| C54 | 7:20–7:28 | CẬN | Elise dội xô nước lên lửa, hơi nước bốc xèo | *"Drown it."* | Xèo |
-| C55 | 7:28–7:36 | CẬN | Que khuấy than, củi còn sót và mép bếp trong tro ướt, rồi dội thêm nước | *"Stir the coals, the leftover wood, the edges. Drown it again."* | Xèo |
-| C56 | 7:36–7:44 | CẬN | Mu bàn tay Elise giữ cách phía trên tro ướt, di chuyển chậm | *"Then check carefully, without touching. One warm spot."* |  |
-| C57 | 7:44–7:52 | CẬN | Dội thêm nước vào một góc bếp, khuấy lại, hơi bốc lên ít dần | *"More water, more stirring, check again, until nothing is warm."* | Xèo nhỏ |
-| C58 | 7:52–8:00 | TRUNG | Túi ngủ (vẫn trong túi chống nước) đã nằm sẵn ở cửa lều lá, chỉ có bàn tay buông ra | *"Bedding stays sealed until bedtime."* |  |
+| C47 | 6:26–6:36 | TOÀN | Máy đặt xa: Elise ngồi trên khúc gỗ cạnh bếp, nồi nước sôi lăn tăn trên vòng đá, lều lá phía sau, gần đó một gốc cây to bị cưa mặt phẳng. Chữ đè: *"Rolling boil · 1 full minute"* | (im lặng) | Nước sôi, lửa lách tách |
+| ~~C48~~ | — | — | **ĐÃ BỎ (chủ dự án, 2026-11-04): cảnh cốc trà.** | — |  |
+| C49 | 6:44–6:54 | CẬN | Cận trang nhật ký 1968: hình vẽ mực nâu một con rái cá trong hồ, vài dòng viết tay ngắn | *"[Bà] Afternoon: watched an otter in the pool for an hour. Built nothing. Regretted it at nine."* | Thác xa |
+| C50 | 6:54–7:02 | CẬN | Tay thả một vắt mì khô vào nồi đang sôi. Đồng hồ **17:30 · rain 19:00** | *"Dinner. Grandma's journal says: 'Soup. Again.' Mine is noodles."* | Nước sôi |
+| C51 | 7:02–7:10 | CẬN | Tay thả mấy khoanh xúc xích khô (thái sẵn từ nhà) từ túi zip vào nồi | *"And dried sausage, sliced at home."* | Nước sôi |
+| C52 | 7:10–7:18 | CẬN | Thìa gỗ khuấy mì trong nồi, hơi bốc lên | (im lặng) | Khuấy, sôi |
+| C53 | 7:18–7:26 | TRUNG | Elise lót tay bằng một nắm lá dày, nhấc nồi theo quai, đặt lên mặt gốc cây cưa | *"Hot handle. Something between me and the metal."* |  |
+| C54 | 7:26–7:36 | TRUNG | Elise ngồi cạnh gốc cây, ăn mì ngay trong nồi bằng thìa gỗ, hơi bốc, vẻ ngon miệng | *"One pot, no dishes. Worth it."* | Rừng chiều |
+| C55 | 7:36–7:44 | TRUNG | Elise (không ba lô) dội xô nước lên bếp lửa đã nhỏ, hơi bốc xèo. Chữ đè: *"1 · Drown"* | *"Rain at seven. Fire goes out before I leave it. Drown it."* | Xèo |
+| C56 | 7:44–7:52 | CẬN | Que khuấy than, củi sót và mép bếp trong tro ướt. Chữ đè: *"2 · Stir"* | *"Stir the coals, the edges. Drown it again."* | Xèo |
+| C57 | 7:52–7:58 | CẬN | Mu bàn tay giữ cách phía trên tro ướt, di chuyển chậm, không chạm. Chữ đè: *"3 · Feel — no heat = out"* | *"Then check, without touching. Nothing warm."* |  |
 
 ### 7. Mưa (8:00–9:00)
 
@@ -157,7 +158,7 @@ Chủ dự án (2026-11-03): nhóm lửa bằng bật lửa dài cho đơn giả
 | C60 | 8:06–8:16 | TRUNG | Elise ngồi ở cửa lều lá, mặc áo mưa xanh rêu, đèn LED ánh vàng treo trong lều. Máy quay đứng yên, mưa rơi, nền ẩm ướt đúng bảng thời tiết | *"No thunder forecast. I keep checking, and I'd leave well before any storm."* | Mưa |
 | C61 | 8:16–8:24 | TRUNG | Elise trong áo mưa, cầm điện thoại xem bản đồ, mưa rơi. Chữ đè: *"Storm coming? Leave early. Thunder? Go now. Shelters are NOT safe from lightning."* | *"Hear thunder? Go to the visitor center, fifteen minutes away. No shelter out here protects you from lightning."* |  |
 | C62 | 8:24–8:32 | CẬN | Bên trong lều lá, đêm: giọt nước nhỏ đều xuống gần chân túi ngủ. Chữ đè: *"20:00"* | *"Eight o'clock. And... a leak by my feet."* | Tách, tách |
-| C63 | 8:32–8:42 | CẬN | Trong lều lá, đêm, đèn LED: tay Elise đặt chiếc cốc men của bà ngay dưới chỗ dột, giọt nước rơi trúng vào cốc | *"Grandma's mug has a new job."* | Tách vào cốc |
+| C63 | 8:32–8:42 | CẬN | Trong lều lá, đêm, đèn LED: tay Elise đặt chiếc cốc men của bà ngay dưới chỗ dột, giọt nước rơi trúng vào cốc | *"Grandma's old mug. Forty summers of trips, and tonight it catches my leak."* | Tách vào cốc |
 | C64 | 8:42–8:50 | TRUNG | Elise kéo túi ngủ (vẫn trong túi chống nước) dịch sang phía khô của lều, đắp áo mưa lên phần chân. Chữ đè nhỏ: *"Fictional outcome — not a field test"* | *"My roof managed ninety minutes. Not perfect, but I'm staying dry."* | Mưa trên mái lá |
 | C65 | 8:50–9:00 | CẬN | Cận cốc men trên nền lá khô, từng giọt nước rơi vào, ánh đèn LED | (im lặng) | Tách, tách |
 
@@ -169,7 +170,7 @@ Chủ dự án (2026-11-03): nhóm lửa bằng bật lửa dài cho đơn giả
 | C67 | 9:08–9:18 | CẬN | Cận trang nhật ký: dòng ngày *"June 14, 1968"*, hình vẽ lều và đám mây, lá dương xỉ ép khô bên cạnh. Ánh đèn LED | *"[Bà] June fourteenth, 1968. Fern roof finished at six. Rain at nine. Roof held until ten."* | Mưa xa, guitar |
 | C68 | 9:18–9:23 | MẶT | Elise mỉm cười, khẽ thở ra (miệng khép) | (im lặng) |  |
 | C69 | 9:23–9:33 | CẬN | Cuối trang: hình vẽ chiếc áo len và mặt cười, ngón tay Elise vuốt nhẹ lên nét vẽ | *"[Bà] Slept in a wet sweater. Happiest I have ever been. I write down every mistake, so the next one is new."* |  |
-| C70 | 9:33–9:43 | CẬN | Bàn tay đã cầm sẵn túi chống nước đựng bộ đồ ngủ khô, chỉ nhấc nhẹ lên | *"Sorry, Grandma. I changed straight into dry sleeping clothes. Wet clothes chill you fast."* | Mưa trên mái lá |
+| C70 | 9:33–9:43 | TRUNG | Elise đã thay đồ ngủ khô (áo nỉ xám dài tay, quần nỉ xám), treo áo mưa ướt lên đầu xà lều cho ráo nước rồi ngồi xuống, kéo tay áo nỉ trùm tay (sửa 2026-11-04, chủ dự án chọn) | *"Sorry, Grandma. I changed straight into dry sleeping clothes. Wet clothes chill you fast."* | Mưa trên mái lá |
 | C71 | 9:43–9:53 | RỘNG | Góc máy cố định: lều lá sáng đèn vàng trong đêm mưa, mưa rơi | (im lặng) | Chỉ có mưa |
 
 ### 9. Thư gửi bà (9:53–10:43)
@@ -177,10 +178,10 @@ Chủ dự án (2026-11-03): nhóm lửa bằng bật lửa dài cho đơn giả
 | # | Giây | Loại | Hình | Lời dẫn (EN) | Âm thanh |
 |---|---|---|---|---|---|
 | C72 | 9:53–10:01 | CẬN | Nhật ký mở, bút chì để yên. Máy ghi âm đặt cạnh, đèn xanh đang phát. Tiếng thác đã thu vang lên | *"Dear Grandma,"* | Tiếng thác đã thu |
-| C73 | 10:01–10:11 | CẬN | Tay Elise vẽ bút chì lều chữ A của mình có một giọt nước dột, cạnh hình lều của bà trên trang nhật ký | *"I found your waterfall. There was flood debris at your spot, so I camped uphill. Yours held an hour. Mine leaked at eight."* | Tiếng thác |
+| ~~C73~~ | — | — | **BỎ HÌNH (2026-11-04): AI không vẽ được bút chì ổn định.** Lời dẫn dưới đây đọc đè lên C72; C74 đã có hình lều nhỏ có giọt dột | *"I found your waterfall. There was flood debris at your spot, so I camped uphill. Yours held an hour. Mine leaked at eight."* | Tiếng thác |
 | C74 | 10:11–10:19 | CẬN | Tay Elise viết một dòng ngắn dưới trang: *"Inspect the ridge before rain."* | *"So, like you, I'm writing it down."* |  |
 | C75 | 10:19–10:27 | CẬN | Máy ghi âm đặt yên trên trang nhật ký, đèn xanh đang phát | *"And yes. The waterfall still sings. Listen."* | Tiếng thác to dần |
-| C76 | 10:27–10:35 | RỘNG | Thác nước buổi chiều, máy quay trượt chậm, chỉ có tiếng thác | (im lặng) | Thác |
+| ~~C76~~ | — | — | **ĐÃ BỎ (chủ dự án, 2026-11-04): cảnh thác ban ngày lệch thời gian (đang là đêm).** Tiếng thác đã thu nghe tiếp trên C75 | — | Thác |
 | C77 | 10:35–10:43 | MẶT | Elise đã nằm trong túi ngủ, chỉ có đôi mắt khép dần. ánh đèn tắt, cảnh tối dần | (im lặng) | Mưa nhỏ dần |
 
 ### 10. Sáng hôm sau (10:43–11:29)
@@ -191,7 +192,7 @@ Chủ dự án (2026-11-03): nhóm lửa bằng bật lửa dài cho đơn giả
 | C79 | 10:53–11:01 | CẬN | Sáng sớm, tay Elise giữ phía trên vòng lửa ướt, nguội | *"Fire ring checked again: cold."* | Guitar |
 | C80 | 11:01–11:11 | RỘNG | Elise dỡ lều: gỡ dây, trả cành linh sam về đống cành, hạ khung; khoảng đất trở lại trống, chỉ còn vòng đá cũ | *"Ropes, padding, every scrap packed out. The boughs go back to the brush pile."* | Guitar |
 | C81 | 11:11–11:19 | TRUNG | Elise đeo ba lô, đứng yên ở mép hồ dưới thác, nhật ký đã gấp trong tay | *"Page two: the pine with your initials. Love, Elise."* | Thác |
-| C82 | 11:19–11:29 | CẬN | Cận trang nhật ký: bản đồ vẽ tay, đường mực nâu của bà và đường bút chì xanh của Elise tới điểm 1, điểm 2 ghi *"The Carved Pine"*. Chữ đè ghi công: *"Fictional story · AI visuals & AI voices · Created by [channel] with AI writing assistance"* | (im lặng) | Guitar kết |
+| C82 | 11:19–11:29 | CẬN | Cận trang nhật ký: bản đồ vẽ tay, đường mực nâu của bà và đường bút chì xanh của Elise tới điểm 1, điểm 2 ghi *"The Carved Pine"*. Chữ đè ghi công: *"Fictional story · AI visuals & AI voices · Created by Elise Wild Studio with AI writing assistance"* | (im lặng) | Guitar kết |
 
 ---
 

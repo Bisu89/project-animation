@@ -1,0 +1,1 @@
+{"dat":true,"cat_den":null,"loi":[{"giay":7.0,"mo_ta":"Cô đặt thước thủy lên mép ván và giữ đến cuối, thay vì đặt trên đất sát góc khung như ảnh cuối mong muốn. Đây là sai lệch nhỏ, hành động vẫn hợp lý."}],"sua_prompt":""}

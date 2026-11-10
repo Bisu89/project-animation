@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "EP01",
+  "voice": "Jessa (vibi.pro) — PROPOSED",
+  "wordsTotal": 107,
+  "cues": [
+    {
+      "id": "N01",
+      "startSeconds": 10.0,
+      "startFrame": 300,
+      "text": "This little corner had been forgotten for years. I wanted to give it a new beginning.",
+      "words": 16,
+      "estSeconds": 6.7,
+      "overShot": "SH004",
+      "delivery": "nhẹ, ấm, chậm vừa; như tự nhủ, không đọc kiểu quảng cáo",
+      "status": "draft",
+      "note": "R1: đổi thành 'This backyard had been forgotten for years.' — hợp bối cảnh sân sau nhà Mỹ."
+    },
+    {
+      "id": "N02",
+      "startSeconds": 63.3,
+      "startFrame": 1899,
+      "text": "I decided to start small. Just two beds for my first vegetables.",
+      "words": 12,
+      "estSeconds": 5.0,
+      "overShot": "SH013",
+      "delivery": "nhẹ, ấm, chậm vừa; như tự nhủ, không đọc kiểu quảng cáo",
+      "status": "draft",
+      "note": "Lùi 1,5 s so với brief (1:05) để vào đúng cảnh phác hai luống."
+    },
+    {
+      "id": "N03",
+      "startSeconds": 187.8,
+      "startFrame": 5634,
+      "text": "I chose simple wooden frames. Nothing fancy. Just something I could build myself.",
+      "words": 13,
+      "estSeconds": 5.4,
+      "overShot": "SH027",
+      "delivery": "nhẹ, ấm, chậm vừa; như tự nhủ, không đọc kiểu quảng cáo",
+      "status": "draft",
+      "note": ""
+    },
+    {
+      "id": "N04",
+      "startSeconds": 330.6,
+      "startFrame": 9918,
+      "text": "For the first time, I could imagine what this place might become.",
+      "words": 12,
+      "estSeconds": 5.0,
+      "overShot": "SH041",
+      "delivery": "nhẹ, ấm, chậm vừa; như tự nhủ, không đọc kiểu quảng cáo",
+      "status": "draft",
+      "note": ""
+    },
+    {
+      "id": "N05",
+      "startSeconds": 392.0,
+      "startFrame": 11760,
+      "text": "Good soil is where everything begins. I mixed in finished compost and prepared the beds for planting.",
+      "words": 17,
+      "estSeconds": 7.1,
+      "overShot": "SH046",
+      "delivery": "nhẹ, ấm, chậm vừa; như tự nhủ, không đọc kiểu quảng cáo",
+      "status": "draft",
+      "note": "Cue 6:40 rơi vào cuối SH046/đầu SH047 (401 s) — đổ phân → cào trộn, khớp nghĩa."
+    },
+    {
+      "id": "N06",
+      "startSeconds": 449.0,
+      "startFrame": 13470,
+      "text": "Radishes, lettuce, and pak choi. Three simple vegetables for my first season.",
+      "words": 12,
+      "estSeconds": 5.0,
+      "overShot": "SH052",
+      "delivery": "nhẹ, ấm, chậm vừa; như tự nhủ, không đọc kiểu quảng cáo",
+      "status": "draft",
+      "note": ""
+    },
+    {
+      "id": "N07",
+      "startSeconds": 572.5,
+      "startFrame": 17175,
+      "text": "The seeds are in. Now I just have to take care of them and wait.",
+      "words": 15,
+      "estSeconds": 6.2,
+      "overShot": "SH064",
+      "delivery": "nhẹ, ấm, chậm vừa; như tự nhủ, không đọc kiểu quảng cáo",
+      "status": "draft",
+      "note": "Giữ mốc 9:35; nằm trên cảnh dọn dẹp, kết thúc trước SH066 trước/sau."
+    },
+    {
+      "id": "N08",
+      "startSeconds": 695.0,
+      "startFrame": 20850,
+      "text": "The garden is still quiet. But something has already begun.",
+      "words": 10,
+      "estSeconds": 4.2,
+      "overShot": "SH078",
+      "delivery": "nhẹ, ấm, chậm vừa; như tự nhủ, không đọc kiểu quảng cáo",
+      "status": "draft",
+      "note": ""
+    }
+  ]
+}

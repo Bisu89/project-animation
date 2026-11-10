@@ -1,0 +1,1 @@
+{"dat":true,"cat_den":null,"loi":[{"giay":2.0,"mo_ta":"Bầu đất quanh gốc giữ dạng khối khá vuông và ít tơi khi giũ, trông hơi giống chậu; chưa đến mức vô lý rõ khi xem nhanh."},{"giay":3.5,"mo_ta":"Cô nâng hạ cây vài nhịp thay vì chỉ giũ đất một lần; đây là sai lệch nhỏ về động tác."}],"sua_prompt":""}

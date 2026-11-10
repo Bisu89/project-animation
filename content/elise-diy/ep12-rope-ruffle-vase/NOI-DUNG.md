@@ -43,3 +43,9 @@ thiện) và cắm hoa để tốc độ thật.
 
 ## Trạng thái
 - 2026-11-04: phân tích, ảnh thành phẩm, ảnh so sánh và storyboard. Chờ duyệt.
+- 2026-11-05: chủ dự án dừng tập này (không làm tiếp), đã xóa thư mục `video/` (clip 1 nháp). Ảnh và CSV giữ lại để làm lại sau.
+- 2026-11-05: làm tiếp trên profile Chrome mới.
+  - QA: clip 2 và 4 trượt cả 2 lần.
+  - Cắt: clip 2 lấy 2,6–7,5 s (đầu clip Muse tự nhảy cảnh), clip 3 lấy đến 8,1 s, clip 5 lấy đến 6,8 s (sau đó tự gắn tua).
+  - Ghép có chuyển cảnh theo cột `chuyen_canh`.
+- **XONG (2026-11-05):** chủ dự án chốt bản 28,8 s (lần đầu được video mượt), đã đổi tên thành `video/final.mp4`, xóa clip lẻ, bản nháp, QA, ảnh so sánh và storyboard.

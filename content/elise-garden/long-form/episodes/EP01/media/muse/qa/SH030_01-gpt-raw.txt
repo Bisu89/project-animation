@@ -1,0 +1,1 @@
+{"dat":true,"cat_den":null,"loi":[{"giay":3.5,"mo_ta":"Mùn gỗ trông như các cục vụn khá to quanh lỗ bắt vít, hơi thiếu tự nhiên nhưng chưa thành lỗi vô lý dễ nhận ra khi xem nhanh."}],"sua_prompt":""}

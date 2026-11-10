@@ -1,6 +1,10 @@
 # Quy tắc cho project này
 
-Đọc `HANDOFF.md` trước khi bắt đầu. Trả lời bằng tiếng Việt.
+Trả lời bằng tiếng Việt.
+
+- Mọi việc có nhân vật Elise (DIY, Wild, Talent, Garden): dùng skill `elise` (`.claude/skills/elise/`), không đọc cả `HANDOFF.md` hay các docs cũ.
+- Survival Logs (zombie người que, `content/survival-logs/`): dùng skill `survival-logs` (`.claude/skills/survival-logs/`).
+- Series khác (stickman...): chỉ khi làm tới mới đọc đúng phần của series đó trong `HANDOFF.md`, không đọc cả file.
 
 ## Duyệt nội dung trước (chủ dự án yêu cầu, 2026-10-30)
 Mỗi video/tập mới: viết nội dung trước (danh sách nhịp có giây), gửi cho chủ dự án và **chờ duyệt rõ ràng** rồi mới viết code, tạo tài nguyên hay render.

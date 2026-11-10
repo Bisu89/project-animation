@@ -1,0 +1,21 @@
+{
+  "out": "shorts/s02-dap-lua.mp4",
+  "canh": [
+    {"phan_doan": "p6-bua-toi", "clip": "8", "tu": 0, "den": 6, "crop_x": 0.4},
+    {"phan_doan": "p6-bua-toi", "clip": "9", "tu": 0, "den": 8, "crop_x": 0.72},
+    {"phan_doan": "p6-bua-toi", "clip": "10", "tu": 0, "den": 6}
+  ],
+  "loi": [
+    {"canh": 0, "giong": "elise", "text": "Water alone doesn't put a campfire out.", "tre": 0.2},
+    {"canh": 0, "giong": "elise", "text": "Drown it."},
+    {"canh": 1, "giong": "elise", "text": "Stir the coals, the edges. Drown it again."},
+    {"canh": 2, "giong": "elise", "text": "Then check, without touching. Nothing warm."}
+  ],
+  "chu": [
+    {"tu": 0, "den": 2.6, "kieu": "moc", "text": "How to put out a campfire"},
+    {"tu": 2.6, "den": 6, "kieu": "buoc", "text": "1 · DROWN"},
+    {"tu": 6, "den": 14, "kieu": "buoc", "text": "2 · STIR"},
+    {"tu": 14, "den": 18, "kieu": "buoc", "text": "3 · FEEL"},
+    {"tu": 17.2, "den": -0.05, "kieu": "ket", "text": "No heat = out · Full story: Page 1 · Fictional story, AI-generated"}
+  ]
+}

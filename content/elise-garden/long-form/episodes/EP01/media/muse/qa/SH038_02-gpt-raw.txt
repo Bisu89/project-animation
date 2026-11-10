@@ -1,0 +1,1 @@
+{"dat":true,"cat_den":null,"loi":[],"sua_prompt":""}

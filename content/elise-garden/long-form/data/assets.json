@@ -1,0 +1,626 @@
+{
+  "schemaVersion": 1,
+  "statusValues": [
+    "planned",
+    "generated",
+    "reviewed",
+    "approved",
+    "rejected"
+  ],
+  "rule": "Chỉ ghi đường dẫn thật khi file tồn tại (exists=true). Không thay asset đã approved mà không ghi lại.",
+  "assets": [
+    {
+      "id": "ELISE_FACE_SHEET",
+      "type": "character",
+      "path": "content/elise-diy/models/elise-v2-model-sheet.png",
+      "exists": true,
+      "status": "approved",
+      "note": "Model sheet v2 duyệt 2026-11-02; chỉ tham chiếu mặt, không gửi kèm khi gen",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "ELISE_GARDEN_SHORT_FRONT",
+      "type": "character",
+      "path": "content/elise-garden/ep01-tomato-slices/anh/eg1-A-elise-truoc.png",
+      "exists": true,
+      "status": "approved",
+      "note": "Trang phục Garden đã duyệt; bản dài dùng chính ảnh này",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "ELISE_GARDEN_LONG_FRONT",
+      "type": "character",
+      "path": "content/elise-garden/long-form/references/anh/gl1-A-elise-garden-truoc.png",
+      "exists": true,
+      "status": "approved",
+      "note": "Trang phục series Garden (chép từ eg1-A). Ảnh linen thử: gl1-A-elise-linen-thu.png (bỏ).",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "ELISE_COOK_FRONT",
+      "type": "character",
+      "path": "content/elise-garden/long-form/references/anh/gl1-A-elise-bep-truoc.png",
+      "exists": true,
+      "status": "reviewed",
+      "note": "Đạt. Chờ chủ dự án xem.",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_A_ENTRANCE_S0",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/references/anh/gl1-P-A-S0.png",
+      "exists": true,
+      "status": "reviewed",
+      "note": "Đạt — sân hoang, giữ nguyên kiến trúc. Chờ chủ dự án xem.",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_A_ENTRANCE_S1",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/references/anh/gl1-P-A-S1.png",
+      "exists": true,
+      "status": "reviewed",
+      "note": "Đạt. Chờ chủ dự án xem.",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_A_ENTRANCE_S2",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/references/anh/gl1-P-A-S2.png",
+      "exists": true,
+      "status": "reviewed",
+      "note": "Đạt, chồng khít A-S4. Chờ chủ dự án xem.",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_A_ENTRANCE_S3",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-P-A-S3.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_A_ENTRANCE_S4",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/references/anh/gl1-P-A-S4.png",
+      "exists": true,
+      "status": "reviewed",
+      "note": "Đạt — CẢNH CHUẨN. CAM_A lệch trái so với sơ đồ (nhà kho, cây táo trong khung); lấy ảnh làm chuẩn. Chờ chủ dự án xem.",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_A_ENTRANCE_S5",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-P-A-S5.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_B_PORCH_S0",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-P-B-S0.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_B_PORCH_S2",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-P-B-S2.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_B_PORCH_S4",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-P-B-S4.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_C_EAST_FENCE_S1",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-P-C-S1.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_C_EAST_FENCE_S2",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-P-C-S2.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_C_EAST_FENCE_S3",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/references/anh/gl1-P-C-S3.png",
+      "exists": true,
+      "status": "reviewed",
+      "note": "Đạt; cổng vẽ ở rào trái gần nhà kho (lệch sơ đồ). Chờ chủ dự án xem.",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_C_EAST_FENCE_S4",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-P-C-S4.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_D_GARDEN_SIDE_S0",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-P-D-S0.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_D_GARDEN_SIDE_S3",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-P-D-S3.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_CAM_D_GARDEN_SIDE_S5",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/references/anh/gl1-P-D-S5.png",
+      "exists": true,
+      "status": "reviewed",
+      "note": "Đạt; 4+3 nhãn, không mầm, ngược sáng sương. Chờ chủ dự án xem.",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "PLATE_KITCHEN",
+      "type": "plate",
+      "path": "content/elise-garden/long-form/references/anh/gl1-P-KITCHEN.png",
+      "exists": true,
+      "status": "reviewed",
+      "note": "Đạt; cửa sổ nhìn ra đúng hướng (cỏ + nhà kho bên phải, luống bên trái). Chờ chủ dự án xem.",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "SOURCE_BRIEF",
+      "type": "doc",
+      "path": "content/elise-garden/long-form/ELISE_GARDEN_MASTER.md",
+      "exists": true,
+      "status": "approved",
+      "note": "Brief của chủ dự án",
+      "rights": "owner"
+    },
+    {
+      "id": "gl1-SH009-a",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH009-a.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH009-b",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH009-b.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH018-a",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH018-a.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH018-b",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH018-b.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH018-c",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH018-c.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH024-a",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH024-a.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH030-a",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH030-a.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH030-b",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH030-b.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH030-c",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH030-c.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH040-a",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH040-a.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH048-a",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH048-a.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH048-b",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH048-b.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH048-c",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH048-c.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH052-a",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH052-a.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH052-b",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH052-b.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH052-c",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH052-c.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "gl1-SH079-a",
+      "type": "keyframe",
+      "path": "content/elise-garden/long-form/episodes/EP01/anh/gl1-SH079-a.png",
+      "exists": false,
+      "status": "planned",
+      "note": "",
+      "rights": "AI-generated for this project"
+    },
+    {
+      "id": "REF_HOUSE_BACK",
+      "type": "location",
+      "rights": "AI-generated for this project",
+      "path": "content/elise-garden/long-form/references/anh/gl1-R-nha.png",
+      "exists": true,
+      "status": "reviewed",
+      "note": "Batch 1: đúng bố cục; có cây hàng xóm nở hoa + chậu hoa trên deck + đèn trong nhà. Chờ chủ dự án duyệt."
+    },
+    {
+      "id": "REF_R_NHA_KHO",
+      "type": "reference",
+      "rights": "AI-generated for this project",
+      "path": "content/elise-garden/long-form/references/anh/gl1-R-nha-kho.png",
+      "exists": true,
+      "status": "reviewed",
+      "note": "Đạt. Chờ chủ dự án xem."
+    },
+    {
+      "id": "REF_R_AERIAL_S4",
+      "type": "reference",
+      "rights": "AI-generated for this project",
+      "path": "content/elise-garden/long-form/references/anh/gl1-R-aerial-S4.png",
+      "exists": true,
+      "status": "reviewed",
+      "note": "Đạt, khớp A-S4. Chờ chủ dự án xem."
+    },
+    {
+      "id": "REF_A_ELISE_GARDEN_NGHIENG",
+      "type": "reference",
+      "rights": "AI-generated for this project",
+      "path": "content/elise-garden/long-form/references/anh/gl1-A-elise-garden-nghieng.png",
+      "exists": true,
+      "status": "reviewed",
+      "note": "Đạt. Chờ chủ dự án xem."
+    },
+    {
+      "id": "REF_A_ELISE_GARDEN_SAU",
+      "type": "reference",
+      "rights": "AI-generated for this project",
+      "path": "content/elise-garden/long-form/references/anh/gl1-A-elise-garden-sau.png",
+      "exists": true,
+      "status": "reviewed",
+      "note": "Đạt. Chờ chủ dự án xem."
+    }
+  ],
+  "props": [
+    {
+      "name": "xe cút kít xanh sẫm",
+      "status": "planned"
+    },
+    {
+      "name": "bình tưới kim loại (vòi sen mịn)",
+      "status": "planned"
+    },
+    {
+      "name": "xẻng",
+      "status": "planned"
+    },
+    {
+      "name": "chĩa lớn",
+      "status": "planned"
+    },
+    {
+      "name": "cào sắt cán dài",
+      "status": "planned"
+    },
+    {
+      "name": "bay",
+      "status": "planned"
+    },
+    {
+      "name": "chĩa tay",
+      "status": "planned"
+    },
+    {
+      "name": "thước dây vàng",
+      "status": "planned"
+    },
+    {
+      "name": "bút chì thợ mộc",
+      "status": "planned"
+    },
+    {
+      "name": "cưa tay",
+      "status": "planned"
+    },
+    {
+      "name": "máy khoan pin xám không logo",
+      "status": "planned"
+    },
+    {
+      "name": "kẹp nhanh màu cam",
+      "status": "planned"
+    },
+    {
+      "name": "ván cedar 150×38",
+      "status": "planned"
+    },
+    {
+      "name": "cọc góc 50×50",
+      "status": "planned"
+    },
+    {
+      "name": "vít gỗ",
+      "status": "planned"
+    },
+    {
+      "name": "thước thủy",
+      "status": "planned"
+    },
+    {
+      "name": "ê-ke thép",
+      "status": "planned"
+    },
+    {
+      "name": "ngựa gỗ ×2",
+      "status": "planned"
+    },
+    {
+      "name": "phân ủ hoai (thùng ủ gỗ cạnh nhà kho)",
+      "status": "planned"
+    },
+    {
+      "name": "gói hạt minh họa không chữ ×3",
+      "status": "planned"
+    },
+    {
+      "name": "nhãn nhựa trắng ×7",
+      "status": "planned"
+    },
+    {
+      "name": "giỏ mây",
+      "status": "planned"
+    },
+    {
+      "name": "đệm quỳ xốp xanh",
+      "status": "planned"
+    },
+    {
+      "name": "xô cao su đen",
+      "status": "planned"
+    },
+    {
+      "name": "xô kim loại",
+      "status": "planned"
+    },
+    {
+      "name": "cọc tre + dây trắng",
+      "status": "planned"
+    },
+    {
+      "name": "kéo cắt cành",
+      "status": "planned"
+    },
+    {
+      "name": "găng da nâu",
+      "status": "planned"
+    },
+    {
+      "name": "sổ tay bìa nâu",
+      "status": "planned"
+    },
+    {
+      "name": "dụng cụ bếp: thớt gỗ, dao, nồi, thìa gỗ, bát",
+      "status": "planned"
+    },
+    {
+      "name": "máy cắt cỏ cuộn đẩy tay",
+      "status": "planned"
+    },
+    {
+      "name": "cuộn ống tưới gắn tường",
+      "status": "planned"
+    }
+  ],
+  "audio": [
+    {
+      "name": "chim sáng/chiều",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "gió qua cỏ",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "bước chân sỏi/đất",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "nhổ cỏ/rễ",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "đào/xới",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "cưa tay",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "khoan pin",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "đặt gỗ",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "đổ đất/phân",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "gói hạt",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "tưới vòi sen",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "rửa tay",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "dao thái",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "xèo/sôi",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "không khí buổi tối",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "nhạc nhẹ có quyền",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    },
+    {
+      "name": "lời dẫn ×8",
+      "status": "planned",
+      "source": "Foley thư viện có quyền / tạo bằng script; ghi nguồn khi chọn"
+    }
+  ]
+}

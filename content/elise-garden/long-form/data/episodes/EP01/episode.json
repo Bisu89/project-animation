@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "EP01",
+  "title": "I Turned an Overgrown Backyard Into My First Vegetable Garden",
+  "fps": 30,
+  "targetSeconds": 720,
+  "targetFrames": 21600,
+  "premise": "Elise biến một khu vườn sau nhà bỏ hoang thành hai luống rau đầu tiên trong hai ngày; sáng ngày 3 hạt đã nằm trong đất, chưa nảy mầm.",
+  "outcome": "Đúng hai luống 1,2 × 2,4 m, đã gieo củ cải, xà lách, cải thìa. Không thu hoạch.",
+  "days": [
+    {
+      "day": 1,
+      "sequences": [
+        "SQ02",
+        "SQ03"
+      ],
+      "light": "sáng đầu xuân dịu, chiều nắng nhạt"
+    },
+    {
+      "day": 2,
+      "sequences": [
+        "SQ04",
+        "SQ05",
+        "SQ06",
+        "SQ07",
+        "SQ08",
+        "SQ09"
+      ],
+      "light": "sáng nắng mềm → trưa → chiều vàng → chạng vạng"
+    },
+    {
+      "day": 3,
+      "sequences": [
+        "SQ10"
+      ],
+      "light": "sáng sớm, sương mỏng, ngược sáng"
+    }
+  ],
+  "coldOpen": {
+    "sequence": "SQ01",
+    "isFlashForward": true,
+    "note": "SQ01 dùng cảnh S5 và vài cảnh nhá S0–S4; các cảnh này phải là take riêng, không dùng lại clip của các đoạn sau (trừ clip nền AMB_A_S0 được ghi rõ)."
+  },
+  "sequences": [
+    {
+      "id": "SQ01",
+      "startSeconds": 0.0,
+      "durationSeconds": 35.0,
+      "startFrame": 0,
+      "durationFrames": 1050,
+      "content": "Cold open: hai luống xong (sáng ngày 3) → cắt khớp về khu đất hoang, hé quá trình, tiêu đề",
+      "retentionPurpose": "Hứa hẹn bằng hình: trước/sau trong 12 giây đầu"
+    },
+    {
+      "id": "SQ02",
+      "startSeconds": 35.0,
+      "durationSeconds": 56.6,
+      "startFrame": 1050,
+      "durationFrames": 1698,
+      "content": "Khu đất hoang, xem xét, đo, phác hai luống",
+      "retentionPurpose": "Câu hỏi của tập: biến chỗ này thành vườn thế nào?"
+    },
+    {
+      "id": "SQ03",
+      "startSeconds": 91.6,
+      "durationSeconds": 83.2,
+      "startFrame": 2748,
+      "durationFrames": 2496,
+      "content": "Dọn cỏ, rễ, đá, rác; cắm cọc căng dây",
+      "retentionPurpose": "Tiến độ cùng góc máy ở giữa và cuối đoạn"
+    },
+    {
+      "id": "SQ04",
+      "startSeconds": 174.8,
+      "durationSeconds": 96.0,
+      "startFrame": 5244,
+      "durationFrames": 2880,
+      "content": "Đo, cưa, ráp hai khung gỗ ở khu làm việc",
+      "retentionPurpose": "Đổi không gian (khu sỏi trước deck) và âm thanh (cưa, khoan)"
+    },
+    {
+      "id": "SQ05",
+      "startSeconds": 270.8,
+      "durationSeconds": 84.2,
+      "startFrame": 8124,
+      "durationFrames": 2526,
+      "content": "Mang khung ra, đặt, cân thăng bằng, căn song song",
+      "retentionPurpose": "Lần đầu thấy hình dáng khu vườn"
+    },
+    {
+      "id": "SQ06",
+      "startSeconds": 355.0,
+      "durationSeconds": 80.5,
+      "startFrame": 10650,
+      "durationFrames": 2415,
+      "content": "Xới đất, chở phân ủ, đổ, cào trộn",
+      "retentionPurpose": "Chất liệu đất (ASMR), luống đổi màu"
+    },
+    {
+      "id": "SQ07",
+      "startSeconds": 435.5,
+      "durationSeconds": 99.5,
+      "startFrame": 13065,
+      "durationFrames": 2985,
+      "content": "Gieo củ cải, xà lách, cải thìa; cắm nhãn",
+      "retentionPurpose": "Ba loại hạt khác nhau = ba nhịp nhỏ"
+    },
+    {
+      "id": "SQ08",
+      "startSeconds": 535.0,
+      "durationSeconds": 90.0,
+      "startFrame": 16050,
+      "durationFrames": 2700,
+      "content": "Tưới nhẹ, dọn, toàn cảnh trước/sau",
+      "retentionPurpose": "Phần thưởng chính của tập"
+    },
+    {
+      "id": "SQ09",
+      "startSeconds": 625.0,
+      "durationSeconds": 55.0,
+      "startFrame": 18750,
+      "durationFrames": 1650,
+      "content": "Bữa tối đơn giản bằng nguyên liệu mua sẵn, ghi sổ vườn",
+      "retentionPurpose": "Nghỉ nhịp ấm cúng; giữ liên hệ vườn qua sổ và cửa sổ — R4: 55 s"
+    },
+    {
+      "id": "SQ10",
+      "startSeconds": 680.0,
+      "durationSeconds": 40.0,
+      "startFrame": 20400,
+      "durationFrames": 1200,
+      "content": "Sáng hôm sau: kiểm tra đất, chưa có mầm, hình kết",
+      "retentionPurpose": "Kết lặng, gợi tập sau"
+    }
+  ],
+  "overlays": [
+    {
+      "atSeconds": 0,
+      "durationSeconds": 4,
+      "text": "AI-generated visualization",
+      "position": "bottom-left, small"
+    },
+    {
+      "atSeconds": 27,
+      "durationSeconds": 6,
+      "text": "Elise Garden — Growing My Own Food · Episode 1",
+      "position": "lower third"
+    },
+    {
+      "atSeconds": 36,
+      "durationSeconds": 3,
+      "text": "Day 1",
+      "position": "top-left"
+    },
+    {
+      "atSeconds": 175.8,
+      "durationSeconds": 3,
+      "text": "Day 2",
+      "position": "top-left"
+    },
+    {
+      "atSeconds": 681.0,
+      "durationSeconds": 3,
+      "text": "Day 3 · next morning",
+      "position": "top-left"
+    },
+    {
+      "atSeconds": 712,
+      "durationSeconds": 8,
+      "text": "AI-generated reconstruction. Not real gardening footage.",
+      "position": "bottom, small"
+    }
+  ],
+  "dependencies": [
+    "Gate A: layout + states + 720 s timeline",
+    "Gate B: ảnh Elise trang phục mới + plate 4 camera",
+    "Gate C: pilot 8 shot",
+    "ElevenLabs key (vibi.pro) cho lời dẫn"
+  ],
+  "rebalance_2026_11_06": "Sau đợt 1: Muse cho ~4,5–7 s sạch/clip → SQ02 65→56.6 s, SQ03 95→83.2 s; +20,2 s chuyển sang SQ04/05/07/08 (chưa sản xuất)."
+}

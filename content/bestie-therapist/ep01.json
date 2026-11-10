@@ -1,0 +1,57 @@
+{
+  "title": "Best Friend Is Also My Therapist",
+  "hook": "WHEN YOUR BEST FRIEND IS ALSO YOUR THERAPIST 😂😂",
+  "lead": 1.0,
+  "gap": 0.3,
+  "engine": "vibi",
+  "model": "eleven_v3",
+  "voices": {
+    "boy": "Titan - Deep, Bold, and Powerful (Theo, playing therapist)",
+    "girl": "Jessica (Mia, chaotic bestie)"
+  },
+  "lines": [
+    {
+      "who": "boy",
+      "text": "Okay... Focus. Focus.",
+      "voice": "dtSEyYGNJqjrtBArPCVZ",
+      "say": "[clears throat] Okay... Focus. Focus."
+    },
+    {
+      "who": "boy",
+      "text": "Do you suffer from depression and anxiety?",
+      "voice": "dtSEyYGNJqjrtBArPCVZ",
+      "say": "[calm, professional] Do you suffer from depression and anxiety?",
+      "pause": 0.3
+    },
+    {
+      "who": "girl",
+      "text": "YEEEES!",
+      "voice": "cgSgspJ2msm6clMCkdW9",
+      "say": "[hysterical, bursting with laughter] Yeeeees!",
+      "stability": 0.0,
+      "style": 0.75,
+      "pause": 0.3
+    },
+    {
+      "who": "boy",
+      "text": "Are you always tired?",
+      "voice": "dtSEyYGNJqjrtBArPCVZ",
+      "say": "[calm, professional] Are you always tired?",
+      "pause": 1.6
+    },
+    {
+      "who": "girl",
+      "text": "Focus. Focus!",
+      "voice": "cgSgspJ2msm6clMCkdW9",
+      "say": "[catching herself laughing, pointing at him, mock-stern] Focus. Focus!",
+      "pause": 0.4
+    },
+    {
+      "who": "boy",
+      "text": "...Yeeeees.",
+      "voice": "dtSEyYGNJqjrtBArPCVZ",
+      "say": "[sheepish, caught laughing, defeated] ...Yeeeees.",
+      "pause": 0.3
+    }
+  ]
+}

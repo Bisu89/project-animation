@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "status": "PROPOSED_GATE_A",
+  "order": [
+    "S0_BEFORE",
+    "S1_CLEARED",
+    "S2_FRAMES",
+    "S3_SOIL_READY",
+    "S4_PLANTED",
+    "S5_NEXT_MORNING"
+  ],
+  "states": {
+    "S0_BEFORE": {
+      "day": 1,
+      "visible": "Sân bỏ hoang: bãi cỏ cao tới gối, mâm xôi dại dọc rào, chút chít, bồ công anh, tầm ma, chậu vỡ, đá, dây thép gỉ; sân bê tông bị cỏ lấn. Vệt lối mòn từ cổng sau tới bậc deck.",
+      "forbidden": [
+        "khung gỗ",
+        "luống",
+        "gỗ xẻ",
+        "dây căng"
+      ]
+    },
+    "S1_CLEARED": {
+      "day": 1,
+      "visible": "Cả bãi cỏ đã cắt thấp (máy cắt đẩy tay); khu rau nửa phải (~5 × 4,5 m) dọn thành đất trần đã cào; hai hình chữ nhật 4×8 ft đánh dấu bằng cọc tre + dây trắng. Cỏ dại đã vào thùng ủ cạnh nhà kho.",
+      "forbidden": [
+        "khung gỗ",
+        "phân ủ trên mặt đất",
+        "nhãn"
+      ],
+      "scopeDecision": "ĐỀ XUẤT: cắt cỏ toàn sân (nhanh, một người làm được) + chỉ đào trắng khu rau. Bãi cỏ giữ để sinh hoạt — tận dụng không gian."
+    },
+    "S2_FRAMES": {
+      "day": 2,
+      "visible": "S1 + hai khung cedar mới 4×8 ft cao ~14 cm đúng chỗ dây; trong khung là đất tại chỗ đã xới. Cọc, dây đã gỡ.",
+      "forbidden": [
+        "phân ủ trong luống",
+        "hạt, nhãn"
+      ]
+    },
+    "S3_SOIL_READY": {
+      "day": 2,
+      "visible": "Hai luống đầy đất nâu đen tơi trộn phân ủ, mặt phẳng mịn, thấp hơn mép ~2 cm.",
+      "forbidden": [
+        "rãnh gieo",
+        "nhãn",
+        "mầm"
+      ]
+    },
+    "S4_PLANTED": {
+      "day": 2,
+      "visible": "Rãnh gieo mờ chạy ngang luống; 7 nhãn nhựa trắng ở đầu đông mỗi hàng; đất sẫm vì vừa tưới. Nửa bắc BED-02 để trống, phẳng.",
+      "forbidden": [
+        "mầm",
+        "cây con",
+        "bất kỳ màu xanh nào trong luống"
+      ]
+    },
+    "S5_NEXT_MORNING": {
+      "day": 3,
+      "visible": "Y hệt S4; sáng sớm, sương mỏng, giọt sương trên mép khung và nhãn; mặt đất khô nhẹ trên cùng.",
+      "forbidden": [
+        "mầm",
+        "cây con"
+      ]
+    }
+  },
+  "transitions": [
+    {
+      "from": "S0_BEFORE",
+      "to": "S1_CLEARED",
+      "sequences": [
+        "SQ03"
+      ],
+      "byAction": "cắt mâm xôi, nhổ chút chít, xới cỏ, nhặt đá/rác, cắt bãi cỏ bằng máy đẩy tay, cào, cắm cọc căng dây"
+    },
+    {
+      "from": "S1_CLEARED",
+      "to": "S2_FRAMES",
+      "sequences": [
+        "SQ04",
+        "SQ05"
+      ],
+      "byAction": "ráp khung ở khu làm việc, mang ra, đặt, cân thăng bằng"
+    },
+    {
+      "from": "S2_FRAMES",
+      "to": "S3_SOIL_READY",
+      "sequences": [
+        "SQ06"
+      ],
+      "byAction": "xới đất trong khung, chở phân ủ từ thùng ủ cạnh nhà kho, đổ, cào trộn"
+    },
+    {
+      "from": "S3_SOIL_READY",
+      "to": "S4_PLANTED",
+      "sequences": [
+        "SQ07",
+        "SQ08"
+      ],
+      "byAction": "kẻ rãnh, gieo, lấp, cắm nhãn, tưới"
+    },
+    {
+      "from": "S4_PLANTED",
+      "to": "S5_NEXT_MORNING",
+      "sequences": [
+        "SQ10"
+      ],
+      "byAction": "qua đêm; không đổi gì ngoài ánh sáng/sương"
+    }
+  ],
+  "nextEpisodeStartState": "S5_NEXT_MORNING (EP02 có thể bắt đầu bằng mầm củ cải sau vài ngày — chỉ khi đúng thời gian nảy mầm)"
+}

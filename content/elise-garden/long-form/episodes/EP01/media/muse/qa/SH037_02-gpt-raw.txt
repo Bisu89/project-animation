@@ -1,0 +1,1 @@
+{"dat":true,"cat_den":null,"loi":[{"giay":4.5,"mo_ta":"Sau khi trượt về phía cột góc, cô xoay thước chéo ra phía máy quay và giữ ở góc đến cuối, khác yêu cầu chỉ trượt dọc tấm ván. Thao tác vẫn hợp lý về thị giác, không phải lỗi vô lý dễ thấy."}],"sua_prompt":""}

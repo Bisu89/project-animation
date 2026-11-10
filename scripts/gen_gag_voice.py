@@ -1,4 +1,8 @@
-"""Voices + timeline for the classroom-gag shorts (two-character dialogue, edge-tts neural voices).
+"""Voices + timeline for the classroom-gag / stick-couple shorts (two-character dialogue).
+
+Voices: edge-tts by default; `"engine": "vibi"` in the episode json uses ElevenLabs through vibi.pro (scripts/vibi_tts.py,
+`voice` = ElevenLabs voice id, optional `model` (default eleven_v3), `stability`, `style`, `speed`; a line's `say` is
+spoken instead of `text`, so v3 audio tags like [panting] stay out of the captions).
 
 usage:  python scripts/gen_gag_voice.py ep01 [series]      (series defaults to classroom-gag; reads content/<series>/<ep>.json)
 
@@ -17,6 +21,7 @@ from scipy.io import wavfile
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from gen_audio import SR, pop, thud, whoosh  # noqa: E402
+import vibi_tts  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 GAP = 0.3
@@ -38,7 +43,13 @@ async def main(ep, series):
     for i, ln in enumerate(spec["lines"]):
         t += ln.get("pause", 0)  # extra silence before this line (room for a wordless beat)
         path = os.path.join(pub, f"voice_{i}.mp3")
-        await edge_tts.Communicate(ln["text"], ln["voice"], rate=ln["rate"], pitch=ln["pitch"]).save(path)
+        say = ln.get("say", ln["text"])  # "say" = what is spoken (may carry v3 audio tags), "text" = the caption
+        if spec.get("engine") == "vibi":  # ElevenLabs voices through vibi.pro (key in .env)
+            vibi_tts.tts(ln["voice"], say, path, model=ln.get("model", spec.get("model", "eleven_v3")),
+                         stability=ln.get("stability", spec.get("stability", 0.5)), style=ln.get("style", 0.0),
+                         speed=ln.get("speed", 1.0))
+        else:
+            await edge_tts.Communicate(say, ln["voice"], rate=ln["rate"], pitch=ln["pitch"]).save(path)
         trimmed = path + ".t.mp3"  # cut the silence edge-tts leaves before and after the words
         subprocess.check_call(["ffmpeg", "-v", "error", "-y", "-i", path, "-af", "silenceremove=start_periods=1:start_threshold=-40dB,areverse,silenceremove=start_periods=1:start_threshold=-40dB,areverse", trimmed])
         os.replace(trimmed, path)

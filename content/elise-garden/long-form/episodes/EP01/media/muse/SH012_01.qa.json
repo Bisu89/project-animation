@@ -1,0 +1,16 @@
+{
+ "dat": false,
+ "cat_den": null,
+ "loi": [
+  {
+   "giay": 3.0,
+   "mo_ta": "Elise quay mặt sang phải rồi đi tiến về bên phải, thay vì bước lùi liên tục theo yêu cầu."
+  },
+  {
+   "giay": 8.5,
+   "mo_ta": "Cuối clip Elise cúi người thao tác sát bụng, không giữ dải thước vàng căng thẳng từ cọc đến tay như hành động yêu cầu."
+  }
+ ],
+ "sua_prompt": "Keep Elise facing left as she slowly steps backward toward screen right, never turning to walk forward. Keep one continuous yellow tape visibly taut from the fixed cane to her hand throughout; finish standing upright on the right, holding the extended tape and looking down at it.",
+ "lan_gen": 2
+}

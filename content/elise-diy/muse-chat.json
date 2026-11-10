@@ -1,13 +1,9 @@
 {
   "series": "Elise DIY",
-  "url": "https://muse.ai/thread/08408236-3fa9-4add-a630-4cdd3a21e6bf",
-  "url_cu": "https://muse.ai/thread/fafd5981-89cd-4ed5-9370-cbae865f2d1a",
-  "profile": "chrome-profile-3",
-  "port": 9336,
-  "url_cu_list": [
-    {
-      "url": "https://muse.ai/thread/18832498-8294-4105-ae44-40ca0a797a64",
-      "profile": "chrome-profile-2"
-    }
-  ]
+  "url": "https://muse.ai/thread/21cf32b5-7305-45c5-84e1-e93204e56350",
+  "url_cu": "https://muse.ai/thread/2a79eb58-e8b0-4f7e-aa26-d4ed8b256212",
+  "url_cu_2": "https://muse.ai/thread/08408236-3fa9-4add-a630-4cdd3a21e6bf",
+  "profile": "chrome-profile-4",
+  "port": 9337,
+  "ghi_chu": "Từ tập 16 (2026-11-09) chủ dự án yêu cầu chạy DIY trên chrome-profile-4 / 9337, chat mới. url cũ là chat trên profile-3."
 }

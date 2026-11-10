@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "elise",
+  "name": "Elise Moreau",
+  "age": "khoảng 25, người lớn",
+  "identity": {
+    "status": "APPROVED_FACE",
+    "faceReference": "content/elise-diy/models/elise-v2-model-sheet.png",
+    "frontReferenceCurrentGarden": "content/elise-garden/long-form/references/anh/gl1-A-elise-garden-truoc.png",
+    "rules": [
+      "Tóc nâu nhạt búi gọn, vài sợi buông hai bên mặt",
+      "Khuyên vàng nhỏ",
+      "Không tàn nhang; câu da bắt buộc: natural realistic skin texture with fine pores, no freckles, no airbrushing",
+      "Gửi ảnh trực diện (*-truoc.png) khi gen, không gửi model sheet nhiều góc"
+    ]
+  },
+  "outfits": {
+    "gardenLongForm": {
+      "status": "APPROVED",
+      "source": "Trang phục series Elise Garden (.claude/skills/elise/nhan-vat.md), chủ dự án chốt cho bản dài 2026-11-06",
+      "desc": "yếm short rằn ri quân đội + áo ba lỗ cam cổ tim, tất trắng ngắn, giày trắng thấp cổ, khuyên vàng nhỏ + dây chuyền mảnh; găng da làm vườn ở bước đất",
+      "promptBlock": "Garden outfit: lightweight cotton short bib overalls in a green-olive, dark-brown and muted-tan woodland camouflage pattern (two shoulder straps with small metal buckles, a front bib pocket, rolled hems at upper-to-mid thigh) over a fitted vivid warm orange sleeveless V-neck tank top, short white ankle socks and plain white low-top sneakers.",
+      "reference": "content/elise-garden/long-form/references/anh/gl1-A-elise-garden-truoc.png (= ep01-tomato-slices/anh/eg1-A-elise-truoc.png)",
+      "filterTip": "Bộ lọc OpenAI hay chặn ảnh quần short: tả tư thế đứng thẳng, giữ câu 'modest, wholesome family-friendly look'.",
+      "rejected": "Bộ linen kem + quần ô liu của brief: đã gen thử (gl1-A-elise-linen-thu.png), không dùng."
+    },
+    "cookingLongForm": {
+      "status": "BLOCKED_REFERENCE",
+      "desc": "cùng bộ yếm rằn ri + áo cam, thêm tạp dề cotton be có yếm",
+      "promptBlock": "The same camouflage short overalls and orange V-neck tank top with a plain beige cotton bib apron tied at the waist.",
+      "referenceToCreate": "content/elise-garden/long-form/references/anh/gl1-A-elise-bep-truoc.png"
+    }
+  },
+  "scale": {
+    "height_cm": 168,
+    "note": "Đề xuất, dùng để so cỡ: luống 1,2 m ≈ ngang hông khi đứng cạnh; hàng rào 1,5 m ngang vai."
+  },
+  "prohibitedDrift": [
+    "tàn nhang",
+    "da mịn nhựa",
+    "đổi màu tóc / tóc xõa",
+    "áo khoác, mũ, ba lô tự thêm",
+    "găng tay khi gieo hạt",
+    "trang sức khác ngoài khuyên",
+    "người thứ hai trong khung"
+  ]
+}

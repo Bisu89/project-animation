@@ -1,0 +1,1 @@
+{"dat":true,"cat_den":null,"loi":[{"giay":5.0,"mo_ta":"Đoạn gỗ cắt rời nằm trên chồng gỗ rồi Elise mới nhặt lên, chưa đúng động tác đỡ ngay khi vừa cắt xong."},{"giay":8.0,"mo_ta":"Khung hình chuyển sang cận hơn rõ rệt ở cuối clip, chưa đúng yêu cầu giữ máy cố định."}],"sua_prompt":""}

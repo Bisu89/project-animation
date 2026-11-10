@@ -1,0 +1,52 @@
+{
+  "title": "What Day Is It?",
+  "hook": "Never fail this test \ud83d\ude02",
+  "lead": 1.0,
+  "gap": 0.35,
+  "tail": 0.6,
+  "lines": [
+    {
+      "who": "girl",
+      "text": "Babe... do you know what day it is today?",
+      "voice": "kPzsL2i3teMYv0FxEYQ6",
+      "say": "[suspicious] Babe... do you know what day it is today?",
+      "start": 1.0,
+      "end": 3.04
+    },
+    {
+      "who": "boy",
+      "text": "Of course I know! Wait right here!",
+      "voice": "yl2ZDV1MzN4HbQJbMihG",
+      "pause": 1.8,
+      "say": "[nervous laugh] Of course I know! [hurried] Wait right here!",
+      "start": 5.19,
+      "end": 7.24
+    },
+    {
+      "who": "boy",
+      "text": "Happy anniversary, my love!",
+      "voice": "yl2ZDV1MzN4HbQJbMihG",
+      "pause": 1.8,
+      "say": "[panting] Happy anniversary, my love!",
+      "start": 9.39,
+      "end": 11.26
+    },
+    {
+      "who": "girl",
+      "text": "It's trash day. You forgot the trash. Again.",
+      "voice": "kPzsL2i3teMYv0FxEYQ6",
+      "pause": 1.05,
+      "say": "[deadpan] It's trash day. You forgot the trash. [sighs] Again.",
+      "start": 12.66,
+      "end": 15.6
+    }
+  ],
+  "engine": "vibi",
+  "model": "eleven_v3",
+  "voices": {
+    "boy": "Alex - Upbeat, Energetic and Clear",
+    "girl": "Brittney - Social Media Voice",
+    "other": "Titan - Deep, Bold, and Powerful (dtSEyYGNJqjrtBArPCVZ)"
+  },
+  "total": 16.2
+}

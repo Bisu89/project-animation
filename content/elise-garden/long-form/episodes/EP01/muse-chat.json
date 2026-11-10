@@ -1,0 +1,10 @@
+{
+  "series": "Elise Garden long-form EP01",
+  "url": "https://muse.ai/thread/ebb618c8-ce8f-4cb2-aebc-e6455267f412",
+  "profile": "chrome-profile-3",
+  "port": 9336,
+  "intro": "Chat riêng cho phim dài Elise Garden (ngang 16:9). Tôi sẽ gửi từng yêu cầu tạo video làm vườn với ảnh và prompt. Tin này chỉ mở chat, hãy trả lời OK, chưa tạo video.",
+  "video_spec": "ngang 16:9, 10 giây, quay thật tốc độ thật (không timelapse)",
+  "clip_qa": "gpt",
+  "ghi_chu": "2026-11-06: chủ dự án cho dùng profile DIY đang rảnh (chrome-profile-3/9336), mở session chat mới (url trống -> lượt đầu tự tạo). muse_auto tìm file này ở thư mục CSV/cha/ông: dùng cho episodes/EP01/media/gen-video-*.csv. Không chạy cùng lúc với lượt DIY trên profile này. 2026-11-10: chủ dự án xác nhận bản dài GIỮ profile cũ (chrome-profile-3/9336) và chat này, dù DIY đã sang profile-4; profile đang mở sẵn trong session."
+}

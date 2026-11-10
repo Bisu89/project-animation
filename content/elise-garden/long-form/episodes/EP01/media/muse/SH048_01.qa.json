@@ -1,0 +1,12 @@
+{
+ "dat": true,
+ "cat_den": null,
+ "loi": [
+  {
+   "giay": 9.5,
+   "mo_ta": "Cuối clip, cào còn hướng dọc ra phía máy quay, chưa đặt nằm bằng mặt lưng như ảnh đích; sai khác nhẹ, không gây cảm giác vô lý khi xem nhanh."
+  }
+ ],
+ "sua_prompt": "",
+ "lan_gen": 1
+}

@@ -1,0 +1,16 @@
+{
+ "dat": false,
+ "cat_den": null,
+ "loi": [
+  {
+   "giay": 1.0,
+   "mo_ta": "Máy khoan đổi rõ từ thân xám sang xanh đen, đồng thời thay hình dáng thân và pin ngay trong thao tác."
+  },
+  {
+   "giay": 4.5,
+   "mo_ta": "Cô xoay máy khoan chúc xuống rồi khoan vào mép trên của tấm ván suốt phần còn lại, sai hẳn hành động bắt vít ngang vào mặt trước và chuyển sang dấu chữ thập thứ hai."
+  }
+ ],
+ "sua_prompt": "Keep the exact same gray drill body and battery throughout; never change its model or shape. Drive one screw horizontally into the first pencil cross on the front face until flush, then move the tip horizontally to the second front-face cross. Never point the drill downward or drill into the top edge.",
+ "lan_gen": 2
+}

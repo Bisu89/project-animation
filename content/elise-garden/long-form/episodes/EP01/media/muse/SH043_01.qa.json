@@ -1,0 +1,12 @@
+{
+ "dat": false,
+ "cat_den": null,
+ "loi": [
+  {
+   "giay": 7.5,
+   "mo_ta": "Đất bên trong cả hai luống chuyển thành bề mặt phẳng có vân cào dù cô ấy chỉ cào lối đi bên ngoài; thay đổi cả mảng rất rõ, giống đất tự biến đổi."
+  }
+ ],
+ "sua_prompt": "Keep the rough soil and clumps inside both raised beds visually identical throughout all 10 seconds. Flatten only the narrow strip of path physically touched by the rake, progressively with each stroke; never smooth either raised bed.",
+ "lan_gen": 2
+}

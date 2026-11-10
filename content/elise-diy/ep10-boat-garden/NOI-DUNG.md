@@ -37,3 +37,4 @@ nhiều vật nhỏ tách nhỏ, mỗi clip 2–3 vật; khung riêng cho lúc t
 - 2026-11-04: đã gen đủ 10 khung. `F0-den`, `F-sang` gen lại vì bản đầu mất hết đồ nghề tiền cảnh; `H` gen lại từ `F` mới. Chờ chủ dự án duyệt bộ ảnh.
 - 2026-11-04: gen 8 clip Muse. Clip 4 (cẩm tú cầu) hỏng cả 3 lần (đặt cả chậu, trồng ở mũi, khay tự đổi, người thứ hai) nên bỏ; ghép bằng `ghep.csv` (gen-video.csv bỏ dòng 4). `video/final.mp4` 27,3 s, chờ chủ dự án xem.
 - 2026-11-04: chủ dự án báo clip 6 cột đèn tự dài ra cắm xuống đất. Gen khung cuối mới `tb-F00-dung-cot` (sửa từ `F0`) và gen lại clip 6 (`E2-hoa` → `F00`), cột giữ nguyên chiều dài. Bản cũ `video/clip6-cu.mp4`. `final.mp4` 27,2 s.
+- 2026-11-04: chủ dự án báo cột đèn cắm ra ngoài rồi lại nằm trong thuyền. Clip 6 bản 4: khung đầu mới `tb-F01-cam-cot` (đã cầm cột trên đất trong thuyền) → `F00`, chỉ lấy 0–2,5 s. Các bản cũ `clip6-cu`, `clip6-v2`, `clip6-v3*`. `final.mp4` 25,7 s.

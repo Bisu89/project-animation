@@ -1,0 +1,33 @@
+{
+  "out": "shorts/s03-ba-va-toi.mp4",
+  "canh": [
+    {"phan_doan": "p8-nhat-ky", "clip": "2", "tu": 0, "den": 2.5},
+    {"phan_doan": "p3-leu", "clip": "17", "tu": 0, "den": 2.5},
+    {"phan_doan": "p3-leu", "clip": "12", "tu": 0, "den": 3.5, "crop_x": 0.4},
+    {"phan_doan": "p7-mua", "clip": "1", "tu": 0, "den": 1.5},
+    {"phan_doan": "p7-mua", "clip": "2", "tu": 2, "den": 4, "crop_x": 0.35},
+    {"phan_doan": "p7-mua", "clip": "4", "tu": 0, "den": 3, "crop_x": 0.85},
+    {"phan_doan": "p7-mua", "clip": "5", "tu": 0, "den": 4, "crop_x": 0.88},
+    {"phan_doan": "p7-mua", "clip": "7", "tu": 0, "den": 2.5, "crop_x": 0.45},
+    {"phan_doan": "p8-nhat-ky", "clip": "2", "tu": 3, "den": 6.5},
+    {"phan_doan": "p8-nhat-ky", "clip": "6", "tu": 0, "den": 4.5, "crop_x": 0.35}
+  ],
+  "loi": [
+    {"canh": 0, "giong": "elise", "text": "My grandma built this shelter in 1968."},
+    {"canh": 1, "giong": "elise", "text": "I built it again, right by her waterfall."},
+    {"canh": 2, "giong": "elise", "text": "Her roof held one hour in the rain. Can mine beat it?"},
+    {"canh": 5, "giong": "elise", "text": "Eight o'clock. And... a leak by my feet."},
+    {"canh": 6, "giong": "elise", "text": "Grandma's mug has a new job."},
+    {"canh": 8, "giong": "elise", "text": "Ninety minutes. Sorry, Grandma. This round is mine."},
+    {"canh": 9, "giong": "elise", "text": "Rematch next week."}
+  ],
+  "chu": [
+    {"tu": 0, "den": 2.5, "kieu": "moc", "text": "Grandma · 1968"},
+    {"tu": 2.5, "den": 5, "kieu": "moc", "text": "Me · today"},
+    {"tu": 8.5, "den": 10, "kieu": "moc", "text": "18:30 · rain"},
+    {"tu": 10, "den": 12, "kieu": "moc", "text": "19:30"},
+    {"tu": 12, "den": 15, "kieu": "moc", "text": "20:00"},
+    {"tu": 23.3, "den": 27.5, "kieu": "buoc", "text": "ME 1 – GRANDMA 0"},
+    {"tu": 27, "den": -0.05, "kieu": "ket", "text": "Full story: Page 1 — The Waterfall Pool · Fictional story, AI-generated"}
+  ]
+}

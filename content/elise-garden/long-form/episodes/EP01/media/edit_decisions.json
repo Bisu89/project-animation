@@ -1,0 +1,315 @@
+{
+  "note": "Quyết định cắt sau khi Claude xem clip pilot (2026-11-06): lưới 1 khung/giây + soi 4 khung/giây quanh mốc nghi vấn + ffmpeg scene>0.18 + freezedetect. Giây tính trong file Muse gốc 10 s. Codex dùng file này cho trimBefore/durationInFrames; không sinh lại từ queue.",
+  "clips": {
+    "SH009_01": {
+      "in": 0.0,
+      "out": 8.5,
+      "note": "Máy đẩy vào chậm, mượt từ 5,5 s; chấp nhận."
+    },
+    "SH018_01": {
+      "in": 0.0,
+      "out": 5.0,
+      "note": "Cắt ở 5 s, lúc cây còn nghiêng, để nối khớp với khung đầu SH018_02 (sau 5 s cây bị nhấc cao rồi clip 02 lại bắt đầu nghiêng: nối sẽ lùi)."
+    },
+    "SH018_02": {
+      "in": 0.4,
+      "out": 5.0,
+      "note": "Cắt cảnh ở 0,33 s; sau 5 s đứng cầm cây."
+    },
+    "SH024_01": {
+      "in": 0.0,
+      "out": 2.0,
+      "note": "Clip nền; chỉ cần 2 s để hòa trước/sau."
+    },
+    "SH024_02": {
+      "in": 0.25,
+      "out": 8.75,
+      "note": "Đứng hình 0,21 s; cuối clip Elise đi gần máy, chấp nhận."
+    },
+    "SH030_01": {
+      "in": 0.0,
+      "out": 5.0,
+      "note": "Máy giật lùi nhanh ~5,5 s; cắt trước."
+    },
+    "SH030_02": {
+      "in": 0.0,
+      "out": 5.0,
+      "note": "Sau 7 s tay đứng yên."
+    },
+    "SH040_01": {
+      "in": 0.0,
+      "out": 8.0,
+      "note": "Đạt."
+    },
+    "SH048_01": {
+      "in": 0.0,
+      "out": 6.5,
+      "note": "Sau 7 s đứng yên."
+    },
+    "SH048_02": {
+      "in": 0.0,
+      "out": 4.5,
+      "note": "Sau 4,5 s đứng chống hông; cắt."
+    },
+    "SH052_01": {
+      "in": 0.0,
+      "out": 3.9,
+      "note": "Cắt cảnh ở 3,92 s."
+    },
+    "SH052_02": {
+      "in": 0.2,
+      "out": 5.2,
+      "note": "Đứng hình 0,17 s."
+    },
+    "SH079_01": {
+      "in": 0.25,
+      "out": 8.75,
+      "note": "Đứng dậy, máy đẩy theo vào mặt mượt; hợp cảnh kết."
+    },
+    "SH010_01": {
+      "in": 0.0,
+      "out": 6.5,
+      "note": "Sau 6,5 s đứng cầm nắm cỏ."
+    },
+    "SH011_01": {
+      "in": 0.5,
+      "out": 7.5,
+      "note": "Đạt; giun cử động tự nhiên."
+    },
+    "SH012_01": {
+      "in": 0.2,
+      "out": 6.0,
+      "note": "Đi tới thay vì lùi (QA trượt 2 lần, giữ bản 2); đoạn đầu vẫn đọc là kéo thước."
+    },
+    "SH013_01": {
+      "in": 0.0,
+      "out": 8.0,
+      "note": "Bản gen lại; sơ đồ không chữ."
+    },
+    "SH014_01": {
+      "in": 0.0,
+      "out": 6.0,
+      "note": "Sau 6 s quay người đi khỏi khung."
+    },
+    "SH015_01": {
+      "in": 0.0,
+      "out": 8.0,
+      "note": "Bản gen lại (bản 1 mất yếm)."
+    },
+    "SH016_01": {
+      "in": 0.0,
+      "out": 6.8,
+      "note": "Muse tự cắt cảnh 6,83 s."
+    },
+    "SH017_01": {
+      "in": 0.0,
+      "out": 7.0,
+      "note": "Sau 7 s đứng giữ cành."
+    },
+    "SH017_02": {
+      "in": 0.0,
+      "out": 6.5,
+      "note": "Sau 6,5 s đứng yên."
+    },
+    "SH019_01": {
+      "in": 0.0,
+      "out": 4.8,
+      "note": "Máy lùi ra rộng từ ~5 s. QA GPT lỗi (thiếu file), Claude xem tay."
+    },
+    "SH020_01": {
+      "in": 0.0,
+      "out": 4.5,
+      "note": "QA trượt 2 lần (đẩy tới rồi lùi). 0–4,5 s đẩy một mạch về thùng ủ; sau đó máy đổi góc."
+    },
+    "SH021_01": {
+      "in": 0.0,
+      "out": 4.8,
+      "note": "QA trượt 2 lần. Sau 5,5 s: tay phải mất găng + đá tự hiện ở 6,5 s; bỏ."
+    },
+    "SH021_02": {
+      "in": 0.0,
+      "out": 4.0,
+      "note": "QA trượt 2 lần. Dây tự sinh thành búi từ ~4,5 s."
+    },
+    "SH022_01(cũ)": {
+      "file": "SH022_01.hong-may-xang.mp4",
+      "use": false,
+      "note": "Bỏ: 0,33 s đổi thành máy cắt xăng đỏ, đi ra đất trống mọc cỏ. Đã viết lại SH022 (khung chỉ có cỏ, 2 clip)."
+    },
+    "SH023_01": {
+      "in": 0.0,
+      "out": 6.0,
+      "note": "Cắm cọc, buộc dây; sau 6 s nhìn máy."
+    },
+    "SH023_02": {
+      "in": 0.0,
+      "out": 4.1,
+      "note": "Muse tự cắt cảnh 4,17 s."
+    },
+    "SH025_01": {
+      "in": 0.0,
+      "out": 5.5,
+      "note": "QA trượt 2 lần: chĩa biến mất ~6,5 s; dùng đoạn đổ cỏ + cầm chĩa."
+    },
+    "SH025_02": {
+      "in": 0.0,
+      "out": 6.0,
+      "note": "Mang chĩa vào treo; sau đó quay ra."
+    },
+    "SH022_01": {
+      "in": 0.0,
+      "out": 5.5,
+      "note": "Bản làm lại: khung chỉ có cỏ, máy cuộn xanh giữ dạng."
+    },
+    "SH022_02": {
+      "in": 2.5,
+      "out": 8.0,
+      "note": "Quay đầu rồi đẩy đi xa; dải cỏ cắt hiện sau máy."
+    },
+    "SH026_01": {
+      "in": 0.0,
+      "out": 6.0,
+      "note": "Vác ván, hạ xuống ngựa gỗ."
+    },
+    "SH026_02": {
+      "in": 0.0,
+      "out": 5.0,
+      "note": "Đặt ván, kéo thẳng."
+    },
+    "SH027_01": {
+      "in": 0.5,
+      "out": 7.0,
+      "note": "Thước dây → ê-ke → kẻ vạch."
+    },
+    "SH028_01": {
+      "in": 0.0,
+      "out": 6.5,
+      "note": "Cưa đều."
+    },
+    "SH028_02": {
+      "in": 0.0,
+      "out": 6.5,
+      "note": "Muse tự cắt cảnh 7,88 s; cắt trước."
+    },
+    "SH029_01": {
+      "in": 0.0,
+      "out": 6.0,
+      "note": "Không khung cuối; đủ 4 khúc cọc."
+    },
+    "SH031_01": {
+      "in": 0.0,
+      "out": 3.5,
+      "note": "QA trượt 2 lần: khoan đổi dáng/hướng; chỉ lấy đoạn đầu bắt vít vào mặt ván."
+    },
+    "SH031_02": {
+      "in": 0.4,
+      "out": 6.4,
+      "note": "Cắt cảnh 0,33 s."
+    },
+    "SH032_01": {
+      "in": 0.0,
+      "out": 6.0,
+      "note": "Gõ búa cao su, góc khít ê-ke."
+    },
+    "SH033_01": {
+      "in": 0.0,
+      "out": 6.5,
+      "note": "Dựng khung lên cạnh."
+    },
+    "SH033_02": {
+      "in": 0.25,
+      "out": 6.75,
+      "note": "Đứng hình 0,21 s."
+    },
+    "SH034_01": {
+      "in": 0.0,
+      "out": 6.0,
+      "note": "Khoan góc cuối khung 2."
+    },
+    "SH034_02": {
+      "in": 0.0,
+      "out": 4.5,
+      "note": "QA trượt 2 lần: sau 5 s khung dựng đứng rồi thành tấm ván; dùng đoạn đầu."
+    },
+    "SH035_01": {
+      "in": 0.0,
+      "out": 5.75,
+      "note": "Mang khung trên cạnh qua bãi cỏ."
+    },
+    "SH035_02": {
+      "in": 0.0,
+      "out": 4.75,
+      "note": "Bản gen lại (bản 1 bụi cây tự mọc); sau 5 s xoay khung."
+    },
+    "SH036_01": {
+      "in": 0.0,
+      "out": 7.3,
+      "note": "Cắt cảnh 7,5 s."
+    },
+    "SH036_02": {
+      "in": 0.2,
+      "out": 6.2,
+      "note": "Đứng hình 0,17 s; căn góc khung với cọc."
+    },
+    "SH037_01": {
+      "in": 0.0,
+      "out": 6.1,
+      "note": "Cận ngang; thấy thân yếm ở mép trên (chấp nhận)."
+    },
+    "SH037_02": {
+      "in": 0.0,
+      "out": 4.2,
+      "note": "Sau 4,5 s thước xoay chéo."
+    },
+    "SH038_01": {
+      "in": 0.0,
+      "out": 7.0,
+      "note": "Gạt đất, nhặt thước."
+    },
+    "SH038_02": {
+      "in": 0.0,
+      "out": 7.0,
+      "note": "Bọt thước về giữa."
+    },
+    "SH039_01": {
+      "in": 0.0,
+      "out": 6.0,
+      "note": "Hạ khung 2, kéo thước."
+    },
+    "SH039_02": {
+      "in": 0.0,
+      "out": 6.2,
+      "note": "Căn song song."
+    },
+    "SH041_01": {
+      "in": 0.2,
+      "out": 6.2,
+      "note": "Đứng hình 0,17 s."
+    },
+    "SH041_02": {
+      "in": 2.6,
+      "out": 8.6,
+      "note": "Muse đổi góc ở 2,5 s: dùng phần sau như góc mới, chuyển cảnh = cat."
+    },
+    "SH042_01": {
+      "in": 0.0,
+      "out": 1.4,
+      "note": "QA trượt 2 lần (giày xuyên ván từ 1,5 s, tay vun đất); chỉ giữ 1,4 s làm cảnh chèn."
+    },
+    "SH043_01": {
+      "in": 0.0,
+      "out": 7.0,
+      "note": "QA trượt 2 lần: đất trong luống tự phẳng ở 7,5 s; cắt trước."
+    },
+    "SH043_02": {
+      "in": 0.0,
+      "out": 6.0,
+      "note": "Cào xong, dựng cào."
+    }
+  },
+  "rebalance": "SH018 12→9,6 (+2,4 cho SH017 → 12,4); SH048 13→11 (+2 cho SH050); SH052 10→8,9 (+1,1 cho SH054). Tổng giữ 720 s.",
+  "note_wave1": "Đợt 1 xem 2026-11-06. Thiếu ~11 s so với kế hoạch SQ02–03; cân lại khi đủ SH020–SH025.",
+  "rebalance_wave1": "SQ02 65→56,6 s; SQ03 95→83,2 s; +20,2 s sang SQ04/05/07/08. Từ đợt 2: mỗi clip tính ~6 s.",
+  "rebalance_wave2a": "SH031 12→9,5; SH034 12→10,5; +1 s mỗi shot SH026/SH028/SH033/SH035. SQ04 giữ 96 s.",
+  "rebalance_wave2b": "SH037 12,2→10,3; SH042 6→1,4; +SH036 1,3, SH038 2, SH039 0,2, SH043 3. SQ05 giữ 84,2 s."
+}

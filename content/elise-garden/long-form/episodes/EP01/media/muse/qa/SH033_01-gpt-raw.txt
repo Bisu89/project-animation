@@ -1,0 +1,1 @@
+{"dat":true,"cat_den":null,"loi":[{"giay":7.0,"mo_ta":"Khung dựng gần như nhìn nghiêng, chưa xoay mặt rộng về máy như ảnh cuối; Elise giữ yên đến hết clip. Đây là sai lệch nhỏ, không thấy biến hình hay vật lý vô lý rõ ràng."}],"sua_prompt":""}

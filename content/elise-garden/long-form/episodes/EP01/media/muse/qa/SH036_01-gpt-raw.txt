@@ -1,0 +1,1 @@
+{"dat":true,"cat_den":null,"loi":[{"giay":7.5,"mo_ta":"Khung hình đột ngột chuyển sang cận cảnh, không đúng yêu cầu một góc máy cố định liên tục; tuy nhiên không thấy lỗi vô lý rõ về người, đồ vật hay hành động."}],"sua_prompt":""}

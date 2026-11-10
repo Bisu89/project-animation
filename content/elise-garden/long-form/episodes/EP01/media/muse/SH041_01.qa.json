@@ -1,0 +1,12 @@
+{
+ "dat": true,
+ "cat_den": null,
+ "loi": [
+  {
+   "giay": 9.5,
+   "mo_ta": "Elise gần đi khuất mép phải, vượt quá vị trí trong khung cuối mong muốn; đây chỉ là sai lệch trạng thái cuối, không phải lỗi vô lý."
+  }
+ ],
+ "sua_prompt": "",
+ "lan_gen": 1
+}

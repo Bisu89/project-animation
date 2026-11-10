@@ -9,8 +9,12 @@ const SKIN = "#ffffff";
 const RED = [255, 112, 96];
 // skin colour for a given redness (white -> angry red) and sickness (white -> green)
 const SICK = [178, 222, 150];
-const skinOf = (red: number, sick = 0) =>
-  red > 0 || sick > 0 ? `rgb(${RED.map((c, i) => Math.round(Math.max(0, 255 + (c - 255) * red + (SICK[i] - 255) * sick))).join(",")})` : SKIN;
+const WHITE = [255, 255, 255];
+// base = the character's own skin tone (default white); red/sick blend away from it
+export const skinOf = (red: number, sick = 0, base: number[] = WHITE) =>
+  red > 0 || sick > 0 || base !== WHITE
+    ? `rgb(${RED.map((c, i) => Math.round(Math.max(0, base[i] + (c - base[i]) * red + (SICK[i] - base[i]) * sick))).join(",")})`
+    : SKIN;
 const SHADE = "#e6e9f0";
 export const R = 120; // head radius
 const NECK = 270; // hip -> top of neck
@@ -18,8 +22,8 @@ const SHOULDER = 235;
 const ARM = [126, 120];
 const LEG = [142, 142];
 
-export type Emo = "neutral" | "happy" | "suspicious" | "nervous" | "shock" | "moved" | "tired" | "awkward" | "laugh" | "angry";
-export type Hair = "spiky" | "bob" | "none";
+export type Emo = "neutral" | "happy" | "suspicious" | "nervous" | "shock" | "moved" | "tired" | "awkward" | "laugh" | "angry" | "hum" | "blank" | "focused";
+export type Hair = "spiky" | "bob" | "none" | "wet";
 export type Pt = [number, number];
 export type Pose = {
   near: Pt; // hand targets (local); near arm is drawn over the body
@@ -89,6 +93,20 @@ const HairFront: React.FC<{ hair: Hair }> = ({ hair }) => {
         <path d={`M${-R * 0.45},${-R * 0.82} Q${-R * 0.1},${-R * 0.98} ${R * 0.3},${-R * 0.8}`} stroke="#5a5a6a" strokeWidth={7} fill="none" strokeLinecap="round" />
       </g>
     );
+  if (hair === "wet")
+    // the spiky hair after a soaking: flattened cap with strands stuck to the forehead
+    return (
+      <g>
+        <path
+          d={`M${R * 0.99},${-R * 0.12} Q${R * 0.78},${-R * 0.42} ${R * 0.5},${-R * 0.3} L${R * 0.42},${-R * 0.05} L${R * 0.28},${-R * 0.34} Q${R * 0.05},${-R * 0.42} ${-R * 0.1},${-R * 0.3} L${-R * 0.22},${-R * 0.02} L${-R * 0.34},${-R * 0.34} Q${-R * 0.72},${-R * 0.3} ${-R * 1.0},${-R * 0.02} A${R * 1.03},${R * 1.03} 0 0 1 ${R * 0.99},${-R * 0.12} Z`}
+          fill="#24242c"
+          stroke={INK}
+          strokeWidth={8}
+          strokeLinejoin="round"
+        />
+        <path d={`M${-R * 0.5},${-R * 0.78} Q${-R * 0.1},${-R * 0.94} ${R * 0.3},${-R * 0.78}`} stroke="#6a7a92" strokeWidth={7} fill="none" strokeLinecap="round" />
+      </g>
+    );
   if (hair === "bob")
     return (
       <g>
@@ -117,13 +135,13 @@ const EYES: Pt[] = [
 ];
 const MOUTH: Pt = [R * 0.33, R * 0.45];
 
-const Face: React.FC<{ look: Look; girl: boolean }> = ({ look, girl }) => {
-  const skin = skinOf(look.red ?? 0, look.sick ?? 0);
+export const Face: React.FC<{ look: Look; girl: boolean; base?: number[] }> = ({ look, girl, base }) => {
+  const skin = skinOf(look.red ?? 0, look.sick ?? 0, base);
   const { emo, talk = 0, blink = false, gaze = [0, 0], blush = 0, sweat = 0, tears = 0, t } = look;
   const rx = R * 0.15;
   const ry = R * (emo === "shock" || emo === "awkward" ? 0.24 : 0.2);
-  const lid = blink ? 1 : emo === "tired" ? 0.52 : emo === "suspicious" ? 0.38 : emo === "angry" ? 0.22 : 0;
-  const pr = R * (emo === "moved" ? 0.115 : emo === "shock" || emo === "awkward" || emo === "angry" ? 0.055 : 0.085);
+  const lid = blink ? 1 : emo === "tired" ? 0.52 : emo === "suspicious" ? 0.38 : emo === "angry" ? 0.22 : emo === "focused" ? 0.42 : emo === "hum" ? 0.3 : 0;
+  const pr = R * (emo === "moved" ? 0.115 : emo === "shock" || emo === "awkward" || emo === "angry" || emo === "blank" ? 0.055 : 0.085);
   // brows: raise (+ = up) and inner-end drop (+ = angry, - = worried)
   const brow: Record<Emo, [number, number]> = {
     neutral: [0, 0],
@@ -136,6 +154,9 @@ const Face: React.FC<{ look: Look; girl: boolean }> = ({ look, girl }) => {
     awkward: [0.9, -0.35],
     laugh: [0.5, -0.3],
     angry: [-0.4, 1.5],
+    hum: [0.15, 0.55],
+    blank: [0, 0],
+    focused: [-0.25, 0.9],
   };
   const [raise, inner] = brow[emo];
   const shut = emo === "laugh" || (emo === "happy" && talk < 0.05);
@@ -237,6 +258,18 @@ const Mouth: React.FC<{ emo: Emo; talk: number; t: number }> = ({ emo, talk, t }
       </g>
     );
   }
+  if (emo === "hum") {
+    // puckered little "o", wobbling with the tune (talk = loudness)
+    const rx = w * (0.13 + 0.05 * talk) * (1 + 0.12 * Math.sin(t * 23));
+    const ry = R * (0.07 + 0.05 * talk) * (1 - 0.1 * Math.sin(t * 23));
+    return (
+      <g>
+        <ellipse cx={x + R * 0.02} cy={y + R * 0.02} rx={rx} ry={ry} fill="#6b1f2a" stroke={INK} strokeWidth={sw} />
+        <path d={`M${x - w * 0.42},${y - R * 0.04} q${-R * 0.05},${R * 0.06} 0,${R * 0.12} M${x + w * 0.46},${y - R * 0.04} q${R * 0.05},${R * 0.06} 0,${R * 0.12}`} stroke={INK} strokeWidth={4} fill="none" strokeLinecap="round" opacity={0.5} />
+      </g>
+    );
+  }
+  if (emo === "blank") return <line x1={x - w * 0.3} y1={y + R * 0.05} x2={x + w * 0.3} y2={y + R * 0.05} stroke={INK} strokeWidth={sw} strokeLinecap="round" />;
   if (talk > 0.06 || emo === "shock") {
     const o = emo === "shock" ? Math.max(0.8, talk) : talk;
     const hw = w * (0.32 + 0.12 * o);
@@ -255,7 +288,7 @@ const Mouth: React.FC<{ emo: Emo; talk: number; t: number }> = ({ emo, talk, t }
     });
     return <polyline points={p.join(" ")} stroke={INK} strokeWidth={sw} fill="none" strokeLinecap="round" strokeLinejoin="round" />;
   }
-  const curve: Partial<Record<Emo, number>> = { happy: 0.16, moved: 0.1, suspicious: -0.02, tired: -0.05, neutral: 0.05 };
+  const curve: Partial<Record<Emo, number>> = { happy: 0.16, moved: 0.1, suspicious: -0.02, tired: -0.05, neutral: 0.05, focused: -0.03 };
   const c = (curve[emo] ?? 0) * R;
   const skew = emo === "suspicious" ? R * 0.06 : 0;
   return <path d={`M${x - w * 0.42},${y + skew} Q${x},${y + c * 2} ${x + w * 0.42},${y - skew}`} stroke={INK} strokeWidth={sw} fill="none" strokeLinecap="round" />;

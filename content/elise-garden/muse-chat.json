@@ -1,0 +1,11 @@
+{
+  "series": "Elise Garden",
+  "url": "https://muse.ai/thread/debec4e6-ce57-4682-b359-6cd010d9ead7",
+  "profile": "chrome-profile-4",
+  "port": 9337,
+  "intro": "Chat riêng cho series Elise Garden. Tôi sẽ gửi từng yêu cầu tạo video làm vườn với ảnh và prompt. Tin này chỉ mở chat, hãy trả lời OK, chưa tạo video.",
+  "video_spec": "Photorealistic vertical 9:16 gardening video. Only one adult woman when specified. No generated text or watermark. No camera movement unless explicitly requested.",
+  "clip_qa": "gpt",
+  "url_cu": "https://muse.ai/thread/0b2aac5c-a881-4b9e-9db9-f23689281dc1",
+  "ghi_chu": "Profile riêng cho Garden (chủ dự án yêu cầu 2026-11-06), chạy song song được với các dòng trên chrome-profile-3. Mở lại để đăng nhập: muse-auto/1-dang-nhap-garden.bat."
+}

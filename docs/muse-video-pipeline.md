@@ -109,6 +109,16 @@ mà vẫn tốn một lượt gen.
 - **Khi một profile Chrome đang bận** (phiên khác đang chạy Muse cùng series), đặt `muse-chat.json` riêng trong thư mục
   tập trỏ sang profile rảnh. Tool đọc file ở thư mục tập trước file của series.
 
+## Chuyển cảnh mượt (Elise DIY tập 12, 2026-11-05)
+
+Chủ dự án thấy image-to-video hay giật lúc bắt đầu clip. Đo trên 8 clip tập 12 thấy ba lỗi:
+
+- **Đầu clip đứng hình:** 5/8 clip đứng yên 0,2–0,4 s rồi mới chạy. `ghep.py` giờ tự bỏ đoạn này.
+- **Chỗ nối lệch:** cuối clip không khớp ảnh khung cuối. Độ lệch ở chỗ nối gấp khoảng 20 lần độ chuyển động giữa hai khung bình thường, kể cả ở các chỗ nối liền.
+  - Cách xử lý: nối liền dùng `chuyen_canh = mo`; nhảy thời gian, đổi cảnh hoặc vào cảnh thành phẩm dùng `mo_dai`.
+- **Muse tự cắt cảnh giữa clip mà QA GPT bỏ sót:** ví dụ clip 2 ở 2,5 s, clip 3 ở 8,2 s.
+  - `ghep.py` in cảnh báo mốc nhảy cảnh. Gặp cảnh báo thì đặt `cat_tu`/`cat_den` để tránh mốc đó.
+
 ## Bài học (Elise Wild tập 01, phim dài 16:9 theo phân đoạn, 2026-11-03)
 
 - **Làm theo phân đoạn**, mỗi phân đoạn một thư mục (`p3-leu/`, `p4-nuoc/`...) có `gen-anh.csv`, `gen-video.csv`, ghép

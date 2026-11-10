@@ -1,0 +1,12 @@
+{
+ "dat": true,
+ "cat_den": null,
+ "loi": [
+  {
+   "giay": 9.5,
+   "mo_ta": "Cuối clip, cô đã đặt ván nằm phẳng trên chồng gỗ thay vì còn cầm một đầu nghiêng như khung cuối tham chiếu; khác biệt này không phải lỗi loại theo tiêu chí đã cho."
+  }
+ ],
+ "sua_prompt": "",
+ "lan_gen": 1
+}

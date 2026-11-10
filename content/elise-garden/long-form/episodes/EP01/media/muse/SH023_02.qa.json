@@ -1,0 +1,16 @@
+{
+ "dat": true,
+ "cat_den": null,
+ "loi": [
+  {
+   "giay": 4.0,
+   "mo_ta": "Dây chùng thành vài vòng trên đất trong lúc thao tác, nhưng chưa có biểu hiện phi lý rõ ràng."
+  },
+  {
+   "giay": 9.5,
+   "mo_ta": "Tư thế và vị trí kết thúc chưa khớp ảnh đích; không tính là lỗi loại theo tiêu chí đã cho."
+  }
+ ],
+ "sua_prompt": "",
+ "lan_gen": 1
+}

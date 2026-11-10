@@ -4,7 +4,8 @@ usage:  python scripts/gen_couple_sfx.py --out demo-project/public/stick-couple
 
 Writes OUT/<name>.wav: music (playful bed), scratch (record stop), gulp, ding (sparkle), grab (whoosh), laugh (crowd), freeze,
 ticking (clock), plop (splat), steam (anger hiss), chew, sniff, whine (dog), clap, pour, mystery (bed),
-creepy (horror build), boo (jump scare), pops (popcorn).
+creepy (horror build), boo (jump scare), pops (popcorn), whoosh, slam (door), game (8-bit blips), pant (out of breath),
+rain, thunder, splash (puddle wave), engine (bus), hiss (bus door), birds, hero (fanfare), click (switch).
 Each episode file in demo-project/src/stick-couple/ places the ones it uses.
 """
 import argparse
@@ -15,7 +16,7 @@ import numpy as np
 from scipy.io import wavfile
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from gen_audio import SR, bell, clap, env, impact, pop, filt, noise, norm, rng, section, t_, whoosh  # noqa: E402
+from gen_audio import SR, bell, clap, env, impact, pop, filt, noise, norm, rng, section, slam, t_, whoosh  # noqa: E402
 
 
 def place(buf, x, at, g=1.0):
@@ -223,6 +224,115 @@ def pops(d=1.0):
     return norm(out, 0.6)
 
 
+def game(d=4.0):
+    """video game on the TV: square-wave blips and laser zaps on a fixed loop"""
+    out = np.zeros(int(d * SR))
+    notes = [660, 880, 990, 880, 660, 1320, 990, 660]
+    for k in range(int(d / 0.16)):
+        f = notes[k % len(notes)]
+        n = int(0.07 * SR)
+        tt = np.arange(n) / SR
+        place(out, np.sign(np.sin(2 * np.pi * f * tt)) * 0.25 * env(n, 0.002, 0.07, 3), k * 0.16)
+        if k % 5 == 2:
+            m = int(0.12 * SR)
+            tt = np.arange(m) / SR
+            fz = 2400 - 15000 * tt
+            place(out, np.sign(np.sin(2 * np.pi * np.cumsum(fz) / SR)) * 0.18 * env(m, 0.001, 0.12, 4), k * 0.16 + 0.05)
+    return fade(norm(filt(out, "lp", 6000), 0.6), 0.02, 0.1)
+
+
+def pant(d=1.6, rate=0.36):
+    """out of breath: breathy noise puffs, in/out"""
+    out = np.zeros(int(d * SR))
+    for k in range(int(d / rate)):
+        n = int(rate * 0.8 * SR)
+        band = (500, 2500) if k % 2 else (700, 3200)
+        place(out, filt(noise(n / SR), "bp", band) * np.sin(np.pi * np.arange(n) / n) ** 2, k * rate, 1.0 if k % 2 else 0.7)
+    return fade(norm(out, 0.6))
+
+
+def rain(d=8.0):
+    """steady rain: filtered noise bed plus random drop ticks"""
+    x = filt(noise(d), "bp", (900, 7000)) * 0.5 + filt(noise(d), "lp", 500) * 0.25
+    for k in range(int(d * 40)):
+        at = rng.uniform(0, d)
+        place(x, filt(noise(0.01), "hp", 3000) * env(int(0.01 * SR), 0.0005, 0.01, 6), at, rng.uniform(0.1, 0.4))
+    return fade(norm(x, 0.6), 0.3, 0.5)
+
+
+def thunder(d=2.4):
+    """close thunder: sharp crack then a long low rumble"""
+    t = t_(d)
+    crack = filt(noise(0.3), "bp", (800, 6000)) * np.exp(-t_(0.3) * 14)
+    rumble = filt(noise(d), "lp", 160) * np.exp(-t * 1.4) * (1 + 0.5 * np.sin(2 * np.pi * 3 * t))
+    out = rumble * 1.4
+    place(out, crack, 0.0, 0.9)
+    return fade(norm(out, 0.85), 0.002, 0.4)
+
+
+def splash(d=1.0):
+    """big wave of puddle water: whoosh into a wide noisy splash and dripping"""
+    out = np.zeros(int(d * SR))
+    place(out, whoosh(0.25, 300, 3000, 0.7), 0.0, 0.5)
+    sp = filt(noise(0.7), "bp", (300, 5000)) * np.exp(-t_(0.7) * 5)
+    place(out, sp, 0.18, 1.0)
+    for k in range(10):
+        place(out, pop(), 0.4 + k * 0.05 + rng.uniform(0, 0.03), 0.15)
+    return fade(norm(out, 0.85))
+
+
+def engine(d=3.0):
+    """bus engine driving past: low harmonic rumble that swells and fades"""
+    t = t_(d)
+    f = 48 + 10 * np.sin(np.pi * t / d)
+    ph = 2 * np.pi * np.cumsum(f) / SR
+    x = sum(np.sin(h * ph) / h for h in range(1, 8)) + filt(noise(d), "lp", 300) * 0.6
+    return fade(norm(x * np.sin(np.pi * t / d) ** 0.7, 0.7), 0.05, 0.3)
+
+
+def hiss(d=0.7):
+    """pneumatic bus door: short air hiss with a clunk"""
+    t = t_(d)
+    x = filt(noise(d), "hp", 2500) * np.exp(-t * 4) * np.minimum(1, t / 0.02)
+    place(x, filt(noise(0.06), "lp", 900) * np.exp(-t_(0.06) * 40), d - 0.15, 1.2)
+    return fade(norm(x, 0.6))
+
+
+def birds(d=1.8):
+    """two little birds chirping"""
+    out = np.zeros(int(d * SR))
+    for k in range(9):
+        n = int(0.08 * SR)
+        tt = np.arange(n) / SR
+        f0 = rng.uniform(3200, 4200)
+        ch = np.sin(2 * np.pi * np.cumsum(f0 + 1800 * np.sin(np.pi * tt / 0.08)) / SR) * np.sin(np.pi * tt / 0.08)
+        place(out, ch, k * 0.19 + rng.uniform(0, 0.05), 0.5)
+    return fade(norm(out, 0.5))
+
+
+def hero(d=2.2):
+    """heroic brass-ish fanfare: rising fifth then a held major chord"""
+    out = np.zeros(int(d * SR))
+
+    def brass(f, dd):
+        tt = t_(dd)
+        x = sum(np.sin(2 * np.pi * f * h * tt) * (0.6 ** h) for h in range(1, 7))
+        return x * np.minimum(1, tt / 0.04) * np.exp(-tt * 0.8)
+    place(out, brass(392, 0.25), 0.0, 0.6)
+    place(out, brass(523, 0.25), 0.22, 0.6)
+    for f in (523, 659, 784):
+        place(out, brass(f, 1.6), 0.45, 0.4)
+    return fade(norm(filt(out, "lp", 5000), 0.7), 0.01, 0.4)
+
+
+def click():
+    """flashlight / switch click: two tiny clicks a few ms apart"""
+    out = np.zeros(int(0.12 * SR))
+    for at, g in ((0.0, 1.0), (0.035, 0.6)):
+        place(out, filt(noise(0.012), "bp", (1800, 7000)) * np.exp(-t_(0.012) * 400), at, g)
+    return fade(norm(out, 0.7), 0.001, 0.02)
+
+
 def music(d=16.0):
     x = section("play", d)
     return fade(norm(x, 0.8), 0.2, 0.5)
@@ -255,6 +365,18 @@ def main():
         "creepy": lambda: creepy(),
         "boo": lambda: boo(),
         "pops": lambda: pops(),
+        "whoosh": lambda: whoosh(0.35, 400, 4500, 0.5),
+        "slam": lambda: slam(),
+        "game": lambda: game(),
+        "pant": lambda: pant(),
+        "rain": lambda: rain(),
+        "thunder": lambda: thunder(),
+        "splash": lambda: splash(),
+        "engine": lambda: engine(),
+        "hiss": lambda: hiss(),
+        "birds": lambda: birds(),
+        "hero": lambda: hero(),
+        "click": lambda: click(),
     }
     for name, make in parts.items():
         if args.only and name not in args.only:

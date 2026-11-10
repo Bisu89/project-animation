@@ -1,0 +1,479 @@
+{
+  "schemaVersion": 1,
+  "status": "PROPOSED_GATE_A",
+  "note": "Gốc tọa độ ở góc tây-nam sân; x về đông (0–12 m), y về bắc (0–12 m). Nhà nằm ngoài sân, tường sau ở y=12. Mục fromBrief=false là đề xuất.",
+  "plot": {
+    "widthEW_m": 12,
+    "depthNS_m": 12
+  },
+  "season": "early spring, temperate American suburb (fictional)",
+  "landmarks": [
+    {
+      "id": "HOUSE",
+      "fromBrief": false,
+      "rect": [
+        0.0,
+        12.0,
+        12.0,
+        15.0
+      ],
+      "desc": "Nhà ranch một tầng, ốp ván ngang xám nhạt, viền trắng, mái shingle sẫm, máng xối trắng."
+    },
+    {
+      "id": "DECK",
+      "fromBrief": false,
+      "rect": [
+        1.5,
+        10.0,
+        6.5,
+        12.0
+      ],
+      "desc": "Deck gỗ cao ~60 cm, lan can đơn giản, 3 bậc rộng ở giữa xuống sân; cửa kính trượt ở x≈4."
+    },
+    {
+      "id": "PATIO",
+      "fromBrief": false,
+      "rect": [
+        2.5,
+        8.4,
+        5.5,
+        9.6
+      ],
+      "desc": "Sân bê tông nhỏ dưới chân bậc deck; đặt ngựa gỗ cưa, ráp khung (SQ04)."
+    },
+    {
+      "id": "HOSE_BIB",
+      "fromBrief": false,
+      "point": [
+        7.5,
+        12.0
+      ],
+      "desc": "Vòi nước ngoài trời + cuộn ống xanh gắn tường. Nguồn nước SQ08."
+    },
+    {
+      "id": "KITCHEN_WINDOW",
+      "fromBrief": false,
+      "point": [
+        9.0,
+        12.0
+      ],
+      "desc": "Cửa sổ bếp khung trắng trên bồn rửa, nhìn thẳng ra hai luống."
+    },
+    {
+      "id": "RAIN_BARREL",
+      "fromBrief": false,
+      "point": [
+        11.6,
+        11.6
+      ],
+      "desc": "Thùng hứng nước mưa xanh sẫm dưới ống xối, góc phải nhà."
+    },
+    {
+      "id": "FENCE",
+      "fromBrief": true,
+      "desc": "Rào gỗ cedar kín (privacy fence) cao 1,8 m (6 ft), ván dọc, ở phía tây, nam, đông."
+    },
+    {
+      "id": "GATE",
+      "fromBrief": true,
+      "rect": [
+        8.3,
+        0.0,
+        9.3,
+        0.0
+      ],
+      "desc": "Cổng gỗ cùng kiểu rào ở rào sau (nam), thẳng lối đi giữa hai luống."
+    },
+    {
+      "id": "PATH",
+      "fromBrief": false,
+      "desc": "Lối 1,2 m từ cổng thẳng lên bắc giữa hai luống (x 8,2–9,4) tới y≈8, rồi đi trên cỏ tới bậc deck. S0: vệt mòn trong cỏ."
+    },
+    {
+      "id": "LAWN",
+      "fromBrief": false,
+      "rect": [
+        0.0,
+        2.6,
+        6.4,
+        9.6
+      ],
+      "desc": "Bãi cỏ sinh hoạt; S0 cỏ cao tới gối, S1+ đã cắt thấp."
+    },
+    {
+      "id": "APPLE_TREE",
+      "fromBrief": false,
+      "point": [
+        2.0,
+        6.0
+      ],
+      "desc": "Cây táo già trên bãi cỏ, cành trơ có chồi; bóng chiều rơi trên cỏ, không rơi vào luống."
+    },
+    {
+      "id": "SHED",
+      "fromBrief": true,
+      "rect": [
+        0.0,
+        0.0,
+        2.4,
+        2.4
+      ],
+      "desc": "Nhà kho gỗ nhỏ sơn xám, viền trắng, cửa đôi; giá dụng cụ. (Storage corner của brief)."
+    },
+    {
+      "id": "COMPOST_BIN",
+      "fromBrief": false,
+      "rect": [
+        2.6,
+        0.2,
+        3.8,
+        1.2
+      ],
+      "desc": "Thùng ủ gỗ có khe cạnh nhà kho, nửa đầy phân ủ hoai (bỏ lâu năm nên đã hoai)."
+    },
+    {
+      "id": "VEG_ZONE",
+      "fromBrief": false,
+      "rect": [
+        6.4,
+        3.5,
+        11.4,
+        8.0
+      ],
+      "desc": "Khu rau dọn trắng trong EP01 (chỗ nắng nhất)."
+    },
+    {
+      "id": "FUTURE_OUTDOOR_KITCHEN",
+      "fromBrief": true,
+      "rect": [
+        5.2,
+        10.4,
+        6.5,
+        11.8
+      ],
+      "existsFrom": "EP02+",
+      "desc": "CHƯA có: góc bếp nướng ở đầu đông của deck."
+    },
+    {
+      "id": "FUTURE_GREENHOUSE",
+      "fromBrief": true,
+      "rect": [
+        10.9,
+        8.6,
+        12.0,
+        11.4
+      ],
+      "existsFrom": "EP02+",
+      "desc": "CHƯA có: nhà kính áp rào (lean-to) dọc rào đông, góc đông bắc."
+    },
+    {
+      "id": "FUTURE_TRELLIS",
+      "fromBrief": true,
+      "rect": [
+        11.8,
+        3.5,
+        12.0,
+        8.0
+      ],
+      "existsFrom": "EP02+",
+      "desc": "CHƯA có: giàn leo dọc rào đông cạnh khu rau (trồng theo chiều đứng)."
+    }
+  ],
+  "beds": [
+    {
+      "id": "BED-01",
+      "rect": [
+        7.0,
+        4.5,
+        8.2,
+        6.9
+      ],
+      "size_m": [
+        1.2,
+        2.4
+      ],
+      "size_ft": [
+        4,
+        8
+      ],
+      "builtIn": "EP01",
+      "sideFromEntrance": "LEFT",
+      "longAxis": "N-S"
+    },
+    {
+      "id": "BED-02",
+      "rect": [
+        9.4,
+        4.5,
+        10.6,
+        6.9
+      ],
+      "size_m": [
+        1.2,
+        2.4
+      ],
+      "size_ft": [
+        4,
+        8
+      ],
+      "builtIn": "EP01",
+      "sideFromEntrance": "RIGHT",
+      "longAxis": "N-S"
+    },
+    {
+      "id": "BED-03",
+      "rect": [
+        7.0,
+        8.6,
+        8.2,
+        11.0
+      ],
+      "builtIn": null
+    },
+    {
+      "id": "BED-04",
+      "rect": [
+        9.4,
+        8.6,
+        10.6,
+        11.0
+      ],
+      "builtIn": null
+    },
+    {
+      "id": "BED-05",
+      "rect": [
+        7.0,
+        1.2,
+        8.2,
+        3.6
+      ],
+      "builtIn": null
+    },
+    {
+      "id": "BED-06",
+      "rect": [
+        9.4,
+        1.2,
+        10.6,
+        3.6
+      ],
+      "builtIn": null
+    }
+  ],
+  "bedConstruction": {
+    "status": "PROPOSED",
+    "frameHeight_cm": 14,
+    "boards": "ván cedar thô 2×6 (≈14 × 3,8 cm): mỗi luống 2 ván 8 ft (2,4 m) + 2 ván ngắn ≈1,12 m",
+    "cornerPosts": "4 cọc vuông 2×2 (≈5 × 5 cm) dài 14 cm phía trong góc; mỗi mặt 2 vít gỗ ngoài trời 3 in vào lỗ mồi",
+    "fill": "đất tại chỗ xới tơi + phân ủ hoai từ thùng ủ cũ, mặt đất thấp hơn mép ~2 cm",
+    "why": "Luống 4×8 ft là cỡ phổ biến ở Mỹ; ván cedar bền tự nhiên, không cần tẩm hóa chất."
+  },
+  "planting": {
+    "status": "PROPOSED",
+    "rowsRun": "ngang chiều rộng luống (tây–đông, dài 1,2 m); nhãn cắm ở đầu đông mỗi hàng",
+    "BED-01": "nửa nam: 2 hàng củ cải cách 15 cm, sâu 1 cm; nửa bắc: 2 hàng xà lách cách 30 cm, rất nông",
+    "BED-02": "nửa nam: 3 hàng cải thìa (pak choi) cách 30 cm, sâu 2 cm; nửa bắc để trống cho lần gieo nối tiếp (móc nối EP02)",
+    "labels": 7
+  },
+  "cameras": [
+    {
+      "id": "CAM_A_ENTRANCE",
+      "position_m": [
+        8.8,
+        0.5
+      ],
+      "height_m": 1.6,
+      "lensFF_mm": 28,
+      "yaw": "0° (nhìn chính bắc)",
+      "tilt": "-3°",
+      "frame": "THEO ẢNH gl1-P-A-S4: đứng ngay trong cổng sau (cánh cổng hở ở mép phải), nhìn bắc. Mép trái: nhà kho xám + thùng ủ; 1/3 trái: cây táo + bãi cỏ; deck + cửa kính trượt lệch trái tâm; cuộn ống, cửa sổ bếp, thùng nước mưa bên phải; khu rau với BED-01 (trái) và BED-02 (phải) ở nửa phải.",
+      "sun": "Sáng: từ PHẢI (đông). Chiều: từ TRÁI (tây).",
+      "referenceFrames": {
+        "S0": "gl1-P-A-S0.png",
+        "S1": "gl1-P-A-S1.png",
+        "S2": "gl1-P-A-S2.png",
+        "S3": "gl1-P-A-S3.png",
+        "S4": "gl1-P-A-S4.png",
+        "S5": "gl1-P-A-S5.png"
+      }
+    },
+    {
+      "id": "CAM_B_PORCH",
+      "position_m": [
+        4.5,
+        11.0
+      ],
+      "height_m": 2.2,
+      "lensFF_mm": 35,
+      "yaw": "140° (từ deck nhìn đông nam)",
+      "tilt": "-15°",
+      "frame": "Từ deck nhìn xuống khu rau. CHÚ Ý: từ góc này BED-01 nằm bên PHẢI, BED-02 bên TRÁI — đúng hình học. Bãi cỏ ở tiền cảnh phải, rào sau và cổng ở xa.",
+      "sun": "Sáng: từ TRÁI. Chiều: từ PHẢI.",
+      "referenceFrames": {
+        "S0": "gl1-P-B-S0.png",
+        "S2": "gl1-P-B-S2.png",
+        "S4": "gl1-P-B-S4.png"
+      }
+    },
+    {
+      "id": "CAM_C_EAST_FENCE",
+      "position_m": [
+        11.5,
+        5.7
+      ],
+      "height_m": 1.4,
+      "lensFF_mm": 35,
+      "yaw": "270° (nhìn chính tây)",
+      "tilt": "-8°",
+      "frame": "BED-02 tiền cảnh, BED-01 sau lối đi; xa hơn là bãi cỏ, cây táo, nhà kho ở góc trái xa, rào tây; nhà + deck mép PHẢI; rào sau + cổng mép TRÁI. THEO ẢNH gl1-P-C-S3 (ảnh vẽ cổng ở rào trái gần nhà kho — lệch sơ đồ, chấp nhận).",
+      "sun": "Trưa: nắng từ TRÁI (nam). Chiều: ngược sáng nhẹ từ trước mặt.",
+      "referenceFrames": {
+        "S1": "gl1-P-C-S1.png",
+        "S2": "gl1-P-C-S2.png",
+        "S3": "gl1-P-C-S3.png",
+        "S4": "gl1-P-C-S4.png"
+      }
+    },
+    {
+      "id": "CAM_D_GARDEN_SIDE",
+      "position_m": [
+        5.4,
+        3.2
+      ],
+      "height_m": 1.5,
+      "lensFF_mm": 35,
+      "yaw": "50° (nhìn đông bắc)",
+      "tilt": "-6°",
+      "frame": "THEO ẢNH gl1-P-D-S5: đứng gần nhà kho (nhà kho + thùng ủ ở tiền cảnh trái, cây táo bên trái), nhìn đông bắc qua bãi cỏ tới hai luống; nhà ở hậu cảnh; ngược sáng sáng sớm từ phải.",
+      "sun": "Sáng sớm: ngược sáng từ phải-sau luống (đông), sương nhẹ.",
+      "referenceFrames": {
+        "S0": "gl1-P-D-S0.png",
+        "S3": "gl1-P-D-S3.png",
+        "S5": "gl1-P-D-S5.png"
+      }
+    }
+  ],
+  "closeShotRule": "Cảnh cận không có camera cố định: ghi 'cameraId: CLOSE' + 'anchorRef' là camera gần nhất và hướng nhìn. Nền sau cảnh cận phải khớp hướng nhìn đó (vd nhìn tây thì thấy bãi cỏ, cây táo, nhà kho).",
+  "interiors": [
+    {
+      "id": "KITCHEN",
+      "desc": "Bếp nhà kiểu Mỹ: bồn rửa dưới cửa sổ nhìn ra hai luống, bàn gỗ, bếp, kệ. Cửa sổ thấy hai luống lúc chạng vạng.",
+      "referenceFrame": "gl1-P-KITCHEN.png"
+    }
+  ],
+  "settingOverride": "2026-11-06 chủ dự án: sân sau nhà kiểu Mỹ, tận dụng không gian, không phải vườn nông trại / cottage Anh (thay §3 của brief).",
+  "zoning": "Nửa trái (x 0–6,4) là bãi cỏ sinh hoạt + cây táo + nhà kho; nửa phải (x 6,4–11,4, y 3,5–8) là khu rau nắng nhất; deck + sân bê tông sát nhà.",
+  "canonRule": "Từ 2026-11-06 ảnh nền đã render (references/anh/gl1-P-*.png, gl1-R-*.png) là CHUẨN hình học; sơ đồ gl1-R-so-do.png chỉ gần đúng. Lệch giữa hai bên thì theo ảnh.",
+  "backLot": {
+    "status": "PROPOSED (chủ dự án chọn hướng này 2026-11-06)",
+    "why": "Sân 12×12 m chật cho cây ăn trái + DIY của cả series. Giữ nguyên sân EP01 (30 ảnh đã render); phía sau cổng rào sau là lô đất hoang cùng chủ, mở ra từ EP02.",
+    "rect": [
+      -4.0,
+      -25.0,
+      16.0,
+      0.0
+    ],
+    "size_m": [
+      20,
+      25
+    ],
+    "area_m2": 500,
+    "access": "Qua cổng gỗ ở rào sau sân (x≈8,8) — chính là cổng thấy ở mép phải CAM_A.",
+    "S0": "Đồng cỏ hoang cao, mâm xôi dại, vài cây già (một cây táo cũ, một cây mận dại), hàng rào lưới/gỗ cũ đổ nghiêng ở biên, đống cành khô. Từ sân EP01 chỉ thấy ngọn cây sau rào — khớp các ảnh đã render.",
+    "inEP01": "KHÔNG xuất hiện trong khung hình EP01 (chỉ là ngọn cây sau rào sau). Không gửi sơ đồ tổng khi gen ảnh EP01.",
+    "zones": [
+      {
+        "id": "BL_PATH",
+        "rect": [
+          8.3,
+          -24.5,
+          9.3,
+          0.0
+        ],
+        "desc": "Lối chính nối thẳng từ cổng sau xuống cuối lô (gỗ vụn/sỏi)."
+      },
+      {
+        "id": "BL_ORCHARD",
+        "rect": [
+          -3.0,
+          -20.5,
+          7.8,
+          -5.5
+        ],
+        "desc": "Vườn cây ăn trái lùn: lưới ~2,8–3 m → 4 cột × 5 hàng = khoảng 20 cây (táo, lê, mận, đào, anh đào lùn). Trồng cây rễ trần đầu xuân."
+      },
+      {
+        "id": "BL_BERRIES",
+        "rect": [
+          14.4,
+          -23.0,
+          15.6,
+          -3.0
+        ],
+        "desc": "Hàng quả mọng dọc biên đông ~20 m: mâm xôi trên dây căng, việt quất, nho trên giàn."
+      },
+      {
+        "id": "BL_ESPALIER",
+        "rect": [
+          -3.9,
+          -23.0,
+          -3.5,
+          -3.0
+        ],
+        "desc": "Cây ăn trái ép phẳng (espalier) dọc biên tây ~20 m — tận dụng chiều đứng."
+      },
+      {
+        "id": "BL_CHICKENS",
+        "rect": [
+          10.5,
+          -12.0,
+          13.5,
+          -6.5
+        ],
+        "desc": "Chuồng gà nhỏ + sân chạy có lưới (DIY)."
+      },
+      {
+        "id": "BL_WORKSHOP",
+        "rect": [
+          10.5,
+          -18.5,
+          13.5,
+          -14.0
+        ],
+        "desc": "Lán DIY / bàn ươm có mái (potting shed) — nơi làm các dự án gỗ."
+      },
+      {
+        "id": "BL_PERGOLA",
+        "rect": [
+          -3.0,
+          -24.5,
+          3.0,
+          -21.5
+        ],
+        "desc": "Giàn mát (pergola) + bàn ăn ngoài trời + chỗ đốt lửa nhỏ — cảnh bữa ăn từ vườn."
+      },
+      {
+        "id": "BL_COMPOST",
+        "rect": [
+          4.0,
+          -24.5,
+          7.0,
+          -22.5
+        ],
+        "desc": "Ba ô ủ phân lớn (DIY bằng pallet) cho cả khu."
+      },
+      {
+        "id": "BL_WATER",
+        "rect": [
+          10.5,
+          -21.5,
+          13.5,
+          -19.5
+        ],
+        "desc": "Bồn chứa nước mưa lớn + tưới nhỏ giọt cho vườn cây."
+      }
+    ],
+    "capacity": "~20 cây ăn trái lùn + ~10 cây espalier + 20 m quả mọng + chuồng gà + lán DIY + pergola; sân gần nhà vẫn còn 4 vị trí luống, nhà kính áp rào, giàn leo, bếp nướng."
+  }
+}

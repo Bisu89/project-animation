@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "EP01",
+  "gates": [
+    {
+      "id": "A",
+      "name": "Planning",
+      "status": "APPROVED_2026-11-06",
+      "needs": [
+        "Bối cảnh sân sau nhà kiểu Mỹ + sơ đồ gl1-R-so-do.png",
+        "Phạm vi S1: cắt cả bãi cỏ, chỉ đào khu rau",
+        "Khung cedar 4×8 ft cao ~14 cm, bố trí hàng gieo",
+        "Timeline 720 s / 80 shot",
+        "Trang phục linen–ô liu",
+        "R1–R4"
+      ],
+      "approvedNote": "Chủ dự án: \"duyệt nhé tạo thử xem\" — duyệt bối cảnh sân sau kiểu Mỹ, sơ đồ, trang phục; cho chạy batch 1. Sau đó chủ dự án đổi: dùng trang phục series Garden (yếm rằn ri + áo cam)."
+    },
+    {
+      "id": "B",
+      "name": "Visual references",
+      "status": "GENERATED_REVIEWED_BY_CLAUDE",
+      "blockedBy": [],
+      "note": "13 ảnh Gate B đã render và Claude xem đạt (2026-11-06). Lệch sơ đồ: CAM_A/CAM_D/cổng ở CAM_C — lấy ảnh làm chuẩn. Đèn trong nhà luôn bật ở mọi ảnh (giữ nhất quán). Chờ chủ dự án xem."
+    },
+    {
+      "id": "C",
+      "name": "Eight-shot pilot",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "D",
+      "name": "Full episode",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "E",
+      "name": "Release",
+      "status": "NOT_STARTED"
+    }
+  ],
+  "openIssues": [],
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "SH066: 16.0 s > 14 s — cần ≥ 2 clip hoặc cắt ý",
+      "SH067: 15.0 s > 14 s — cần ≥ 2 clip hoặc cắt ý"
+    ],
+    "totals": {
+      "shots": 80,
+      "frames": 21600,
+      "seconds": 720.0,
+      "museClipsEstimate": 132,
+      "keyframesEstimate": 205,
+      "narrationWords": 107
+    },
+    "assetsMissing": 27
+  }
+}
