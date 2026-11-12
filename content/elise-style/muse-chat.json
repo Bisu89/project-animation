@@ -1,0 +1,11 @@
+{
+  "series": "Elise Style",
+  "url": "https://muse.ai/thread/2db4a7d5-88e9-4069-9013-819a1c7722a8",
+  "profile": "chrome-profile-3",
+  "port": 9336,
+  "browser": "chrome",
+  "intro": "Chat rieng cho series Elise Style (reel thoi trang doc 9:16). Toi se gui tung yeu cau tao video kem anh khung dau va prompt. Tin nay chi mo chat, hay tra loi OK, chua tao video.",
+  "video_spec": "Photorealistic vertical 9:16 fashion video, 10 seconds, real live-action speed, not timelapse. Only one adult woman. Fixed camera, no camera movement unless explicitly requested. No generated text or watermark.",
+  "clip_qa": "gpt",
+  "ghi_chu": "2026-11-12: chu du an chot chay tren chrome-profile-3 / cong 9336. url de trong -> luot chay dau tu tao chat moi cho series nay."
+}

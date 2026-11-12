@@ -3,7 +3,15 @@
 ## 1. Nối hai clip: chỉ có 2 cách chắc ăn
 - **(a) Nối liền:** khung đầu clip sau = **khung cuối thật** của clip trước. Khung đó phải là tư thế tĩnh hoặc vừa xong việc, không phải đang giữa hành động. Prompt mô tả chuyển động tiếp theo.
 - **(b) Độc lập rồi cắt thẳng:** clip sau dùng ảnh riêng, canh góc máy và cỡ cảnh khớp tay, rồi cắt thẳng.
-- **Không** cho clip sau bắt đầu từ một khung *đang hành động* (giữa cú đấm, giữa bước chân) rồi mong Muse chuyển sang việc khác. Muse sẽ lặp lại đúng hành động đó.
+- **(c) Match-cut đổi trang phục / đổi trạng thái:** máy khóa cứng, cùng phòng, **mọi ảnh khung dùng CHUNG một tư thế rõ nét** (ví dụ tay phải giơ ngang vai, lòng bàn tay hướng máy). Mỗi clip mở và kết đúng tư thế đó, nối bằng `chuyen_canh=cat`. Người xem đọc là "cùng một khoảnh khắc, chỉ quần áo đổi".
+  - Gen các ảnh khung bằng `Recreate exactly… Only change: <thứ cần đổi>` từ **một ảnh gốc duy nhất**. Tư thế giống hệt nhau *dễ khóa hơn* mỗi ảnh một dáng.
+  - Kiểm bằng số trước khi gen clip: lệch nền giữa các ảnh < 10/255 thì match-cut sẽ ăn (Elise Style EP01 đo được 5–7/255).
+  - Muse trả tư thế đó ở **0,0–0,6 s và lại ở ~8–9,9 s** (nó trải hành động ra hết 10 s, xem `loi.md`), nên đoạn dùng được là gần **trọn clip** — không cắt ngắn ở giữa được.
+    Muốn ngắn hơn thì tăng tốc **đúng 1,25× (ra 30 fps) hoặc 2× (ra 48 fps)**, không dùng hệ số khác (giật, xem `dung-render.md` §3). 1,25× cho mỗi look ~6,6 s; 2× cho ~4,2 s.
+  - Đặt chữ đè **thấp** (y ≈ 1450/1920): nhân vật toàn thân thì đầu sát mép trên, chữ ở trên che mặt.
+  - Vật nhỏ cầm/đeo (túi nhỏ, ví) **hay mất sau cú xoay người** dù đã gen lại 3 lần. Look có vật nhỏ thì bỏ cú xoay, hoặc cắt trước cú xoay.
+  - Kết quả tập thử Elise Style EP01: hiệu ứng ăn (3/3 chỗ nối khớp), lỗi còn lại là giật do tăng tốc sai hệ số — đã sửa bằng bảng trên.
+- **Không** cho clip sau bắt đầu từ một khung *đang hành động* (giữa cú đấm, giữa bước chân) rồi mong Muse chuyển sang việc khác. Muse sẽ lặp lại đúng hành động đó. Ngoại lệ là cách (c): ở đó việc Muse lặp lại tư thế khung đầu **chính là** thứ ta cần.
 - Hai tư thế đầu và cuối quá khác nhau về hình dáng thì mặt và tỷ lệ cơ thể sẽ trôi. Gặp vậy thì chia nhỏ hoặc bỏ đoạn nối.
 
 ## 2. Ít clip hơn thì nhất quán hơn

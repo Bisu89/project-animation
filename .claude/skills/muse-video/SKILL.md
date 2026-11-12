@@ -26,7 +26,8 @@ Phần nào hai bên ghi khác nhau thì **luật riêng của series thắng**.
 5. **Không có hành động thừa:** đứng không, đung đưa, ngắm lâu. Cảnh giữ tĩnh trong bản cuối không quá 3–4 s.
 6. **Một profile Chrome, mỗi lúc một lượt.** Trước khi chạy `muse_auto`, kiểm tra không có phiên nào khác đang chạy. Mỗi series hoặc mỗi tập dài dùng một chat Muse riêng (`muse-chat.json`).
 7. **Gen lại đúng cách:** clip trượt QA thì gửi lại đủ ảnh, prompt và câu FIX. Nhắn "render lại" trơn chỉ dành cho lỗi phía Muse. Ảnh đã gửi Muse mà phải gen lại thì đặt tên mới.
-8. **Render ở 24 fps gốc của Muse** bằng ffmpeg. Đổi sang 30 fps sẽ giật (xem [dung-render.md](dung-render.md)).
+8. **Render ở 24 fps gốc của Muse** bằng ffmpeg. Đổi sang 30 fps sẽ giật. **Tăng tốc chỉ dùng 1,25× (→30 fps) hoặc 2× (→48 fps)**, hệ số khác vứt khung không đều nên giật (xem [dung-render.md](dung-render.md) §3).
+8b. **Muse không nghe mốc giây trong prompt**, luôn trải hành động ra hết 10 s. Mốc giây chỉ là thứ tự. Cần đoạn ngắn thì bớt hành động (xem [loi.md](loi.md)).
 9. **Tự mắt xem clip.** QA bằng GPT và lưới khung chỉ để tham khảo. Tư thế khó thì trích khung full-res so với ảnh gốc.
 10. **Ghi bài học mới:** lỗi dùng chung ghi vào skill này; lỗi riêng của một dòng ghi vào skill của dòng đó.
 

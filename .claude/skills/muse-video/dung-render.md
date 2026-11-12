@@ -34,23 +34,44 @@ Phần hòa phải lấy **đuôi dư của clip trước** (Muse tạo 10 s, ch
   - mỗi clip: `trim` đúng khung, `scale=W:H:flags=lanczos`, `setsar=1`;
   - nối bằng `xfade` (hòa), hoặc `xfade` 1 khung (coi như cắt);
   - dựng từng đoạn rồi nối `-c copy` để tiết kiệm RAM.
+- **Tăng tốc: chỉ dùng hệ số "chẵn khung"** (bài học 2026-11-12, Elise Style EP01, chủ dự án bắt lỗi giật).
+  Tăng tốc theo hệ số bất kỳ rồi ép về 24 fps sẽ **vứt khung ở những khoảng không đều** → giật rõ hơn cả lỗi 30 fps ở trên.
+  Ví dụ 1,55× = 37,2 fps bị lấy mẫu xuống 24 fps. Cách đúng: đổi `setpts` sao cho 24 fps thành đúng một fps chuẩn,
+  **mọi khung gốc dùng đúng một lần**, xuất ở fps đó, và **không thêm bộ lọc `fps=`** sau `setpts`:
+
+  | Hệ số | fps xuất | 10 s clip còn |
+  |---|---|---|
+  | 1× | 24 | 10 s |
+  | **1,25×** | **30** | 8 s |
+  | 2× | 48 | 5 s |
+  | 2,5× | 60 | 4 s |
+
+  Mọi đoạn trong cùng một video phải chung một hệ số (trộn đoạn 1× với đoạn 1,25× thì đoạn 1× phải lấy mẫu lên 30 fps → giật lại).
+  Mẫu: `content/elise-style/scripts/dung_tap01.py`.
+  **`ghep.py` chế độ `tang_toc` vẫn tăng tốc theo hệ số bất kỳ** (khớp `dung_giay`) rồi giữ 24 fps → có lỗi này.
+  Timelapse tăng tốc mạnh (3×+) ít lộ; cảnh người chuyển động tăng 1,2–1,8× thì lộ rõ. Cần mượt thì dựng bằng script riêng theo bảng trên.
 - **Không** đưa clip Muse vào Remotion `OffthreadVideo`/`Html5Video` ở 30 fps. Máy ít RAM thì `OffthreadVideo` báo lỗi "No frame found at position", còn `Html5Video` lặp khung.
 - ffmpeg mới: `-filter_complex_script` đã bỏ, dùng `-/filter_complex <file>`.
 - Script mẫu:
   - phim dài: `content/elise-garden/long-form/tools/render_ffmpeg.py` (dựng theo SQ, hòa trong slot, hạ tiếng khi có lời dẫn, chữ đè `drawtext`, chuẩn hóa loudnorm);
-  - reel: `muse-auto/ghep.py` (cột `cat_tu`, `cat_den`, `chuyen_canh`).
+  - reel: `muse-auto/ghep.py` (cột `cat_tu`, `cat_den`, `chuyen_canh`). Đã sửa 2026-11-11: giữ fps gốc của clip
+    đầu (trước đó ép 30 fps nên giật) và chạy loudnorm ở đầu ra.
 
 ## 4. Âm thanh
 - Tiếng gốc Muse mờ vào và ra khoảng 0,08 s ở mép mỗi clip.
 - Có lời dẫn thì hạ tiếng nền: `sidechaincompress` với lời dẫn làm tín hiệu điều khiển.
 - Chuẩn hóa: `loudnorm=I=-16:TP=-1.5:LRA=11`. Clip Muse chênh âm lượng nhiều, chưa chuẩn hóa thì LRA lên tới 26 LU.
+- **Chuẩn hóa ở đầu ra không cứu được chênh lệch GIỮA các clip** (Mack & Bucky tập 01: clip yên tĩnh thấp hơn clip
+  ồn 9,6 LU → nghe như mất tiếng giữa video). Phải chuẩn hóa từng clip về −18 LUFS trước khi ghép, rồi mới
+  loudnorm toàn bài. Mẫu: `content/mack-bucky/scripts/dung_tap.py`.
 - Lời dẫn đọc qua vibi.pro (`scripts/vibi_tts.py`, key trong `.env`). **Không lồng giọng tạm.**
 - Nhạc chỉ dùng khi có quyền sử dụng rõ ràng.
 
 ## 5. Kiểm trước khi giao
 ```
 ffprobe out.mp4                                                   # khung hình, fps, thời lượng
-ffmpeg -ss 5 -t 20 -i out.mp4 -vf mpdecimate,showinfo -an -f null - # số khung giữ lại ≈ 24×20 = 480 (không lặp khung)
+ffmpeg -ss 5 -t 20 -i out.mp4 -vf mpdecimate,showinfo -an -f null - # số khung giữ lại ≈ fps×20 (không lặp khung)
+# Có đoạn tăng tốc: hệ số phải nằm trong bảng ở §3, ffprobe ra đúng fps của bảng (24/30/48/60)
 ffmpeg -i out.mp4 -af ebur128 -f null -                           # I ≈ -16..-19 LUFS, LRA thấp
 ffmpeg -i out.mp4 -vf blackdetect=d=0.2:pix_th=0.08 -an -f null - # khung đen ngoài ý muốn
 ```

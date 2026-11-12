@@ -1,0 +1,255 @@
+# -*- coding: utf-8 -*-
+"""Sinh gen-anh.csv va gen-video.csv cho Elise Style tap 01:
+"1 quan ong loe den - 3 noi".
+
+Chay:  python content/elise-style/scripts/tao_gen_tap01.py
+"""
+import csv
+import io
+import os
+
+TAP = os.path.join("content", "elise-style", "ep01-mot-quan-ba-noi")
+TT = "es1-"
+MAU = "mau-goc-chu-du-an.png"  # anh cat roi nen trong suot chu du an gui
+
+# ---------------------------------------------------------------- khoi dung chung
+
+NHAN_VAT = (
+    "a young Vietnamese woman in her mid-20s, long dark brown hair worn half-up with soft "
+    "face-framing strands falling at both sides, light natural makeup with a soft red lip, "
+    "slim figure, natural realistic skin texture with fine pores, no freckles, no airbrushing. "
+    "Her face, hair and body proportions are exactly those of the woman in the FIRST reference image"
+)
+
+PHONG = (
+    "a bright modern walk-in dressing room: a chrome clothing rail hung with neutral beige, cream "
+    "and grey garments along the right wall, a tall full-length mirror with a thin black frame on "
+    "the left, pale warm-white walls, light oak herringbone floor, soft diffused daylight from the left"
+)
+
+MAY = (
+    "Vertical 9:16 photorealistic photograph, fixed camera at chest height about 3 metres away, "
+    "her whole body visible from head to shoes with a little space above her head; she stands in "
+    "the centre of the frame on the light oak floor"
+)
+
+TU_THE = (
+    "She stands upright facing the camera, weight even on both feet. Her right arm is raised so the "
+    "forearm is horizontal across the middle of her chest, palm open and facing the camera, fingers "
+    "together; her left arm hangs relaxed at her side. Modest, wholesome, family-friendly "
+    "fashion-catalogue look. She does not bend over"
+)
+
+QUAN = "high-waisted black flare trousers with a centre crease, long enough to reach the floor"
+
+KHOA_MAY = (
+    "Keep exactly the camera position, distance and framing of the SECOND reference image: the room, "
+    "the floor, the clothing rail, the mirror and the light are identical, and she has exactly the "
+    "same size, position and pose in the frame"
+)
+
+# ---------------------------------------------------------------- bon bo do
+
+BO = {
+    "A": (
+        "a plain fitted black sleeveless top tucked into " + QUAN + ", simple flat black shoes. "
+        "No jacket, no bag, no necklace, no earrings"
+    ),
+    "B": (
+        "a crisp white cotton shirt tucked into " + QUAN + ", with a taupe-beige single-breasted "
+        "blazer worn buttoned over it, pointed-toe beige heeled shoes, and a beige leather tote bag "
+        "held in her left hand"
+    ),
+    "C": (
+        "a plain white t-shirt tucked into " + QUAN + ", with a mid-blue denim jacket worn open over "
+        "it, white leather sneakers, and a cream canvas tote bag hanging from her left shoulder"
+    ),
+    "D": (
+        "a black lace camisole top with a scalloped neckline cropped at the waist, with the same "
+        "taupe-beige blazer worn open over it so the blazer covers her shoulders and sides, "
+        "clear-strap high-heeled sandals, a small gold quilted shoulder bag on a gold chain at her "
+        "right hip, and a thin gold pendant necklace"
+    ),
+}
+
+ANH = {
+    "A": TT + "A-quan-den.png",
+    "B": TT + "B-di-lam.png",
+    "C": TT + "C-ca-phe.png",
+    "D": TT + "D-di-tiec.png",
+}
+
+# ---------------------------------------------------------------- gen-anh.csv
+
+hang_anh = []
+
+hang_anh.append({
+    "stt": 1,
+    "ten_file": ANH["A"],
+    "ty_le": "9:16",
+    "gui_kem": MAU,
+    "prompt": (
+        MAY + ". The scene is " + PHONG + ". The subject is " + NHAN_VAT + ". " + TU_THE + ". "
+        "She wears " + BO["A"] + ". Only this one woman is ever in the scene. "
+        "Photorealistic real photograph, natural colours, no text, no letters, no logo, no watermark."
+    ),
+})
+
+for i, k in enumerate(("B", "C", "D"), start=2):
+    hang_anh.append({
+        "stt": i,
+        "ten_file": ANH[k],
+        "ty_le": "9:16",
+        "gui_kem": MAU + "; " + ANH["A"],
+        "prompt": (
+            "Recreate exactly the same room, camera position, distance, framing, lighting and body "
+            "pose as the SECOND reference image. " + KHOA_MAY + ". The subject is " + NHAN_VAT + ". "
+            + TU_THE + ". Only change: her outfit. She now wears " + BO[k] + ". "
+            "The black flare trousers are exactly the same trousers as in the second reference: same "
+            "cut, same length, same shade of black. Only this one woman is ever in the scene. "
+            "Photorealistic real photograph, natural colours, no text, no letters, no logo, no watermark."
+        ),
+    })
+
+# ---------------------------------------------------------------- gen-video.csv
+
+NEG = (
+    "no facial drift or identity change between frames, no change of hairstyle, no body proportion "
+    "change, no change of outfit during the shot, no extra or malformed fingers, no extra limbs, "
+    "no clothing deformation, no objects appearing, multiplying or vanishing by themselves, "
+    "no second person, no camera movement, no internal cut, no slow motion, no mirror reflection "
+    "showing a different outfit, no text, no watermark, no logo"
+)
+
+CAMERA = (
+    "Fixed camera, exactly the framing of the start frame, no zoom, no pan, no tilt. "
+    "One continuous shot, no internal cut."
+)
+
+LIGHT = "Soft diffused daylight from the left, exactly as in the start frame; the light does not change during the shot."
+
+STYLE = "Photorealistic real live-action footage, natural real-time speed, vertical 9:16, natural colours."
+
+RULES = (
+    "She never stands idle and never sways. Every movement is one of the listed actions. "
+    "Her outfit, hair and the room stay exactly as in the start frame for the whole shot."
+)
+
+MO_DAU = (
+    "0.0-0.6s: she holds exactly the pose of the start frame: right arm raised with the elbow bent, "
+    "open palm facing the camera at shoulder height, left arm relaxed at her side.\n"
+    "  0.6-1.2s: she lowers her right arm smoothly down to her side."
+)
+
+KET = (
+    "3.8-4.8s: she raises her right arm back up, elbow bent, open palm facing the camera at shoulder "
+    "height, ending in exactly the pose of the start frame.\n"
+    "  4.8-10.0s: she holds that pose without moving; nothing new appears and no new action starts."
+)
+
+
+def prompt_video(bo_do, giua, extra_neg=""):
+    return (
+        "CHARACTER: " + NHAN_VAT.replace("FIRST reference image", "reference image")
+        + ". She wears " + bo_do + ". Her outfit never changes during the shot.\n"
+        "SCENE: " + PHONG + ", exactly as in the start frame; every garment on the rail keeps the "
+        "same place and colour.\n"
+        "LIGHT: " + LIGHT + "\n"
+        "CAMERA: " + CAMERA + "\n"
+        "SHOTS:\n  " + MO_DAU + "\n  " + giua + "\n  " + KET + "\n"
+        "EXPRESSION: relaxed and confident, a small closed-lip smile, she looks straight at the camera "
+        "except while she is turned away.\n"
+        "RULES: " + RULES + "\n"
+        "STYLE: " + STYLE + "\n"
+        "AUDIO: no music, no speech; only the soft sound of fabric moving and heels or shoes on a "
+        "wooden floor.\n"
+        "NEGATIVE: " + NEG + (", " + extra_neg if extra_neg else "") + "\n"
+        "Duration: 10 seconds."
+    )
+
+
+GIUA = {
+    "A": (
+        "1.2-2.6s: she runs her left hand down the side seam of the black flare trousers, drawing "
+        "attention to the wide hem.\n"
+        "  2.6-3.8s: she turns a half-turn to her right to show the back of the trousers, then turns "
+        "back to face the camera."
+    ),
+    "B": (
+        "1.2-2.6s: she takes hold of the left lapel of the beige blazer with her right hand and "
+        "straightens it, then lets go.\n"
+        "  2.6-3.8s: she turns a half-turn to her right to show the back of the blazer and trousers, "
+        "then turns back to face the camera."
+    ),
+    "C": (
+        "1.2-2.6s: she flicks the collar of the denim jacket up with her right hand, then slides her "
+        "left hand into the front pocket of the trousers.\n"
+        "  2.6-3.8s: she turns a half-turn to her right to show the back of the denim jacket, then "
+        "turns back to face the camera."
+    ),
+    "D": (
+        "1.2-2.6s: she slides her right hand along the gold chain strap of the small gold bag at her "
+        "hip, then lets her hand fall.\n"
+        "  2.6-3.8s: she takes one step forward and spins one full turn to her right on the spot so "
+        "the wide hem of the flare trousers swings out, and stops facing the camera."
+    ),
+}
+
+hang_video = []
+for stt, (k, ten_doan, giay) in enumerate(
+    [
+        ("A", "Clip 1 - Quan ong loe den (mon chu dao)", "4.8"),
+        ("B", "Clip 2 - Look 1 di lam", "4.8"),
+        ("C", "Clip 3 - Look 2 di ca phe", "4.8"),
+        ("D", "Clip 4 - Look 3 di tiec", "5.4"),
+    ],
+    start=1,
+):
+    extra = ""
+    if k == "D":
+        extra = (
+            "the beige blazer stays open on her shoulders and never closes, the black lace top stays "
+            "exactly as in the start frame, the gold bag stays on her right hip"
+        )
+    if k == "C":
+        extra = "no denim jacket changing colour or shade"
+    hang_video.append({
+        "stt": stt,
+        "doan": ten_doan,
+        "luu_tai": "video\\clip%d.mp4" % stt,
+        "khung_dau": ANH[k],
+        "khung_cuoi": "",
+        "anh_tham_chieu": MAU,
+        "prompt": prompt_video(BO[k], GIUA[k], extra),
+        "am_thanh": "Khong nhac, khong loi. Tieng vai ao va tieng giay tren san go.",
+        "dung_giay": giay,
+        "che_do": "cat",
+        "cat_tu": "",
+        "cat_den": "",
+        "chuyen_canh": "cat",
+    })
+hang_video[-1]["chuyen_canh"] = ""
+
+# ---------------------------------------------------------------- ghi file
+
+
+def ghi(ten, cot, hang):
+    os.makedirs(TAP, exist_ok=True)
+    duong = os.path.join(TAP, ten)
+    with io.open(duong, "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=cot)
+        w.writeheader()
+        for r in hang:
+            w.writerow(r)
+    print("da ghi", duong, "-", len(hang), "dong")
+
+
+ghi("gen-anh.csv", ["stt", "ten_file", "ty_le", "gui_kem", "prompt"], hang_anh)
+ghi(
+    "gen-video.csv",
+    [
+        "stt", "doan", "luu_tai", "khung_dau", "khung_cuoi", "anh_tham_chieu",
+        "prompt", "am_thanh", "dung_giay", "che_do", "cat_tu", "cat_den", "chuyen_canh",
+    ],
+    hang_video,
+)
